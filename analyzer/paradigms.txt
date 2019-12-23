@@ -1,0 +1,346 @@
+-paradigm: N_back
+ -flex: <0>.<.>
+  gramm: sg
+ paradigm: poss-back
+
+-paradigm: N_front
+ -flex: <0>.<.>
+  gramm: sg
+ paradigm: poss-front
+
+-paradigm: poss-front
+ -flex: .
+  gramm: nonposs
+ -flex: .ij
+  gramm: p.1,p.sg
+ -flex: .ux
+  gramm: p.2,p.sg,p.m
+ -flex: .əx
+  gramm: p.2,p.sg,p.f
+ -flex: .u
+  gramm: p.3,p.sg,p.m
+ -flex: .ə
+  gramm: p.3,p.sg,p.f
+ -flex: .enij
+  gramm: p.1,p.pl
+ -flex: .oxun
+  gramm: p.2,p.pl
+ -flex: .e
+  gramm: p.3,p.pl
+
+-paradigm: poss-back
+ -flex: .
+  gramm: nonposs
+ -flex: .ьj
+  gramm: p.1,p.sg
+ -flex: .ux
+  gramm: p.2,p.sg,p.m
+ -flex: .ax
+  gramm: p.2,p.sg,p.f
+ -flex: .u
+  gramm: p.3,p.sg,p.m
+ -flex: .o
+  gramm: p.3,p.sg,p.f
+ -flex: .enьj
+  gramm: p.1,p.pl
+ -flex: .oxun
+  gramm: p.2,p.pl
+ -flex: .e
+  gramm: p.3,p.pl
+
+
+-paradigm: ADJ_back
+ -flex: <0>.
+  gramm: sg
+ paradigm: poss-back
+
+-paradigm: ADJ_front
+ -flex: <0>.
+  gramm: sg
+ paradigm: poss-front
+
+-paradigm: unchangeable
+ -flex: .
+  gramm: 
+
+-paradigm: V_strong_front
+ -flex: .ə..in
+  gramm: prs,1,sg,m.s
+ -flex: .ə..ən
+  gramm: prs,1,sg,f.s
+ -flex: .ə..it
+  gramm: prs,2,sg,m.s
+ -flex: .ə..ət
+  gramm: prs,2,sg,f.s
+ -flex: .ə.i.
+  gramm: prs,3,sg,m.s
+ -flex: .ə..ə
+  gramm: prs,3,sg,f.s
+ -flex: .ə..əx
+  gramm: prs,1,pl
+ -flex: .ə..itun
+  gramm: prs,2,pl
+ -flex: .ə..ij
+  gramm: prs,3,pl
+  
+ -flex: .ə..invə
+  gramm: ipf,1,sg,m.s
+ -flex: .ə..ənvə
+  gramm: ipf,1,sg,f.s
+ -flex: .ə..itvə
+  gramm: ipf,2,sg,m.s
+ -flex: .ə..ətvə
+  gramm: ipf,2,sg,f.s
+ -flex: .ə.i.və
+  gramm: ipf,3,sg,m.s
+ -flex: .ə..əvə
+  gramm: ipf,3,sg,f.s
+ -flex: .ə..əxvə
+  gramm: ipf,1,pl
+ -flex: .ə..itunvə
+  gramm: ipf,2,pl
+ -flex: .ə..ijvə
+  gramm: ipf,3,pl
+  
+ -flex: bi..ə.ivin
+  gramm: prs2,1,sg,m.s
+ -flex: bi..ə.ivən
+  gramm: prs2,1,sg,f.s
+ -flex: bi..ə.ivit
+  gramm: prs2,2,sg,m.s
+ -flex: bi..ə.ivət
+  gramm: prs2,2,sg,f.s
+ -flex: bi..ə.ili
+  gramm: prs2,3,sg,m.s
+ -flex: bi..ə.ilə
+  gramm: prs2,3,sg,f.s
+ -flex: bi..ə.ivəx
+  gramm: prs2,1,pl
+ -flex: bi..ə.itun
+  gramm: prs2,2,pl
+ -flex: bi..ə.inə
+  gramm: prs2,3,pl
+
+ -flex: bi..ə.ivinvə
+  gramm: ipf2,1,sg,m.s
+ -flex: bi..ə.ivənvə
+  gramm: ipf2,1,sg,f.s
+ -flex: bi..ə.ivitvə
+  gramm: ipf2,2,sg,m.s
+ -flex: bi..ə.ivətvə
+  gramm: ipf2,2,sg,f.s
+ -flex: bi..ə.ivə
+  gramm: ipf2,3,sg
+ -flex: bi..ə.ivəxvə
+  gramm: ipf2,1,pl
+ -flex: bi..ə.itunvə
+  gramm: ipf2,2,pl
+ -flex: bi..ə.ivə
+  gramm: ipf2,3,pl
+  
+ -flex: ..i.lij
+  gramm: pst,1,sg
+ -flex: ..i.lux
+  gramm: pst,2,sg,m.s
+ -flex: ..i.ləx
+  gramm: pst,2,sg,f.s
+ -flex: ..i.li
+  gramm: pst,3,sg,m.s
+ -flex: ..i.lə
+  gramm: pst,3,sg,f.s
+ -flex: ..i.lən
+  gramm: pst,1,pl
+ -flex: ..i.loxun
+  gramm: pst,2,pl
+ -flex: ..i.lun
+  gramm: pst,3,pl
+
+
+
+-paradigm: V_strong_back
+ -flex: .a..ьn
+  gramm: prs,1,sg,m.s
+ -flex: .a..an
+  gramm: prs,1,sg,f.s
+ -flex: .a..ьt
+  gramm: prs,2,sg,m.s
+ -flex: .a..at
+  gramm: prs,2,sg,f.s
+ -flex: .a.ь.
+  gramm: prs,3,sg,m.s
+ -flex: .a..a
+  gramm: prs,3,sg,f.s
+ -flex: .a..ax
+  gramm: prs,1,pl
+ -flex: .a..ьtun
+  gramm: prs,2,pl
+ -flex: .a..ьj
+  gramm: prs,3,pl
+  
+ -flex: .a..ьnva
+  gramm: ipf,1,sg,m.s
+ -flex: .a..anva
+  gramm: ipf,1,sg,f.s
+ -flex: .a..ьtva
+  gramm: ipf,2,sg,m.s
+ -flex: .a..atva
+  gramm: ipf,2,sg,f.s
+ -flex: .a.ь.va
+  gramm: ipf,3,sg,m.s
+ -flex: .a..ava
+  gramm: ipf,3,sg,f.s
+ -flex: .a..axva
+  gramm: ipf,1,pl
+ -flex: .a..ьtunva
+  gramm: ipf,2,pl
+ -flex: .a..ьjva
+  gramm: ipf,3,pl
+
+  
+ -flex: bь..a.ьvьn
+  gramm: prs2,1,sg,m.s
+ -flex: bь..a.ьvan
+  gramm: prs2,1,sg,f.s
+ -flex: bь..a.ьvьt
+  gramm: prs2,2,sg,m.s
+ -flex: bь..a.ьvat
+  gramm: prs2,2,sg,f.s
+ -flex: bь..a.ьlь
+  gramm: prs2,3,sg,m.s
+ -flex: bь..a.ьla
+  gramm: prs2,3,sg,f.s
+ -flex: bь..a.ьvax
+  gramm: prs2,1,pl
+ -flex: bь..a.ьtun
+  gramm: prs2,2,pl
+ -flex: bь..a.ьna
+  gramm: prs2,3,pl
+
+ -flex: bь..a.ьvьnva
+  gramm: ipf2,1,sg,m.s
+ -flex: bь..a.ьvanva
+  gramm: ipf2,1,sg,f.s
+ -flex: bь..a.ьvьtva
+  gramm: ipf2,2,sg,m.s
+ -flex: bь..a.ьvatva
+  gramm: ipf2,2,sg,f.s
+ -flex: bь..a.ьva
+  gramm: ipf2,3,sg
+ -flex: bь..a.ьvaxva
+  gramm: ipf2,1,pl
+ -flex: bь..a.ьtunva
+  gramm: ipf2,2,pl
+ -flex: bь..a.ьva
+  gramm: ipf2,3,pl
+  
+ -flex: ..ь.lьj
+  gramm: pst,1,sg
+ -flex: ..ь.lux
+  gramm: pst,2,sg,m.s
+ -flex: ..ь.lax
+  gramm: pst,2,sg,f.s
+ -flex: ..ь.lь
+  gramm: pst,3,sg,m.s
+ -flex: ..ь.la
+  gramm: pst,3,sg,f.s
+ -flex: ..ь.lan
+  gramm: pst,1,pl
+ -flex: ..ь.loxun
+  gramm: pst,2,pl
+ -flex: ..ь.lun
+  gramm: pst,3,pl
+
+
+
+-paradigm: V_strong_alef_back
+ -flex: a..ьn
+  gramm: prs,1,sg,m.s
+ -flex: a..an
+  gramm: prs,1,sg,f.s
+ -flex: a..ьt
+  gramm: prs,2,sg,m.s
+ -flex: a..at
+  gramm: prs,2,sg,f.s
+ -flex: a.ь.
+  gramm: prs,3,sg,m.s
+ -flex: a..a
+  gramm: prs,3,sg,f.s
+ -flex: a..ax
+  gramm: prs,1,pl
+ -flex: a..ьtun
+  gramm: prs,2,pl
+ -flex: a..ьj
+  gramm: prs,3,pl
+  
+ -flex: a..ьnva
+  gramm: ipf,1,sg,m.s
+ -flex: a..anva
+  gramm: ipf,1,sg,f.s
+ -flex: a..ьtva
+  gramm: ipf,2,sg,m.s
+ -flex: a..atva
+  gramm: ipf,2,sg,f.s
+ -flex: a.ь.va
+  gramm: ipf,3,sg,m.s
+ -flex: a..ava
+  gramm: ipf,3,sg,f.s
+ -flex: a..axva
+  gramm: ipf,1,pl
+ -flex: a..ьtunva
+  gramm: ipf,2,pl
+ -flex: a..ьjva
+  gramm: ipf,3,pl
+
+  
+ -flex: bь..a.ьvьn
+  gramm: prs2,1,sg,m.s
+ -flex: bь..a.ьvan
+  gramm: prs2,1,sg,f.s
+ -flex: bь..a.ьvьt
+  gramm: prs2,2,sg,m.s
+ -flex: bь..a.ьvat
+  gramm: prs2,2,sg,f.s
+ -flex: bь..a.ьlь
+  gramm: prs2,3,sg,m.s
+ -flex: bь..a.ьla
+  gramm: prs2,3,sg,f.s
+ -flex: bь..a.ьvax
+  gramm: prs2,1,pl
+ -flex: bь..a.ьtun
+  gramm: prs2,2,pl
+ -flex: bь..a.ьna
+  gramm: prs2,3,pl
+
+ -flex: bь..a.ьvьnva
+  gramm: ipf2,1,sg,m.s
+ -flex: bь..a.ьvanva
+  gramm: ipf2,1,sg,f.s
+ -flex: bь..a.ьvьtva
+  gramm: ipf2,2,sg,m.s
+ -flex: bь..a.ьvatva
+  gramm: ipf2,2,sg,f.s
+ -flex: bь..a.ьva
+  gramm: ipf2,3,sg
+ -flex: bь..a.ьvaxva
+  gramm: ipf2,1,pl
+ -flex: bь..a.ьtunva
+  gramm: ipf2,2,pl
+ -flex: bь..a.ьva
+  gramm: ipf2,3,pl
+  
+ -flex: ..ь.lьj
+  gramm: pst,1,sg
+ -flex: ..ь.lux
+  gramm: pst,2,sg,m.s
+ -flex: ..ь.lax
+  gramm: pst,2,sg,f.s
+ -flex: ..ь.lь
+  gramm: pst,3,sg,m.s
+ -flex: ..ь.la
+  gramm: pst,3,sg,f.s
+ -flex: ..ь.lan
+  gramm: pst,1,pl
+ -flex: ..ь.loxun
+  gramm: pst,2,pl
+ -flex: ..ь.lun
+  gramm: pst,3,pl

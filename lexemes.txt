@@ -1,0 +1,7729 @@
+-lexeme
+ lex: abasьj
+ stem: abasьj.
+ gramm: N
+ paradigm: N_back
+ trans_en: four shahis, one-fifth of a qran
+ trans_ru: аббаси
+
+-lexeme
+ lex: aвu-hava
+ stem: aвu-hava.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: стихия
+
+-lexeme
+ lex: açabta
+ stem: açabta.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: удивление
+
+-lexeme
+ lex: açazta
+ stem: açazta.
+ gramm: N
+ paradigm: N_back
+ trans_en: ‘ to be tired, vexed; ajizu ‘ annoyance
+ trans_ru: мучение
+
+-lexeme
+ lex: aççuzь
+ stem: .ç.ç.z.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to annoy, vex, trouble
+ trans_ru: утомлять, мучить
+
+-lexeme
+ lex: açubь
+ stem: .ç.b.
+ gramm: V
+ paradigm: V_strong_alef_back
+ trans_en: to wonder, to be surprised
+ trans_ru: удивляться
+
+-lexeme
+ lex: açьbuta
+ stem: açьbuta.
+ gramm: N
+ paradigm: N_back
+ trans_en: a wonder, miracle; astonishment
+ trans_ru: Воротился старик ко старухе, Рассказал ей великое чудо
+
+-lexeme
+ lex: açьbuta
+ stem: açьbuta.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: удивительно
+
+-lexeme
+ lex: açьzana
+ stem: açьzana.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: Мучительно также прислуживать за обедом, стирать, шить
+
+-lexeme
+ lex: adataja
+ stem: adataja.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: adat
+ trans_ru: обычный
+
+-lexeme
+ lex: adatьj
+ stem: adatьj.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: adat
+ trans_ru: обычный
+
+-lexeme
+ lex: adjutant
+ stem: adjutant.
+ gramm: N
+ paradigm: N_back
+ trans_en: rus. адьютант
+ trans_ru: Я отобедал у Андрея Карловича, втроем с его старым адъютантом
+
+-lexeme
+ lex: aeroplan
+ stem: aeroplan.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: самолет
+
+-lexeme
+ lex: akkara
+ stem: akkara.
+ gramm: N
+ paradigm: N_back
+ trans_en: farmer; ; Al. a husbandman, farmer
+ trans_ru: крестьянин, мужик
+
+-lexeme
+ lex: all-
+ stem: all-.
+ gramm: PREP
+ paradigm: unchangeable
+ trans_en: on, upon, over
+ trans_ru: на
+
+-lexeme
+ lex: alamat
+ stem: alamat.
+ gramm: N
+ paradigm: N_back
+ trans_en: +’alamat ‘sign, mark’
+ trans_ru: чучело
+
+-lexeme
+ lex: alamatuta
+ stem: alamatuta.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: Страсть, сколько рыбы тогда попалось
+
+-lexeme
+ lex: aldeta
+ stem: aldeta.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: обман
+
+-lexeme
+ lex: aldujь
+ stem: .l.d.j.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to deceive, to cheat
+ trans_ru: обманывать
+
+-lexeme
+ lex: aldьjana
+ stem: aldьjana.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: обманщик
+
+-lexeme
+ lex: almaja
+ stem: almaja.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: lay; worldly
+ trans_ru: мирской, народный
+
+-lexeme
+ lex: alula
+ stem: alula.
+ gramm: N
+ paradigm: N_back
+ trans_en: a street
+ trans_ru: улица
+
+-lexeme
+ lex: amarat
+ stem: amarat.
+ gramm: N
+ paradigm: N_back
+ trans_en: dwelling, palace
+ trans_ru: палаты
+
+-lexeme
+ lex: amra
+ stem: amra.
+ gramm: N
+ paradigm: N_back
+ trans_en: ‘ wool
+ trans_ru: шерсть
+
+-lexeme
+ lex: amrana
+ stem: amrana.
+ gramm: N
+ paradigm: N_back
+ trans_en: an inhabitant
+ trans_ru: житель
+
+-lexeme
+ lex: amrana
+ stem: amrana.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: шерстяной, пушистый
+
+-lexeme
+ lex: amţana
+ stem: amţana.
+ gramm: N
+ paradigm: N_back
+ trans_en: fog, darkness
+ trans_ru: мгла
+
+-lexeme
+ lex: apra
+ stem: apra.
+ gramm: N
+ paradigm: N_back
+ trans_en: earth, soil, ground, dust
+ trans_ru: прах, земля
+
+-lexeme
+ lex: aqьldar
+ stem: aqьldar.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: wise, prudent
+ trans_ru: мудрый
+
+-lexeme
+ lex: aqьldaruta
+ stem: aqьldaruta.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: мудрость
+
+-lexeme
+ lex: ara
+ stem: ara.
+ gramm: N
+ paradigm: N_back
+ trans_en: dealings; a space, interval; area, surface
+ trans_ru: расстояние
+
+-lexeme
+ lex: arabana
+ stem: arabana.
+ gramm: N
+ paradigm: N_back
+ trans_en: a carriage, coach, cart, waggon
+ trans_ru: машина, повозка
+
+-lexeme
+ lex: arbasar
+ stem: arbasar.
+ gramm: NUM
+ paradigm: unchangeable
+ trans_en: forteen
+ trans_ru: четырнадцать
+
+-lexeme
+ lex: arbuţь
+ stem: .r.b.ţ.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to toss; to be restless, to wallow
+ trans_ru: корчиться
+
+-lexeme
+ lex: areţa
+ stem: areţa.
+ gramm: N
+ paradigm: N_back
+ trans_en: v.n. a patch
+ trans_ru: заплата
+
+-lexeme
+ lex: arja
+ stem: arja.
+ gramm: N
+ paradigm: N_back
+ trans_en: a festival, holy day
+ trans_ru: праздник
+
+-lexeme
+ lex: arpa, arвa
+ stem: arpa, arвa.
+ gramm: NUM
+ paradigm: unchangeable
+ trans_en: four
+ trans_ru: четыре
+
+-lexeme
+ lex: arpunte
+ stem: arpunte.
+ gramm: NUM
+ paradigm: unchangeable
+ trans_en: all four of them, they four
+ trans_ru: со всех четырех сторон
+
+-lexeme
+ lex: arujь
+ stem: .r.j.
+ gramm: V
+ paradigm: V_strong_alef_back
+ trans_en: to patch
+ trans_ru: чинить
+
+-lexeme
+ lex: asla
+ stem: asla.
+ gramm: N
+ paradigm: N_back
+ trans_en: nature, origin
+ trans_ru: Я природный дворянин
+
+-lexeme
+ lex: aslaxat
+ stem: aslaxat.
+ gramm: N
+ paradigm: N_back
+ trans_en: furniture, accoutremenets
+ trans_ru: чайный прибор
+
+-lexeme
+ lex: aspab
+ stem: aspab.
+ gramm: N
+ paradigm: N_back
+ trans_en: an instrument, means; in pl. fire arms
+ trans_ru: оружие
+
+-lexeme
+ lex: assьjra
+ stem: assьjra.
+ gramm: N
+ paradigm: N_back
+ trans_en: a prisoner
+ trans_ru: невольник
+
+-lexeme
+ lex: astar
+ stem: astar.
+ gramm: N
+ paradigm: N_back
+ trans_en: a lining of a coat
+ trans_ru: подкладка
+
+-lexeme
+ lex: aşpazxana
+ stem: aşpazxana.
+ gramm: N
+ paradigm: N_back
+ trans_en: a kitchen
+ trans_ru: кухня
+
+-lexeme
+ lex: atlas
+ stem: atlas.
+ gramm: N
+ paradigm: N_back
+ trans_en: rus. атлас
+ trans_ru: атлас
+
+-lexeme
+ lex: atra
+ stem: atra.
+ gramm: N
+ paradigm: N_back
+ trans_en: country
+ trans_ru: страна
+
+-lexeme
+ lex: atruna
+ stem: atruna.
+ gramm: N
+ paradigm: N_back
+ trans_en: atra
+ trans_ru: сторонушка
+
+-lexeme
+ lex: aul
+ stem: aul.
+ gramm: N
+ paradigm: N_back
+ trans_en: rus. аул &lt; тюрк. *avul ЭСТЯ I, 65
+ trans_ru: м
+
+-lexeme
+ lex: avaj
+ stem: avaj.
+ gramm: N
+ paradigm: N_back
+ trans_en: Kurd. Sor. petit groupe de maisons, hameau, village DKF 52
+ trans_ru: жилье
+
+-lexeme
+ lex: avara
+ stem: avara.
+ gramm: N
+ paradigm: N_back
+ trans_en: a vagabond
+ trans_ru: бродяга
+
+-lexeme
+ lex: ax
+ stem: ax.
+ gramm: ITJ
+ paradigm: unchangeable
+ trans_en: Alas!
+ trans_ru: ах
+
+-lexeme
+ lex: axaja
+ stem: axaja.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: axa
+ trans_ru: барский, боярский
+
+-lexeme
+ lex: axl-
+ stem: .x.l.-.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to eat
+ trans_ru: есть
+
+-lexeme
+ lex: axьl-qarsa
+ stem: axьl-qarsa.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: демон
+
+-lexeme
+ lex: azad
+ stem: azad.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: free; freeman
+ trans_ru: свободный
+
+-lexeme
+ lex: azaduta
+ stem: azaduta.
+ gramm: N
+ paradigm: N_back
+ trans_en: freedom, liberty
+ trans_ru: свобода, вольность
+
+-lexeme
+ lex: azьl
+ stem: azьl.
+ gramm: N
+ paradigm: N_back
+ trans_en: to spin a web
+ trans_ru: прясть
+
+-lexeme
+ lex: bij-
+ stem: bij-.
+ gramm: PREP
+ paradigm: unchangeable
+ trans_en: Fridrich 1962, 36
+ trans_ru: в
+
+-lexeme
+ lex: bagzada
+ stem: bagzada.
+ gramm: N
+ paradigm: N_back
+ trans_en: turk., kur. noble, high born
+ trans_ru: в
+
+-lexeme
+ lex: bagzadta
+ stem: bagzadta.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: дворянка
+
+-lexeme
+ lex: bagьjra
+ stem: bagьjra.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: lean, thin; baa-ghey-raa meager, lean; OS schwach
+ trans_ru: худой
+
+-lexeme
+ lex: bajьs
+ stem: bajьs.
+ gramm: N
+ paradigm: N_back
+ trans_en: baa-yiss a cause; cf. ?
+ trans_ru: причина
+
+-lexeme
+ lex: balaban
+ stem: balaban.
+ gramm: N
+ paradigm: N_back
+ trans_en: small drum
+ trans_ru: барабан
+
+-lexeme
+ lex: balbьsana
+ stem: balbьsana.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: блестящий
+
+-lexeme
+ lex: balluţa
+ stem: balluţa.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: дуб
+
+-lexeme
+ lex: baluta
+ stem: baluta.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: горло
+
+-lexeme
+ lex: banka
+ stem: banka.
+ gramm: N
+ paradigm: N_back
+ trans_en: rus. банк
+ trans_ru: банк, карточная игра
+
+-lexeme
+ lex: banna
+ stem: banna.
+ gramm: N
+ paradigm: N_back
+ trans_en: ban-ya-naa a bricklayer; cf. a builder
+ trans_ru: каменщик
+
+-lexeme
+ lex: bapta, babta?
+ stem: bapta, babta?.
+ gramm: N
+ paradigm: N_back
+ trans_en: braid on the border of a coat; bup-taa a ribbon, braid
+ trans_ru: тесьма, галун
+
+-lexeme
+ lex: baqarta
+ stem: baqarta.
+ gramm: N
+ paradigm: N_back
+ trans_en: incuiry, request
+ trans_ru: допрос
+
+-lexeme
+ lex: baqrana
+ stem: baqrana.
+ gramm: N
+ paradigm: N_back
+ trans_en: buq-raa-naa inquirer
+ trans_ru: допросчик
+
+-lexeme
+ lex: baqurь
+ stem: .b.q.r.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 
+ trans_ru: спрашивать
+
+-lexeme
+ lex: bar
+ stem: bar.
+ gramm: PREP
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: после
+
+-lexeme
+ lex: bara
+ stem: bara.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: вет
+
+-lexeme
+ lex: bara-bar
+ stem: bara-bar.
+ gramm: PREP
+ paradigm: unchangeable
+ trans_en: bar
+ trans_ru: идти вслед
+
+-lexeme
+ lex: baraj
+ stem: baraj.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: - outside
+ trans_ru: назад
+
+-lexeme
+ lex: barana
+ stem: barana.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: светлый
+
+-lexeme
+ lex: barbarta
+ stem: barbarta.
+ gramm: N
+ paradigm: N_back
+ trans_en: ?
+ trans_ru: хрюканье
+
+-lexeme
+ lex: barburь
+ stem: .b.r.r.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to roar, to bleat
+ trans_ru: рыч
+
+-lexeme
+ lex: barrajuta
+ stem: barrajuta.
+ gramm: N
+ paradigm: N_back
+ trans_en: - outer
+ trans_ru: наружность
+
+-lexeme
+ lex: arranta, baranta
+ stem: arranta, baranta.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: просвещение
+
+-lexeme
+ lex: barud
+ stem: barud.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: порох
+
+-lexeme
+ lex: barzarra
+ stem: barzarra.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: емя
+
+-lexeme
+ lex: basmaxana
+ stem: basmaxana.
+ gramm: N
+ paradigm: N_back
+ trans_en: a printing-office;&lt; tur. basmaxane
+ trans_ru: типография
+
+-lexeme
+ lex: basura
+ stem: basura.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: человек малоумный
+
+-lexeme
+ lex: basuruta
+ stem: basuruta.
+ gramm: N
+ paradigm: N_back
+ trans_en: basura; inferiority
+ trans_ru: в
+
+-lexeme
+ lex: başkir
+ stem: başkir.
+ gramm: N
+ paradigm: N_back
+ trans_en: rus. башкир
+ trans_ru: башкир
+
+-lexeme
+ lex: başkiraja
+ stem: başkiraja.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: башкирец
+
+-lexeme
+ lex: başrana
+ stem: başrana.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: bush-raa-naa artful
+ trans_ru: искусный
+
+-lexeme
+ lex: baţьjla
+ stem: baţьjla.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: idle, disengaged, unused; foolish, vain
+ trans_ru: пустой
+
+-lexeme
+ lex: bauta
+ stem: bauta.
+ gramm: N
+ paradigm: N_back
+ trans_en: request,wish
+ trans_ru: просьба
+
+-lexeme
+ lex: bcujra
+ stem: bcujra.
+ gramm: N
+ paradigm: N_back
+ trans_en: Pers. bujul, The ankle-bone. ; pujūl, The leg-bone, the ankle
+ trans_ru: щиколотка
+
+-lexeme
+ lex: bdəjə
+ stem: .b.d.j.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to be delirious
+ trans_ru: бредить
+
+-lexeme
+ lex: behəd
+ stem: behəd.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: be-had without a limit or restrictions; bī-ḥadd infinite, immensely перс. bē-ḥād
+ trans_ru: бесконечно
+
+-lexeme
+ lex: behonə
+ stem: behonə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: &lt; be + mind
+ trans_ru: безумный
+
+-lexeme
+ lex: behuş
+ stem: behuş.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: Pers. bī-hosh insensible, unconscious ; Sinn
+ trans_ru: без сознания
+
+-lexeme
+ lex: bejdax, bejdah
+ stem: bejdax, bejdah.
+ gramm: N
+ paradigm: N_back
+ trans_en: a flag
+ trans_ru: знамя
+
+-lexeme
+ lex: bekara
+ stem: bekara.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: idle; kar
+ trans_ru: праздный, бездельничающий
+
+-lexeme
+ lex: benamus
+ stem: benamus.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: Подай сюда ребенка
+
+-lexeme
+ lex: benxiptə
+ stem: benxiptə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: shame; Scham
+ trans_ru: бесстыдный
+
+-lexeme
+ lex: bepajda
+ stem: bepajda.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: ?; М250a advantage, profit
+ trans_ru: бесполезный
+
+-lexeme
+ lex: beparmeta
+ stem: beparmeta.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: be-pur-my without understanding, stupid; permu understanding; vb to understand; parmeta
+ trans_ru: неразумный
+
+-lexeme
+ lex: bet assьjrь
+ stem: bet assьjrь.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: тюрьма
+
+-lexeme
+ lex: betəjə
+ stem: betəjə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: домашний, хозяйский
+
+-lexeme
+ lex: bet-jətumi, bit-jətumi
+ stem: bet-jətumi, bit-jətumi.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: приют
+
+-lexeme
+ lex: betmarranь
+ stem: betmarranь.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: больница
+
+-lexeme
+ lex: betməşrjə
+ stem: betməşrjə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a guest-chamber
+ trans_ru: в
+
+-lexeme
+ lex: bet-şretə
+ stem: bet-şretə.
+ gramm: N
+ paradigm: N_front
+ trans_en: ?
+ trans_ru: постоялый двор
+
+-lexeme
+ lex: bevaja
+ stem: bevaja.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: неестественный
+
+-lexeme
+ lex: bexəm
+ stem: bexəm.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: careless
+ trans_ru: покойный, лишенный беспокойства
+
+-lexeme
+ lex: bəd
+ stem: bəd.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: &lt; pers. Wind, horse?
+ trans_ru: лихой
+
+-lexeme
+ lex: bədən
+ stem: bədən.
+ gramm: N
+ paradigm: N_front
+ trans_en: a wall of a city
+ trans_ru: стена
+
+-lexeme
+ lex: bədrəng
+ stem: bədrəng.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: of a bad colour, faded
+ trans_ru: ерый
+
+-lexeme
+ lex: bədьqbal
+ stem: bədьqbal.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: pers. misfortune
+ trans_ru: несчастный
+
+-lexeme
+ lex: bǝdьqbaluta
+ stem: bǝdьqbaluta.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: несчастье
+
+-lexeme
+ lex: bəg
+ stem: bəg.
+ gramm: N
+ paradigm: N_front
+ trans_en: a Bey
+ trans_ru: бояре
+
+-lexeme
+ lex: bəlbuji
+ stem: .b.l.j.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: рыть
+
+-lexeme
+ lex: bələ
+ stem: bələ.
+ gramm: N
+ paradigm: N_front
+ trans_en: mind, memory, attention, heart
+ trans_ru: внимание
+
+-lexeme
+ lex: bələd
+ stem: bələd.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: acquainted, skilled
+ trans_ru: знакомый
+
+-lexeme
+ lex: bələdcij
+ stem: bələdcij.
+ gramm: N
+ paradigm: N_front
+ trans_en: a guide
+ trans_ru: в
+
+-lexeme
+ lex: bələdutə
+ stem: bələdutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: ba-la-due-ta the state of having more than superficial knowledge, acquaintance
+ trans_ru: умение
+
+-lexeme
+ lex: bəlkə
+ stem: bəlkə.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: belki perhaps
+ trans_ru: может быть
+
+-lexeme
+ lex: bəlmuli
+ stem: .b.l.l.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to mix up; OS balbel
+ trans_ru: спутывать
+
+-lexeme
+ lex: bəlqə
+ stem: bəlqə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: пестрый
+
+-lexeme
+ lex: bəlquni
+ stem: bəlquni.
+ gramm: VJ
+ paradigm: unchangeable
+ trans_en: cf. ʙləqə
+ trans_ru: Голову тянет к столу, картошка рябит в глазах, нож валится из рук
+
+-lexeme
+ lex: bəqluşə
+ stem: bəqluşə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: камушек
+
+-lexeme
+ lex: bəqtə
+ stem: bəqtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: комар
+
+-lexeme
+ lex: bərbuzi
+ stem: .b.r.z.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: расходиться
+
+-lexeme
+ lex: вərcik
+ stem: вərcik.
+ gramm: N
+ paradigm: N_front
+ trans_en: ? Kurd. ber +
+ trans_ru: одна из четырех сторон игральной кости
+
+-lexeme
+ lex: bərqul d
+ stem: bərqul d.
+ gramm: PREP
+ paradigm: unchangeable
+ trans_en: opposite, over against
+ trans_ru: напротив
+
+-lexeme
+ lex: bərrijə
+ stem: bərrijə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: пустыня
+
+-lexeme
+ lex: вərtəp
+ stem: вərtəp.
+ gramm: N
+ paradigm: N_front
+ trans_en: ? Kurd. ber + tep
+ trans_ru: одна из четырех сторон игральной кости
+
+-lexeme
+ lex: bəruxi
+ stem: .b.r.x.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: благословлять
+
+-lexeme
+ lex: bəsijmə
+ stem: bəsijmə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: приятный, хороший, добрый
+
+-lexeme
+ lex: bəsijmutə
+ stem: bəsijmutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: pleasentness, pleasure
+ trans_ru: благополучие
+
+-lexeme
+ lex: bəsmənə
+ stem: bəsmənə.
+ gramm: N
+ paradigm: N_front
+ trans_en: bass-ma-na a healer
+ trans_ru: лекарь
+
+-lexeme
+ lex: bəssə
+ stem: bəssə.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: достаточно
+
+-lexeme
+ lex: bəstuji
+ stem: .b.s.j.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to be bold, not to stand on ceremony, to venture
+ trans_ru: меть
+
+-lexeme
+ lex: bəsumi
+ stem: .b.s.m.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: лечить
+
+-lexeme
+ lex: bəxilənutə
+ stem: bəxilənutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: envy
+ trans_ru: зависть
+
+-lexeme
+ lex: bəxtəjə
+ stem: bəxtəjə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: женский
+
+-lexeme
+ lex: bəxxuli
+ stem: .b.x.l.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to envy
+ trans_ru: завидовать
+
+-lexeme
+ lex: bəzzuni
+ stem: bəzzuni.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: last year, next year
+ trans_ru: в прошлом году
+
+-lexeme
+ lex: bgьjra
+ stem: bgьjra.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: lean, thin
+ trans_ru: худой
+
+-lexeme
+ lex: bijə b
+ stem: bijə b.
+ gramm: PREP
+ paradigm: unchangeable
+ trans_en: b’, along
+ trans_ru: у, по
+
+-lexeme
+ lex: bijid
+ stem: bijid.
+ gramm: PREP
+ paradigm: unchangeable
+ trans_en: by means of, through
+ trans_ru: плачем жалуясь на мусье
+
+-lexeme
+ lex: bil
+ stem: bil.
+ gramm: PREP
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: между
+
+-lexeme
+ lex: вillet
+ stem: вillet.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: билет
+
+-lexeme
+ lex: billiard
+ stem: billiard.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: бильярд
+
+-lexeme
+ lex: binijsəni
+ stem: binijsəni.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: весна
+
+-lexeme
+ lex: binjət
+ stem: binjət.
+ gramm: N
+ paradigm: N_front
+ trans_en: a foundation
+ trans_ru: основание
+
+-lexeme
+ lex: birizutə
+ stem: birizutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: беспорядки
+
+-lexeme
+ lex: birqə
+ stem: birqə.
+ gramm: N
+ paradigm: N_front
+ trans_en: as OS, a lightning
+ trans_ru: гром
+
+-lexeme
+ lex: birvənə
+ stem: birvənə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: фартук, сарафан
+
+-lexeme
+ lex: biskə
+ stem: biskə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: локон, кудри
+
+-lexeme
+ lex: bistənə
+ stem: bistənə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: огород
+
+-lexeme
+ lex: biştə
+ stem: biştə.
+ gramm: N
+ paradigm: N_front
+ trans_en: as OS
+ trans_ru: зло
+
+-lexeme
+ lex: bit
+ stem: bit.
+ gramm: PART
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: частица будущего времени
+
+-lexeme
+ lex: bitə
+ stem: bitə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: яйцо
+
+-lexeme
+ lex: bitgosə
+ stem: bitgosə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a refuge
+ trans_ru: убежище
+
+-lexeme
+ lex: bitmamra
+ stem: bitmamra.
+ gramm: N
+ paradigm: N_back
+ trans_en: a dwelling place
+ trans_ru: жилье
+
+-lexeme
+ lex: bitqvura, bitqura
+ stem: bitqvura, bitqura.
+ gramm: N
+ paradigm: N_back
+ trans_en: a graveyard
+ trans_ru: кладбище
+
+-lexeme
+ lex: bitsəbzi
+ stem: bitsəbzi.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: огород
+
+-lexeme
+ lex: biz
+ stem: biz.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: sharp, pointed
+ trans_ru: в
+
+-lexeme
+ lex: bizzə
+ stem: bizzə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: грудь
+
+-lexeme
+ lex: bajja
+ stem: .b.j.j.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: -36a
+ trans_ru: хотеть
+
+-lexeme
+ lex: bjeta v
+ stem: bjeta v.
+ gramm: N
+ paradigm: N_back
+ trans_en: bjaja, b-ai-taa wanting, desiring
+ trans_ru: желание
+
+-lexeme
+ lex: bjuta
+ stem: bjuta.
+ gramm: N
+ paradigm: N_back
+ trans_en: bjaja, biya+ love, friendship
+ trans_ru: любовь
+
+-lexeme
+ lex: blaja
+ stem: .b.l.j.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 
+ trans_ru: глотать
+
+-lexeme
+ lex: bləgə
+ stem: .b.l.g.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: заниматься
+
+-lexeme
+ lex: bləsə
+ stem: .b.l.s.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to bruise; to oppress
+ trans_ru: в
+
+-lexeme
+ lex: bne
+ stem: bne.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: 
+ trans_ru: в
+
+-lexeme
+ lex: bnəjə
+ stem: .b.n.j.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to build, to number
+ trans_ru: строить; считать
+
+-lexeme
+ lex: boşkə
+ stem: boşkə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a tub
+ trans_ru: бочка
+
+-lexeme
+ lex: botul
+ stem: botul.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: ?
+ trans_ru: бутылка
+
+-lexeme
+ lex: brəijdə
+ stem: brəijdə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a glove, pl. in Ash. ; +
+ trans_ru: перчатка
+
+-lexeme
+ lex: brəkə
+ stem: .b.r.k.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: вставать на колени
+
+-lexeme
+ lex: brəzə
+ stem: .b.r.z.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to dry, to dry up
+ trans_ru: высыхать
+
+-lexeme
+ lex: вrьjra
+ stem: вrьjra.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: блеклый
+
+-lexeme
+ lex: brьjxa
+ stem: brьjxa.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: добрый
+
+-lexeme
+ lex: bsara
+ stem: .b.s.r.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 
+ trans_ru: уменьшаться
+
+-lexeme
+ lex: bsəmə
+ stem: .b.s.m.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to be pleased; to be healed or cured
+ trans_ru: мне угодно
+
+-lexeme
+ lex: bsəmtə
+ stem: bsəmtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: ba-sam-ta a healing ?
+ trans_ru: выздоровление
+
+-lexeme
+ lex: bţala
+ stem: .b.ţ.l.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 
+ trans_ru: быть уничтоженным
+
+-lexeme
+ lex: bţana
+ stem: .b.ţ.n.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: OS, bâțin to be pregnant
+ trans_ru: быть беременной
+
+-lexeme
+ lex: bubikkə
+ stem: bubikkə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: кисти
+
+-lexeme
+ lex: bulgənə
+ stem: bulgənə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: занятие
+
+-lexeme
+ lex: bulqə
+ stem: bulqə.
+ gramm: N
+ paradigm: N_front
+ trans_en: rus. булка
+ trans_ru: булка
+
+-lexeme
+ lex: bunt
+ stem: bunt.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: rus. бунт
+ trans_ru: бунт
+
+-lexeme
+ lex: buqara
+ stem: buqara.
+ gramm: N
+ paradigm: N_back
+ trans_en: OS, a question
+ trans_ru: вопрос
+
+-lexeme
+ lex: buqtə
+ stem: buqtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a doll, puppet
+ trans_ru: игрушечный
+
+-lexeme
+ lex: buraxa
+ stem: buraxa.
+ gramm: N
+ paradigm: N_back
+ trans_en: a wedding
+ trans_ru: венчание
+
+-lexeme
+ lex: burça
+ stem: burça.
+ gramm: N
+ paradigm: N_back
+ trans_en: a tower; burj a tower
+ trans_ru: башня
+
+-lexeme
+ lex: burhьj
+ stem: burhьj.
+ gramm: N
+ paradigm: N_back
+ trans_en: a large auger
+ trans_ru: Варька, где штопор
+
+-lexeme
+ lex: burktə
+ stem: burktə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a blessing
+ trans_ru: благословение
+
+-lexeme
+ lex: burrьnna
+ stem: burrьnna.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: bâhʼrânâ bright, light
+ trans_ru: освещенный
+
+-lexeme
+ lex: busəmə
+ stem: busəmə.
+ gramm: N
+ paradigm: N_front
+ trans_en: joyfulness, delight
+ trans_ru: удовольствие, развлечение
+
+-lexeme
+ lex: buspurutə
+ stem: buspurutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: helpful, useful
+ trans_ru: в
+
+-lexeme
+ lex: buş
+ stem: buş.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: besh much, more, best, proper; more
+ trans_ru: более
+
+-lexeme
+ lex: buşələ
+ stem: buşələ.
+ gramm: N
+ paradigm: N_front
+ trans_en: any cooked dish; pottage; soup with curdled rnilk and vegetables
+ trans_ru: щи
+
+-lexeme
+ lex: but
+ stem: but.
+ gramm: PREP
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: о
+
+-lexeme
+ lex: buttə
+ stem: buttə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a sleeve
+ trans_ru: рукав
+
+-lexeme
+ lex: buxcə
+ stem: buxcə.
+ gramm: N
+ paradigm: N_front
+ trans_en: bundle, a wrapper for holding clothes
+ trans_ru: мешок
+
+-lexeme
+ lex: вuxra
+ stem: вuxra.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: в
+
+-lexeme
+ lex: buxţan
+ stem: buxţan.
+ gramm: N
+ paradigm: N_back
+ trans_en: a slander; a slander, false accusation
+ trans_ru: клевета
+
+-lexeme
+ lex: buxum
+ stem: buxum.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: 
+ trans_ru: сустав
+
+-lexeme
+ lex: bxara
+ stem: .b.x.r.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to search, examine, look
+ trans_ru: А бог ее знает
+
+-lexeme
+ lex: bxəjə
+ stem: .b.x.j.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: плакать
+
+-lexeme
+ lex: bzaja
+ stem: .b.z.j.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to pierce, to bore a hole
+ trans_ru: в
+
+-lexeme
+ lex: bьzza
+ stem: bьzza.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: отверстие, дыра
+
+-lexeme
+ lex: caj
+ stem: caj.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: чай
+
+-lexeme
+ lex: саjdan
+ stem: саjdan.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: чайник
+
+-lexeme
+ lex: calluşь
+ stem: .c.l.ş.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: работать, старатья, пытаться
+ trans_ru: стараться
+
+-lexeme
+ lex: camadan
+ stem: camadan.
+ gramm: N
+ paradigm: N_back
+ trans_en: ̰ܵ a leather bag, jamʻdān a traveller’s scrip
+ trans_ru: чемодан
+
+-lexeme
+ lex: canaxţa
+ stem: canaxţa.
+ gramm: N
+ paradigm: N_back
+ trans_en: cf. a chin; cf. chana the chin, the cheek
+ trans_ru: щека
+
+-lexeme
+ lex: cancurь
+ stem: .c.n.r.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to tear tr. and intr
+ trans_ru: рывать
+
+-lexeme
+ lex: caplь
+ stem: caplь.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: left-handed az. turk.?, chap the left side, the left side; leftward
+ trans_ru: левый
+
+-lexeme
+ lex: carcurь
+ stem: .c.r.r.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to chirp; to creak
+ trans_ru: скрипеть
+
+-lexeme
+ lex: сauş
+ stem: сauş.
+ gramm: N
+ paradigm: N_back
+ trans_en: тур. глашатай, сержант, надсмотрщик
+ trans_ru: чауш
+
+-lexeme
+ lex: caxcuxь
+ stem: .c.x.x.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to shiver in pieces, to crash
+ trans_ru: разбиваться
+
+-lexeme
+ lex: cbaja
+ stem: .c.b.j.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: Tsereteli 1958 103a čabi = погружать, опускать в воду; cf. châmé to be extinguished, to go out as a light.; met. to die
+ trans_ru: уходить прочь
+
+-lexeme
+ lex: сəid
+ stem: .сd.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: приглашать
+
+-lexeme
+ lex: cəkkə
+ stem: cəkkə.
+ gramm: N
+ paradigm: N_front
+ trans_en: armour; pl. weapons, implements, instruments
+ trans_ru: оружие
+
+-lexeme
+ lex: сəkmə
+ stem: сəkmə.
+ gramm: N
+ paradigm: N_front
+ trans_en: chekmita/ a top boot, chakman a kind of upper garment, turk
+ trans_ru: апог
+
+-lexeme
+ lex: cəkuc
+ stem: cəkuc.
+ gramm: N
+ paradigm: N_front
+ trans_en: a mallet, hammer
+ trans_ru: молоток
+
+-lexeme
+ lex: сəmcə
+ stem: сəmcə.
+ gramm: N
+ paradigm: N_front
+ trans_en: chamcha/chumcha a spoon, ladle, skimmer
+ trans_ru: ложка
+
+-lexeme
+ lex: cəmcumi
+ stem: .c.m.m.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: швырять, кидать
+
+-lexeme
+ lex: cəncuni
+ stem: .c.n.n.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to tingle
+ trans_ru: бить
+
+-lexeme
+ lex: cənnijtə
+ stem: cənnijtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: подбородок
+
+-lexeme
+ lex: cəppər
+ stem: cəppər.
+ gramm: N
+ paradigm: N_front
+ trans_en: Pers. chapar a circle, palisade
+ trans_ru: частокол
+
+-lexeme
+ lex: cəqcuqi
+ stem: .c.q.q.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: болтать
+
+-lexeme
+ lex: cərcərtə
+ stem: cərcərtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: крик
+
+-lexeme
+ lex: cərcuri
+ stem: .c.r.r.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: кричать
+
+-lexeme
+ lex: cərcuvvə
+ stem: cərcuvvə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a frame of a door, window etc.; pers., рама, рамка
+ trans_ru: рамка
+
+-lexeme
+ lex: cərpuvə
+ stem: cərpuvə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a switch, chir-pue-va a shoot or slender branch cut or broken from a tree especially when dry or dead; щепка, лучина
+ trans_ru: хворост
+
+-lexeme
+ lex: cəruxə
+ stem: cəruxə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a leather sandal
+ trans_ru: сандалий
+
+-lexeme
+ lex: cəşmi
+ stem: cəşmi.
+ gramm: N
+ paradigm: N_front
+ trans_en: pl, sg. , chashma a spectacles
+ trans_ru: очки
+
+-lexeme
+ lex: cəşnij
+ stem: cəşnij.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: фигура
+
+-lexeme
+ lex: cətunutə
+ stem: cətunutə.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: cha-tue-nue-ta difficulty, obstacle, state of being difficult or hard to do or to understand
+ trans_ru: усилие, трудность
+
+-lexeme
+ lex: сijmən
+ stem: сijmən.
+ gramm: N
+ paradigm: N_front
+ trans_en: chaman
+ trans_ru: поле
+
+-lexeme
+ lex: сijnə
+ stem: сijnə.
+ gramm: N
+ paradigm: N_front
+ trans_en: rus.? чин
+ trans_ru: чин
+
+-lexeme
+ lex: cijtə
+ stem: cijtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: from Hindi, calico, chintz, printed cotton; II ситец, миткаль; chīt painted Indian, Persian or Turkish silks and other cloths, chintz
+ trans_ru: ситец
+
+-lexeme
+ lex: сim
+ stem: сim.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: very, quite, entirely; turk.?
+ trans_ru: очень
+
+-lexeme
+ lex: сinəjə
+ stem: сinəjə.
+ gramm: N
+ paradigm: N_front
+ trans_en: chin
+ trans_ru: китаец
+
+-lexeme
+ lex: cingirə
+ stem: cingirə.
+ gramm: N
+ paradigm: N_front
+ trans_en: kurd
+ trans_ru: тряпка
+
+-lexeme
+ lex: cingirənə
+ stem: cingirənə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: оборванный
+
+-lexeme
+ lex: ciqə
+ stem: ciqə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: cross-eyed, squinting, f. ; az. turk
+ trans_ru: кривой
+
+-lexeme
+ lex: cirij qəməjə
+ stem: cirij qəməjə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: октябрь
+
+-lexeme
+ lex: cjədə
+ stem: .c.j.d.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to invite
+ trans_ru: приглашать
+
+-lexeme
+ lex: cjədtə
+ stem: cjədtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: приглашение
+
+-lexeme
+ lex: cjələ
+ stem: .c.j.l.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to toss up dice, to get ready for battle; chya-la toss, to lift or throw up with a sudden or motion; che-ala
+ trans_ru: махнул рукой
+
+-lexeme
+ lex: clapa
+ stem: .c.l.p.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to split, chop, cleave
+ trans_ru: рстерзать
+
+-lexeme
+ lex: col
+ stem: col.
+ gramm: ADJ
+ paradigm: ADJ_back
+ paradigm: ADJ_front
+ trans_en: ?
+ trans_ru: голый
+
+-lexeme
+ lex: crətə
+ stem: .c.r.t.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to fire a gun
+ trans_ru: палить
+
+-lexeme
+ lex: crəzə
+ stem: .c.r.z.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to pierce
+ trans_ru: прокалывать, пронзать
+
+-lexeme
+ lex: cucana
+ stem: cucana.
+ gramm: N
+ paradigm: N_back
+ trans_en: a chicken; the young of an animal; a magpie; chūcha a swan, chiken, chūchū a sparrow; chuchana сорока
+ trans_ru: сорока
+
+-lexeme
+ lex: cucəgə
+ stem: cucəgə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a flower; ; Ch114a çʼîçʼêk
+ trans_ru: цветок
+
+-lexeme
+ lex: culax
+ stem: culax.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: a lame; сухорукий
+ trans_ru: хромой
+
+-lexeme
+ lex: cьlpa
+ stem: cьlpa.
+ gramm: N
+ paradigm: N_back
+ trans_en: OS
+ trans_ru: щель
+
+-lexeme
+ lex: çalalaj
+ stem: çalalaj.
+ gramm: N
+ paradigm: N_back
+ trans_en: a robber; kurd. ?
+ trans_ru: и везде так в
+
+-lexeme
+ lex: çalalьjuta
+ stem: çalalьjuta.
+ gramm: N
+ paradigm: N_back
+ trans_en: +jalaliyyuyta n.f. robbery, crime
+ trans_ru: разбой
+
+-lexeme
+ lex: çalla
+ stem: çalla.
+ gramm: N
+ paradigm: N_back
+ trans_en: a flagstaff, a mast; a pole for knocking down valnuts
+ trans_ru: Гринев настоял на том, чтобы голова земского была на несколько часов выставлена на шесте
+
+-lexeme
+ lex: çallad
+ stem: çallad.
+ gramm: N
+ paradigm: N_back
+ trans_en: an executioner; an executioner, hangman
+ trans_ru: палач
+
+-lexeme
+ lex: çalluşь
+ stem: .ç.l.ş.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to trouble, labour; turk. …. to be busy
+ trans_ru: хлопотать
+
+-lexeme
+ lex: çamaat ?
+ stem: çamaat ?.
+ gramm: N
+ paradigm: N_back
+ trans_en: an assembly, congregation, a multitude; group of people, band; Al. people, men
+ trans_ru: сборище
+
+-lexeme
+ lex: çammanta
+ stem: çammanta.
+ gramm: N
+ paradigm: N_back
+ trans_en: jum-aa-naa «gatherer; … a collector»
+ trans_ru: вестовщиц
+
+-lexeme
+ lex: çammeta
+ stem: çammeta.
+ gramm: N
+ paradigm: N_back
+ trans_en: jum-ai-taa gathering
+ trans_ru: сбор
+
+-lexeme
+ lex: çammujь
+ stem: .ç.m.j.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: -135a to gather, unite, collect
+ trans_ru: обирать, копить
+
+-lexeme
+ lex: çanavar
+ stem: çanavar.
+ gramm: N
+ paradigm: N_back
+ trans_en: a beast; an animal
+ trans_ru: зверек
+
+-lexeme
+ lex: çançarta
+ stem: çançarta.
+ gramm: N
+ paradigm: N_back
+ trans_en: M v.n. for
+ trans_ru: мучение
+
+-lexeme
+ lex: çançьrana
+ stem: çançьrana.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: jun-jir-raa-naa one who, or that which torments ?
+ trans_ru: мучительный
+
+-lexeme
+ lex: çançurь
+ stem: .ç.n.r.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to torment, torture; to be in pain
+ trans_ru: измучиться, мучить
+
+-lexeme
+ lex: çanta
+ stem: çanta.
+ gramm: N
+ paradigm: N_back
+ trans_en: a wallet, bag, knapsack
+ trans_ru: котомка, ранец
+
+-lexeme
+ lex: çanьm
+ stem: çanьm.
+ gramm: N
+ paradigm: N_back
+ trans_en: -86b ! душа моя!, голубчик! &gt; can душа, жизнь
+ trans_ru: Да нет
+
+-lexeme
+ lex: çar
+ stem: çar.
+ gramm: N
+ paradigm: N_back
+ trans_en: proclamation
+ trans_ru: призыв
+
+-lexeme
+ lex: çarubь
+ stem: .ç.r.b.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to try; II to try, test
+ trans_ru: пытаться, стараться
+
+-lexeme
+ lex: çəblə
+ stem: çəblə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a drove of cattle, a company of men; a mountain
+ trans_ru: толпа
+
+-lexeme
+ lex: çəjə
+ stem: .çj.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: - ̰ܵ be tired
+ trans_ru: уставать, быть усталым
+
+-lexeme
+ lex: çəldutə
+ stem: çəldutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: ̰ܲ quickly ?
+ trans_ru: быстрота
+
+-lexeme
+ lex: çənguni
+ stem: çənguni.
+ gramm: N
+ paradigm: N_front
+ trans_en: to rust, canker, corrode tr. and intr
+ trans_ru: ручку с заржавленным пером
+
+-lexeme
+ lex: çərupə
+ stem: çərupə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: sliding
+ trans_ru: скользкий
+
+-lexeme
+ lex: çəssəstə
+ stem: çəssəstə.
+ gramm: N
+ paradigm: N_front
+ trans_en: to try to find out, examine by touch; ‘to spy, examine’
+ trans_ru: розыск
+
+-lexeme
+ lex: çəsusə
+ stem: çəsusə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a spy
+ trans_ru: шпион
+
+-lexeme
+ lex: çǝtun
+ stem: çǝtun.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: difficult, hard; turk. …
+ trans_ru: трудно
+
+-lexeme
+ lex: çəvvubi
+ stem: .ç.v.b.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: III \ to answer, respond
+ trans_ru: Что за вздор
+
+-lexeme
+ lex: çiddə
+ stem: çiddə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a spear
+ trans_ru: копье
+
+-lexeme
+ lex: çigara
+ stem: çigara.
+ gramm: N
+ paradigm: N_back
+ trans_en: a cigarette
+ trans_ru: трубка
+
+-lexeme
+ lex: çihil
+ stem: çihil.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: young, foolish; to be foolish
+ trans_ru: Т
+
+-lexeme
+ lex: çihilutə
+ stem: çihilutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: молодость
+
+-lexeme
+ lex: çijbə
+ stem: çijbə.
+ gramm: N
+ paradigm: N_front
+ trans_en: jaib a pocket
+ trans_ru: в
+
+-lexeme
+ lex: çijəz
+ stem: çijəz.
+ gramm: N
+ paradigm: N_front
+ trans_en: a dowry; / a trousseau
+ trans_ru: приданое
+
+-lexeme
+ lex: çilidqə
+ stem: çilidqə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a waistcoat; az. turk. …
+ trans_ru: камзол
+
+-lexeme
+ lex: çins
+ stem: çins.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: nice; jins, Genus, kind, stock, sort, mode; gender; goods, movables, articles, things; grain, corn; crop, products
+ trans_ru: лавный, хороший
+
+-lexeme
+ lex: çmaja
+ stem: .ç.m.j.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 
+ trans_ru: обирать
+
+-lexeme
+ lex: çnəvə
+ stem: .ç.n.v.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: ̰ܸܵ seize, snatch; to abduct, elope with; to pursue; cf. ? to pick, gather
+ trans_ru: хватать
+
+-lexeme
+ lex: çohvərij
+ stem: çohvərij.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: cf. ̰ܲ a pearl; перс. گوھر gowhar жемчуг, араб. jauhar jewel, gem
+ trans_ru: опаловый
+
+-lexeme
+ lex: çoş
+ stem: çoş.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: josh an effervescence; agitation of mind or body
+ trans_ru: увлечение Т
+
+-lexeme
+ lex: çraja
+ stem: .ç.r.j.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to flow
+ trans_ru: литься
+
+-lexeme
+ lex: çraţa
+ stem: .ç.r.ţ.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to slip; ? jraa-taa to slide, glide, slip
+ trans_ru: плыть, плавно двигаться
+
+-lexeme
+ lex: çreta
+ stem: çreta.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: струя
+
+-lexeme
+ lex: çrəpə
+ stem: .ç.r.p.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to slide, slip
+ trans_ru: кользить
+
+-lexeme
+ lex: çubbə
+ stem: çubbə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a cloak, mantle; jubba ّ a long outer garment, open in front, with wide sleeves
+ trans_ru: тулуп
+
+-lexeme
+ lex: çuldməxə
+ stem: çuldməxə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: постель
+
+-lexeme
+ lex: çum
+ stem: çum.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: 
+ trans_ru: нырять, окунаться в воду
+
+-lexeme
+ lex: çunçara
+ stem: çunçara.
+ gramm: N
+ paradigm: N_back
+ trans_en: torment
+ trans_ru: традание
+
+-lexeme
+ lex: çurət, çur’ət
+ stem: çurət, çur’ət.
+ gramm: N
+ paradigm: N_front
+ trans_en: bravery, courage; ْ jurʼa or ْ jarāʼa a courage, boldness
+ trans_ru: мужество, смелость
+
+-lexeme
+ lex: çurrə
+ stem: çurrə.
+ gramm: N
+ paradigm: N_front
+ trans_en: jűr- a kind, sort, manner; az. turk. …
+ trans_ru: сорт, вид
+
+-lexeme
+ lex: çuvvab
+ stem: çuvvab.
+ gramm: N
+ paradigm: N_back
+ trans_en: a reply, answer
+ trans_ru: ответ; ответственность
+
+-lexeme
+ lex: çvəçə
+ stem: .ç.v.ç.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: -wij, = chald. זוז
+ trans_ru: двигаться
+
+-lexeme
+ lex: çvənqə
+ stem: çvənqə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a young man, youth
+ trans_ru: юноша, молодой человек
+
+-lexeme
+ lex: çvənqunə
+ stem: çvənqunə.
+ gramm: N
+ paradigm: N_front
+ trans_en: jwanqūnā ‘dim. of ’
+ trans_ru: юноша
+
+-lexeme
+ lex: çvənqutə
+ stem: çvənqutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: подвиг
+
+-lexeme
+ lex: çьllav
+ stem: çьllav.
+ gramm: N
+ paradigm: N_back
+ trans_en: bridle; kurd. ….нет в Ch
+ trans_ru: в
+
+-lexeme
+ lex: d
+ stem: d.
+ gramm: PRN
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: относительное местоимение
+
+-lexeme
+ lex: daban
+ stem: daban.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: каблук
+
+-lexeme
+ lex: dajьm
+ stem: dajьm.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: всегда
+
+-lexeme
+ lex: dajьmaja
+ stem: dajьmaja.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: постоянный, всегдашний
+
+-lexeme
+ lex: dajьmuta
+ stem: dajьmuta.
+ gramm: N
+ paradigm: N_back
+ trans_en: perpetuity, continuity
+ trans_ru: постоянство
+
+-lexeme
+ lex: daldanta
+ stem: daldanta.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: в
+
+-lexeme
+ lex: daldunь
+ stem: .d.l.n.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to protect as a shield, to screen, hide
+ trans_ru: в
+
+-lexeme
+ lex: dammunь
+ stem: .d.m.n.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 
+ trans_ru: слезиться
+
+-lexeme
+ lex: dara
+ stem: dara.
+ gramm: N
+ paradigm: N_back
+ trans_en: a gallows, gibbet
+ trans_ru: виселица
+
+-lexeme
+ lex: daraç, daraça
+ stem: daraç, daraça.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: звание
+
+-lexeme
+ lex: darapa
+ stem: darapa.
+ gramm: N
+ paradigm: N_back
+ trans_en: ? a railing ballustrade
+ trans_ru: полати
+
+-lexeme
+ lex: daraxaçь
+ stem: daraxaçь.
+ gramm: N
+ paradigm: N_back
+ trans_en: scaffold
+ trans_ru: виселица
+
+-lexeme
+ lex: darvaza
+ stem: darvaza.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: ворота города, ворота
+
+-lexeme
+ lex: darvudь
+ stem: .d.r.d.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to rock
+ trans_ru: качать
+
+-lexeme
+ lex: darvьdana
+ stem: darvьdana.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: убаюкивающий
+
+-lexeme
+ lex: dasmal
+ stem: dasmal.
+ gramm: N
+ paradigm: N_back
+ trans_en: a napkin, towel
+ trans_ru: полотенце
+
+-lexeme
+ lex: datid
+ stem: datid.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: будущий
+
+-lexeme
+ lex: dav
+ stem: dav.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: бой
+
+-lexeme
+ lex: davьj
+ stem: davьj.
+ gramm: N
+ paradigm: N_back
+ trans_en: strife, fight, war; accusation; judgment, lawsuit
+ trans_ru: бой, битва
+
+-lexeme
+ lex: dax
+ stem: dax.
+ gramm: N
+ paradigm: N_back
+ trans_en: branding, cauterizing; a scar, brand
+ trans_ru: шрам
+
+-lexeme
+ lex: daьjrait
+ stem: daьjrait.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: по кругу
+
+-lexeme
+ lex: denə
+ stem: denə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: долг
+
+-lexeme
+ lex: denənə
+ stem: denənə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: должник
+
+-lexeme
+ lex: deta
+ stem: deta.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: знание
+
+-lexeme
+ lex: dəblubi
+ stem: .d.b.b.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to be double-minded, to equivocate
+ trans_ru: колебаться
+
+-lexeme
+ lex: dəguli
+ stem: .d.g.l.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: врать
+
+-lexeme
+ lex: dəgmə
+ stem: dəgmə.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: ?
+ trans_ru: редкого смотрителя не знаю я в лицо
+
+-lexeme
+ lex: dəjə
+ stem: dəjə.
+ gramm: N
+ paradigm: N_front
+ trans_en: mother
+ trans_ru: мать
+
+-lexeme
+ lex: dəjqə
+ stem: dəjqə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: small, minute; ‘fine, small’
+ trans_ru: мелкий
+
+-lexeme
+ lex: dəkduki
+ stem: .d.k.k.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: ̭ to chop finely; to break in small pieces
+ trans_ru: выстрочите ему спину
+
+-lexeme
+ lex: dəkkə
+ stem: dəkkə.
+ gramm: N
+ paradigm: N_front
+ trans_en: the fist
+ trans_ru: кулак
+
+-lexeme
+ lex: dəm
+ stem: dəm.
+ gramm: N
+ paradigm: N_front
+ trans_en: Pers. گرفتن подпевать, аккомпанировать PRS I, 659a
+ trans_ru: музыкальное
+
+-lexeme
+ lex: dəmetə
+ stem: dəmetə.
+ gramm: N
+ paradigm: N_front
+ trans_en: cf. dam-ya-ue-ta similarity
+ trans_ru: сходство
+
+-lexeme
+ lex: dəmxoşutə
+ stem: dəmxoşutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a farewell, goodbye
+ trans_ru: благословение
+
+-lexeme
+ lex: dənə
+ stem: dənə.
+ gramm: N
+ paradigm: N_front
+ trans_en: dana determiner particle used in numbering
+ trans_ru: в
+
+-lexeme
+ lex: dəqduqi
+ stem: .d.q.q.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: измельчать
+
+-lexeme
+ lex: dəqijqə
+ stem: dəqijqə.
+ gramm: N
+ paradigm: N_front
+ trans_en: minute
+ trans_ru: минута
+
+-lexeme
+ lex: dərbə
+ stem: dərbə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a wound, sore, ulcer; darba wound, ulcer, abscess
+ trans_ru: в
+
+-lexeme
+ lex: dərbəntə
+ stem: dərbəntə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: рана
+
+-lexeme
+ lex: dərbuni
+ stem: .d.r.n.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to wound
+ trans_ru: ранить
+
+-lexeme
+ lex: dərdənə
+ stem: dərdənə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: aching, in pain
+ trans_ru: горестный
+
+-lexeme
+ lex: dərə
+ stem: dərə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a valley; dara valley; gully, ravine, chasm
+ trans_ru: ущелье
+
+-lexeme
+ lex: dərqul
+ stem: dərqul.
+ gramm: PREP
+ paradigm: unchangeable
+ trans_en: against; part. against
+ trans_ru: против
+
+-lexeme
+ lex: dərqulutə
+ stem: dərqulutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: opposition
+ trans_ru: сопротивление
+
+-lexeme
+ lex: dǝrsaat, darsaat
+ stem: dǝrsaat, darsaat.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: ’at immediately, pers
+ trans_ru: тотчас
+
+-lexeme
+ lex: dəstə
+ stem: dəstə.
+ gramm: N
+ paradigm: N_front
+ trans_en: class; dasta group, party, band, company, gang, team
+ trans_ru: класс
+
+-lexeme
+ lex: dəstur
+ stem: dəstur.
+ gramm: N
+ paradigm: N_front
+ trans_en: permission, leave; dastur command, permission
+ trans_ru: приказ
+
+-lexeme
+ lex: dəvənəjə
+ stem: dəvənəjə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: golden, of gold, OS
+ trans_ru: золотой
+
+-lexeme
+ lex: dəviltə
+ stem: dəviltə.
+ gramm: N
+ paradigm: N_front
+ trans_en: wealth, riches
+ trans_ru: богатство
+
+-lexeme
+ lex: в
+ stem: в.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: 
+ trans_ru: в
+
+-lexeme
+ lex: dəxij, dəx
+ stem: dəxij, dəx.
+ gramm: PRN
+ paradigm: unchangeable
+ trans_en: dax, daxi how, as
+ trans_ru: как
+
+-lexeme
+ lex: dəxuji
+ stem: .d.x.j.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: II to purify, to clean; to select; to prune
+ trans_ru: чистить
+
+-lexeme
+ lex: di
+ stem: di.
+ gramm: ITJ
+ paradigm: unchangeable
+ trans_en: come now! be off! di, d particle that adds immediacy to imperatives
+ trans_ru: давай
+
+-lexeme
+ lex: didvə
+ stem: didvə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: муха
+
+-lexeme
+ lex: dijletə
+ stem: dijletə.
+ gramm: N
+ paradigm: N_front
+ trans_en: characteristic, pecularity
+ trans_ru: с
+
+-lexeme
+ lex: dik
+ stem: dik.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: крутой
+
+-lexeme
+ lex: dikənə, dikkənə
+ stem: dikənə, dikkənə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a shop; duccana, shop
+ trans_ru: лавка
+
+-lexeme
+ lex: dimmənə
+ stem: dimmənə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: bloody
+ trans_ru: кровавый
+
+-lexeme
+ lex: dipnə
+ stem: dipnə.
+ gramm: N
+ paradigm: N_front
+ trans_en: the side
+ trans_ru: торона, бок
+
+-lexeme
+ lex: diqnə
+ stem: diqnə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: борода
+
+-lexeme
+ lex: diqnənə
+ stem: diqnənə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: bearded
+ trans_ru: бородатый
+
+-lexeme
+ lex: divə
+ stem: divə.
+ gramm: N
+ paradigm: N_front
+ trans_en: diva
+ trans_ru: волк
+
+-lexeme
+ lex: divşə
+ stem: divşə.
+ gramm: N
+ paradigm: N_front
+ trans_en: duyša
+ trans_ru: мёд
+
+-lexeme
+ lex: divxə
+ stem: divxə.
+ gramm: N
+ paradigm: N_front
+ trans_en: div-kha sacrifice
+ trans_ru: жертва
+
+-lexeme
+ lex: dixjə
+ stem: dixjə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: to be clean
+ trans_ru: чистый
+
+-lexeme
+ lex: diƶmin
+ stem: diƶmin.
+ gramm: N
+ paradigm: N_front
+ trans_en: dəžmən
+ trans_ru: враг
+
+-lexeme
+ lex: djara
+ stem: .d.j.r.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to turn intr., return; +/+ I to return
+ trans_ru: в
+
+-lexeme
+ lex: djənə
+ stem: .d.j.n.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: / I to judge
+ trans_ru: удить
+
+-lexeme
+ lex: djəntə
+ stem: djəntə.
+ gramm: N
+ paradigm: N_front
+ trans_en: vn. dyanta
+ trans_ru: удопроизводство
+
+-lexeme
+ lex: djəşə
+ stem: .d.j.ş.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to tread, trample on, tread down; met. to bend down; dayəš/dāš I
+ trans_ru: овладевать
+
+-lexeme
+ lex: dlə
+ stem: dlə.
+ gramm: PREP
+ paradigm: unchangeable
+ trans_en: d-la part. without
+ trans_ru: без
+
+-lexeme
+ lex: dməjə
+ stem: .d.m.j.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: I
+ trans_ru: быть похожим
+
+-lexeme
+ lex: dməxə
+ stem: .d.m.x.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to go to bed, to get into bed, to lie down, lie; to sleep; I
+ trans_ru: спать
+
+-lexeme
+ lex: dora
+ stem: dora.
+ gramm: N
+ paradigm: N_back
+ trans_en: +dora
+ trans_ru: поколение
+
+-lexeme
+ lex: dorana
+ stem: dorana.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: dora
+ trans_ru: существующий на протяжении многих поколений
+
+-lexeme
+ lex: dorəmə
+ stem: dorəmə.
+ gramm: N
+ paradigm: N_front
+ trans_en: dōrāmī a gadabout; rambler, a rover, a wanderer; pace Friedrich
+ trans_ru: бродяга
+
+-lexeme
+ lex: doqǝnǝ
+ stem: doqǝnǝ.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: n. ag. of ; catcher
+ trans_ru: стремянный
+
+-lexeme
+ lex: dost, dosţ
+ stem: dost, dosţ.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: ‘a friend’; +dost
+ trans_ru: друг
+
+-lexeme
+ lex: dosţait
+ stem: dosţait.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: дружески
+
+-lexeme
+ lex: dosţuta
+ stem: dosţuta.
+ gramm: N
+ paradigm: N_back
+ trans_en: +dostuyta
+ trans_ru: дружелюбно
+
+-lexeme
+ lex: dolətmənd
+ stem: dolətmənd.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: davlatmand, dolatmand, dolatman
+ trans_ru: богатый
+
+-lexeme
+ lex: draja
+ stem: draja.
+ gramm: N
+ paradigm: N_back
+ trans_en: the Persian yard or metre, about 39 inches; +draya
+ trans_ru: лапа
+
+-lexeme
+ lex: drana
+ stem: drana.
+ gramm: N
+ paradigm: N_back
+ trans_en: +drana
+ trans_ru: рука
+
+-lexeme
+ lex: draşta
+ stem: draşta.
+ gramm: N
+ paradigm: N_back
+ trans_en: vn. +drašta
+ trans_ru: спор
+
+-lexeme
+ lex: dretə
+ stem: dretə.
+ gramm: N
+ paradigm: N_front
+ trans_en: i, vn. dreta
+ trans_ru: перестрелка
+
+-lexeme
+ lex: dubara
+ stem: dubara.
+ gramm: N
+ paradigm: N_back
+ trans_en: manner of life; dubara n.m. behaviour
+ trans_ru: поведение
+
+-lexeme
+ lex: dubər
+ stem: dubər.
+ gramm: N
+ paradigm: N_front
+ trans_en: doubting, disputing
+ trans_ru: глосса к
+
+-lexeme
+ lex: duglə
+ stem: duglə.
+ gramm: N
+ paradigm: N_front
+ trans_en: duɟla
+ trans_ru: ложь
+
+-lexeme
+ lex: duglənə
+ stem: duglənə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: duɟlana
+ trans_ru: лживый, ложный
+
+-lexeme
+ lex: dukə, duktə, dujtə
+ stem: dukə, duktə, dujtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: duca, ducta, duyta
+ trans_ru: пещера
+
+-lexeme
+ lex: dumjə
+ stem: dumjə.
+ gramm: N
+ paradigm: N_front
+ trans_en: dume-ya resemblance
+ trans_ru: подобие
+
+-lexeme
+ lex: dunji
+ stem: dunji.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: мир Т
+
+-lexeme
+ lex: dvəqə
+ stem: .d.v.q.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to catch, hold, seize, take, take hold oj, grip, handle; to stop tr., d. to restrain oneself, to be temperate; to hire; to correspond to or together; to take, take prisoner; to surprise a fortress; to celebrate, keep a feast; to keep, keep to, often with b.; to uphold; to contain lit. and in arith.; MB. to pickle in vinegar; in pass. to be frozen; ̭ I
+ trans_ru: держать
+
+-lexeme
+ lex: dvərə
+ stem: .d.v.r.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: I
+ trans_ru: запирать
+
+-lexeme
+ lex: dvəxə
+ stem: .d.v.x.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to sacrifice; I
+ trans_ru: жертвовать
+
+-lexeme
+ lex: dvijrə
+ stem: dvijrə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: запертый
+
+-lexeme
+ lex: dvorjənin
+ stem: dvorjənin.
+ gramm: N
+ paradigm: N_front
+ trans_en: rus. дворянин
+ trans_ru: дворянин
+
+-lexeme
+ lex: egə
+ stem: egə.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: тогда
+
+-lexeme
+ lex: ekə
+ stem: ekə.
+ gramm: PRN
+ paradigm: unchangeable
+ trans_en: interrog.adv. where?
+ trans_ru: где
+
+-lexeme
+ lex: elm
+ stem: elm.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: ilm
+ trans_ru: наука
+
+-lexeme
+ lex: enij
+ stem: enij.
+ gramm: PRN
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: обычно
+
+-lexeme
+ lex: ədijə, ədi
+ stem: ədijə, ədi.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: di
+ trans_ru: сейчас
+
+-lexeme
+ lex: əj
+ stem: əj.
+ gramm: DPRN
+ paradigm: unchangeable
+ trans_en: /b
+ trans_ru: после предлогов
+
+-lexeme
+ lex: əjvan
+ stem: əjvan.
+ gramm: N
+ paradigm: N_back
+ trans_en: a room with one side open to the courtyard
+ trans_ru: сени
+
+-lexeme
+ lex: ələhə
+ stem: ələhə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: Бог
+
+-lexeme
+ lex: əmqu
+ stem: əmqu.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: M241а f. id. deep; adj.invar. deep
+ trans_ru: глубокий
+
+-lexeme
+ lex: əmuqə
+ stem: əmuqə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: M241а
+ trans_ru: глубокий
+
+-lexeme
+ lex: ən
+ stem: ən.
+ gramm: DPRN
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: после предлогов
+
+-lexeme
+ lex: ənə
+ stem: ənə.
+ gramm: PPRN
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: я
+
+-lexeme
+ lex: ənənqəjə
+ stem: ənənqəjə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: необходимый
+
+-lexeme
+ lex: ənənqəjutə
+ stem: ənənqəjutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a-nan-qa-ue-ta
+ trans_ru: необходимость
+
+-lexeme
+ lex: ənij
+ stem: ənij.
+ gramm: PPRN
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: эти
+
+-lexeme
+ lex: ənni
+ stem: ənni.
+ gramm: DPRN
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: эти
+
+-lexeme
+ lex: d
+ stem: d.
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_en: even if, although
+ trans_ru: несмотря на
+
+-lexeme
+ lex: əqubrə
+ stem: əqubrə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: крыса
+
+-lexeme
+ lex: ərəq
+ stem: ərəq.
+ gramm: N
+ paradigm: N_front
+ trans_en: &lt; ar.; ̭
+ trans_ru: водка
+
+-lexeme
+ lex: ərq-
+ stem: .r.q.-.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: ̭
+ trans_ru: бежать
+
+-lexeme
+ lex: ərjə
+ stem: ərjə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a lion
+ trans_ru: лев
+
+-lexeme
+ lex: ərmiltə
+ stem: ərmiltə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: вдова
+
+-lexeme
+ lex: ərpij
+ stem: ərpij.
+ gramm: NUM
+ paradigm: unchangeable
+ trans_en: ̂i
+ trans_ru: орок
+
+-lexeme
+ lex: ərqənə
+ stem: ərqənə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: беглец
+
+-lexeme
+ lex: ərquli
+ stem: .r.q.l.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to delay, stop; to abide, wait, be permanent; to wait for
+ trans_ru: задерживать
+
+-lexeme
+ lex: ərtəduksəjə, artaduksəjə
+ stem: ərtəduksəjə, artaduksəjə.
+ gramm: N
+ paradigm: N_back
+ trans_en: ur-ta-dooq-saa-yaa
+ trans_ru: православный
+
+-lexeme
+ lex: əruqə
+ stem: əruqə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: перебежчик
+
+-lexeme
+ lex: ərxə
+ stem: ərxə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a guest
+ trans_ru: гость
+
+-lexeme
+ lex: ərxutə
+ stem: ərxutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: угощение, пир
+
+-lexeme
+ lex: ərzə
+ stem: ərzə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: жалоба
+
+-lexeme
+ lex: əsmərij
+ stem: əsmərij.
+ gramm: N
+ paradigm: N_front
+ trans_en: dark complexioned; arab. asmar ‘brown, tawny’
+ trans_ru: смуглый
+
+-lexeme
+ lex: əşqənə
+ stem: əşqənə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a lover; ʾəšk womanizer
+ trans_ru: трастный
+
+-lexeme
+ lex: əşqərə
+ stem: əşqərə.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: evident; ʾašcara
+ trans_ru: очевидно
+
+-lexeme
+ lex: əti
+ stem: .t.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: I
+ trans_ru: снег так и валил
+
+-lexeme
+ lex: ətijqə
+ stem: ətijqə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: старый
+
+-lexeme
+ lex: ətutə
+ stem: ətutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a letter of the alphabet
+ trans_ru: буква
+
+-lexeme
+ lex: ətutəit
+ stem: ətutəit.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: ́
+ trans_ru: дословно
+
+-lexeme
+ lex: əxcij
+ stem: əxcij.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: ʾaxči
+ trans_ru: только
+
+-lexeme
+ lex: əxməqutə, əhməqutə
+ stem: əxməqutə, əhməqutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: ah-ma-que-ta
+ trans_ru: глупость
+
+-lexeme
+ lex: əxunə
+ stem: əxunə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: брат
+
+-lexeme
+ lex: əzənə
+ stem: əzənə.
+ gramm: N
+ paradigm: N_front
+ trans_en: agent of
+ trans_ru: путешественник
+
+-lexeme
+ lex: fiziqəit, fizijqəit
+ stem: fiziqəit, fizijqəit.
+ gramm: N
+ paradigm: N_front
+ trans_en: rus. adapt
+ trans_ru: физически
+
+-lexeme
+ lex: fiziqəjə, fizijqəjə
+ stem: fiziqəjə, fizijqəjə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: rus. adapt
+ trans_ru: физический
+
+-lexeme
+ lex: fosfor
+ stem: fosfor.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: rus
+ trans_ru: фосфор
+
+-lexeme
+ lex: fransaja
+ stem: fransaja.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: француз
+
+-lexeme
+ lex: front
+ stem: front.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: rus.? фрунт, фронт
+ trans_ru: фрунт
+
+-lexeme
+ lex: gabbara
+ stem: gabbara.
+ gramm: N
+ paradigm: N_back
+ trans_en: +ɟabbara
+ trans_ru: великий; героический
+
+-lexeme
+ lex: galla
+ stem: galla.
+ gramm: N
+ paradigm: N_back
+ trans_en: ܳ пирог RSL 278
+ trans_ru: пирог, пирожок
+
+-lexeme
+ lex: gdələ
+ stem: .g.d.l.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: OS. to weave, braid, wreathe
+ trans_ru: плести
+
+-lexeme
+ lex: gdələ
+ stem: gdələ.
+ gramm: N
+ paradigm: N_front
+ trans_en: string, thread, cotton
+ trans_ru: нитка
+
+-lexeme
+ lex: gdijlə
+ stem: gdijlə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: лед
+
+-lexeme
+ lex: gdijşə
+ stem: gdijşə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a stack, heap, stook
+ trans_ru: скирд
+
+-lexeme
+ lex: gecijtə
+ stem: gecijtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: коза
+
+-lexeme
+ lex: general-poruciq
+ stem: general-poruciq.
+ gramm: N
+ paradigm: N_back
+ trans_en: rus
+ trans_ru: генерал
+
+-lexeme
+ lex: geografija
+ stem: geografija.
+ gramm: N
+ paradigm: N_back
+ trans_en: rus
+ trans_ru: география
+
+-lexeme
+ lex: geografijǝjǝ
+ stem: geografijǝjǝ.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: географический
+
+-lexeme
+ lex: gəbrə
+ stem: gəbrə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: мочальный хвост
+
+-lexeme
+ lex: gəduştə
+ stem: gəduştə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: горшок для цветов
+
+-lexeme
+ lex: gəhənnə
+ stem: gəhənnə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: каторга
+
+-lexeme
+ lex: gəld
+ stem: gəld.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: jeld quick
+ trans_ru: вот
+
+-lexeme
+ lex: gəlguli
+ stem: .g.l.l.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to be or make round
+ trans_ru: в
+
+-lexeme
+ lex: gəlli
+ stem: gəlli.
+ gramm: N
+ paradigm: N_front
+ trans_en: cf
+ trans_ru: в
+
+-lexeme
+ lex: gəllijə
+ stem: gəllijə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a valley, esp. if large and open and affording spring pasture
+ trans_ru: долина
+
+-lexeme
+ lex: gəluvi?
+ stem: .g.l.?.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: открывать
+
+-lexeme
+ lex: gəmgumi
+ stem: .g.m.m.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to hum; to moan, wail
+ trans_ru: греметь
+
+-lexeme
+ lex: gəmij
+ stem: gəmij.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: корабль
+
+-lexeme
+ lex: gən-gən-
+ stem: gən-gən-.
+ gramm: PRN
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: в
+
+-lexeme
+ lex: gəpgupi
+ stem: .g.p.p.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to foam, to form a scum
+ trans_ru: Речки разлились
+
+-lexeme
+ lex: gərdə
+ stem: gərdə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a net, network
+ trans_ru: невод
+
+-lexeme
+ lex: gərdəbuli
+ stem: gərdəbuli.
+ gramm: N
+ paradigm: N_front
+ trans_en: a whirlwind, a strong wind
+ trans_ru: вихрь
+
+-lexeme
+ lex: gərdəqutij
+ stem: gərdəqutij.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: паутина
+
+-lexeme
+ lex: gərgumi
+ stem: .g.r.m.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to growl, roar; to thunder; growl
+ trans_ru: рычать; греметь; реветь
+
+-lexeme
+ lex: gərguri
+ stem: .g.r.r.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: скрипеть
+
+-lexeme
+ lex: gərmə
+ stem: gərmə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a bone
+ trans_ru: кость
+
+-lexeme
+ lex: gərmuli
+ stem: .g.r.l.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to wallow, roll
+ trans_ru: окровавленная голова
+
+-lexeme
+ lex: gərtə
+ stem: gərtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: крыша
+
+-lexeme
+ lex: gərusə
+ stem: gərusə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 56b
+ trans_ru: большой
+
+-lexeme
+ lex: gərvusi
+ stem: .g.r.s.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: /b
+ trans_ru: расти
+
+-lexeme
+ lex: gəşəqtə
+ stem: gəşəqtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: взгляд
+
+-lexeme
+ lex: gəşuqi
+ stem: .g.ş.q.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: смотреть
+
+-lexeme
+ lex: gəvə
+ stem: gəvə.
+ gramm: PREP
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: внутри
+
+-lexeme
+ lex: gəvəjə
+ stem: gəvəjə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: внутренний
+
+-lexeme
+ lex: gəxkənə
+ stem: gəxkənə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: с вечно смеющимся лицом
+
+-lexeme
+ lex: gəxukənə
+ stem: gəxukənə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: ямочка
+
+-lexeme
+ lex: gibbu
+ stem: gibbu.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: пена, пенки
+
+-lexeme
+ lex: giljə
+ stem: giljə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: glj
+ trans_ru: обнаженный, явный
+
+-lexeme
+ lex: ginəvə
+ stem: ginəvə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: вор
+
+-lexeme
+ lex: ginsə
+ stem: ginsə.
+ gramm: N
+ paradigm: N_front
+ trans_en: kind, form, genus
+ trans_ru: пол
+
+-lexeme
+ lex: girdəjjə
+ stem: girdəjjə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: лепешка
+
+-lexeme
+ lex: girə
+ stem: girə.
+ gramm: N
+ paradigm: N_front
+ trans_en: an arrow
+ trans_ru: стрела
+
+-lexeme
+ lex: girəv
+ stem: girəv.
+ gramm: N
+ paradigm: N_front
+ trans_en: pledge, pawn
+ trans_ru: залог
+
+-lexeme
+ lex: gixkə
+ stem: gixkə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: улыбка
+
+-lexeme
+ lex: gizmə
+ stem: gizmə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: угроза
+
+-lexeme
+ lex: giƶənə
+ stem: giƶənə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: сумасшедший, безумный
+
+-lexeme
+ lex: gləçə
+ stem: .g.l.ç.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to open mouth of a vessel or skin; met. to be talkative
+ trans_ru: разевать
+
+-lexeme
+ lex: gləjə
+ stem: .g.l.j.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: признаваться
+
+-lexeme
+ lex: glulə
+ stem: glulə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: круглый
+
+-lexeme
+ lex: gnetə
+ stem: gnetə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: заход солнца
+
+-lexeme
+ lex: gnəjə
+ stem: .g.n.j.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: садиться
+
+-lexeme
+ lex: gnəhə
+ stem: gnəhə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: вина
+
+-lexeme
+ lex: gnəvə
+ stem: .g.n.v.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to steal; Oraham 89a gna-va steal; to take and carry away, feloniously
+ trans_ru: красть
+
+-lexeme
+ lex: gnijvə
+ stem: gnijvə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: бровь
+
+-lexeme
+ lex: go, gu, gəv-
+ stem: go, gu, gəv-.
+ gramm: PREP
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: в
+
+-lexeme
+ lex: gol
+ stem: gol.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: a pond, a lake, a puddle
+ trans_ru: лужа
+
+-lexeme
+ lex: golovl
+ stem: golovl.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: rus
+ trans_ru: И щуки, и окуни, и головли, и плотва, и гольцы
+
+-lexeme
+ lex: gols?
+ stem: gols?.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: rus
+ trans_ru: И щуки, и окуни, и головли, и плотва, и гольцы
+
+-lexeme
+ lex: gomrug
+ stem: gomrug.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: custom, duty
+ trans_ru: таможня
+
+-lexeme
+ lex: gora, govra
+ stem: gora, govra.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: муж
+
+-lexeme
+ lex: gorənəjə
+ stem: gorənəjə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: серый
+
+-lexeme
+ lex: gozə
+ stem: gozə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: орех
+
+-lexeme
+ lex: gozəl
+ stem: gozəl.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: газель
+
+-lexeme
+ lex: graja
+ stem: .g.r.j.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to shave, to shear
+ trans_ru: брить
+
+-lexeme
+ lex: grəşə
+ stem: .g.r.ş.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: тянуть
+
+-lexeme
+ lex: gsəjə
+ stem: .g.s.j.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to vomit
+ trans_ru: рвать
+
+-lexeme
+ lex: gucmə
+ stem: gucmə.
+ gramm: N
+ paradigm: N_front
+ trans_en: the fist
+ trans_ru: кулак
+
+-lexeme
+ lex: guçə I
+ stem: guçə I.
+ gramm: N
+ paradigm: N_front
+ trans_en: a portion
+ trans_ru: комок
+
+-lexeme
+ lex: guddə
+ stem: guddə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: юртук
+
+-lexeme
+ lex: gudə
+ stem: gudə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a wall of a house or field
+ trans_ru: стена
+
+-lexeme
+ lex: gullə, gulla
+ stem: gullə, gulla.
+ gramm: N
+ paradigm: N_back
+ trans_en: gül- a cannon-bull
+ trans_ru: пуля
+
+-lexeme
+ lex: gulpə
+ stem: gulpə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: крыло
+
+-lexeme
+ lex: guman
+ stem: guman.
+ gramm: N
+ paradigm: N_back
+ trans_en: перс. گمان , Doubt, suspicion, surmise
+ trans_ru: подозрение
+
+-lexeme
+ lex: gumlə
+ stem: gumlə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: верблюд
+
+-lexeme
+ lex: gunahkar
+ stem: gunahkar.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: преступник
+
+-lexeme
+ lex: gunahkaruta
+ stem: gunahkaruta.
+ gramm: N
+ paradigm: N_back
+ trans_en: guilt, condemnation
+ trans_ru: виновность
+
+-lexeme
+ lex: gunxə
+ stem: gunxə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: Какие страсти
+
+-lexeme
+ lex: guruta
+ stem: guruta.
+ gramm: N
+ paradigm: N_back
+ trans_en: gura; greatness, size
+ trans_ru: величие
+
+-lexeme
+ lex: gurutota
+ stem: gurutota.
+ gramm: N
+ paradigm: N_back
+ trans_en: gura
+ trans_ru: надеюсь, что ваше превосходительство
+
+-lexeme
+ lex: guşə
+ stem: guşə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a corner, angle
+ trans_ru: угол, край
+
+-lexeme
+ lex: guşməjutə
+ stem: guşməjutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: - substantial, concrete
+ trans_ru: существенность
+
+-lexeme
+ lex: gutsul
+ stem: gutsul.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: 
+ trans_ru: гуцул
+
+-lexeme
+ lex: guttə
+ stem: guttə.
+ gramm: N
+ paradigm: N_front
+ trans_en: ? güt- a ball; a drop of rain
+ trans_ru: кистень
+
+-lexeme
+ lex: gvərdijə
+ stem: gvərdijə.
+ gramm: N
+ paradigm: N_front
+ trans_en: rus. гвардия
+ trans_ru: гвардия
+
+-lexeme
+ lex: gvərə
+ stem: .g.v.r.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: жениться
+
+-lexeme
+ lex: gvərtə
+ stem: gvərtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: gwara marriage, matrimony
+ trans_ru: женитьба
+
+-lexeme
+ lex: gxəkə
+ stem: .g.x.k.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: смеяться
+
+-lexeme
+ lex: gxəktə
+ stem: gxəktə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: смех, улыбка
+
+-lexeme
+ lex: gxukta
+ stem: gxukta.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: улыбка
+
+-lexeme
+ lex: gьşra
+ stem: gьşra.
+ gramm: N
+ paradigm: N_back
+ trans_en: as Western OS, a bridge
+ trans_ru: мост
+
+-lexeme
+ lex: ha
+ stem: ha.
+ gramm: ITJ
+ paradigm: unchangeable
+ trans_en: cf. lo! behold! see!
+ trans_ru: Вот тебе и же ву при
+
+-lexeme
+ lex: hadarta
+ stem: hadarta.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: приготовление
+
+-lexeme
+ lex: hadurь
+ stem: .h.d.r.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: ?
+ trans_ru: готовиться
+
+-lexeme
+ lex: hajjurь
+ stem: .h.j.r.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to help, assist
+ trans_ru: помогать
+
+-lexeme
+ lex: hajjьrana
+ stem: hajjьrana.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: покровитель
+
+-lexeme
+ lex: hakamta
+ stem: hakamta.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: царствование
+
+-lexeme
+ lex: hakmana
+ stem: hakmana.
+ gramm: N
+ paradigm: N_back
+ trans_en: Al. a governor, ruller
+ trans_ru: правитель
+
+-lexeme
+ lex: hakmanta
+ stem: hakmanta.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: владычица
+
+-lexeme
+ lex: hakumь
+ stem: .h.k.m.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: ?
+ trans_ru: царствовать
+
+-lexeme
+ lex: hala
+ stem: hala.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: as yet, yet, already; &lt; ar
+ trans_ru: еще
+
+-lexeme
+ lex: halal
+ stem: halal.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: честный
+
+-lexeme
+ lex: hammam
+ stem: hammam.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: баня
+
+-lexeme
+ lex: hammunь
+ stem: .h.m.n.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 
+ trans_ru: быть уверенным
+
+-lexeme
+ lex: hap
+ stem: hap.
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: в
+
+-lexeme
+ lex: harmonijə
+ stem: harmonijə.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: гармония
+
+-lexeme
+ lex: harnizonaja
+ stem: harnizonaja.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: harnizon
+ trans_ru: гарнизонный
+
+-lexeme
+ lex: hassar
+ stem: hassar.
+ gramm: N
+ paradigm: N_back
+ trans_en: ?
+ trans_ru: ограда
+
+-lexeme
+ lex: hasulь
+ stem: .h.s.l.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to bring forth, beget
+ trans_ru: рождать
+
+-lexeme
+ lex: hasьl
+ stem: hasьl.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: урожай
+
+-lexeme
+ lex: hava
+ stem: hava.
+ gramm: N
+ paradigm: N_back
+ trans_en: air, weather
+ trans_ru: воздух
+
+-lexeme
+ lex: havadar
+ stem: havadar.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: лопух
+
+-lexeme
+ lex: havar
+ stem: havar.
+ gramm: ITJ
+ paradigm: unchangeable
+ trans_en: a cry for help; as interj. Help!
+ trans_ru: На помощь
+
+-lexeme
+ lex: havaz
+ stem: havaz.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: мелодия, мотив
+
+-lexeme
+ lex: hazьr
+ stem: hazьr.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: готовый
+
+-lexeme
+ lex: hdara
+ stem: .h.d.r.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 
+ trans_ru: предстоящие жертвы
+
+-lexeme
+ lex: hejmənutə
+ stem: hejmənutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: faith
+ trans_ru: доверчивость
+
+-lexeme
+ lex: hə
+ stem: hə.
+ gramm: PART
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: Пушку туда перетащили накануне
+
+-lexeme
+ lex: həbəs
+ stem: həbəs.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: напрасно
+
+-lexeme
+ lex: həççəçtə
+ stem: həççəçtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: cf. M 160ܡܗ̰ܸ̰ to excite, incite
+ trans_ru: шум
+
+-lexeme
+ lex: həççət
+ stem: həççət.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: повод
+
+-lexeme
+ lex: həd
+ stem: həd.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: предел, крайность
+
+-lexeme
+ lex: həddəmə
+ stem: həddəmə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: член
+
+-lexeme
+ lex: hədxə, hətxə, ətxə
+ stem: hədxə, hətxə, ətxə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: такой
+
+-lexeme
+ lex: həkkim
+ stem: həkkim.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: доктор, врач
+
+-lexeme
+ lex: həl
+ stem: həl.
+ gramm: PREP
+ paradigm: unchangeable
+ trans_en: hal until, up to
+ trans_ru: до
+
+-lexeme
+ lex: hələqtə
+ stem: hələqtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: петля
+
+-lexeme
+ lex: həlhuli
+ stem: .h.l.l.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to stir up, incite, provoke; to mortify as flesh, to be rotten or putrid
+ trans_ru: разлагаться
+
+-lexeme
+ lex: həm
+ stem: həm.
+ gramm: PREP
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: до
+
+-lexeme
+ lex: həmməntə
+ stem: həmməntə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: недоверчивостью
+
+-lexeme
+ lex: həmməşə
+ stem: həmməşə.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: всегда
+
+-lexeme
+ lex: həmmuni
+ stem: .h.m.n.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to believe, trust
+ trans_ru: верить
+
+-lexeme
+ lex: həmzəmtə
+ stem: həmzəmtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: речь, разговор, беседа
+
+-lexeme
+ lex: həmzumi
+ stem: .h.m.m.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to speak, to talk, tell
+ trans_ru: говорить
+
+-lexeme
+ lex: hənəgutə
+ stem: hənəgutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a joke
+ trans_ru: шутка
+
+-lexeme
+ lex: həpsə
+ stem: həpsə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: арест
+
+-lexeme
+ lex: həq
+ stem: həq.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: справедливый
+
+-lexeme
+ lex: həqetə
+ stem: həqetə.
+ gramm: N
+ paradigm: N_front
+ trans_en: = ?
+ trans_ru: повесть
+
+-lexeme
+ lex: həqə
+ stem: həqə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: плата
+
+-lexeme
+ lex: həqjət
+ stem: həqjət.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: история
+
+-lexeme
+ lex: həquji
+ stem: .h.q.j.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: рассказывать
+
+-lexeme
+ lex: həqutə
+ stem: həqutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: право
+
+-lexeme
+ lex: hər
+ stem: hər.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: именно, то и дело
+
+-lexeme
+ lex: hərbutə
+ stem: hərbutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a javelin, a short spear; met. a threat
+ trans_ru: угроза
+
+-lexeme
+ lex: həsənəj
+ stem: həsənəj.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: легко
+
+-lexeme
+ lex: həsənəjutə
+ stem: həsənəjutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: легкость
+
+-lexeme
+ lex: həsijrə
+ stem: həsijrə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a straw mat, matting
+ trans_ru: рогож
+
+-lexeme
+ lex: həsrət
+ stem: həsrət.
+ gramm: N
+ paradigm: N_front
+ trans_en: eagenress, greed
+ trans_ru: нежности
+
+-lexeme
+ lex: həvsələ
+ stem: həvsələ.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: терпение
+
+-lexeme
+ lex: hi
+ stem: hi.
+ gramm: ITJ
+ paradigm: unchangeable
+ trans_en: Oh! Alas!
+ trans_ru: точно так
+
+-lexeme
+ lex: hic
+ stem: hic.
+ gramm: PART
+ paradigm: unchangeable
+ trans_en: pers. hech nothing; none, not any; lost
+ trans_ru: частица отрицания
+
+-lexeme
+ lex: hicxə
+ stem: hicxə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: hich kha minan not one of us
+ trans_ru: никакой
+
+-lexeme
+ lex: hiççum
+ stem: hiççum.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: приступ
+
+-lexeme
+ lex: hillət
+ stem: hillət.
+ gramm: N
+ paradigm: N_front
+ trans_en: craft, deceit, a trick
+ trans_ru: хитрость, коварство, уловка
+
+-lexeme
+ lex: hirsənə
+ stem: hirsənə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: furious, angry
+ trans_ru: яростный, свирепый
+
+-lexeme
+ lex: hişjər
+ stem: hişjər.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: cautious, watchful, careful
+ trans_ru: Мне должно держать ухо востро
+
+-lexeme
+ lex: hişjərutə
+ stem: hişjərutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: care
+ trans_ru: осторожность
+
+-lexeme
+ lex: hivij
+ stem: hivij.
+ gramm: N
+ paradigm: N_front
+ trans_en: kurd
+ trans_ru: надежда
+
+-lexeme
+ lex: hizzur
+ stem: hizzur.
+ gramm: N
+ paradigm: N_front
+ trans_en: presence
+ trans_ru: присутствие
+
+-lexeme
+ lex: honənə
+ stem: honənə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: wise, prudent
+ trans_ru: умный
+
+-lexeme
+ lex: honənutə
+ stem: honənutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: intellectuality, the capacity to know or understand
+ trans_ru: благоразумие
+
+-lexeme
+ lex: hotə
+ stem: hotə.
+ gramm: N
+ paradigm: N_front
+ trans_en: abyss
+ trans_ru: бездна
+
+-lexeme
+ lex: hudra
+ stem: hudra.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: готовый
+
+-lexeme
+ lex: hukmə
+ stem: hukmə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: власть
+
+-lexeme
+ lex: hulвuluqtə
+ stem: hulвuluqtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: bilüqtâ
+ trans_ru: петля
+
+-lexeme
+ lex: hurmət
+ stem: hurmət.
+ gramm: N
+ paradigm: N_front
+ trans_en: reverence, politeness
+ trans_ru: честь
+
+-lexeme
+ lex: huş
+ stem: huş.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: sense
+ trans_ru: чувства
+
+-lexeme
+ lex: icqə
+ stem: icqə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: каблук
+
+-lexeme
+ lex: udju
+ stem: udju.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: сегодня
+
+-lexeme
+ lex: ij
+ stem: .j.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: уществовать
+
+-lexeme
+ lex: ijdə
+ stem: ijdə.
+ gramm: N
+ paradigm: N_front
+ trans_en: /b
+ trans_ru: рука
+
+-lexeme
+ lex: ijdǝ-вijdǝ
+ stem: ijdǝ-вijdǝ.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: тотчас
+
+-lexeme
+ lex: ijlənə
+ stem: ijlənə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: дерево
+
+-lexeme
+ lex: ijmən
+ stem: ijmən.
+ gramm: PRN
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: когда
+
+-lexeme
+ lex: ijqə
+ stem: ijqə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: p.p. ‘’iq narrow, confined
+ trans_ru: узкий
+
+-lexeme
+ lex: ijtə
+ stem: ijtə.
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: дискурсивная частица или союз
+
+-lexeme
+ lex: ijtutə
+ stem: ijtutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: существование
+
+-lexeme
+ lex: illəki
+ stem: illəki.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: особенно
+
+-lexeme
+ lex: iltix
+ stem: iltix.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: внизу
+
+-lexeme
+ lex: immə
+ stem: immə.
+ gramm: NUM
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: сто
+
+-lexeme
+ lex: imperatura
+ stem: imperatura.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: императорский
+
+-lexeme
+ lex: impraturta
+ stem: impraturta.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: императрица
+
+-lexeme
+ lex: in
+ stem: in.
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: если
+
+-lexeme
+ lex: inə
+ stem: inə.
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: но
+
+-lexeme
+ lex: inglisnəjə
+ stem: inglisnəjə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: английский
+
+-lexeme
+ lex: injət
+ stem: injət.
+ gramm: N
+ paradigm: N_front
+ trans_en: conscience; intention, design
+ trans_ru: овесть
+
+-lexeme
+ lex: iqara
+ stem: iqara.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: честь
+
+-lexeme
+ lex: irbə
+ stem: irbə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a sheep
+ trans_ru: овца
+
+-lexeme
+ lex: irbijtə
+ stem: irbijtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: овечка
+
+-lexeme
+ lex: irxi
+ stem: irxi.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: мельница
+
+-lexeme
+ lex: isəqtə
+ stem: isəqtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: М 237b a ring, a signet
+ trans_ru: перстень
+
+-lexeme
+ lex: isrij
+ stem: isrij.
+ gramm: NUM
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: двадцать
+
+-lexeme
+ lex: işţasar
+ stem: işţasar.
+ gramm: NUM
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: шестнадцать
+
+-lexeme
+ lex: iştə
+ stem: iştə.
+ gramm: NUM
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: шесть
+
+-lexeme
+ lex: iştij
+ stem: iştij.
+ gramm: NUM
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: шестьдесят
+
+-lexeme
+ lex: itə
+ stem: itə.
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_en: then
+ trans_ru: а
+
+-lexeme
+ lex: itiqunəjə
+ stem: itiqunəjə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: нрвоучительный
+
+-lexeme
+ lex: itjə
+ stem: itjə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: существо
+
+-lexeme
+ lex: ixtijar
+ stem: ixtijar.
+ gramm: N
+ paradigm: N_back
+ trans_en: ‘pleasure, choice, option’
+ trans_ru: возможность
+
+-lexeme
+ lex: iz
+ stem: iz.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: след
+
+-lexeme
+ lex: izin
+ stem: izin.
+ gramm: N
+ paradigm: N_front
+ trans_en: leave, permission
+ trans_ru: разрешение, позволение
+
+-lexeme
+ lex: jabьj
+ stem: jabьj.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: кляча
+
+-lexeme
+ lex: jaddana
+ stem: jaddana.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: знающий
+
+-lexeme
+ lex: jadduvuta
+ stem: jadduvuta.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: знание
+
+-lexeme
+ lex: jalьxta
+ stem: jalьxta.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: платок
+
+-lexeme
+ lex: janь
+ stem: janь.
+ gramm: PART
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: Яшка сейчас лапкой заскребет мне бок
+
+-lexeme
+ lex: jaqura
+ stem: jaqura.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: тяжелый, грузный
+
+-lexeme
+ lex: jaquruta
+ stem: jaquruta.
+ gramm: N
+ paradigm: N_back
+ trans_en: jaqura
+ trans_ru: туча
+
+-lexeme
+ lex: jar
+ stem: jar.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: май
+
+-lexeme
+ lex: jarab
+ stem: jarab.
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_en: heigh ho! Mon Dieu!
+ trans_ru: неужели
+
+-lexeme
+ lex: jarьjxa, jarьxa
+ stem: jarьjxa, jarьxa.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: длинный
+
+-lexeme
+ lex: jassar
+ stem: jassar.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: stubborn, obstinate, pugnatious
+ trans_ru: злой, лютый, сварливый
+
+-lexeme
+ lex: jassaruta
+ stem: jassaruta.
+ gramm: N
+ paradigm: N_back
+ trans_en: jassar
+ trans_ru: вирепость
+
+-lexeme
+ lex: jasьr
+ stem: .j.s.r.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 121a
+ trans_ru: завязывать
+
+-lexeme
+ lex: jaşmaq
+ stem: jaşmaq.
+ gramm: N
+ paradigm: N_back
+ trans_en: Turk. род чадры
+ trans_ru: яшмак, род чадры
+
+-lexeme
+ lex: jaxьj
+ stem: jaxьj.
+ gramm: N
+ paradigm: N_back
+ trans_en: ?? cf. kha-yin a traitor
+ trans_ru: изменник
+
+-lexeme
+ lex: jaxьjuta
+ stem: jaxьjuta.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: измена
+
+-lexeme
+ lex: jemiş
+ stem: jemiş.
+ gramm: N
+ paradigm: N_front
+ trans_en: yémish fruit
+ trans_ru: фрукт
+
+-lexeme
+ lex: jeriş
+ stem: jeriş.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: походка
+
+-lexeme
+ lex: jə
+ stem: jə.
+ gramm: ITJ
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: о
+
+-lexeme
+ lex: jəkki
+ stem: jəkki.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: jēka big, large
+ trans_ru: грузный
+
+-lexeme
+ lex: jələ
+ stem: jələ.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: мальчик, юноша, парень
+
+-lexeme
+ lex: jəlip
+ stem: .j.l.p.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: научиться, привыкать
+
+-lexeme
+ lex: jəlpuj
+ stem: jəlpuj.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: веер
+
+-lexeme
+ lex: jəlzuj
+ stem: jəlzuj.
+ gramm: N
+ paradigm: N_front
+ trans_en: jalzu or -zui haste
+ trans_ru: пешка
+
+-lexeme
+ lex: jəmə
+ stem: jəmə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: море
+
+-lexeme
+ lex: jəmmijnəjə
+ stem: jəmmijnəjə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: правый
+
+-lexeme
+ lex: jən
+ stem: jən.
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: или
+
+-lexeme
+ lex: jəpi, pəjji
+ stem: .jp, pjj.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: печь
+
+-lexeme
+ lex: jəqdənə
+ stem: jəqdənə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: дрова
+
+-lexeme
+ lex: jəqid
+ stem: .j.q.d.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: гореть
+
+-lexeme
+ lex: jərqə
+ stem: jərqə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a herb, grass; greens, vegetables
+ trans_ru: овощи
+
+-lexeme
+ lex: jərxə
+ stem: jərxə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: месяц
+
+-lexeme
+ lex: jətv-
+ stem: .j.t.-.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: садиться
+
+-lexeme
+ lex: jəvəltə
+ stem: jəvəltə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: утешение
+
+-lexeme
+ lex: jəv-
+ stem: .j.v.-.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: давать
+
+-lexeme
+ lex: jəxnij
+ stem: jəxnij.
+ gramm: N
+ paradigm: N_front
+ trans_en: yahné a hash, stew
+ trans_ru: уха
+
+-lexeme
+ lex: jəxsijrutə
+ stem: jəxsijrutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: плен
+
+-lexeme
+ lex: jilidutə
+ stem: jilidutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: рождение
+
+-lexeme
+ lex: jimmə
+ stem: jimmə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: мать
+
+-lexeme
+ lex: jixidəjə
+ stem: jixidəjə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: единственный
+
+-lexeme
+ lex: jonə
+ stem: jonə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: голубь
+
+-lexeme
+ lex: jorxə
+ stem: jorxə.
+ gramm: N
+ paradigm: N_front
+ trans_en: &lt; tur. yorga рысца
+ trans_ru: иноходь
+
+-lexeme
+ lex: judəjə
+ stem: judəjə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: еврей
+
+-lexeme
+ lex: judəjə
+ stem: judəjə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: еврейский
+
+-lexeme
+ lex: jumə
+ stem: jumə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: день
+
+-lexeme
+ lex: juqrə
+ stem: juqrə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: вес
+
+-lexeme
+ lex: jurxə
+ stem: jurxə.
+ gramm: N
+ paradigm: N_front
+ trans_en: length
+ trans_ru: длина
+
+-lexeme
+ lex: juxsə
+ stem: juxsə.
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_en: or, or else
+ trans_ru: а то
+
+-lexeme
+ lex: jьssura
+ stem: jьssura.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: любовная
+
+-lexeme
+ lex: kəlibtə
+ stem: kəlibtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: сука, собачка
+
+-lexeme
+ lex: kəltə
+ stem: kəltə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: невестка, сноха
+
+-lexeme
+ lex: kənduri
+ stem: .k.n.r.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to roll, to roll away
+ trans_ru: катиться
+
+-lexeme
+ lex: əpurə
+ stem: əpurə.
+ gramm: N
+ paradigm: N_front
+ trans_en: adj. unbelieving, ungodly; subs. an apostate, infidel, heathen, unbeliever
+ trans_ru: безбожник
+
+-lexeme
+ lex: kərgə
+ stem: kərgə.
+ gramm: N
+ paradigm: N_front
+ trans_en: ?pers. گرهه giriha, girihha, A little knot; a joint in a herb;--guruha, A ball; a company of people
+ trans_ru: артель
+
+-lexeme
+ lex: kərtə
+ stem: kərtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a load, burden
+ trans_ru: ноша; груз; узел
+
+-lexeme
+ lex: kətərə
+ stem: kətərə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: сердитый
+
+-lexeme
+ lex: kəƶƶə
+ stem: kəƶƶə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: рыжий, с рыжими волосами
+
+-lexeme
+ lex: kipə-cəqməq
+ stem: kipə-cəqməq.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: кремень, огниво
+
+-lexeme
+ lex: ktəvə
+ stem: ktəvə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: письмо
+
+-lexeme
+ lex: ktəvtə
+ stem: ktəvtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: письмо, описание
+
+-lexeme
+ lex: kullənəit
+ stem: kullənəit.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: kul
+ trans_ru: В самом деле, что было бы с нами, если бы вместо общеудобного правила
+
+-lexeme
+ lex: kumə
+ stem: kumə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: черный
+
+-lexeme
+ lex: kurţijlə, kurtijlə, qurţijlə
+ stem: kurţijlə, kurtijlə, qurţijlə.
+ gramm: N
+ paradigm: N_front
+ trans_en: Kurd. kirte/a ‘petit d’un animal, chiot’ DKF 845; , 128 Kurd. ‘short’
+ trans_ru: щенок
+
+-lexeme
+ lex: kusijtə
+ stem: kusijtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: шапка
+
+-lexeme
+ lex: kuştь
+ stem: kuştь.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: борьба
+
+-lexeme
+ lex: kvəcə
+ stem: .k.v.c.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: a nomad
+ trans_ru: поселиться
+
+-lexeme
+ lex: lama
+ stem: lama.
+ gramm: N
+ paradigm: N_back
+ trans_en: Syr. bit, mouthpiece of bridle
+ trans_ru: удила
+
+-lexeme
+ lex: leşc
+ stem: leşc.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: rus
+ trans_ru: в
+
+-lexeme
+ lex: ləbaraj, l baraj
+ stem: ləbaraj, l baraj.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: -i
+ trans_ru: назад
+
+-lexeme
+ lex: ləhivijjutə
+ stem: ləhivijjutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: отчаяние
+
+-lexeme
+ lex: lə hurmətutə
+ stem: lə hurmətutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: Бесчестия я не переживу
+
+-lexeme
+ lex: lə ьqвaluta
+ stem: lə ьqвaluta.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: несчастье
+
+-lexeme
+ lex: lgib
+ stem: lgib.
+ gramm: PREP
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: к, в сторону
+
+-lexeme
+ lex: ljaţa
+ stem: .l.j.ţ.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 
+ trans_ru: проклинать
+
+-lexeme
+ lex: ljəjə
+ stem: .l.j.j.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: рыдать
+
+-lexeme
+ lex: ljəmə
+ stem: .l.j.m.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to blame, reproach, rebuke, accuse, raile against
+ trans_ru: поносить, хулить, оскорблять
+
+-lexeme
+ lex: ljəpə
+ stem: .l.j.p.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: M120а to learn
+ trans_ru: привыкать
+
+-lexeme
+ lex: lləjə, lhəjə
+ stem: .llj, lhj.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: lâhé, - to flame, burn; to be set on fire or alight; to be angry
+ trans_ru: гореть
+
+-lexeme
+ lex: lvədder
+ stem: lvədder.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: поехал за город
+
+-lexeme
+ lex: lvəşə
+ stem: .l.v.ş.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: надевать, носить
+
+-lexeme
+ lex: lvəxə
+ stem: .l.v.x.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to catch fire, ignite, flash, dart out as a spark
+ trans_ru: в
+
+-lexeme
+ lex: ujь
+ stem: .j.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: KCU + III ‘to cause to be liked’
+ trans_ru: Когда Яшка хотел понравиться, он становился очень ласковым
+
+-lexeme
+ lex: macmucь
+ stem: .m.c.c.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 
+ trans_ru: чмокать
+
+-lexeme
+ lex: macmuji
+ stem: .m.c.j.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 
+ trans_ru: гасить
+
+-lexeme
+ lex: makmulь
+ stem: .m.k.l.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 
+ trans_ru: совершенствовать
+
+-lexeme
+ lex: malla
+ stem: malla.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: мулла
+
+-lexeme
+ lex: mapculь
+ stem: .m.p.l.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to crook; to bend; to curve; to make crooked
+ trans_ru: искривлять , изгибать, делать кривым
+
+-lexeme
+ lex: mapşьmana
+ stem: mapşьmana.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: mpašmin to grieve
+ trans_ru: печальный
+
+-lexeme
+ lex: marmarta
+ stem: marmarta.
+ gramm: N
+ paradigm: N_back
+ trans_en: mermir to growl; to be angry; to purr; to mutter; to brawl
+ trans_ru: рычание
+
+-lexeme
+ lex: marpujь
+ stem: .m.r.j.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 
+ trans_ru: разжимать
+
+-lexeme
+ lex: masqutь
+ stem: .m.s.t.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to be, become, or make lame; :212 masqǝt ‘to cripple, paralize’
+ trans_ru: делать хромым
+
+-lexeme
+ lex: maxazja
+ stem: maxazja.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: магазин
+
+-lexeme
+ lex: mazuzta
+ stem: mazuzta.
+ gramm: N
+ paradigm: N_back
+ trans_en: a lizard
+ trans_ru: ящерица
+
+-lexeme
+ lex: maьrva
+ stem: maьrva.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: запад
+
+-lexeme
+ lex: mdijtə
+ stem: mdijtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a city, town
+ trans_ru: город
+
+-lexeme
+ lex: mesana
+ stem: mesana.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: méṣânâ a suckling
+ trans_ru: сосущий
+
+-lexeme
+ lex: məçmə
+ stem: məçmə.
+ gramm: N
+ paradigm: N_front
+ trans_en: Azer. ‘большой круглый поднос с различными рисунками’ ARL IV:349 &lt; Arab
+ trans_ru: поднос
+
+-lexeme
+ lex: məçrupi
+ stem: .m.ç.p.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: Шваркнет рыбак рыбину
+
+-lexeme
+ lex: məduvi, məduvvi
+ stem: .mdv, mdvv.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: успевать
+
+-lexeme
+ lex: məkkupi
+ stem: .m.k.p.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: опускать
+
+-lexeme
+ lex: məkruci
+ stem: .m.k.c.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: Ничего не находит, а делает вид, что поймал зверя
+
+-lexeme
+ lex: məkusi
+ stem: .m.k.s.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: = to cover; hide
+ trans_ru: закрывать
+
+-lexeme
+ lex: məlik, məlig
+ stem: məlik, məlig.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: малик
+
+-lexeme
+ lex: məlikkutə
+ stem: məlikkutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: маликство
+
+-lexeme
+ lex: mənduji
+ stem: .m.n.j.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to throw
+ trans_ru: бросать, швырять
+
+-lexeme
+ lex: mərdə
+ stem: mərdə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 198a , brave, energetic, generous
+ trans_ru: смелый
+
+-lexeme
+ lex: məşxuni
+ stem: .m.ş.n.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: согревать
+
+-lexeme
+ lex: məxxuji
+ stem: .m.x.j.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to revive, quicken, bring to life
+ trans_ru: оживлять
+
+-lexeme
+ lex: məzjudi
+ stem: .m.z.d.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: добавлять
+
+-lexeme
+ lex: middur
+ stem: middur.
+ gramm: N
+ paradigm: N_front
+ trans_en: cf. ? ? a deputy-governor, sub-governor; middur — pristav d go Rusьja OSQ p. 25
+ trans_ru: пристав
+
+-lexeme
+ lex: mijs
+ stem: mijs.
+ gramm: N
+ paradigm: N_front
+ trans_en: a table
+ trans_ru: Но ничто так не тяжело, как стоять на одном месте перед кухонным столом и чистить картошку
+
+-lexeme
+ lex: mijtə
+ stem: mijtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: мертвый
+
+-lexeme
+ lex: mixulta
+ stem: mixulta.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: пища
+
+-lexeme
+ lex: mnəjə
+ stem: .m.n.j.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: считать
+
+-lexeme
+ lex: mraca
+ stem: .m.r.c.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 
+ trans_ru: давить
+
+-lexeme
+ lex: mudjamu
+ stem: mudjamu.
+ gramm: PRON
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: Ничего не находит, а делает вид, что поймал зверя
+
+-lexeme
+ lex: muxkəm
+ stem: muxkəm.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: III:238 +muxcum ‘hard’
+ trans_ru: плотный
+
+-lexeme
+ lex: muxrьmma
+ stem: muxrьmma.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: makhrim to excommunicate; to curse tr. and intr., anathematize; in pass. to be accursed
+ trans_ru: проклятый
+
+-lexeme
+ lex: nalazьm
+ stem: nalazьm.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: вь
+
+-lexeme
+ lex: namusa
+ stem: namusa.
+ gramm: N
+ paradigm: N_back
+ trans_en: a law; esp. the Law of Moses
+ trans_ru: мораль
+
+-lexeme
+ lex: narazьj
+ stem: narazьj.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: вь
+
+-lexeme
+ lex: naxrunь
+ stem: .n.x.n.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 
+ trans_ru: чуждаться
+
+-lexeme
+ lex: nəsjət
+ stem: nəsjət.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: совет
+
+-lexeme
+ lex: znuzi
+ stem: .z.n.z.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: подвизгивать
+
+-lexeme
+ lex: nhəjə
+ stem: .n.h.j.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: в
+
+-lexeme
+ lex: niqvə
+ stem: niqvə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: женский пол, женщина
+
+-lexeme
+ lex: nizвət
+ stem: nizвət.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: отношение
+
+-lexeme
+ lex: njəxə
+ stem: njəxə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: покой
+
+-lexeme
+ lex: npəltə
+ stem: npəltə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: падение
+
+-lexeme
+ lex: npəxə
+ stem: .n.p.x.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: дуть
+
+-lexeme
+ lex: ojun
+ stem: ojun.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: play, game
+ trans_ru: партия
+
+-lexeme
+ lex: omma
+ stem: omma.
+ gramm: N
+ paradigm: N_back
+ trans_en: Azer. ovma холера ARL III:619
+ trans_ru: холера
+
+-lexeme
+ lex: oqun
+ stem: oqun.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: 
+ trans_ru: И щуки, и окуни, и головли, и плотва, и гольцы
+
+-lexeme
+ lex: pejtaxt, pejtəxt
+ stem: pejtaxt, pejtəxt.
+ gramm: N
+ paradigm: N_back
+ trans_en: Pers. پاى -, The foot of the throne; the metropolis
+ trans_ru: столица
+
+-lexeme
+ lex: pərpuji
+ stem: .p.r.j.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to rinse; to rinse
+ trans_ru: плескать
+
+-lexeme
+ lex: pisqar
+ stem: pisqar.
+ gramm: N
+ paradigm: N_back
+ trans_en: rus
+ trans_ru: пискарь
+
+-lexeme
+ lex: pisqə
+ stem: pisqə.
+ gramm: N
+ paradigm: N_front
+ trans_en: flock
+ trans_ru: скот
+
+-lexeme
+ lex: pjəşə
+ stem: .p.j.ş.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: пока примеров написания с
+
+-lexeme
+ lex: plaşa
+ stem: .p.l.ş.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 
+ trans_ru: драться
+
+-lexeme
+ lex: plaşa
+ stem: plaşa.
+ gramm: N
+ paradigm: N_back
+ trans_en: v
+ trans_ru: поединок
+
+-lexeme
+ lex: plaţa
+ stem: .p.l.ţ.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 
+ trans_ru: выходить
+
+-lexeme
+ lex: plaţa
+ stem: plaţa.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: следствие
+
+-lexeme
+ lex: pləjə
+ stem: .p.l.j.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: KCU I ‘to search for lice in hair; to delouse’
+ trans_ru: искать
+
+-lexeme
+ lex: plotva
+ stem: plotva.
+ gramm: N
+ paradigm: N_back
+ trans_en: rus
+ trans_ru: И щуки, и окуни, и головли, и плотва, и гольцы
+
+-lexeme
+ lex: prəşə
+ stem: .p.r.ş.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to separate tr., divide; to be separated or divided; to judge, decide; to discern
+ trans_ru: отделять
+
+-lexeme
+ lex: prǝştǝ
+ stem: prǝştǝ.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: 
+ trans_ru: разлука
+
+-lexeme
+ lex: prizlə
+ stem: prizlə.
+ gramm: N
+ paradigm: N_front
+ trans_en: iron
+ trans_ru: кистень
+
+-lexeme
+ lex: prizlə
+ stem: prizlə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: железный
+
+-lexeme
+ lex: psaxa
+ stem: .p.s.x.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to be glad, to rejoice
+ trans_ru: торжествовать
+
+-lexeme
+ lex: psaxa
+ stem: psaxa.
+ gramm: N
+ paradigm: N_back
+ trans_en: cf. to be glad, to rejoice
+ trans_ru: восторг
+
+-lexeme
+ lex: psьjxa
+ stem: psьjxa.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: psaxa
+ trans_ru: радостный
+
+-lexeme
+ lex: puh
+ stem: puh.
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: тьфу
+
+-lexeme
+ lex: puxun
+ stem: puxun.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: 
+ trans_ru: в
+
+-lexeme
+ lex: pьrţana
+ stem: pьrţana.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: блоха
+
+-lexeme
+ lex: qadda-balla
+ stem: qadda-balla.
+ gramm: N
+ paradigm: N_back
+ trans_en: +-+balla ‘disaster, misfortune, calamity’
+ trans_ru: беда
+
+-lexeme
+ lex: qarьjra
+ stem: qarьjra.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: холодный
+
+-lexeme
+ lex: qaţrana
+ stem: qaţrana.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: изогнутый, сгорбленный
+
+-lexeme
+ lex: qdəxə
+ stem: .q.d.x.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: соединять
+
+-lexeme
+ lex: qəlmə
+ stem: qəlmə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: вошь
+
+-lexeme
+ lex: qəlpə
+ stem: qəlpə.
+ gramm: N
+ paradigm: N_front
+ trans_en: skin, rind of fruit, crust; a pod; bark; a scale of a fish
+ trans_ru: кора
+
+-lexeme
+ lex: qəltə
+ stem: qəltə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: корзинка
+
+-lexeme
+ lex: qəmetə
+ stem: qəmetə.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: прежде
+
+-lexeme
+ lex: qənə
+ stem: qənə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a horn, lit. and the musical instrument; a trump
+ trans_ru: рог
+
+-lexeme
+ lex: qəppəz
+ stem: qəppəz.
+ gramm: N
+ paradigm: N_front
+ trans_en: qappas ‘cage’
+ trans_ru: клетка
+
+-lexeme
+ lex: qərəвin?
+ stem: qərəвin?.
+ gramm: N
+ paradigm: N_front
+ trans_en: a carabine, musket
+ trans_ru: в
+
+-lexeme
+ lex: qərqupi
+ stem: .q.r.p.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: изумиться
+
+-lexeme
+ lex: qəşmərutə
+ stem: qəşmərutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: cf. a dandy, one who dresses smartly; тур. шут, фигляр, паяц, клоун
+ trans_ru: игривость
+
+-lexeme
+ lex: qismət
+ stem: qismət.
+ gramm: N
+ paradigm: N_front
+ trans_en: part, lot, fate
+ trans_ru: участь
+
+-lexeme
+ lex: ə
+ stem: ..
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: OS qbb
+ trans_ru: клубиться
+
+-lexeme
+ lex: qoccə
+ stem: qoccə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: баран
+
+-lexeme
+ lex: qţapa
+ stem: qţapa.
+ gramm: N
+ paradigm: N_back
+ trans_en: vintage
+ trans_ru: сбор винограда
+
+-lexeme
+ lex: quca
+ stem: quca.
+ gramm: N
+ paradigm: N_back
+ trans_en: the thumb
+ trans_ru: большой палец
+
+-lexeme
+ lex: qujmar
+ stem: qujmar.
+ gramm: N
+ paradigm: N_back
+ trans_en: Azer. qumar &lt; Arab
+ trans_ru: азартная игра
+
+-lexeme
+ lex: qvara
+ stem: .q.v.r.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 
+ trans_ru: хоронить
+
+-lexeme
+ lex: raba
+ stem: raba.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: много
+
+-lexeme
+ lex: rahţa
+ stem: rahţa.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: процесс
+
+-lexeme
+ lex: rixşə
+ stem: .r.x.ş.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: идти
+
+-lexeme
+ lex: rьçba
+ stem: rьçba.
+ gramm: N
+ paradigm: N_back
+ trans_en: an insect, a reptile
+ trans_ru: насекомое
+
+-lexeme
+ lex: salamat
+ stem: salamat.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: здоровый
+
+-lexeme
+ lex: salamat
+ stem: salamat.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: благополучно
+
+-lexeme
+ lex: salamat
+ stem: salamat.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: благополучие
+
+-lexeme
+ lex: sansulь
+ stem: .s.n.l.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to flow, to pour out; to pour
+ trans_ru: литься
+
+-lexeme
+ lex: savdakar
+ stem: savdakar.
+ gramm: N
+ paradigm: N_back
+ trans_en: Pers. a merchant
+ trans_ru: купец, лавочник
+
+-lexeme
+ lex: sedə
+ stem: sedə.
+ gramm: N
+ paradigm: N_front
+ trans_en: hunting, a hunt, capture; fishing; prey, game, venison
+ trans_ru: рыбная ловля
+
+-lexeme
+ lex: sejran
+ stem: sejran.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: прогуливаться
+
+-lexeme
+ lex: siqlə
+ stem: siqlə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: украшение
+
+-lexeme
+ lex: sləbə
+ stem: .s.l.b.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: обобрать
+
+-lexeme
+ lex: sləbə
+ stem: sləbə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: грабеж
+
+-lexeme
+ lex: sməjə
+ stem: sməjə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: слепой
+
+-lexeme
+ lex: sməjə
+ stem: .s.m.j.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: быть слепым
+
+-lexeme
+ lex: snəjəti
+ stem: snəjəti.
+ gramm: PL
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: презрение
+
+-lexeme
+ lex: sona
+ stem: sona.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: в
+
+-lexeme
+ lex: sqripqa
+ stem: sqripqa.
+ gramm: N
+ paradigm: N_back
+ trans_en: rus
+ trans_ru: скрипка
+
+-lexeme
+ lex: sulluktə
+ stem: sulluktə.
+ gramm: N
+ paradigm: N_front
+ trans_en: ср. аз. suluq волдырь
+ trans_ru: свернуться
+
+-lexeme
+ lex: susьjta
+ stem: susьjta.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: прядь
+
+-lexeme
+ lex: sustə
+ stem: sustə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: кобыла, кобылица
+
+-lexeme
+ lex: sxaja
+ stem: .s.x.j.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 
+ trans_ru: купаться
+
+-lexeme
+ lex: sьvja
+ stem: sьvja.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: svaja
+ trans_ru: сытый
+
+-lexeme
+ lex: şarrat, şar’at
+ stem: şarrat, şar’at.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: закон
+
+-lexeme
+ lex: şcuqa, şcuqə
+ stem: şcuqa, şcuqə.
+ gramm: N
+ paradigm: N_back
+ trans_en: rus
+ trans_ru: щука
+
+-lexeme
+ lex: şəhrə
+ stem: şəhrə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: жир
+
+-lexeme
+ lex: şəmuhi
+ stem: .ş.m.h.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to name
+ trans_ru: называть
+
+-lexeme
+ lex: şəvitənə
+ stem: şəvitənə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: соблазнительный
+
+-lexeme
+ lex: şəvuti
+ stem: .ş.v.t.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to desire, wish; to covet, lust after
+ trans_ru: сильно желать, вожделеть
+
+-lexeme
+ lex: şiddə, şidə
+ stem: şiddə, şidə.
+ gramm: N
+ paradigm: N_front
+ trans_en: šədda n.f. female demon
+ trans_ru: ведьма
+
+-lexeme
+ lex: şidənə
+ stem: şidənə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: безумный
+
+-lexeme
+ lex: şidənutə
+ stem: şidənutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: безумие
+
+-lexeme
+ lex: şidunə
+ stem: şidunə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: бесенок
+
+-lexeme
+ lex: şilgimtə
+ stem: şilgimtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: pers. shalg̠, A turnip, rape
+ trans_ru: репа
+
+-lexeme
+ lex: şiljə
+ stem: şiljə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: p.p. quiet, silent, prosperous
+ trans_ru: миренный
+
+-lexeme
+ lex: şjaja
+ stem: .ş.j.j.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: +šayyə I to plaster, to smear, to stick
+ trans_ru: вцепиться, впиться
+
+-lexeme
+ lex: şləgə
+ stem: .ş.l.g.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to pluck, pluck up
+ trans_ru: выдёргивать
+
+-lexeme
+ lex: şlijxə
+ stem: şlijxə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: развратное поведение
+
+-lexeme
+ lex: şlijxə
+ stem: şlijxə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: апостол
+
+-lexeme
+ lex: şnəjə
+ stem: .ş.n.j.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: shānī to faint
+ trans_ru: лишаться чувств, испытывать припадок
+
+-lexeme
+ lex: şraja
+ stem: şraja.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: лампа
+
+-lexeme
+ lex: şraja
+ stem: .ş.r.j.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to judge
+ trans_ru: удить
+
+-lexeme
+ lex: şurri
+ stem: şurri.
+ gramm: PL
+ paradigm: unchangeable
+ trans_en: clothes, luggage
+ trans_ru: вещи
+
+-lexeme
+ lex: şuxra
+ stem: şuxra.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: оброк
+
+-lexeme
+ lex: şxunjə
+ stem: şxunjə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: тепло
+
+-lexeme
+ lex: şьxra
+ stem: şьxra.
+ gramm: N
+ paradigm: N_back
+ trans_en: +šəxra ‘soot’
+ trans_ru: сажа
+
+-lexeme
+ lex: taв
+ stem: taв.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: выдержка
+
+-lexeme
+ lex: talьm
+ stem: talьm.
+ gramm: N
+ paradigm: N_back
+ trans_en: сf. жестокость
+ trans_ru: наказание
+
+-lexeme
+ lex: təвliв
+ stem: .t.в.в.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: аккуратно устроить
+
+-lexeme
+ lex: təfsil
+ stem: təfsil.
+ gramm: N
+ paradigm: N_front
+ trans_en: taph-sil detail, a narrative which related minute points
+ trans_ru: в
+
+-lexeme
+ lex: təgвir
+ stem: təgвir.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: план
+
+-lexeme
+ lex: təlmudi
+ stem: .t.l.d.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: воспитывать
+
+-lexeme
+ lex: təmmizənə
+ stem: təmmizənə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: ершик
+
+-lexeme
+ lex: təntuni
+ stem: .t.n.n.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: коптить
+
+-lexeme
+ lex: təppə
+ stem: təppə.
+ gramm: N
+ paradigm: N_front
+ trans_en: ? Kurd. tep paume de la main, coup DKF 1679
+ trans_ru: одна из четырех сторон игральной кости; выпуклая сторона, противоположная
+
+-lexeme
+ lex: tərqəltə
+ stem: tərqəltə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: преткновение
+
+-lexeme
+ lex: tərxənutə
+ stem: tərxənutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: Pers. , Free, exempted from tribute or taxes, not amenable to punishment
+ trans_ru: льгота
+
+-lexeme
+ lex: təşqəl
+ stem: təşqəl.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: лживый
+
+-lexeme
+ lex: təzij
+ stem: təzij.
+ gramm: N
+ paradigm: N_front
+ trans_en: mourning
+ trans_ru: оплакивание
+
+-lexeme
+ lex: tjəmə
+ stem: .t.j.m.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to сome to an end, to end, finish; to destroy, consume; to be destroyed; to accomplish, to make up a number
+ trans_ru: заканчиваться
+
+-lexeme
+ lex: tləj
+ stem: tləj.
+ gramm: NUM
+ paradigm: unchangeable
+ trans_en: thirty
+ trans_ru: тридцать
+
+-lexeme
+ lex: tləqə
+ stem: .t.l.q.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 322a to throw, cast away
+ trans_ru: исчезать
+
+-lexeme
+ lex: tpənə
+ stem: .t.p.n.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: плесневеть
+
+-lexeme
+ lex: tremmə
+ stem: tremmə.
+ gramm: NUM
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: триста
+
+-lexeme
+ lex: tula
+ stem: tula.
+ gramm: N
+ paradigm: N_back
+ trans_en: revenge; tula d…to avenge, to take revenge for
+ trans_ru: это он ему мстил за то, что отец вздул его накануне
+
+-lexeme
+ lex: turə
+ stem: turə.
+ gramm: N
+ paradigm: N_front
+ trans_en: a twig, a shoot, an osier
+ trans_ru: веточка, прут
+
+-lexeme
+ lex: turqələ
+ stem: turqələ.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: препятствие
+
+-lexeme
+ lex: tvənə
+ stem: .t.v.n.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to be or become numb
+ trans_ru: неметь, цепенеть
+
+-lexeme
+ lex: tvirtə
+ stem: tvirtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: = an empty bier
+ trans_ru: гроб
+
+-lexeme
+ lex: txərə
+ stem: .t.x.r.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: помнить
+
+-lexeme
+ lex: txərə
+ stem: txərə.
+ gramm: N
+ paradigm: N_front
+ trans_en: v
+ trans_ru: воспоминание
+
+-lexeme
+ lex: txəsə
+ stem: .t.x.s.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: совать
+
+-lexeme
+ lex: tьjan
+ stem: tьjan.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: котел
+
+-lexeme
+ lex: tьjanca
+ stem: tьjanca.
+ gramm: N
+ paradigm: N_back
+ trans_en: a kettle
+ trans_ru: котелок
+
+-lexeme
+ lex: ţallь
+ stem: .ţ.l.l.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 
+ trans_ru: дремать
+
+-lexeme
+ lex: ţama
+ stem: ţama.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: вкус
+
+-lexeme
+ lex: ţamta
+ stem: ţamta.
+ gramm: N
+ paradigm: N_back
+ trans_en: III:314 breakfast
+ trans_ru: завтрак
+
+-lexeme
+ lex: ţava
+ stem: ţava.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: добрый
+
+-lexeme
+ lex: ţərpə
+ stem: ţərpə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: И невода, и сети, и верши, и норота
+
+-lexeme
+ lex: ţip(i)l?
+ stem: ţip(i)l?.
+ gramm: N
+ paradigm: N_front
+ trans_en: an infant, a baby
+ trans_ru: ребенок
+
+-lexeme
+ lex: ţyaxa
+ stem: .ţ.y.x.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 
+ trans_ru: затихнуть, присмиреть
+
+-lexeme
+ lex: ţopana
+ stem: ţopana.
+ gramm: N
+ paradigm: N_back
+ trans_en: a flood
+ trans_ru: потоп
+
+-lexeme
+ lex: ţьllьsьm
+ stem: ţьllьsьm.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: колдовство
+
+-lexeme
+ lex: ţьpra
+ stem: ţьpra.
+ gramm: N
+ paradigm: N_back
+ trans_en: a nail, claw
+ trans_ru: ноготь
+
+-lexeme
+ lex: vaj
+ stem: vaj.
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: ах
+
+-lexeme
+ lex: vədrə
+ stem: vədrə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: Он обнял стакан, как ведро
+
+-lexeme
+ lex: vəlvuli
+ stem: .v.l.l.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to wail, cry, howl
+ trans_ru: вопить, выть, рыдать
+
+-lexeme
+ lex: vəsjət
+ stem: vəsjət.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: завещание
+
+-lexeme
+ lex: xalva
+ stem: xalva.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: молоко
+
+-lexeme
+ lex: xamurnaja
+ stem: xamurnaja.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: кислый, кисловатый
+
+-lexeme
+ lex: xdara
+ stem: .x.d.r.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to go round etc
+ trans_ru: ходить
+
+-lexeme
+ lex: xdara
+ stem: xdara.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: гулянье
+
+-lexeme
+ lex: xəjə
+ stem: .xj.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: жить
+
+-lexeme
+ lex: xəjə
+ stem: xəjə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: бойкий, живой
+
+-lexeme
+ lex: xəjmə
+ stem: xəjmə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: = hot
+ trans_ru: горячий, жаркий
+
+-lexeme
+ lex: xəlluni
+ stem: .x.l.n.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to strengthen, to obecome strong, to encourage
+ trans_ru: ободрять
+
+-lexeme
+ lex: xətə
+ stem: xətə.
+ gramm: ADJ
+ paradigm: ADJ_front
+ trans_en: 
+ trans_ru: новый
+
+-lexeme
+ lex: xidjutə
+ stem: xidjutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: радость
+
+-lexeme
+ lex: ximtə
+ stem: ximtə.
+ gramm: N
+ paradigm: N_front
+ trans_en: anger; wrath; rage; fury
+ trans_ru: гнев; ярость
+
+-lexeme
+ lex: xirutə
+ stem: xirutə.
+ gramm: N
+ paradigm: N_front
+ trans_en: freedom
+ trans_ru: свобода
+
+-lexeme
+ lex: xişşə-xiş
+ stem: xişşə-xiş.
+ gramm: N
+ paradigm: N_front
+ trans_en: xəšša-xəš n.f. rustling sound
+ trans_ru: Разряженная
+
+-lexeme
+ lex: xlava
+ stem: .x.l.v.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to milk; to give milk
+ trans_ru: доить
+
+-lexeme
+ lex: xlusa
+ stem: xlusa.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: xlasa
+ trans_ru: тугой
+
+-lexeme
+ lex: xon
+ stem: xon.
+ gramm: N
+ paradigm: N_back
+ paradigm: N_front
+ trans_en: Pers. a sort of tray or table
+ trans_ru: в
+
+-lexeme
+ lex: xpəqə
+ stem: .x.p.q.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: 
+ trans_ru: обнимать
+
+-lexeme
+ lex: xrəqə
+ stem: xrəqə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: уничтожение
+
+-lexeme
+ lex: xu
+ stem: xu.
+ gramm: INTERJ
+ paradigm: unchangeable
+ trans_en: Ah! Oh! Tush!
+ trans_ru: Ведь не все же бить жидов
+
+-lexeme
+ lex: xujədə
+ stem: xujədə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: союз, уния
+
+-lexeme
+ lex: xut xəcə
+ stem: xut xəcə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: подмышка
+
+-lexeme
+ lex: xvara
+ stem: xvara.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: белый
+
+-lexeme
+ lex: xvara
+ stem: .x.v.r.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: to whiten, to become white
+ trans_ru: побелеть, побледнеть
+
+-lexeme
+ lex: xvarnaja
+ stem: xvarnaja.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: whitish
+ trans_ru: серенькие тучи
+
+-lexeme
+ lex: xьlja
+ stem: xьlja.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: xlaja
+ trans_ru: милый
+
+-lexeme
+ lex: xьlja
+ stem: xьlja.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: сладость
+
+-lexeme
+ lex: xьlţa
+ stem: xьlţa.
+ gramm: ADJ
+ paradigm: ADJ_back
+ trans_en: 
+ trans_ru: ложный
+
+-lexeme
+ lex: xьlţa
+ stem: xьlţa.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: недоразумение
+
+-lexeme
+ lex: a
+ stem: a.
+ gramm: N
+ paradigm: N_back
+ trans_en: gendarme; — OSQ p. 25
+ trans_ru: жандарм, полицейский
+
+-lexeme
+ lex: zbəqə
+ stem: .z.b.q.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to struggle, wrestle; to pile up fuel in an oven
+ trans_ru: бороться
+
+-lexeme
+ lex: zena
+ stem: zena.
+ gramm: N
+ paradigm: N_back
+ trans_en: ? Syr. ‘shield, armour’
+ trans_ru: запятая
+
+-lexeme
+ lex: zi
+ stem: zi.
+ gramm: CONJ
+ paradigm: unchangeable
+ trans_en: also, too; Kurmanji ; Berwari ; Zaza
+ trans_ru: также, тоже
+
+-lexeme
+ lex: zilə
+ stem: zilə.
+ gramm: N
+ paradigm: N_front
+ trans_en: 
+ trans_ru: осока
+
+-lexeme
+ lex: zjənə
+ stem: zjənə.
+ gramm: N
+ paradigm: N_front
+ trans_en: mischief, injury
+ trans_ru: вред
+
+-lexeme
+ lex: zlumjə
+ stem: zlumjə.
+ gramm: N
+ paradigm: N_front
+ trans_en: oppression
+ trans_ru: притеснение
+
+-lexeme
+ lex: zmaţa
+ stem: .z.m.ţ.
+ gramm: V
+ paradigm: V_strong_back
+ trans_en: 
+ trans_ru: валить, насыпать
+
+-lexeme
+ lex: zmərə
+ stem: .z.m.r.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: OS
+ trans_ru: петь
+
+-lexeme
+ lex: zmərə
+ stem: zmərə.
+ gramm: N
+ paradigm: N_front
+ trans_en: v
+ trans_ru: песня
+
+-lexeme
+ lex: zrəqə
+ stem: .z.r.q.
+ gramm: V
+ paradigm: V_strong_front
+ trans_en: to rise as the sun or a star; to sprinkle; to scatter
+ trans_ru: восходить
+
+-lexeme
+ lex: ьçaza
+ stem: ьçaza.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: разрешение
+
+-lexeme
+ lex: ьqra
+ stem: ьqra.
+ gramm: N
+ paradigm: N_back
+ trans_en: 
+ trans_ru: корень
+
