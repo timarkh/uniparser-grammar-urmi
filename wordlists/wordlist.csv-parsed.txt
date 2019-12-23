@@ -41,7 +41,7 @@
 <w><ana lex="dunji" gr="N,sg,nonposs" parts="dunji" gloss="STEM" trans_en="" trans_ru="мир Т"></ana>dunji</w>
 <w><ana lex="bit" gr="PART" parts="bit" gloss="STEM" trans_en="" trans_ru="частица будущего времени"></ana>bit</w>
 <w><ana lex="ktəvə" gr="N,sg,nonposs" parts="ktəvə" gloss="STEM" trans_en="" trans_ru="письмо"></ana>ktəvə</w>
-<w><ana lex="gdijlə" gr="N,sg,nonposs" parts="gdijlə" gloss="STEM" trans_en="" trans_ru="лед"></ana>gdijlə</w>
+<w><ana lex="gdijlə" gr="N,sg,nonposs" parts="gdijlə" gloss="STEM" trans_en="" trans_ru="лед"></ana><ana lex="gdələ" gr="V,ptcp.pst,sg,m" parts="gd<ij>l-ə" gloss="<>STEM" trans_en="OS. to weave, braid, wreathe" trans_ru="плести"></ana>gdijlə</w>
 <w><ana lex="di" gr="ITJ" parts="di" gloss="STEM" trans_en="come now! be off! di, d particle that adds immediacy to imperatives" trans_ru="давай"></ana>di</w>
 <w><ana lex="ən" gr="DPRN" parts="ən" gloss="STEM" trans_en="" trans_ru="после предлогов"></ana>ən</w>
 <w><ana lex="çihil" gr="ADJ,sg" parts="çihil" gloss="STEM" trans_en="young, foolish; to be foolish" trans_ru="Т"></ana>çihil</w>
@@ -61,6 +61,7 @@
 <w><ana lex="hukmə" gr="N,sg,nonposs" parts="hukmə" gloss="STEM" trans_en="" trans_ru="власть"></ana>hukmə</w>
 <w><ana lex="iltix" gr="ADV" parts="iltix" gloss="STEM" trans_en="" trans_ru="внизу"></ana>iltix</w>
 <w><ana lex="ax" gr="ITJ" parts="ax" gloss="STEM" trans_en="Alas!" trans_ru="ах"></ana>ax</w>
+<w><ana lex="prəşə" gr="V,ptcp.pst,pl" parts="pr<ij>ş-i" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>prijşi</w>
 <w><ana lex="dajьm" gr="ADV" parts="dajьm" gloss="STEM" trans_en="" trans_ru="всегда"></ana>dajьm</w>
 <w><ana lex="azad" gr="ADJ,sg" parts="azad" gloss="STEM" trans_en="free; freeman" trans_ru="свободный"></ana>azad</w>
 <w><ana lex="dipnə" gr="N,sg,nonposs" parts="dipnə" gloss="STEM" trans_en="the side" trans_ru="торона, бок"></ana>dipnə</w>
@@ -73,6 +74,7 @@
 <w><ana lex="hə" gr="PART" parts="hə" gloss="STEM" trans_en="" trans_ru="Пушку туда перетащили накануне"></ana>hə</w>
 <w><ana lex="janь" gr="PART" parts="janь" gloss="STEM" trans_en="" trans_ru="Яшка сейчас лапкой заскребет мне бок"></ana>janь</w>
 <w><ana lex="hazьr" gr="ADJ,sg" parts="hazьr" gloss="STEM" trans_en="" trans_ru="готовый"></ana>hazьr</w>
+<w><ana lex="gdələ" gr="V,ptcp.pst,pl" parts="gd<ij>l-i" gloss="<>STEM" trans_en="OS. to weave, braid, wreathe" trans_ru="плести"></ana>gdijli</w>
 <w><ana lex="dəstə" gr="N,sg,nonposs" parts="dəstə" gloss="STEM" trans_en="class; dasta group, party, band, company, gang, team" trans_ru="класс"></ana>dəstə</w>
 <w><ana lex="jə" gr="ITJ" parts="jə" gloss="STEM" trans_en="" trans_ru="о"></ana>jə</w>
 <w><ana lex="prizlə" gr="ADJ,sg" parts="prizlə" gloss="STEM" trans_en="" trans_ru="железный"></ana><ana lex="prizlə" gr="N,sg,nonposs" parts="prizlə" gloss="STEM" trans_en="iron" trans_ru="кистень"></ana>prizlə</w>
@@ -102,6 +104,7 @@
 <w><ana lex="grəşə" gr="V,pst,3,sg,m.s" parts="gr<i>ş-li" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana>grişli</w>
 <w><ana lex="xu" gr="INTERJ" parts="xu" gloss="STEM" trans_en="Ah! Oh! Tush!" trans_ru="Ведь не все же бить жидов"></ana>xu</w>
 <w><ana lex="buş" gr="ADV" parts="buş" gloss="STEM" trans_en="besh much, more, best, proper; more" trans_ru="более"></ana>buş</w>
+<w><ana lex="dvəqə" gr="V,ptcp.pst,sg,m" parts="dv<ij>q-ə" gloss="<>STEM" trans_en="to catch, hold, seize, take, take hold oj, grip, handle; to stop tr., d. to restrain oneself, to be temperate; to hire; to correspond to or together; to take, take prisoner; to surprise a fortress; to celebrate, keep a feast; to keep, keep to, often with b.; to uphold; to contain lit. and in arith.; MB. to pickle in vinegar; in pass. to be frozen; ̭ I" trans_ru="держать"></ana>dvijqə</w>
 <w><ana lex="plaţa" gr="V,prs,3,sg,m.s" parts="p<a>l<ь>ţ" gloss="<><>STEM" trans_en="" trans_ru="выходить"></ana>palьţ</w>
 <w><ana lex="elm" gr="N,sg,nonposs" parts="elm" gloss="STEM" trans_en="ilm" trans_ru="наука"></ana>elm</w>
 <w><ana lex="isrij" gr="NUM" parts="isrij" gloss="STEM" trans_en="" trans_ru="двадцать"></ana>isrij</w>
@@ -110,6 +113,7 @@
 <w><ana lex="ətijqə" gr="ADJ,sg" parts="ətijqə" gloss="STEM" trans_en="" trans_ru="старый"></ana>ətijqə</w>
 <w><ana lex="ijlənə" gr="N,sg,nonposs" parts="ijlənə" gloss="STEM" trans_en="" trans_ru="дерево"></ana>ijlənə</w>
 <w><ana lex="jalьxta" gr="N,sg,nonposs" parts="jalьxta" gloss="STEM" trans_en="" trans_ru="платок"></ana>jalьxta</w>
+<w><ana lex="lvəşə" gr="V,ptcp.pst,sg,f" parts="lv<i>ş-tə" gloss="<>STEM" trans_en="" trans_ru="надевать, носить"></ana>lviştə</w>
 <w><ana lex="gxəkə" gr="V,pst,3,sg,m.s" parts="gx<i>k-li" gloss="<>STEM" trans_en="" trans_ru="смеяться"></ana>gxikli</w>
 <w><ana lex="jərxə" gr="N,sg,nonposs" parts="jərxə" gloss="STEM" trans_en="" trans_ru="месяц"></ana>jərxə</w>
 <w><ana lex="mijtə" gr="N,sg,nonposs" parts="mijtə" gloss="STEM" trans_en="" trans_ru="мертвый"></ana>mijtə</w>
@@ -157,6 +161,7 @@
 <w><ana lex="şidənə" gr="ADJ,sg" parts="şidənə" gloss="STEM" trans_en="" trans_ru="безумный"></ana>şidənə</w>
 <w><ana lex="həqutə" gr="N,sg,nonposs" parts="həqutə" gloss="STEM" trans_en="" trans_ru="право"></ana>həqutə</w>
 <w><ana lex="jəkki" gr="ADJ,sg" parts="jəkki" gloss="STEM" trans_en="jēka big, large" trans_ru="грузный"></ana>jəkki</w>
+<w><ana lex="dvəqə" gr="V,ptcp.pst,pl" parts="dv<ij>q-i" gloss="<>STEM" trans_en="to catch, hold, seize, take, take hold oj, grip, handle; to stop tr., d. to restrain oneself, to be temperate; to hire; to correspond to or together; to take, take prisoner; to surprise a fortress; to celebrate, keep a feast; to keep, keep to, often with b.; to uphold; to contain lit. and in arith.; MB. to pickle in vinegar; in pass. to be frozen; ̭ I" trans_ru="держать"></ana>dvijqi</w>
 <w><ana lex="sustə" gr="N,sg,nonposs" parts="sustə" gloss="STEM" trans_en="" trans_ru="кобыла, кобылица"></ana>sustə</w>
 <w><ana lex="xəjmə" gr="ADJ,sg" parts="xəjmə" gloss="STEM" trans_en="= hot" trans_ru="горячий, жаркий"></ana>xəjmə</w>
 <w><ana lex="şiljə" gr="ADJ,sg" parts="şiljə" gloss="STEM" trans_en="p.p. quiet, silent, prosperous" trans_ru="миренный"></ana>şiljə</w>
@@ -185,9 +190,12 @@
 <w><ana lex="tləj" gr="NUM" parts="tləj" gloss="STEM" trans_en="thirty" trans_ru="тридцать"></ana>tləj</w>
 <w><ana lex="mərdə" gr="ADJ,sg" parts="mərdə" gloss="STEM" trans_en="198a , brave, energetic, generous" trans_ru="смелый"></ana>mərdə</w>
 <w><ana lex="npəltə" gr="N,sg,nonposs" parts="npəltə" gloss="STEM" trans_en="" trans_ru="падение"></ana>npəltə</w>
+<w><ana lex="plaţa" gr="V,ppf,3,pl" parts="pl<ьj>ţ-ьva" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana><ana lex="plaţa" gr="V,ppf,3,sg,m.s" parts="pl<ьj>ţ-ьva" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>plьjţьva</w>
+<w><ana lex="xvara" gr="V,ptcp.pst,sg,m" parts="xv<ьj>r-a" gloss="<>STEM" trans_en="to whiten, to become white" trans_ru="побелеть, побледнеть"></ana>xvьjra</w>
 <w><ana lex="ərjə" gr="N,sg,nonposs" parts="ərjə" gloss="STEM" trans_en="a lion" trans_ru="лев"></ana>ərjə</w>
 <w><ana lex="dav" gr="N,sg,p.1,p.sg" parts="dav-ьj" gloss="STEM" trans_en="" trans_ru="бой"></ana><ana lex="davьj" gr="N,sg,nonposs" parts="davьj" gloss="STEM" trans_en="strife, fight, war; accusation; judgment, lawsuit" trans_ru="бой, битва"></ana>davьj</w>
 <w><ana lex="gəşuqi" gr="V,prs,1,sg,m.s" parts="g<ə>şq-in" gloss="<>STEM" trans_en="" trans_ru="смотреть"></ana>gəşqin</w>
+<w><ana lex="dməxə" gr="V,ppf,3,pl" parts="dm<ij>x-ivə" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana><ana lex="dməxə" gr="V,ppf,3,sg,m.s" parts="dm<ij>x-ivə" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dmijxivə</w>
 <w><ana lex="gərgumi" gr="V,prs,3,sg,f.s" parts="g<ə>rm-ə" gloss="<>STEM" trans_en="to growl, roar; to thunder; growl" trans_ru="рычать; греметь; реветь"></ana><ana lex="gərmə" gr="N,sg,nonposs" parts="gərmə" gloss="STEM" trans_en="a bone" trans_ru="кость"></ana>gərmə</w>
 <w><ana lex="malla" gr="N,sg,nonposs" parts="malla" gloss="STEM" trans_en="" trans_ru="мулла"></ana>malla</w>
 <w><ana lex="zmərə" gr="N,sg,nonposs" parts="zmərə" gloss="STEM" trans_en="v" trans_ru="песня"></ana>zmərə</w>
@@ -215,6 +223,7 @@
 <w><ana lex="hiççum" gr="N,sg,nonposs" parts="hiççum" gloss="STEM" trans_en="" trans_ru="приступ"></ana>hiççum</w>
 <w><ana lex="həççət" gr="N,sg,nonposs" parts="həççət" gloss="STEM" trans_en="" trans_ru="повод"></ana>həççət</w>
 <w><ana lex="savdakar" gr="N,sg,nonposs" parts="savdakar" gloss="STEM" trans_en="Pers. a merchant" trans_ru="купец, лавочник"></ana>savdakar</w>
+<w><ana lex="dvəqə" gr="V,ppf,3,pl" parts="dv<ij>q-ivə" gloss="<>STEM" trans_en="to catch, hold, seize, take, take hold oj, grip, handle; to stop tr., d. to restrain oneself, to be temperate; to hire; to correspond to or together; to take, take prisoner; to surprise a fortress; to celebrate, keep a feast; to keep, keep to, often with b.; to uphold; to contain lit. and in arith.; MB. to pickle in vinegar; in pass. to be frozen; ̭ I" trans_ru="держать"></ana><ana lex="dvəqə" gr="V,ppf,3,sg,m.s" parts="dv<ij>q-ivə" gloss="<>STEM" trans_en="to catch, hold, seize, take, take hold oj, grip, handle; to stop tr., d. to restrain oneself, to be temperate; to hire; to correspond to or together; to take, take prisoner; to surprise a fortress; to celebrate, keep a feast; to keep, keep to, often with b.; to uphold; to contain lit. and in arith.; MB. to pickle in vinegar; in pass. to be frozen; ̭ I" trans_ru="держать"></ana>dvijqivə</w>
 <w><ana lex="dəjqə" gr="ADJ,sg" parts="dəjqə" gloss="STEM" trans_en="small, minute; ‘fine, small’" trans_ru="мелкий"></ana>dəjqə</w>
 <w><ana lex="guddə" gr="N,sg,nonposs" parts="guddə" gloss="STEM" trans_en="" trans_ru="юртук"></ana>guddə</w>
 <w><ana lex="gəşuqi" gr="V,ipf,3,sg,m.s" parts="g<ə>ş<i>q-və" gloss="<><>STEM" trans_en="" trans_ru="смотреть"></ana>gəşiqvə</w>
@@ -226,6 +235,7 @@
 <w><ana lex="qəppəz" gr="N,sg,nonposs" parts="qəppəz" gloss="STEM" trans_en="qappas ‘cage’" trans_ru="клетка"></ana>qəppəz</w>
 <w><ana lex="caplь" gr="ADJ,sg" parts="caplь" gloss="STEM" trans_en="left-handed az. turk.?, chap the left side, the left side; leftward" trans_ru="левый"></ana>caplь</w>
 <w><ana lex="draşta" gr="N,sg,nonposs" parts="draşta" gloss="STEM" trans_en="vn. +drašta" trans_ru="спор"></ana>draşta</w>
+<w><ana lex="dvəqə" gr="V,ptcp.pst,sg,f" parts="dv<i>q-tə" gloss="<>STEM" trans_en="to catch, hold, seize, take, take hold oj, grip, handle; to stop tr., d. to restrain oneself, to be temperate; to hire; to correspond to or together; to take, take prisoner; to surprise a fortress; to celebrate, keep a feast; to keep, keep to, often with b.; to uphold; to contain lit. and in arith.; MB. to pickle in vinegar; in pass. to be frozen; ̭ I" trans_ru="держать"></ana>dviqtə</w>
 <w><ana lex="gəşuqi" gr="V,prs,2,sg,m.s" parts="g<ə>şq-it" gloss="<>STEM" trans_en="" trans_ru="смотреть"></ana>gəşqit</w>
 <w><ana lex="hasulь" gr="V,prs,3,sg,m.s" parts="h<a>s<ь>l" gloss="<><>STEM" trans_en="to bring forth, beget" trans_ru="рождать"></ana><ana lex="hasьl" gr="N,sg,nonposs" parts="hasьl" gloss="STEM" trans_en="" trans_ru="урожай"></ana>hasьl</w>
 <w><ana lex="plaţa" gr="V,pst,1,pl" parts="pl<ь>ţ-lan" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>plьţlan</w>
@@ -241,11 +251,17 @@
 <w><ana lex="gorənəjə" gr="ADJ,sg" parts="gorənəjə" gloss="STEM" trans_en="" trans_ru="серый"></ana>gorənəjə</w>
 <w><ana lex="həmzumi" gr="V,prs,1,sg,m.s" parts="h<ə>mm-in" gloss="<>STEM" trans_en="to speak, to talk, tell" trans_ru="говорить"></ana>həmmin</w>
 <w><ana lex="plaţa" gr="V,ipf,3,sg,m.s" parts="p<a>l<ь>ţ-va" gloss="<><>STEM" trans_en="" trans_ru="выходить"></ana>palьţva</w>
+<w><ana lex="plaţa" gr="V,ptcp.pst,sg,m" parts="pl<ьj>ţ-a" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>plьjţa</w>
 <w><ana lex="bara" gr="N,sg,nonposs" parts="bara" gloss="STEM" trans_en="" trans_ru="вет"></ana>bara</w>
 <w><ana lex="gol" gr="N,sg,nonposs" parts="gol" gloss="STEM" trans_en="a pond, a lake, a puddle" trans_ru="лужа"></ana>gol</w>
 <w><ana lex="həddəmə" gr="N,sg,nonposs" parts="həddəmə" gloss="STEM" trans_en="" trans_ru="член"></ana>həddəmə</w>
+<w><ana lex="plaţa" gr="V,ptcp.pst,sg,m" parts="pl<ьj>ţ-ь" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>plьjţь</w>
+<w><ana lex="prəşə" gr="V,ptcp.pst,sg,m" parts="pr<ij>ş-ə" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>prijşə</w>
+<w><ana lex="psaxa" gr="V,ptcp.pst,sg,m" parts="ps<ьj>x-ь" gloss="<>STEM" trans_en="to be glad, to rejoice" trans_ru="торжествовать"></ana>psьjxь</w>
+<w><ana lex="tləqə" gr="V,ptcp.pst,sg,f" parts="tl<i>q-tə" gloss="<>STEM" trans_en="322a to throw, cast away" trans_ru="исчезать"></ana>tliqtə</w>
 <w><ana lex="в" gr="N,sg,p.1,p.sg" parts="в-ij" gloss="STEM" trans_en="" trans_ru="в"></ana>вij</w>
 <w><ana lex="bəssə" gr="ADV" parts="bəssə" gloss="STEM" trans_en="" trans_ru="достаточно"></ana>bəssə</w>
+<w><ana lex="dməxə" gr="V,ptcp.pst,sg,m" parts="dm<ij>x-ə" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dmijxə</w>
 <w><ana lex="hajjьrana" gr="N,sg,nonposs" parts="hajjьrana" gloss="STEM" trans_en="" trans_ru="покровитель"></ana>hajjьrana</w>
 <w><ana lex="jassar" gr="ADJ,sg" parts="jassar" gloss="STEM" trans_en="stubborn, obstinate, pugnatious" trans_ru="злой, лютый, сварливый"></ana>jassar</w>
 <w><ana lex="taв" gr="N,sg,nonposs" parts="taв" gloss="STEM" trans_en="" trans_ru="выдержка"></ana>taв</w>
@@ -283,14 +299,17 @@
 <w><ana lex="məçmə" gr="N,sg,nonposs" parts="məçmə" gloss="STEM" trans_en="Azer. ‘большой круглый поднос с различными рисунками’ ARL IV:349 &lt; Arab" trans_ru="поднос"></ana>məçmə</w>
 <w><ana lex="prəşə" gr="V,pst,3,sg,m.s" parts="pr<i>ş-li" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>prişli</w>
 <w><ana lex="tləqə" gr="V,pst,3,sg,m.s" parts="tl<i>q-li" gloss="<>STEM" trans_en="322a to throw, cast away" trans_ru="исчезать"></ana>tliqli</w>
+<w><ana lex="xvara" gr="V,ptcp.pst,sg,m" parts="xv<ьj>r-ь" gloss="<>STEM" trans_en="to whiten, to become white" trans_ru="побелеть, побледнеть"></ana>xvьjrь</w>
 <w><ana lex="basmaxana" gr="N,sg,nonposs" parts="basmaxana" gloss="STEM" trans_en="a printing-office;&lt; tur. basmaxane" trans_ru="типография"></ana>basmaxana</w>
 <w><ana lex="culax" gr="ADJ,sg" parts="culax" gloss="STEM" trans_en="a lame; сухорукий" trans_ru="хромой"></ana>culax</w>
 <w><ana lex="hudra" gr="ADJ,sg" parts="hudra" gloss="STEM" trans_en="" trans_ru="готовый"></ana>hudra</w>
+<w><ana lex="lvəşə" gr="V,ptcp.pst,sg,m" parts="lv<ij>ş-ə" gloss="<>STEM" trans_en="" trans_ru="надевать, носить"></ana>lvijşə</w>
 <w><ana lex="raba" gr="ADV" parts="raba" gloss="STEM" trans_en="" trans_ru="много"></ana>raba</w>
 <w><ana lex="xlusa" gr="ADJ,sg" parts="xlusa" gloss="STEM" trans_en="xlasa" trans_ru="тугой"></ana>xlusa</w>
 <w><ana lex="çunçara" gr="N,sg,nonposs" parts="çunçara" gloss="STEM" trans_en="torment" trans_ru="традание"></ana>çunçara</w>
 <w><ana lex="əruqə" gr="N,sg,nonposs" parts="əruqə" gloss="STEM" trans_en="" trans_ru="перебежчик"></ana>əruqə</w>
 <w><ana lex="bsəmə" gr="V,prs,3,sg,f.s" parts="b<ə>sm-ə" gloss="<>STEM" trans_en="to be pleased; to be healed or cured" trans_ru="мне угодно"></ana><ana lex="bəsumi" gr="V,prs,3,sg,f.s" parts="b<ə>sm-ə" gloss="<>STEM" trans_en="" trans_ru="лечить"></ana>bəsmə</w>
+<w><ana lex="grəşə" gr="V,ptcp.pst,sg,m" parts="gr<ij>ş-ə" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana>grijşə</w>
 <w><ana lex="guttə" gr="N,sg,nonposs" parts="guttə" gloss="STEM" trans_en="? güt- a ball; a drop of rain" trans_ru="кистень"></ana>guttə</w>
 <w><ana lex="hələqtə" gr="N,sg,nonposs" parts="hələqtə" gloss="STEM" trans_en="" trans_ru="петля"></ana>hələqtə</w>
 <w><ana lex="həqetə" gr="N,sg,nonposs" parts="həqetə" gloss="STEM" trans_en="= ?" trans_ru="повесть"></ana>həqetə</w>
@@ -298,7 +317,7 @@
 <w><ana lex="jəlip" gr="V,prs,3,sg,m.s" parts="j<ə>l<i>p" gloss="<><>STEM" trans_en="" trans_ru="научиться, привыкать"></ana>jəlip</w>
 <w><ana lex="lvəşə" gr="V,pst,3,sg,m.s" parts="lv<i>ş-li" gloss="<>STEM" trans_en="" trans_ru="надевать, носить"></ana>lvişli</w>
 <w><ana lex="plaţa" gr="V,ipf,3,pl" parts="p<a>lţ-ьjva" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>palţьjva</w>
-<w><ana lex="psьjxa" gr="ADJ,sg" parts="psьjxa" gloss="STEM" trans_en="psaxa" trans_ru="радостный"></ana>psьjxa</w>
+<w><ana lex="psaxa" gr="V,ptcp.pst,sg,m" parts="ps<ьj>x-a" gloss="<>STEM" trans_en="to be glad, to rejoice" trans_ru="торжествовать"></ana><ana lex="psьjxa" gr="ADJ,sg" parts="psьjxa" gloss="STEM" trans_en="psaxa" trans_ru="радостный"></ana>psьjxa</w>
 <w><ana lex="siqlə" gr="N,sg,nonposs" parts="siqlə" gloss="STEM" trans_en="" trans_ru="украшение"></ana>siqlə</w>
 <w><ana lex="txəsə" gr="V,pst,3,sg,m.s" parts="tx<i>s-li" gloss="<>STEM" trans_en="" trans_ru="совать"></ana>txisli</w>
 <w><ana lex="çiddə" gr="N,sg,nonposs" parts="çiddə" gloss="STEM" trans_en="a spear" trans_ru="копье"></ana>çiddə</w>
@@ -316,9 +335,11 @@
 <w><ana lex="çins" gr="ADJ,sg" parts="çins" gloss="STEM" trans_en="nice; jins, Genus, kind, stock, sort, mode; gender; goods, movables, articles, things; grain, corn; crop, products" trans_ru="лавный, хороший"></ana>çins</w>
 <w><ana lex="в" gr="N,sg,nonposs" parts="в" gloss="STEM" trans_en="" trans_ru="в"></ana>в-</w>
 <w><ana lex="bijid" gr="PREP" parts="bijid" gloss="STEM" trans_en="by means of, through" trans_ru="плачем жалуясь на мусье"></ana>bijid</w>
+<w><ana lex="dməxə" gr="V,pf,3,sg,m.s" parts="dm<ij>x-ili" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dmijxili</w>
 <w><ana lex="girə" gr="N,sg,nonposs" parts="girə" gloss="STEM" trans_en="an arrow" trans_ru="стрела"></ana>girə</w>
 <w><ana lex="həsənəjutə" gr="N,sg,nonposs" parts="həsənəjutə" gloss="STEM" trans_en="" trans_ru="легкость"></ana>həsənəjutə</w>
 <w><ana lex="jəqid" gr="V,prs,3,sg,m.s" parts="j<ə>q<i>d" gloss="<><>STEM" trans_en="" trans_ru="гореть"></ana>jəqid</w>
+<w><ana lex="plaţa" gr="V,pf,3,pl" parts="pl<ьj>ţ-ьna" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>plьjţьna</w>
 <w><ana lex="qismət" gr="N,sg,nonposs" parts="qismət" gloss="STEM" trans_en="part, lot, fate" trans_ru="участь"></ana>qismət</w>
 <w><ana lex="qənə" gr="N,sg,nonposs" parts="qənə" gloss="STEM" trans_en="a horn, lit. and the musical instrument; a trump" trans_ru="рог"></ana>qənə</w>
 <w><ana lex="tləqə" gr="V,pst,3,pl" parts="tl<i>q-lun" gloss="<>STEM" trans_en="322a to throw, cast away" trans_ru="исчезать"></ana>tliqlun</w>
@@ -330,6 +351,7 @@
 <w><ana lex="a" gr="N,sg,nonposs" parts="a" gloss="STEM" trans_en="gendarme; — OSQ p. 25" trans_ru="жандарм, полицейский"></ana>a-</w>
 <w><ana lex="cjədtə" gr="N,sg,nonposs" parts="cjədtə" gloss="STEM" trans_en="" trans_ru="приглашение"></ana>cjədtə</w>
 <w><ana lex="cьlpa" gr="N,sg,nonposs" parts="cьlpa" gloss="STEM" trans_en="OS" trans_ru="щель"></ana>cьlpa</w>
+<w><ana lex="dvəqə" gr="V,pf,3,sg,m.s" parts="dv<ij>q-ili" gloss="<>STEM" trans_en="to catch, hold, seize, take, take hold oj, grip, handle; to stop tr., d. to restrain oneself, to be temperate; to hire; to correspond to or together; to take, take prisoner; to surprise a fortress; to celebrate, keep a feast; to keep, keep to, often with b.; to uphold; to contain lit. and in arith.; MB. to pickle in vinegar; in pass. to be frozen; ̭ I" trans_ru="держать"></ana>dvijqili</w>
 <w><ana lex="gumlə" gr="N,sg,nonposs" parts="gumlə" gloss="STEM" trans_en="" trans_ru="верблюд"></ana>gumlə</w>
 <w><ana lex="grəşə" gr="V,ipf,3,sg,m.s" parts="g<ə>r<i>ş-və" gloss="<><>STEM" trans_en="" trans_ru="тянуть"></ana>gərişvə</w>
 <w><ana lex="gəşuqi" gr="V,prs,3,sg,f.s" parts="g<ə>şq-ə" gloss="<>STEM" trans_en="" trans_ru="смотреть"></ana>gəşqə</w>
@@ -338,6 +360,7 @@
 <w><ana lex="muxkəm" gr="ADJ,sg" parts="muxkəm" gloss="STEM" trans_en="III:238 +muxcum ‘hard’" trans_ru="плотный"></ana>muxkəm</w>
 <w><ana lex="qarьjra" gr="ADJ,sg" parts="qarьjra" gloss="STEM" trans_en="" trans_ru="холодный"></ana>qarьjra</w>
 <w><ana lex="rahţa" gr="N,sg,nonposs" parts="rahţa" gloss="STEM" trans_en="" trans_ru="процесс"></ana>rahţa</w>
+<w><ana lex="xvara" gr="V,ptcp.pst,sg,f" parts="xv<ь>r-ta" gloss="<>STEM" trans_en="to whiten, to become white" trans_ru="побелеть, побледнеть"></ana>xvьrta</w>
 <w><ana lex="xьlţa" gr="ADJ,sg" parts="xьlţa" gloss="STEM" trans_en="" trans_ru="ложный"></ana><ana lex="xьlţa" gr="N,sg,nonposs" parts="xьlţa" gloss="STEM" trans_en="" trans_ru="недоразумение"></ana>xьlţa</w>
 <w><ana lex="zilə" gr="N,sg,nonposs" parts="zilə" gloss="STEM" trans_en="" trans_ru="осока"></ana>zilə</w>
 <w><ana lex="çammeta" gr="N,sg,nonposs" parts="çammeta" gloss="STEM" trans_en="jum-ai-taa gathering" trans_ru="сбор"></ana>çammeta</w>
@@ -346,16 +369,22 @@
 <w><ana lex="ərmiltə" gr="N,sg,nonposs" parts="ərmiltə" gloss="STEM" trans_en="" trans_ru="вдова"></ana>ərmiltə</w>
 <w><ana lex="ax" gr="ITJ" parts="ax" gloss="STEM" trans_en="Alas!" trans_ru="ах"></ana>ax-</w>
 <w><ana lex="dixjə" gr="ADJ,sg" parts="dixjə" gloss="STEM" trans_en="to be clean" trans_ru="чистый"></ana>dixjə</w>
+<w><ana lex="dməxə" gr="V,pf,3,pl" parts="dm<ij>x-inə" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dmijxinə</w>
 <w><ana lex="dumjə" gr="N,sg,nonposs" parts="dumjə" gloss="STEM" trans_en="dume-ya resemblance" trans_ru="подобие"></ana>dumjə</w>
 <w><ana lex="dməxə" gr="V,ipf,3,sg,m.s" parts="d<ə>m<i>x-və" gloss="<><>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dəmixvə</w>
+<w><ana lex="grəşə" gr="V,ptcp.pst,pl" parts="gr<ij>ş-i" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana>grijşi</w>
 <w><ana lex="hadurь" gr="V,prs,3,sg,m.s" parts="h<a>d<ь>r" gloss="<><>STEM" trans_en="?" trans_ru="готовиться"></ana><ana lex="hdara" gr="V,prs,3,sg,m.s" parts="h<a>d<ь>r" gloss="<><>STEM" trans_en="" trans_ru="предстоящие жертвы"></ana>hadьr</w>
 <w><ana lex="hizzur" gr="N,sg,nonposs" parts="hizzur" gloss="STEM" trans_en="presence" trans_ru="присутствие"></ana>hizzur</w>
 <w><ana lex="jeriş" gr="N,sg,nonposs" parts="jeriş" gloss="STEM" trans_en="" trans_ru="походка"></ana>jeriş</w>
 <w><ana lex="jəlzuj" gr="N,sg,nonposs" parts="jəlzuj" gloss="STEM" trans_en="jalzu or -zui haste" trans_ru="пешка"></ana>jəlzuj</w>
 <w><ana lex="kətərə" gr="ADJ,sg" parts="kətərə" gloss="STEM" trans_en="" trans_ru="сердитый"></ana>kətərə</w>
+<w><ana lex="lvəşə" gr="V,ppf,3,pl" parts="lv<ij>ş-ivə" gloss="<>STEM" trans_en="" trans_ru="надевать, носить"></ana><ana lex="lvəşə" gr="V,ppf,3,sg,m.s" parts="lv<ij>ş-ivə" gloss="<>STEM" trans_en="" trans_ru="надевать, носить"></ana>lvijşivə</w>
 <w><ana lex="plaţa" gr="V,prs,1,sg,m.s" parts="p<a>lţ-ьn" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>palţьn</w>
 <w><ana lex="pisqə" gr="N,sg,nonposs" parts="pisqə" gloss="STEM" trans_en="flock" trans_ru="скот"></ana>pisqə</w>
+<w><ana lex="plaţa" gr="V,pf,3,sg,m.s" parts="pl<ьj>ţ-ьlь" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>plьjţьlь</w>
+<w><ana lex="tləqə" gr="V,ptcp.pst,pl" parts="tl<ij>q-i" gloss="<>STEM" trans_en="322a to throw, cast away" trans_ru="исчезать"></ana>tlijqi</w>
 <w><ana lex="xdara" gr="V,prs,3,pl" parts="x<a>dr-ьj" gloss="<>STEM" trans_en="to go round etc" trans_ru="ходить"></ana>xadrьj</w>
+<w><ana lex="xdara" gr="V,ptcp.pst,sg,m" parts="xd<ьj>r-ь" gloss="<>STEM" trans_en="to go round etc" trans_ru="ходить"></ana>xdьjrь</w>
 <w><ana lex="xon" gr="N,sg,nonposs" parts="xon" gloss="STEM" trans_en="Pers. a sort of tray or table" trans_ru="в"></ana>xon</w>
 <w><ana lex="xpəqə" gr="V,pst,3,sg,f.s" parts="xp<i>q-lə" gloss="<>STEM" trans_en="" trans_ru="обнимать"></ana>xpiqlə</w>
 <w><ana lex="şraja" gr="V,ipf,3,sg,m.s" parts="ş<a>r<ь>j-va" gloss="<><>STEM" trans_en="to judge" trans_ru="удить"></ana>şarьjva</w>
@@ -374,6 +403,7 @@
 <w><ana lex="xdara" gr="V,ipf,3,pl" parts="x<a>dr-ьjva" gloss="<>STEM" trans_en="to go round etc" trans_ru="ходить"></ana>xadrьjva</w>
 <w><ana lex="zmərə" gr="V,prs,3,pl" parts="z<ə>mr-ij" gloss="<>STEM" trans_en="OS" trans_ru="петь"></ana>zəmrij</w>
 <w><ana lex="çraţa" gr="V,pst,3,sg,f.s" parts="çr<ь>ţ-la" gloss="<>STEM" trans_en="to slip; ? jraa-taa to slide, glide, slip" trans_ru="плыть, плавно двигаться"></ana>çrьţla</w>
+<w><ana lex="şəvuti" gr="V,ptcp.pst,sg,m" parts="şv<ij>t-ə" gloss="<>STEM" trans_en="to desire, wish; to covet, lust after" trans_ru="сильно желать, вожделеть"></ana>şvijtə</w>
 <w><ana lex="əmuqə" gr="ADJ,sg" parts="əmuqə" gloss="STEM" trans_en="M241а" trans_ru="глубокий"></ana>əmuqə</w>
 <w><ana lex="ьçaza" gr="N,sg,nonposs" parts="ьçaza" gloss="STEM" trans_en="" trans_ru="разрешение"></ana>ьçaza</w>
 <w><ana lex="aldьjana" gr="N,sg,nonposs" parts="aldьjana" gloss="STEM" trans_en="" trans_ru="обманщик"></ana>aldьjana</w>
@@ -386,6 +416,7 @@
 <w><ana lex="dməxə" gr="V,pst,1,sg" parts="dm<i>x-lij" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dmixlij</w>
 <w><ana lex="dməxə" gr="V,prs,1,pl" parts="d<ə>mx-əx" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dəmxəx</w>
 <w><ana lex="dəxuji" gr="V,ipf,3,sg,m.s" parts="d<ə>x<i>j-və" gloss="<><>STEM" trans_en="II to purify, to clean; to select; to prune" trans_ru="чистить"></ana>dəxijvə</w>
+<w><ana lex="gnəvə" gr="V,ptcp.pst,pl" parts="gn<ij>v-i" gloss="<>STEM" trans_en="to steal; Oraham 89a gna-va steal; to take and carry away, feloniously" trans_ru="красть"></ana>gnijvi</w>
 <w><ana lex="gxəkə" gr="V,pst,3,sg,f.s" parts="gx<i>k-lə" gloss="<>STEM" trans_en="" trans_ru="смеяться"></ana>gxiklə</w>
 <w><ana lex="gəşuqi" gr="V,ipf,3,pl" parts="g<ə>şq-ijvə" gloss="<>STEM" trans_en="" trans_ru="смотреть"></ana>gəşqijvə</w>
 <w><ana lex="huş" gr="N,sg,p.3,p.sg,p.f" parts="huş-o" gloss="STEM" trans_en="sense" trans_ru="чувства"></ana>huşo</w>
@@ -397,6 +428,7 @@
 <w><ana lex="jəlip" gr="V,prs,2,sg,m.s" parts="j<ə>lp-it" gloss="<>STEM" trans_en="" trans_ru="научиться, привыкать"></ana>jəlpit</w>
 <w><ana lex="mijs" gr="N,sg,nonposs" parts="mijs" gloss="STEM" trans_en="a table" trans_ru="Но ничто так не тяжело, как стоять на одном месте перед кухонным столом и чистить картошку"></ana>mijs</w>
 <w><ana lex="mnəjə" gr="V,ipf,3,sg,m.s" parts="m<ə>n<i>j-və" gloss="<><>STEM" trans_en="" trans_ru="считать"></ana><ana lex="mənduji" gr="V,ipf,3,sg,m.s" parts="m<ə>n<i>j-və" gloss="<><>STEM" trans_en="to throw" trans_ru="бросать, швырять"></ana>mənijvə</w>
+<w><ana lex="psaxa" gr="V,ptcp.pst,sg,f" parts="ps<ь>x-ta" gloss="<>STEM" trans_en="to be glad, to rejoice" trans_ru="торжествовать"></ana>psьxta</w>
 <w><ana lex="qəlpə" gr="N,sg,nonposs" parts="qəlpə" gloss="STEM" trans_en="skin, rind of fruit, crust; a pod; bark; a scale of a fish" trans_ru="кора"></ana>qəlpə</w>
 <w><ana lex="çoş" gr="N,sg,nonposs" parts="çoş" gloss="STEM" trans_en="josh an effervescence; agitation of mind or body" trans_ru="увлечение Т"></ana>çoş</w>
 <w><ana lex="şidunə" gr="N,sg,nonposs" parts="şidunə" gloss="STEM" trans_en="" trans_ru="бесенок"></ana>şidunə</w>
@@ -409,7 +441,7 @@
 <w><ana lex="ciqə" gr="ADJ,sg" parts="ciqə" gloss="STEM" trans_en="cross-eyed, squinting, f. ; az. turk" trans_ru="кривой"></ana>ciqə</w>
 <w><ana lex="cərcuvvə" gr="N,sg,nonposs" parts="cərcuvvə" gloss="STEM" trans_en="a frame of a door, window etc.; pers., рама, рамка" trans_ru="рамка"></ana>cərcuvvə</w>
 <w><ana lex="cəşmi" gr="N,sg,nonposs" parts="cəşmi" gloss="STEM" trans_en="pl, sg. , chashma a spectacles" trans_ru="очки"></ana>cəşmi</w>
-<w><ana lex="dvijrə" gr="ADJ,sg" parts="dvijrə" gloss="STEM" trans_en="" trans_ru="запертый"></ana>dvijrə</w>
+<w><ana lex="dvijrə" gr="ADJ,sg" parts="dvijrə" gloss="STEM" trans_en="" trans_ru="запертый"></ana><ana lex="dvərə" gr="V,ptcp.pst,sg,m" parts="dv<ij>r-ə" gloss="<>STEM" trans_en="I" trans_ru="запирать"></ana>dvijrə</w>
 <w><ana lex="dəgmə" gr="ADV" parts="dəgmə" gloss="STEM" trans_en="?" trans_ru="редкого смотрителя не знаю я в лицо"></ana>dəgmə</w>
 <w><ana lex="dməxə" gr="V,prs,1,sg,m.s" parts="d<ə>mx-in" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dəmxin</w>
 <w><ana lex="glulə" gr="ADJ,sg" parts="glulə" gloss="STEM" trans_en="" trans_ru="круглый"></ana>glulə</w>
@@ -419,12 +451,14 @@
 <w><ana lex="hakamta" gr="N,sg,nonposs" parts="hakamta" gloss="STEM" trans_en="" trans_ru="царствование"></ana>hakamta</w>
 <w><ana lex="həm" gr="PREP" parts="həm" gloss="STEM" trans_en="" trans_ru="до"></ana>həm</w>
 <w><ana lex="inglisnəjə" gr="ADJ,sg" parts="inglisnəjə" gloss="STEM" trans_en="" trans_ru="английский"></ana>inglisnəjə</w>
+<w><ana lex="lvəşə" gr="V,ptcp.pst,pl" parts="lv<ij>ş-i" gloss="<>STEM" trans_en="" trans_ru="надевать, носить"></ana>lvijşi</w>
 <w><ana lex="niqvə" gr="N,sg,nonposs" parts="niqvə" gloss="STEM" trans_en="" trans_ru="женский пол, женщина"></ana>niqvə</w>
 <w><ana lex="ojun" gr="N,sg,nonposs" parts="ojun" gloss="STEM" trans_en="play, game" trans_ru="партия"></ana>ojun</w>
 <w><ana lex="plaşa" gr="V,prs,1,pl" parts="p<a>lş-ax" gloss="<>STEM" trans_en="" trans_ru="драться"></ana>palşax</w>
 <w><ana lex="plaţa" gr="V,ipf,3,sg,f.s" parts="p<a>lţ-ava" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>palţava</w>
 <w><ana lex="prəşə" gr="V,pst,3,pl" parts="pr<i>ş-lun" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>prişlun</w>
 <w><ana lex="talьm" gr="N,sg,nonposs" parts="talьm" gloss="STEM" trans_en="сf. жестокость" trans_ru="наказание"></ana>talьm</w>
+<w><ana lex="txərə" gr="V,ptcp.pst,sg,f" parts="tx<i>r-tə" gloss="<>STEM" trans_en="" trans_ru="помнить"></ana>txirtə</w>
 <w><ana lex="tləqə" gr="V,prs,3,sg,f.s" parts="t<ə>lq-ə" gloss="<>STEM" trans_en="322a to throw, cast away" trans_ru="исчезать"></ana>təlqə</w>
 <w><ana lex="xdara" gr="V,prs,3,sg,m.s" parts="x<a>d<ь>r" gloss="<><>STEM" trans_en="to go round etc" trans_ru="ходить"></ana>xadьr</w>
 <w><ana lex="çanta" gr="N,sg,nonposs" parts="çanta" gloss="STEM" trans_en="a wallet, bag, knapsack" trans_ru="котомка, ранец"></ana>çanta</w>
@@ -451,6 +485,7 @@
 <w><ana lex="hə" gr="PART" parts="hə" gloss="STEM" trans_en="" trans_ru="Пушку туда перетащили накануне"></ana>hə-</w>
 <w><ana lex="jələ" gr="N,sg,nonposs" parts="jələ" gloss="STEM" trans_en="" trans_ru="мальчик, юноша, парень"></ana>jələ-</w>
 <w><ana lex="npəxə" gr="V,pst,3,sg,m.s" parts="np<i>x-li" gloss="<>STEM" trans_en="" trans_ru="дуть"></ana>npixli</w>
+<w><ana lex="txərə" gr="V,ptcp.pst,sg,m" parts="tx<ij>r-ə" gloss="<>STEM" trans_en="" trans_ru="помнить"></ana>txijrə</w>
 <w><ana lex="tləqə" gr="V,prs,2,sg,m.s" parts="t<ə>lq-it" gloss="<>STEM" trans_en="322a to throw, cast away" trans_ru="исчезать"></ana>təlqit</w>
 <w><ana lex="təntuni" gr="V,ipf,3,sg,m.s" parts="t<ə>n<i>n-və" gloss="<><>STEM" trans_en="" trans_ru="коптить"></ana>təninvə</w>
 <w><ana lex="txərə" gr="V,prs,1,sg,m.s" parts="t<ə>xr-in" gloss="<>STEM" trans_en="" trans_ru="помнить"></ana>təxrin</w>
@@ -465,8 +500,12 @@
 <w><ana lex="clapa" gr="V,pst,3,sg,m.s" parts="cl<ь>p-lь" gloss="<>STEM" trans_en="to split, chop, cleave" trans_ru="рстерзать"></ana>clьplь</w>
 <w><ana lex="crətə" gr="V,pst,3,sg,m.s" parts="cr<i>t-li" gloss="<>STEM" trans_en="to fire a gun" trans_ru="палить"></ana>critli</w>
 <w><ana lex="dməxə" gr="V,pst,3,pl" parts="dm<i>x-lun" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dmixlun</w>
+<w><ana lex="dvəqə" gr="V,pf,3,pl" parts="dv<ij>q-inə" gloss="<>STEM" trans_en="to catch, hold, seize, take, take hold oj, grip, handle; to stop tr., d. to restrain oneself, to be temperate; to hire; to correspond to or together; to take, take prisoner; to surprise a fortress; to celebrate, keep a feast; to keep, keep to, often with b.; to uphold; to contain lit. and in arith.; MB. to pickle in vinegar; in pass. to be frozen; ̭ I" trans_ru="держать"></ana>dvijqinə</w>
+<w><ana lex="dvərə" gr="V,ptcp.pst,pl" parts="dv<ij>r-i" gloss="<>STEM" trans_en="I" trans_ru="запирать"></ana>dvijri</w>
+<w><ana lex="dvəqə" gr="V,ppf,3,sg,f.s" parts="dv<i>q-tivə" gloss="<>STEM" trans_en="to catch, hold, seize, take, take hold oj, grip, handle; to stop tr., d. to restrain oneself, to be temperate; to hire; to correspond to or together; to take, take prisoner; to surprise a fortress; to celebrate, keep a feast; to keep, keep to, often with b.; to uphold; to contain lit. and in arith.; MB. to pickle in vinegar; in pass. to be frozen; ̭ I" trans_ru="держать"></ana>dviqtivə</w>
 <w><ana lex="dməjə" gr="V,prs,3,sg,f.s" parts="d<ə>mj-ə" gloss="<>STEM" trans_en="I" trans_ru="быть похожим"></ana>dəmjə</w>
 <w><ana lex="dməxə" gr="V,prs,3,pl" parts="d<ə>mx-ij" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dəmxij</w>
+<w><ana lex="grəşə" gr="V,ppf,3,pl" parts="gr<ij>ş-ivə" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana><ana lex="grəşə" gr="V,ppf,3,sg,m.s" parts="gr<ij>ş-ivə" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana>grijşivə</w>
 <w><ana lex="grəşə" gr="V,pst,1,sg" parts="gr<i>ş-lij" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana>grişlij</w>
 <w><ana lex="guman" gr="N,sg,nonposs" parts="guman" gloss="STEM" trans_en="перс. گمان , Doubt, suspicion, surmise" trans_ru="подозрение"></ana>guman</w>
 <w><ana lex="grəşə" gr="V,ipf,3,sg,f.s" parts="g<ə>rş-əvə" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana>gərşəvə</w>
@@ -478,8 +517,12 @@
 <w><ana lex="jonə" gr="N,sg,nonposs" parts="jonə" gloss="STEM" trans_en="" trans_ru="голубь"></ana>jonə</w>
 <w><ana lex="jəmmijnəjə" gr="ADJ,sg" parts="jəmmijnəjə" gloss="STEM" trans_en="" trans_ru="правый"></ana>jəmmijnəjə</w>
 <w><ana lex="lvəxə" gr="V,pst,3,sg,f.s" parts="lv<i>x-lə" gloss="<>STEM" trans_en="to catch fire, ignite, flash, dart out as a spark" trans_ru="в"></ana>lvixlə</w>
+<w><ana lex="plaţa" gr="V,ptcp.pst,sg,f" parts="pl<ь>ţ-ta" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>plьţta</w>
 <w><ana lex="sona" gr="N,sg,nonposs" parts="sona" gloss="STEM" trans_en="" trans_ru="в"></ana>sona-</w>
+<w><ana lex="tləqə" gr="V,ppf,3,sg,f.s" parts="tl<i>q-tivə" gloss="<>STEM" trans_en="322a to throw, cast away" trans_ru="исчезать"></ana>tliqtivə</w>
+<w><ana lex="xdara" gr="V,ppf,3,pl" parts="xd<ьj>r-ьva" gloss="<>STEM" trans_en="to go round etc" trans_ru="ходить"></ana><ana lex="xdara" gr="V,ppf,3,sg,m.s" parts="xd<ьj>r-ьva" gloss="<>STEM" trans_en="to go round etc" trans_ru="ходить"></ana>xdьjrьva</w>
 <w><ana lex="xujədə" gr="N,sg,nonposs" parts="xujədə" gloss="STEM" trans_en="" trans_ru="союз, уния"></ana>xujədə</w>
+<w><ana lex="xvara" gr="V,ppf,3,pl" parts="xv<ьj>r-ьva" gloss="<>STEM" trans_en="to whiten, to become white" trans_ru="побелеть, побледнеть"></ana><ana lex="xvara" gr="V,ppf,3,sg,m.s" parts="xv<ьj>r-ьva" gloss="<>STEM" trans_en="to whiten, to become white" trans_ru="побелеть, побледнеть"></ana>xvьjrьva</w>
 <w><ana lex="zmərə" gr="V,prs,3,sg,m.s" parts="z<ə>m<i>r" gloss="<><>STEM" trans_en="OS" trans_ru="петь"></ana>zəmir</w>
 <w><ana lex="zmərə" gr="V,prs,1,sg,m.s" parts="z<ə>mr-in" gloss="<>STEM" trans_en="OS" trans_ru="петь"></ana>zəmrin</w>
 <w><ana lex="çnəvə" gr="V,pst,3,sg,f.s" parts="çn<i>v-lə" gloss="<>STEM" trans_en="̰ܸܵ seize, snatch; to abduct, elope with; to pursue; cf. ? to pick, gather" trans_ru="хватать"></ana>çnivlə</w>
@@ -492,6 +535,7 @@
 <w><ana lex="dajьmaja" gr="ADJ,sg" parts="dajьmaja" gloss="STEM" trans_en="" trans_ru="постоянный, всегдашний"></ana>dajьmaja</w>
 <w><ana lex="djara" gr="V,prs,3,sg,m.s" parts="d<a>j<ь>r" gloss="<><>STEM" trans_en="to turn intr., return; +/+ I to return" trans_ru="в"></ana>dajьr</w>
 <w><ana lex="dasmal" gr="N,sg,nonposs" parts="dasmal" gloss="STEM" trans_en="a napkin, towel" trans_ru="полотенце"></ana>dasmal</w>
+<w><ana lex="dməxə" gr="V,ptcp.pst,pl" parts="dm<ij>x-i" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dmijxi</w>
 <w><ana lex="draja" gr="N,sg,nonposs" parts="draja" gloss="STEM" trans_en="the Persian yard or metre, about 39 inches; +draya" trans_ru="лапа"></ana>draja</w>
 <w><ana lex="gxəktə" gr="N,sg,nonposs" parts="gxəktə" gloss="STEM" trans_en="" trans_ru="смех, улыбка"></ana>gxəktə</w>
 <w><ana lex="gərdəqutij" gr="N,sg,nonposs" parts="gərdəqutij" gloss="STEM" trans_en="" trans_ru="паутина"></ana>gərdəqutij</w>
@@ -507,9 +551,11 @@
 <w><ana lex="plaşa" gr="V,ipf,3,pl" parts="p<a>lş-ьjva" gloss="<>STEM" trans_en="" trans_ru="драться"></ana>palşьjva</w>
 <w><ana lex="plaţa" gr="V,prs,1,sg,f.s" parts="p<a>lţ-an" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>palţan</w>
 <w><ana lex="plaţa" gr="V,ipf,1,sg,m.s" parts="p<a>lţ-ьnva" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>palţьnva</w>
+<w><ana lex="prəşə" gr="V,pf,3,pl" parts="pr<ij>ş-inə" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>prijşinə</w>
 <w><ana lex="prəşə" gr="V,prs,3,sg,m.s" parts="p<ə>r<i>ş" gloss="<><>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>pəriş</w>
 <w><ana lex="prəşə" gr="V,prs,3,pl" parts="p<ə>rş-ij" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>pərşij</w>
 <w><ana lex="qəltə" gr="N,sg,nonposs" parts="qəltə" gloss="STEM" trans_en="" trans_ru="корзинка"></ana>qəltə</w>
+<w><ana lex="tləqə" gr="V,ptcp.pst,sg,m" parts="tl<ij>q-ə" gloss="<>STEM" trans_en="322a to throw, cast away" trans_ru="исчезать"></ana>tlijqə</w>
 <w><ana lex="təgвir" gr="N,sg,nonposs" parts="təgвir" gloss="STEM" trans_en="" trans_ru="план"></ana>təgвir</w>
 <w><ana lex="txərə" gr="V,prs,3,sg,m.s" parts="t<ə>x<i>r" gloss="<><>STEM" trans_en="" trans_ru="помнить"></ana>təxir</w>
 <w><ana lex="xdara" gr="V,ipf,3,sg,f.s" parts="x<a>dr-ava" gloss="<>STEM" trans_en="to go round etc" trans_ru="ходить"></ana>xadrava</w>
@@ -526,10 +572,12 @@
 <w><ana lex="di" gr="ITJ" parts="di" gloss="STEM" trans_en="come now! be off! di, d particle that adds immediacy to imperatives" trans_ru="давай"></ana>di-</w>
 <w><ana lex="didvə" gr="N,sg,nonposs" parts="didvə" gloss="STEM" trans_en="" trans_ru="муха"></ana>didvə</w>
 <w><ana lex="diqnənə" gr="ADJ,sg" parts="diqnənə" gloss="STEM" trans_en="bearded" trans_ru="бородатый"></ana>diqnənə</w>
+<w><ana lex="dməxə" gr="V,ppf,3,sg,f.s" parts="dm<i>x-tivə" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dmixtivə</w>
 <w><ana lex="dorana" gr="ADJ,sg" parts="dorana" gloss="STEM" trans_en="dora" trans_ru="существующий на протяжении многих поколений"></ana>dorana</w>
 <w><ana lex="dməjə" gr="V,prs,3,sg,m.s" parts="d<ə>m<i>j" gloss="<><>STEM" trans_en="I" trans_ru="быть похожим"></ana><ana lex="dəm" gr="N,sg,p.1,p.sg" parts="dəm-ij" gloss="STEM" trans_en="Pers. گرفتن подпевать, аккомпанировать PRS I, 659a" trans_ru="музыкальное"></ana>dəmij</w>
-<w><ana lex="gnijvə" gr="N,sg,nonposs" parts="gnijvə" gloss="STEM" trans_en="" trans_ru="бровь"></ana>gnijvə</w>
+<w><ana lex="gnijvə" gr="N,sg,nonposs" parts="gnijvə" gloss="STEM" trans_en="" trans_ru="бровь"></ana><ana lex="gnəvə" gr="V,ptcp.pst,sg,m" parts="gn<ij>v-ə" gloss="<>STEM" trans_en="to steal; Oraham 89a gna-va steal; to take and carry away, feloniously" trans_ru="красть"></ana>gnijvə</w>
 <w><ana lex="guruta" gr="N,sg,nonposs" parts="guruta" gloss="STEM" trans_en="gura; greatness, size" trans_ru="величие"></ana>guruta</w>
+<w><ana lex="gvərə" gr="V,pf,3,sg,f.s" parts="gv<i>r-tilə" gloss="<>STEM" trans_en="" trans_ru="жениться"></ana>gvirtilə</w>
 <w><ana lex="gəmij" gr="N,sg,p.3,p.pl" parts="gəmij-e" gloss="STEM" trans_en="" trans_ru="корабль"></ana>gəmije</w>
 <w><ana lex="grəşə" gr="V,ipf,3,pl" parts="g<ə>rş-ijvə" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana>gərşijvə</w>
 <w><ana lex="gvərə" gr="V,prs,3,sg,m.s" parts="g<ə>v<i>r" gloss="<><>STEM" trans_en="" trans_ru="жениться"></ana>gəvir</w>
@@ -545,14 +593,21 @@
 <w><ana lex="jaşmaq" gr="N,sg,nonposs" parts="jaşmaq" gloss="STEM" trans_en="Turk. род чадры" trans_ru="яшмак, род чадры"></ana>jaşmaq</w>
 <w><ana lex="kərtə" gr="N,sg,nonposs" parts="kərtə" gloss="STEM" trans_en="a load, burden" trans_ru="ноша; груз; узел"></ana>kərtə</w>
 <w><ana lex="lvəşə" gr="V,pst,3,sg,f.s" parts="lv<i>ş-lə" gloss="<>STEM" trans_en="" trans_ru="надевать, носить"></ana>lvişlə</w>
+<w><ana lex="lvəşə" gr="V,ppf,3,sg,f.s" parts="lv<i>ş-tivə" gloss="<>STEM" trans_en="" trans_ru="надевать, носить"></ana>lviştivə</w>
 <w><ana lex="masqutь" gr="V,ipf,3,sg,m.s" parts="m<a>s<ь>t-va" gloss="<><>STEM" trans_en="to be, become, or make lame; :212 masqǝt ‘to cripple, paralize’" trans_ru="делать хромым"></ana>masьtva</w>
+<w><ana lex="məkusi" gr="V,ptcp.pst,pl" parts="mk<ij>s-i" gloss="<>STEM" trans_en="= to cover; hide" trans_ru="закрывать"></ana>mkijsi</w>
 <w><ana lex="muxrьmma" gr="ADJ,sg" parts="muxrьmma" gloss="STEM" trans_en="makhrim to excommunicate; to curse tr. and intr., anathematize; in pass. to be accursed" trans_ru="проклятый"></ana>muxrьmma</w>
 <w><ana lex="məxxuji" gr="V,prs,3,sg,f.s" parts="m<ə>xj-ə" gloss="<>STEM" trans_en="to revive, quicken, bring to life" trans_ru="оживлять"></ana>məxjə</w>
 <w><ana lex="narazьj" gr="ADJ,sg" parts="narazьj" gloss="STEM" trans_en="" trans_ru="вь"></ana>narazьj</w>
 <w><ana lex="plaşa" gr="V,ipf,3,sg,m.s" parts="p<a>l<ь>ş-va" gloss="<><>STEM" trans_en="" trans_ru="драться"></ana>palьşva</w>
+<w><ana lex="plaţa" gr="V,ppf,3,sg,f.s" parts="pl<ь>ţ-tьva" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>plьţtьva</w>
 <w><ana lex="prəşə" gr="V,pst,1,sg" parts="pr<i>ş-lij" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>prişlij</w>
+<w><ana lex="prəşə" gr="V,ptcp.pst,sg,f" parts="pr<i>ş-tə" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>priştə</w>
 <w><ana lex="prəşə" gr="V,prs,1,pl" parts="p<ə>rş-əx" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>pərşəx</w>
 <w><ana lex="sejran" gr="N,sg,nonposs" parts="sejran" gloss="STEM" trans_en="" trans_ru="прогуливаться"></ana>sejran</w>
+<w><ana lex="xdara" gr="V,ptcp.pst,sg,m" parts="xd<ьj>r-a" gloss="<>STEM" trans_en="to go round etc" trans_ru="ходить"></ana>xdьjra</w>
+<w><ana lex="xdara" gr="V,pf,3,sg,f.s" parts="xd<ь>r-tьla" gloss="<>STEM" trans_en="to go round etc" trans_ru="ходить"></ana>xdьrtьla</w>
+<w><ana lex="xpəqə" gr="V,ptcp.pst,sg,m" parts="xp<ij>q-ə" gloss="<>STEM" trans_en="" trans_ru="обнимать"></ana>xpijqə</w>
 <w><ana lex="xvarnaja" gr="ADJ,sg" parts="xvarnaja" gloss="STEM" trans_en="whitish" trans_ru="серенькие тучи"></ana>xvarnaja</w>
 <w><ana lex="şidənutə" gr="N,sg,nonposs" parts="şidənutə" gloss="STEM" trans_en="" trans_ru="безумие"></ana>şidənutə</w>
 <w><ana lex="şuxra" gr="N,sg,nonposs" parts="şuxra" gloss="STEM" trans_en="" trans_ru="оброк"></ana>şuxra</w>
@@ -568,14 +623,20 @@
 <w><ana lex="bulgənə" gr="N,sg,nonposs" parts="bulgənə" gloss="STEM" trans_en="" trans_ru="занятие"></ana>bulgənə</w>
 <w><ana lex="dipnə" gr="N,sg,nonposs" parts="dipnə" gloss="STEM" trans_en="the side" trans_ru="торона, бок"></ana>dipnə-</w>
 <w><ana lex="djəntə" gr="N,sg,nonposs" parts="djəntə" gloss="STEM" trans_en="vn. dyanta" trans_ru="удопроизводство"></ana>djəntə</w>
+<w><ana lex="dməjə" gr="V,ptcp.pst,sg,m" parts="dm<ij>j-ə" gloss="<>STEM" trans_en="I" trans_ru="быть похожим"></ana>dmijjə</w>
 <w><ana lex="dməxə" gr="V,pst,3,sg,f.s" parts="dm<i>x-lə" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dmixlə</w>
 <w><ana lex="dməxə" gr="V,pst,1,pl" parts="dm<i>x-lən" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dmixlən</w>
+<w><ana lex="dməxə" gr="V,pf,3,sg,f.s" parts="dm<i>x-tilə" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dmixtilə</w>
 <w><ana lex="duglə" gr="N,sg,nonposs" parts="duglə" gloss="STEM" trans_en="duɟla" trans_ru="ложь"></ana>duglə</w>
+<w><ana lex="dvərə" gr="V,ppf,3,pl" parts="dv<ij>r-ivə" gloss="<>STEM" trans_en="I" trans_ru="запирать"></ana><ana lex="dvərə" gr="V,ppf,3,sg,m.s" parts="dv<ij>r-ivə" gloss="<>STEM" trans_en="I" trans_ru="запирать"></ana>dvijrivə</w>
+<w><ana lex="dvəqə" gr="V,pf,3,sg,f.s" parts="dv<i>q-tilə" gloss="<>STEM" trans_en="to catch, hold, seize, take, take hold oj, grip, handle; to stop tr., d. to restrain oneself, to be temperate; to hire; to correspond to or together; to take, take prisoner; to surprise a fortress; to celebrate, keep a feast; to keep, keep to, often with b.; to uphold; to contain lit. and in arith.; MB. to pickle in vinegar; in pass. to be frozen; ̭ I" trans_ru="держать"></ana>dviqtilə</w>
+<w><ana lex="dvərə" gr="V,ptcp.pst,sg,f" parts="dv<i>r-tə" gloss="<>STEM" trans_en="I" trans_ru="запирать"></ana>dvirtə</w>
 <w><ana lex="dməxə" gr="V,prs,1,sg,f.s" parts="d<ə>mx-ən" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dəmxən</w>
 <w><ana lex="dməxə" gr="V,ipf,3,sg,f.s" parts="d<ə>mx-əvə" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dəmxəvə</w>
 <w><ana lex="dərdənə" gr="ADJ,sg" parts="dərdənə" gloss="STEM" trans_en="aching, in pain" trans_ru="горестный"></ana>dərdənə</w>
 <w><ana lex="dəstur" gr="N,sg,nonposs" parts="dəstur" gloss="STEM" trans_en="permission, leave; dastur command, permission" trans_ru="приказ"></ana>dəstur</w>
 <w><ana lex="gomrug" gr="N,sg,nonposs" parts="gomrug" gloss="STEM" trans_en="custom, duty" trans_ru="таможня"></ana>gomrug</w>
+<w><ana lex="grəşə" gr="V,pf,3,sg,m.s" parts="gr<ij>ş-ili" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana>grijşili</w>
 <w><ana lex="grəşə" gr="V,pst,3,pl" parts="gr<i>ş-lun" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana>grişlun-</w>
 <w><ana lex="gəmij" gr="N,sg,p.3,p.sg,p.m" parts="gəmij-u" gloss="STEM" trans_en="" trans_ru="корабль"></ana>gəmiju</w>
 <w><ana lex="gərusə" gr="ADJ,sg" parts="gərusə" gloss="STEM" trans_en="56b" trans_ru="большой"></ana>gərusə</w>
@@ -593,19 +654,29 @@
 <w><ana lex="kəltə" gr="N,sg,nonposs" parts="kəltə" gloss="STEM" trans_en="" trans_ru="невестка, сноха"></ana>kəltə</w>
 <w><ana lex="lvəxə" gr="V,pst,3,pl" parts="lv<i>x-lun" gloss="<>STEM" trans_en="to catch fire, ignite, flash, dart out as a spark" trans_ru="в"></ana>lvixlun</w>
 <w><ana lex="mapşьmana" gr="ADJ,sg" parts="mapşьmana" gloss="STEM" trans_en="mpašmin to grieve" trans_ru="печальный"></ana>mapşьmana</w>
+<w><ana lex="məkusi" gr="V,pf,3,pl" parts="mk<ij>s-inə" gloss="<>STEM" trans_en="= to cover; hide" trans_ru="закрывать"></ana>mkijsinə</w>
+<w><ana lex="məkusi" gr="V,ppf,3,sg,f.s" parts="mk<i>s-tivə" gloss="<>STEM" trans_en="= to cover; hide" trans_ru="закрывать"></ana>mkistivə</w>
 <w><ana lex="məxxuji" gr="V,pst,3,sg,m.s" parts="mx<i>j-li" gloss="<>STEM" trans_en="to revive, quicken, bring to life" trans_ru="оживлять"></ana>mxijli</w>
 <w><ana lex="plaţa" gr="V,prs,2,sg,m.s" parts="p<a>lţ-ьt" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>palţьt</w>
 <w><ana lex="plaşa" gr="V,prs,3,sg,m.s" parts="p<a>l<ь>ş" gloss="<><>STEM" trans_en="" trans_ru="драться"></ana>palьş</w>
+<w><ana lex="plaţa" gr="V,pf,3,sg,f.s" parts="pl<ь>ţ-tьla" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>plьţtьla</w>
+<w><ana lex="tləqə" gr="V,pf,3,sg,m.s" parts="tl<ij>q-ili" gloss="<>STEM" trans_en="322a to throw, cast away" trans_ru="исчезать"></ana>tlijqili</w>
+<w><ana lex="tləqə" gr="V,pf,3,sg,f.s" parts="tl<i>q-tilə" gloss="<>STEM" trans_en="322a to throw, cast away" trans_ru="исчезать"></ana>tliqtilə</w>
+<w><ana lex="tvənə" gr="V,ptcp.pst,pl" parts="tv<ij>n-i" gloss="<>STEM" trans_en="to be or become numb" trans_ru="неметь, цепенеть"></ana>tvijni</w>
+<w><ana lex="tvənə" gr="V,ptcp.pst,sg,m" parts="tv<ij>n-ə" gloss="<>STEM" trans_en="to be or become numb" trans_ru="неметь, цепенеть"></ana>tvijnə</w>
 <w><ana lex="təfsil" gr="N,sg,nonposs" parts="təfsil" gloss="STEM" trans_en="taph-sil detail, a narrative which related minute points" trans_ru="в"></ana>təfsil</w>
 <w><ana lex="tərqəltə" gr="N,sg,nonposs" parts="tərqəltə" gloss="STEM" trans_en="" trans_ru="преткновение"></ana>tərqəltə</w>
+<w><ana lex="xpəqə" gr="V,ptcp.pst,pl" parts="xp<ij>q-i" gloss="<>STEM" trans_en="" trans_ru="обнимать"></ana>xpijqi</w>
 <w><ana lex="zrəqə" gr="V,pst,3,sg,m.s" parts="zr<i>q-li" gloss="<>STEM" trans_en="to rise as the sun or a star; to sprinkle; to scatter" trans_ru="восходить"></ana>zriqli</w>
 <w><ana lex="çalalьjuta" gr="N,sg,nonposs" parts="çalalьjuta" gloss="STEM" trans_en="+jalaliyyuyta n.f. robbery, crime" trans_ru="разбой"></ana>çalalьjuta</w>
 <w><ana lex="çrəpə" gr="V,pst,3,sg,f.s" parts="çr<i>p-lə" gloss="<>STEM" trans_en="to slide, slip" trans_ru="кользить"></ana>çriplə</w>
 <w><ana lex="şraja" gr="V,ipf,3,sg,f.s" parts="ş<a>rj-ava" gloss="<>STEM" trans_en="to judge" trans_ru="удить"></ana>şarjava</w>
+<w><ana lex="şləgə" gr="V,ptcp.pst,pl" parts="şl<ij>g-i" gloss="<>STEM" trans_en="to pluck, pluck up" trans_ru="выдёргивать"></ana>şlijgi</w>
 <w><ana lex="ţallь" gr="V,prs,3,sg,f.s" parts="ţ<a>ll-a" gloss="<>STEM" trans_en="" trans_ru="дремать"></ana>ţalla</w>
 <w><ana lex="в" gr="N,sg,p.3,p.pl" parts="в-e" gloss="STEM" trans_en="" trans_ru="в"></ana>вe-</w>
 <w><ana lex="dipnə" gr="N,sg,nonposs" parts="dipnə" gloss="STEM" trans_en="the side" trans_ru="торона, бок"></ana>-dipnə</w>
 <w><ana lex="gnəjə" gr="V,prs,3,sg,m.s" parts="g<ə>n<i>j" gloss="<><>STEM" trans_en="" trans_ru="садиться"></ana>-gənij</w>
+<w><ana lex="plaţa" gr="V,pf,3,sg,m.s" parts="pl<ьj>ţ-ьlь" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>-plьjţьlь</w>
 <w><ana lex="в" gr="N,sg,p.1,p.sg" parts="в-ij" gloss="STEM" trans_en="" trans_ru="в"></ana>-вij</w>
 <w><ana lex="amarat" gr="N,sg,nonposs" parts="amarat" gloss="STEM" trans_en="dwelling, palace" trans_ru="палаты"></ana>amarat</w>
 <w><ana lex="assьjra" gr="N,sg,nonposs" parts="assьjra" gloss="STEM" trans_en="a prisoner" trans_ru="невольник"></ana>assьjra</w>
@@ -616,11 +687,13 @@
 <w><ana lex="cucəgə" gr="N,sg,nonposs" parts="cucəgə" gloss="STEM" trans_en="a flower; ; Ch114a çʼîçʼêk" trans_ru="цветок"></ana>cucəgə</w>
 <w><ana lex="d" gr="CONJ" parts="d" gloss="STEM" trans_en="even if, although" trans_ru="несмотря на"></ana><ana lex="d" gr="PRN" parts="d" gloss="STEM" trans_en="" trans_ru="относительное местоимение"></ana>d-</w>
 <w><ana lex="divşə" gr="N,sg,nonposs" parts="divşə" gloss="STEM" trans_en="duyša" trans_ru="мёд"></ana>divşə</w>
+<w><ana lex="dvəqə" gr="V,pf,1,sg,m.s" parts="dv<ij>q-ivin" gloss="<>STEM" trans_en="to catch, hold, seize, take, take hold oj, grip, handle; to stop tr., d. to restrain oneself, to be temperate; to hire; to correspond to or together; to take, take prisoner; to surprise a fortress; to celebrate, keep a feast; to keep, keep to, often with b.; to uphold; to contain lit. and in arith.; MB. to pickle in vinegar; in pass. to be frozen; ̭ I" trans_ru="держать"></ana>dvijqivin</w>
 <w><ana lex="dvorjənin" gr="N,sg,nonposs" parts="dvorjənin" gloss="STEM" trans_en="rus. дворянин" trans_ru="дворянин"></ana>dvorjənin</w>
 <w><ana lex="djənə" gr="V,prs,3,sg,m.s" parts="d<ə>j<i>n" gloss="<><>STEM" trans_en="/ I to judge" trans_ru="удить"></ana>dəjin</w>
 <w><ana lex="dəmetə" gr="N,sg,nonposs" parts="dəmetə" gloss="STEM" trans_en="cf. dam-ya-ue-ta similarity" trans_ru="сходство"></ana>dəmetə</w>
 <w><ana lex="dməxə" gr="V,ipf,1,sg,m.s" parts="d<ə>mx-invə" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dəmxinvə</w>
 <w><ana lex="dvərə" gr="V,prs,3,pl" parts="d<ə>vr-ij" gloss="<>STEM" trans_en="I" trans_ru="запирать"></ana>dəvrij</w>
+<w><ana lex="grəşə" gr="V,ptcp.pst,sg,f" parts="gr<i>ş-tə" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana>griştə</w>
 <w><ana lex="gulpə" gr="N,sg,nonposs" parts="gulpə" gloss="STEM" trans_en="" trans_ru="крыло"></ana>gulpə</w>
 <w><ana lex="gutsul" gr="N,sg,nonposs" parts="gutsul" gloss="STEM" trans_en="" trans_ru="гуцул"></ana>gutsul</w>
 <w><ana lex="gəduştə" gr="N,sg,nonposs" parts="gəduştə" gloss="STEM" trans_en="" trans_ru="горшок для цветов"></ana>gəduştə</w>
@@ -640,13 +713,18 @@
 <w><ana lex="kvəcə" gr="V,pst,3,sg,m.s" parts="kv<i>c-li" gloss="<>STEM" trans_en="a nomad" trans_ru="поселиться"></ana>kvicli</w>
 <w><ana lex="kvəcə" gr="V,pst,1,pl" parts="kv<i>c-lən" gloss="<>STEM" trans_en="a nomad" trans_ru="поселиться"></ana>kviclən</w>
 <w><ana lex="lama" gr="N,sg,nonposs" parts="lama" gloss="STEM" trans_en="Syr. bit, mouthpiece of bridle" trans_ru="удила"></ana>lama</w>
+<w><ana lex="lvəşə" gr="V,pf,3,sg,m.s" parts="lv<ij>ş-ili" gloss="<>STEM" trans_en="" trans_ru="надевать, носить"></ana>lvijşili</w>
 <w><ana lex="lvəşə" gr="V,ipf,3,sg,m.s" parts="l<ə>v<i>ş-və" gloss="<><>STEM" trans_en="" trans_ru="надевать, носить"></ana>ləvişvə</w>
 <w><ana lex="marpujь" gr="V,prs,3,sg,f.s" parts="m<a>rj-a" gloss="<>STEM" trans_en="" trans_ru="разжимать"></ana>marja-</w>
 <w><ana lex="məkusi" gr="V,pst,3,sg,m.s" parts="mk<i>s-li" gloss="<>STEM" trans_en="= to cover; hide" trans_ru="закрывать"></ana>mkisli</w>
+<w><ana lex="məkusi" gr="V,pf,3,sg,f.s" parts="mk<i>s-tilə" gloss="<>STEM" trans_en="= to cover; hide" trans_ru="закрывать"></ana>mkistilə</w>
+<w><ana lex="məzjudi" gr="V,ptcp.pst,pl" parts="mz<ij>d-i" gloss="<>STEM" trans_en="" trans_ru="добавлять"></ana>mzijdi</w>
 <w><ana lex="məxxuji" gr="V,ipf,3,sg,f.s" parts="m<ə>xj-əvə" gloss="<>STEM" trans_en="to revive, quicken, bring to life" trans_ru="оживлять"></ana>məxjəvə</w>
 <w><ana lex="plaţa" gr="V,prs,2,pl" parts="p<a>lţ-ьtun" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>palţьtun</w>
+<w><ana lex="prəşə" gr="V,ppf,3,pl" parts="pr<ij>ş-ivə" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana><ana lex="prəşə" gr="V,ppf,3,sg,m.s" parts="pr<ij>ş-ivə" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>prijşivə</w>
 <w><ana lex="prəşə" gr="V,pst,1,pl" parts="pr<i>ş-lən" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>prişlən</w>
 <w><ana lex="prəşə" gr="V,prs,1,sg,m.s" parts="p<ə>rş-in" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>pərşin</w>
+<w><ana lex="tləqə" gr="V,ppf,3,pl" parts="tl<ij>q-ivə" gloss="<>STEM" trans_en="322a to throw, cast away" trans_ru="исчезать"></ana><ana lex="tləqə" gr="V,ppf,3,sg,m.s" parts="tl<ij>q-ivə" gloss="<>STEM" trans_en="322a to throw, cast away" trans_ru="исчезать"></ana>tlijqivə</w>
 <w><ana lex="turqələ" gr="N,sg,nonposs" parts="turqələ" gloss="STEM" trans_en="" trans_ru="препятствие"></ana>turqələ</w>
 <w><ana lex="tləqə" gr="V,ipf,3,sg,m.s" parts="t<ə>l<i>q-və" gloss="<><>STEM" trans_en="322a to throw, cast away" trans_ru="исчезать"></ana>təliqvə</w>
 <w><ana lex="tləqə" gr="V,prs,3,pl" parts="t<ə>lq-ij" gloss="<>STEM" trans_en="322a to throw, cast away" trans_ru="исчезать"></ana>təlqij</w>
@@ -654,6 +732,7 @@
 <w><ana lex="vəsjət" gr="N,sg,nonposs" parts="vəsjət" gloss="STEM" trans_en="" trans_ru="завещание"></ana>vəsjət</w>
 <w><ana lex="xlava" gr="V,prs,3,pl" parts="x<a>lv-ьj" gloss="<>STEM" trans_en="to milk; to give milk" trans_ru="доить"></ana>xalvьj</w>
 <w><ana lex="xamurnaja" gr="ADJ,sg" parts="xamurnaja" gloss="STEM" trans_en="" trans_ru="кислый, кисловатый"></ana>xamurnaja</w>
+<w><ana lex="xdara" gr="V,ptcp.pst,sg,f" parts="xd<ь>r-ta" gloss="<>STEM" trans_en="to go round etc" trans_ru="ходить"></ana>xdьrta</w>
 <w><ana lex="xidjutə" gr="N,sg,nonposs" parts="xidjutə" gloss="STEM" trans_en="" trans_ru="радость"></ana>xidjutə</w>
 <w><ana lex="xu" gr="INTERJ" parts="xu" gloss="STEM" trans_en="Ah! Oh! Tush!" trans_ru="Ведь не все же бить жидов"></ana>xu-</w>
 <w><ana lex="zmərə" gr="V,prs,1,sg,f.s" parts="z<ə>mr-ən" gloss="<>STEM" trans_en="OS" trans_ru="петь"></ana>zəmrən</w>
@@ -686,11 +765,15 @@
 <w><ana lex="txərə" gr="V,prs2,1,sg,f.s" parts="bi-tx<ə>r-ivən" gloss="<>STEM" trans_en="" trans_ru="помнить"></ana>bitxərivən</w>
 <w><ana lex="bəqtə" gr="N,sg,nonposs" parts="bəqtə" gloss="STEM" trans_en="" trans_ru="комар"></ana>bəqtə</w>
 <w><ana lex="camadan" gr="N,sg,nonposs" parts="camadan" gloss="STEM" trans_en="̰ܵ a leather bag, jamʻdān a traveller’s scrip" trans_ru="чемодан"></ana>camadan</w>
+<w><ana lex="clapa" gr="V,ptcp.pst,sg,m" parts="cl<ьj>p-a" gloss="<>STEM" trans_en="to split, chop, cleave" trans_ru="рстерзать"></ana>clьjpa</w>
+<w><ana lex="clapa" gr="V,ptcp.pst,sg,m" parts="cl<ьj>p-ь" gloss="<>STEM" trans_en="to split, chop, cleave" trans_ru="рстерзать"></ana>clьjpь</w>
 <w><ana lex="cəkuc" gr="N,sg,nonposs" parts="cəkuc" gloss="STEM" trans_en="a mallet, hammer" trans_ru="молоток"></ana>cəkuc</w>
 <w><ana lex="crətə" gr="V,prs,3,sg,m.s" parts="c<ə>r<i>t" gloss="<><>STEM" trans_en="to fire a gun" trans_ru="палить"></ana>cərit</w>
 <w><ana lex="cəşnij" gr="N,sg,p.3,p.sg,p.m" parts="cəşnij-u" gloss="STEM" trans_en="" trans_ru="фигура"></ana>cəşniju</w>
 <w><ana lex="daraxaçь" gr="N,sg,nonposs" parts="daraxaçь" gloss="STEM" trans_en="scaffold" trans_ru="виселица"></ana>daraxaçь</w>
 <w><ana lex="daьjrait" gr="ADV" parts="daьjrait" gloss="STEM" trans_en="" trans_ru="по кругу"></ana>daьjrait</w>
+<w><ana lex="dməxə" gr="V,ppf,1,sg,m.s" parts="dm<ij>x-ivinvə" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dmijxivinvə</w>
+<w><ana lex="dməxə" gr="V,ptcp.pst,sg,f" parts="dm<i>x-tə" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dmixtə</w>
 <w><ana lex="dvəqə" gr="V,pst,1,pl" parts="dv<i>q-lən" gloss="<>STEM" trans_en="to catch, hold, seize, take, take hold oj, grip, handle; to stop tr., d. to restrain oneself, to be temperate; to hire; to correspond to or together; to take, take prisoner; to surprise a fortress; to celebrate, keep a feast; to keep, keep to, often with b.; to uphold; to contain lit. and in arith.; MB. to pickle in vinegar; in pass. to be frozen; ̭ I" trans_ru="держать"></ana>dviqlən</w>
 <w><ana lex="dəkduki" gr="V,prs,3,sg,f.s" parts="d<ə>kk-ə" gloss="<>STEM" trans_en="̭ to chop finely; to break in small pieces" trans_ru="выстрочите ему спину"></ana><ana lex="dəkkə" gr="N,sg,nonposs" parts="dəkkə" gloss="STEM" trans_en="the fist" trans_ru="кулак"></ana>dəkkə</w>
 <w><ana lex="dməxə" gr="V,ipf,3,pl" parts="d<ə>mx-ijvə" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dəmxijvə</w>
@@ -728,15 +811,22 @@
 <w><ana lex="jəlip" gr="V,ipf,3,pl" parts="j<ə>lp-ijvə" gloss="<>STEM" trans_en="" trans_ru="научиться, привыкать"></ana>jəlpijvə</w>
 <w><ana lex="jəlip" gr="V,ipf,1,sg,m.s" parts="j<ə>lp-invə" gloss="<>STEM" trans_en="" trans_ru="научиться, привыкать"></ana>jəlpinvə</w>
 <w><ana lex="kəƶƶə" gr="ADJ,sg" parts="kəƶƶə" gloss="STEM" trans_en="" trans_ru="рыжий, с рыжими волосами"></ana>kəƶƶə</w>
+<w><ana lex="lvəşə" gr="V,pf,3,pl" parts="lv<ij>ş-inə" gloss="<>STEM" trans_en="" trans_ru="надевать, носить"></ana>lvijşinə</w>
 <w><ana lex="lvəşə" gr="V,pst,1,sg" parts="lv<i>ş-lij" gloss="<>STEM" trans_en="" trans_ru="надевать, носить"></ana>lvişlij</w>
 <w><ana lex="lvəşə" gr="V,pst,3,pl" parts="lv<i>ş-lun" gloss="<>STEM" trans_en="" trans_ru="надевать, носить"></ana>lvişlun</w>
+<w><ana lex="məkusi" gr="V,ptcp.pst,sg,f" parts="mk<i>s-tə" gloss="<>STEM" trans_en="= to cover; hide" trans_ru="закрывать"></ana>mkistə</w>
 <w><ana lex="məxxuji" gr="V,pst,3,pl" parts="mx<i>j-lun" gloss="<>STEM" trans_en="to revive, quicken, bring to life" trans_ru="оживлять"></ana>mxijlun</w>
 <w><ana lex="ojun" gr="N,sg,p.3,p.sg,p.m" parts="ojun-u" gloss="STEM" trans_en="play, game" trans_ru="партия"></ana>ojunu</w>
 <w><ana lex="plaţa" gr="V,prs,2,sg,f.s" parts="p<a>lţ-at" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>palţat</w>
+<w><ana lex="plaşa" gr="V,pf,3,sg,m.s" parts="pl<ьj>ş-ьlь" gloss="<>STEM" trans_en="" trans_ru="драться"></ana>plьjşьlь</w>
+<w><ana lex="plaşa" gr="V,pf,1,sg,m.s" parts="pl<ьj>ş-ьvьn" gloss="<>STEM" trans_en="" trans_ru="драться"></ana>plьjşьvьn</w>
+<w><ana lex="plaţa" gr="V,ptcp.pst,sg,m" parts="pl<ьj>ţ-a" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>plьjţa-</w>
 <w><ana lex="plaşa" gr="V,pst,3,pl" parts="pl<ь>ş-lun" gloss="<>STEM" trans_en="" trans_ru="драться"></ana>plьşlun</w>
 <w><ana lex="plaşa" gr="V,pst,3,sg,m.s" parts="pl<ь>ş-lь" gloss="<>STEM" trans_en="" trans_ru="драться"></ana>plьşlь</w>
 <w><ana lex="plaţa" gr="V,pst,2,sg,m.s" parts="pl<ь>ţ-lux" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>plьţlux</w>
 <w><ana lex="prəşə" gr="V,pst,3,sg,f.s" parts="pr<i>ş-lə" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>prişlə</w>
+<w><ana lex="prəşə" gr="V,ppf,3,sg,f.s" parts="pr<i>ş-tivə" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>priştivə</w>
+<w><ana lex="psaxa" gr="V,ppf,3,pl" parts="ps<ьj>x-ьva" gloss="<>STEM" trans_en="to be glad, to rejoice" trans_ru="торжествовать"></ana><ana lex="psaxa" gr="V,ppf,3,sg,m.s" parts="ps<ьj>x-ьva" gloss="<>STEM" trans_en="to be glad, to rejoice" trans_ru="торжествовать"></ana>psьjxьva</w>
 <w><ana lex="psaxa" gr="V,pst,3,sg,m.s" parts="ps<ь>x-lь" gloss="<>STEM" trans_en="to be glad, to rejoice" trans_ru="торжествовать"></ana>psьxlь</w>
 <w><ana lex="prəşə" gr="V,ipf,3,pl" parts="p<ə>rş-ijvə" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>pərşijvə</w>
 <w><ana lex="prəşə" gr="V,prs,2,sg,m.s" parts="p<ə>rş-it" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>pərşit</w>
@@ -746,12 +836,20 @@
 <w><ana lex="qvara" gr="V,prs,3,sg,f.s" parts="q<a>vr-a" gloss="<>STEM" trans_en="" trans_ru="хоронить"></ana>qavra</w>
 <w><ana lex="qujmar" gr="N,sg,nonposs" parts="qujmar" gloss="STEM" trans_en="Azer. qumar &lt; Arab" trans_ru="азартная игра"></ana>qujmar</w>
 <w><ana lex="sməjə" gr="V,prs,3,sg,m.s" parts="s<ə>m<i>j" gloss="<><>STEM" trans_en="" trans_ru="быть слепым"></ana>səmij</w>
+<w><ana lex="tləqə" gr="V,pf,3,pl" parts="tl<ij>q-inə" gloss="<>STEM" trans_en="322a to throw, cast away" trans_ru="исчезать"></ana>tlijqinə</w>
+<w><ana lex="tvənə" gr="V,ppf,3,pl" parts="tv<ij>n-ivə" gloss="<>STEM" trans_en="to be or become numb" trans_ru="неметь, цепенеть"></ana><ana lex="tvənə" gr="V,ppf,3,sg,m.s" parts="tv<ij>n-ivə" gloss="<>STEM" trans_en="to be or become numb" trans_ru="неметь, цепенеть"></ana>tvijnivə</w>
+<w><ana lex="tvənə" gr="V,ptcp.pst,sg,f" parts="tv<i>n-tə" gloss="<>STEM" trans_en="to be or become numb" trans_ru="неметь, цепенеть"></ana>tvintə</w>
+<w><ana lex="txəsə" gr="V,ptcp.pst,pl" parts="tx<ij>s-i" gloss="<>STEM" trans_en="" trans_ru="совать"></ana>txijsi</w>
 <w><ana lex="txəsə" gr="V,pst,3,sg,f.s" parts="tx<i>s-lə" gloss="<>STEM" trans_en="" trans_ru="совать"></ana>txislə</w>
 <w><ana lex="txərə" gr="V,prs,1,pl" parts="t<ə>xr-əx" gloss="<>STEM" trans_en="" trans_ru="помнить"></ana>təxrəx</w>
 <w><ana lex="xdara" gr="V,prs,1,pl" parts="x<a>dr-ax" gloss="<>STEM" trans_en="to go round etc" trans_ru="ходить"></ana>xadrax</w>
 <w><ana lex="xdara" gr="V,ipf,1,sg,m.s" parts="x<a>dr-ьnva" gloss="<>STEM" trans_en="to go round etc" trans_ru="ходить"></ana>xadrьnva</w>
+<w><ana lex="xdara" gr="V,pf,3,sg,m.s" parts="xd<ьj>r-ьlь" gloss="<>STEM" trans_en="to go round etc" trans_ru="ходить"></ana>xdьjrьlь</w>
+<w><ana lex="xdara" gr="V,pf,3,pl" parts="xd<ьj>r-ьna" gloss="<>STEM" trans_en="to go round etc" trans_ru="ходить"></ana>xdьjrьna</w>
 <w><ana lex="xirutə" gr="N,sg,nonposs" parts="xirutə" gloss="STEM" trans_en="freedom" trans_ru="свобода"></ana>xirutə</w>
 <w><ana lex="xrəqə" gr="N,sg,nonposs" parts="xrəqə" gloss="STEM" trans_en="" trans_ru="уничтожение"></ana>xrəqə</w>
+<w><ana lex="xvara" gr="V,pf,3,sg,m.s" parts="xv<ьj>r-ьlь" gloss="<>STEM" trans_en="to whiten, to become white" trans_ru="побелеть, побледнеть"></ana>xvьjrьlь</w>
+<w><ana lex="xvara" gr="V,ppf,3,sg,f.s" parts="xv<ь>r-tьva" gloss="<>STEM" trans_en="to whiten, to become white" trans_ru="побелеть, побледнеть"></ana>xvьrtьva</w>
 <w><ana lex="zmərə" gr="V,ipf,3,pl" parts="z<ə>mr-ijvə" gloss="<>STEM" trans_en="OS" trans_ru="петь"></ana>zəmrijvə</w>
 <w><ana lex="zmərə" gr="V,prs,1,pl" parts="z<ə>mr-əx" gloss="<>STEM" trans_en="OS" trans_ru="петь"></ana>zəmrəx</w>
 <w><ana lex="çar" gr="N,sg,nonposs" parts="çar" gloss="STEM" trans_en="proclamation" trans_ru="призыв"></ana>çar</w>
@@ -809,6 +907,7 @@
 <w><ana lex="bьzza" gr="N,sg,nonposs" parts="bьzza" gloss="STEM" trans_en="" trans_ru="отверстие, дыра"></ana>bьzza</w>
 <w><ana lex="cingirənə" gr="ADJ,sg" parts="cingirənə" gloss="STEM" trans_en="" trans_ru="оборванный"></ana>cingirənə</w>
 <w><ana lex="clapa" gr="V,pst,3,pl" parts="cl<ь>p-lun" gloss="<>STEM" trans_en="to split, chop, cleave" trans_ru="рстерзать"></ana>clьplun</w>
+<w><ana lex="clapa" gr="V,ptcp.pst,sg,f" parts="cl<ь>p-ta" gloss="<>STEM" trans_en="to split, chop, cleave" trans_ru="рстерзать"></ana>clьpta</w>
 <w><ana lex="crətə" gr="V,pst,3,pl" parts="cr<i>t-lun" gloss="<>STEM" trans_en="to fire a gun" trans_ru="палить"></ana>critlun</w>
 <w><ana lex="crətə" gr="V,pst,3,sg,f.s" parts="cr<i>t-lə" gloss="<>STEM" trans_en="to fire a gun" trans_ru="палить"></ana>critlə</w>
 <w><ana lex="crəzə" gr="V,pst,3,sg,f.s" parts="cr<i>z-lə" gloss="<>STEM" trans_en="to pierce" trans_ru="прокалывать, пронзать"></ana>crizlə</w>
@@ -822,19 +921,28 @@
 <w><ana lex="dəguli" gr="V,pst,3,sg,f.s" parts="dg<i>l-lə" gloss="<>STEM" trans_en="" trans_ru="врать"></ana>dgillə</w>
 <w><ana lex="dorəmə" gr="N,sg,nonposs" parts="dorəmə" gloss="STEM" trans_en="dōrāmī a gadabout; rambler, a rover, a wanderer; pace Friedrich" trans_ru="бродяга"></ana>dorəmə</w>
 <w><ana lex="duglənə" gr="ADJ,sg" parts="duglənə" gloss="STEM" trans_en="duɟlana" trans_ru="лживый, ложный"></ana>duglənə</w>
+<w><ana lex="dvəqə" gr="V,ppf,1,sg,m.s" parts="dv<ij>q-ivinvə" gloss="<>STEM" trans_en="to catch, hold, seize, take, take hold oj, grip, handle; to stop tr., d. to restrain oneself, to be temperate; to hire; to correspond to or together; to take, take prisoner; to surprise a fortress; to celebrate, keep a feast; to keep, keep to, often with b.; to uphold; to contain lit. and in arith.; MB. to pickle in vinegar; in pass. to be frozen; ̭ I" trans_ru="держать"></ana>dvijqivinvə</w>
 <w><ana lex="dəjqə" gr="ADJ,sg" parts="dəjqə" gloss="STEM" trans_en="small, minute; ‘fine, small’" trans_ru="мелкий"></ana>dəjqə-</w>
 <w><ana lex="dməxə" gr="V,ipf,2,sg,m.s" parts="d<ə>mx-itvə" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dəmxitvə</w>
 <w><ana lex="dərqul" gr="PREP" parts="dərqul" gloss="STEM" trans_en="against; part. against" trans_ru="против"></ana>dərqul-</w>
+<w><ana lex="gdələ" gr="V,pf,3,pl" parts="gd<ij>l-inə" gloss="<>STEM" trans_en="OS. to weave, braid, wreathe" trans_ru="плести"></ana>gdijlinə</w>
+<w><ana lex="gdələ" gr="V,ppf,3,pl" parts="gd<ij>l-ivə" gloss="<>STEM" trans_en="OS. to weave, braid, wreathe" trans_ru="плести"></ana><ana lex="gdələ" gr="V,ppf,3,sg,m.s" parts="gd<ij>l-ivə" gloss="<>STEM" trans_en="OS. to weave, braid, wreathe" trans_ru="плести"></ana>gdijlivə</w>
 <w><ana lex="geografija" gr="N,sg,nonposs" parts="geografija" gloss="STEM" trans_en="rus" trans_ru="география"></ana>geografija</w>
 <w><ana lex="girə" gr="N,sg,nonposs" parts="girə" gloss="STEM" trans_en="an arrow" trans_ru="стрела"></ana>girə-</w>
 <w><ana lex="girəv" gr="N,sg,nonposs" parts="girəv" gloss="STEM" trans_en="pledge, pawn" trans_ru="залог"></ana>girəv</w>
+<w><ana lex="gləçə" gr="V,ptcp.pst,sg,m" parts="gl<ij>ç-ə" gloss="<>STEM" trans_en="to open mouth of a vessel or skin; met. to be talkative" trans_ru="разевать"></ana>glijçə</w>
 <w><ana lex="gləçə" gr="V,pst,3,sg,m.s" parts="gl<i>ç-li" gloss="<>STEM" trans_en="to open mouth of a vessel or skin; met. to be talkative" trans_ru="разевать"></ana>gliçli</w>
+<w><ana lex="gnəvə" gr="V,ppf,3,pl" parts="gn<ij>v-ivə" gloss="<>STEM" trans_en="to steal; Oraham 89a gna-va steal; to take and carry away, feloniously" trans_ru="красть"></ana><ana lex="gnəvə" gr="V,ppf,3,sg,m.s" parts="gn<ij>v-ivə" gloss="<>STEM" trans_en="to steal; Oraham 89a gna-va steal; to take and carry away, feloniously" trans_ru="красть"></ana>gnijvivə</w>
 <w><ana lex="gnəvə" gr="V,pst,3,sg,m.s" parts="gn<i>v-li" gloss="<>STEM" trans_en="to steal; Oraham 89a gna-va steal; to take and carry away, feloniously" trans_ru="красть"></ana>gnivli</w>
 <w><ana lex="gnəvə" gr="V,pst,3,pl" parts="gn<i>v-lun" gloss="<>STEM" trans_en="to steal; Oraham 89a gna-va steal; to take and carry away, feloniously" trans_ru="красть"></ana>gnivlun</w>
 <w><ana lex="gərvusi" gr="V,pst,3,pl" parts="gr<i>s-lun" gloss="<>STEM" trans_en="/b" trans_ru="расти"></ana>grislun</w>
 <w><ana lex="grəşə" gr="V,pst,3,sg,f.s" parts="gr<i>ş-lə" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana>grişlə-</w>
+<w><ana lex="grəşə" gr="V,pf,3,sg,f.s" parts="gr<i>ş-tilə" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana>griştilə</w>
+<w><ana lex="grəşə" gr="V,ppf,3,sg,f.s" parts="gr<i>ş-tivə" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana>griştivə</w>
 <w><ana lex="graja" gr="V,pst,3,sg,f.s" parts="gr<ь>j-la" gloss="<>STEM" trans_en="to shave, to shear" trans_ru="брить"></ana>grьjla</w>
 <w><ana lex="gunahkaruta" gr="N,sg,nonposs" parts="gunahkaruta" gloss="STEM" trans_en="guilt, condemnation" trans_ru="виновность"></ana>gunahkaruta</w>
+<w><ana lex="gvərə" gr="V,ppf,3,pl" parts="gv<ij>r-ivə" gloss="<>STEM" trans_en="" trans_ru="жениться"></ana><ana lex="gvərə" gr="V,ppf,3,sg,m.s" parts="gv<ij>r-ivə" gloss="<>STEM" trans_en="" trans_ru="жениться"></ana>gvijrivə</w>
+<w><ana lex="gvərə" gr="V,ptcp.pst,sg,m" parts="gv<ij>r-ə" gloss="<>STEM" trans_en="" trans_ru="жениться"></ana>gvijrə</w>
 <w><ana lex="gvərdijə" gr="N,sg,nonposs" parts="gvərdijə" gloss="STEM" trans_en="rus. гвардия" trans_ru="гвардия"></ana>gvərdijə</w>
 <w><ana lex="gxəkə" gr="V,pst,1,sg" parts="gx<i>k-lij" gloss="<>STEM" trans_en="" trans_ru="смеяться"></ana>gxiklij</w>
 <w><ana lex="gxəkə" gr="V,pst,1,pl" parts="gx<i>k-lən" gloss="<>STEM" trans_en="" trans_ru="смеяться"></ana>gxiklən</w>
@@ -854,6 +962,7 @@
 <w><ana lex="hap" gr="INTERJ" parts="hap" gloss="STEM" trans_en="" trans_ru="в"></ana>hap</w>
 <w><ana lex="hasulь" gr="V,prs,3,sg,f.s" parts="h<a>sl-a" gloss="<>STEM" trans_en="to bring forth, beget" trans_ru="рождать"></ana>hasla</w>
 <w><ana lex="hava" gr="N,sg,nonposs" parts="hava" gloss="STEM" trans_en="air, weather" trans_ru="воздух"></ana>hava-</w>
+<w><ana lex="hadurь" gr="V,ptcp.pst,sg,m" parts="hd<ьj>r-ь" gloss="<>STEM" trans_en="?" trans_ru="готовиться"></ana><ana lex="hdara" gr="V,ptcp.pst,sg,m" parts="hd<ьj>r-ь" gloss="<>STEM" trans_en="" trans_ru="предстоящие жертвы"></ana>hdьjrь</w>
 <w><ana lex="hic" gr="PART" parts="hic" gloss="STEM" trans_en="pers. hech nothing; none, not any; lost" trans_ru="частица отрицания"></ana>hic-</w>
 <w><ana lex="hizzur" gr="N,sg,p.3,p.sg,p.m" parts="hizzur-u" gloss="STEM" trans_en="presence" trans_ru="присутствие"></ana>hizzuru</w>
 <w><ana lex="həbəs" gr="ADV" parts="həbəs" gloss="STEM" trans_en="" trans_ru="напрасно"></ana>həbəs</w>
@@ -873,12 +982,20 @@
 <w><ana lex="kipə-cəqməq" gr="N,sg,nonposs" parts="kipə-cəqməq" gloss="STEM" trans_en="" trans_ru="кремень, огниво"></ana>kipə-cəqməq</w>
 <w><ana lex="kumə" gr="ADJ,sg" parts="kumə" gloss="STEM" trans_en="" trans_ru="черный"></ana>kumə-</w>
 <w><ana lex="kərgə" gr="N,sg,nonposs" parts="kərgə" gloss="STEM" trans_en="?pers. گرهه giriha, girihha, A little knot; a joint in a herb;--guruha, A ball; a company of people" trans_ru="артель"></ana>kərgə</w>
+<w><ana lex="lvəşə" gr="V,pf,1,sg,m.s" parts="lv<ij>ş-ivin" gloss="<>STEM" trans_en="" trans_ru="надевать, носить"></ana>lvijşivin</w>
+<w><ana lex="lvəşə" gr="V,ppf,1,sg,m.s" parts="lv<ij>ş-ivinvə" gloss="<>STEM" trans_en="" trans_ru="надевать, носить"></ana>lvijşivinvə</w>
+<w><ana lex="lvəxə" gr="V,ptcp.pst,sg,f" parts="lv<i>x-tə" gloss="<>STEM" trans_en="to catch fire, ignite, flash, dart out as a spark" trans_ru="в"></ana>lvixtə</w>
+<w><ana lex="lvəşə" gr="V,pf,3,sg,f.s" parts="lv<i>ş-tilə" gloss="<>STEM" trans_en="" trans_ru="надевать, носить"></ana>lviştilə</w>
 <w><ana lex="lvəxə" gr="V,ipf,3,sg,m.s" parts="l<ə>v<i>x-və" gloss="<><>STEM" trans_en="to catch fire, ignite, flash, dart out as a spark" trans_ru="в"></ana>ləvixvə</w>
 <w><ana lex="marmarta" gr="N,sg,nonposs" parts="marmarta" gloss="STEM" trans_en="mermir to growl; to be angry; to purr; to mutter; to brawl" trans_ru="рычание"></ana>marmarta</w>
 <w><ana lex="maxazja" gr="N,sg,nonposs" parts="maxazja" gloss="STEM" trans_en="" trans_ru="магазин"></ana>maxazja</w>
 <w><ana lex="mesana" gr="ADJ,sg" parts="mesana" gloss="STEM" trans_en="méṣânâ a suckling" trans_ru="сосущий"></ana>mesana</w>
 <w><ana lex="middur" gr="N,sg,nonposs" parts="middur" gloss="STEM" trans_en="cf. ? ? a deputy-governor, sub-governor; middur — pristav d go Rusьja OSQ p. 25" trans_ru="пристав"></ana>middur</w>
+<w><ana lex="məkusi" gr="V,ptcp.pst,sg,m" parts="mk<ij>s-ə" gloss="<>STEM" trans_en="= to cover; hide" trans_ru="закрывать"></ana>mkijsə</w>
 <w><ana lex="marpujь" gr="V,pst,3,sg,m.s" parts="mr<ь>j-lь" gloss="<>STEM" trans_en="" trans_ru="разжимать"></ana>mrьjlь</w>
+<w><ana lex="məxxuji" gr="V,ptcp.pst,sg,f" parts="mx<i>j-tə" gloss="<>STEM" trans_en="to revive, quicken, bring to life" trans_ru="оживлять"></ana>mxijtə</w>
+<w><ana lex="məzjudi" gr="V,ptcp.pst,sg,m" parts="mz<ij>d-ə" gloss="<>STEM" trans_en="" trans_ru="добавлять"></ana>mzijdə</w>
+<w><ana lex="məşxuni" gr="V,ptcp.pst,sg,f" parts="mş<i>n-tə" gloss="<>STEM" trans_en="" trans_ru="согревать"></ana>mşintə</w>
 <w><ana lex="məkusi" gr="V,prs,3,pl" parts="m<ə>ks-ij" gloss="<>STEM" trans_en="= to cover; hide" trans_ru="закрывать"></ana>məksij</w>
 <w><ana lex="məkusi" gr="V,prs,3,sg,f.s" parts="m<ə>ks-ə" gloss="<>STEM" trans_en="= to cover; hide" trans_ru="закрывать"></ana>məksə</w>
 <w><ana lex="məlikkutə" gr="N,sg,nonposs" parts="məlikkutə" gloss="STEM" trans_en="" trans_ru="маликство"></ana>məlikkutə</w>
@@ -891,18 +1008,27 @@
 <w><ana lex="plaţa" gr="V,ipf,1,pl" parts="p<a>lţ-axva" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>palţaxva</w>
 <w><ana lex="psaxa" gr="V,prs,3,pl" parts="p<a>sx-ьj" gloss="<>STEM" trans_en="to be glad, to rejoice" trans_ru="торжествовать"></ana>pasxьj</w>
 <w><ana lex="plaţa" gr="N,sg,nonposs" parts="plaţa" gloss="STEM" trans_en="" trans_ru="следствие"></ana>plaţa-</w>
+<w><ana lex="plaşa" gr="V,ppf,3,pl" parts="pl<ьj>ş-ьva" gloss="<>STEM" trans_en="" trans_ru="драться"></ana><ana lex="plaşa" gr="V,ppf,3,sg,m.s" parts="pl<ьj>ş-ьva" gloss="<>STEM" trans_en="" trans_ru="драться"></ana>plьjşьva</w>
+<w><ana lex="plaţa" gr="V,pf,1,sg,m.s" parts="pl<ьj>ţ-ьvьn" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>plьjţьvьn</w>
+<w><ana lex="plaţa" gr="V,pf,2,sg,m.s" parts="pl<ьj>ţ-ьvьt" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>plьjţьvьt</w>
 <w><ana lex="plaşa" gr="V,pst,3,sg,f.s" parts="pl<ь>ş-la" gloss="<>STEM" trans_en="" trans_ru="драться"></ana>plьşla</w>
+<w><ana lex="prəşə" gr="V,pf,3,sg,m.s" parts="pr<ij>ş-ili" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>prijşili</w>
+<w><ana lex="prəşə" gr="V,pf,3,sg,f.s" parts="pr<i>ş-tilə" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>priştilə</w>
 <w><ana lex="psaxa" gr="N,sg,nonposs" parts="psaxa" gloss="STEM" trans_en="cf. to be glad, to rejoice" trans_ru="восторг"></ana>psaxa</w>
+<w><ana lex="psaxa" gr="V,pf,3,sg,m.s" parts="ps<ьj>x-ьlь" gloss="<>STEM" trans_en="to be glad, to rejoice" trans_ru="торжествовать"></ana>psьjxьlь</w>
 <w><ana lex="psaxa" gr="V,pst,1,sg" parts="ps<ь>x-lьj" gloss="<>STEM" trans_en="to be glad, to rejoice" trans_ru="торжествовать"></ana>psьxlьj</w>
 <w><ana lex="prəşə" gr="V,ipf,3,sg,m.s" parts="p<ə>r<i>ş-və" gloss="<><>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>pərişvə</w>
+<w><ana lex="qdəxə" gr="V,ptcp.pst,pl" parts="qd<ij>x-i" gloss="<>STEM" trans_en="" trans_ru="соединять"></ana>qdijxi</w>
 <w><ana lex="qdəxə" gr="V,pst,3,sg,f.s" parts="qd<i>x-lə" gloss="<>STEM" trans_en="" trans_ru="соединять"></ana>qdixlə</w>
 <w><ana lex="quca" gr="N,sg,nonposs" parts="quca" gloss="STEM" trans_en="the thumb" trans_ru="большой палец"></ana>quca</w>
+<w><ana lex="qvara" gr="V,ptcp.pst,sg,m" parts="qv<ьj>r-a" gloss="<>STEM" trans_en="" trans_ru="хоронить"></ana>qvьjra</w>
 <w><ana lex="qəlmə" gr="N,sg,nonposs" parts="qəlmə" gloss="STEM" trans_en="" trans_ru="вошь"></ana>qəlmə</w>
 <w><ana lex="sulluktə" gr="N,sg,nonposs" parts="sulluktə" gloss="STEM" trans_en="ср. аз. suluq волдырь" trans_ru="свернуться"></ana>sulluktə</w>
 <w><ana lex="sьvja" gr="ADJ,sg" parts="sьvja" gloss="STEM" trans_en="svaja" trans_ru="сытый"></ana>sьvja</w>
 <w><ana lex="tləqə" gr="V,pst,3,sg,m.s" parts="tl<i>q-li" gloss="<>STEM" trans_en="322a to throw, cast away" trans_ru="исчезать"></ana>tliqli-</w>
 <w><ana lex="tləqə" gr="V,pst,1,sg" parts="tl<i>q-lij" gloss="<>STEM" trans_en="322a to throw, cast away" trans_ru="исчезать"></ana>tliqlij</w>
 <w><ana lex="turə" gr="N,sg,nonposs" parts="turə" gloss="STEM" trans_en="a twig, a shoot, an osier" trans_ru="веточка, прут"></ana>turə</w>
+<w><ana lex="tvənə" gr="V,ptcp.pst,sg,m" parts="tv<ij>n-ə" gloss="<>STEM" trans_en="to be or become numb" trans_ru="неметь, цепенеть"></ana>tvijnə-</w>
 <w><ana lex="təgвir" gr="N,sg,p.1,p.sg" parts="təgвir-ij" gloss="STEM" trans_en="" trans_ru="план"></ana>təgвirij</w>
 <w><ana lex="tləqə" gr="V,ipf,3,pl" parts="t<ə>lq-ijvə" gloss="<>STEM" trans_en="322a to throw, cast away" trans_ru="исчезать"></ana>təlqijvə</w>
 <w><ana lex="tləqə" gr="V,prs,1,sg,m.s" parts="t<ə>lq-in" gloss="<>STEM" trans_en="322a to throw, cast away" trans_ru="исчезать"></ana>təlqin</w>
@@ -914,20 +1040,35 @@
 <w><ana lex="təşqəl" gr="N,sg,nonposs" parts="təşqəl" gloss="STEM" trans_en="" trans_ru="лживый"></ana>təşqəl</w>
 <w><ana lex="vaj" gr="INTERJ" parts="vaj" gloss="STEM" trans_en="" trans_ru="ах"></ana>vaj-</w>
 <w><ana lex="xdara" gr="V,ipf,1,pl" parts="x<a>dr-axva" gloss="<>STEM" trans_en="to go round etc" trans_ru="ходить"></ana>xadraxva</w>
+<w><ana lex="xdara" gr="V,ppf,3,sg,f.s" parts="xd<ь>r-tьva" gloss="<>STEM" trans_en="to go round etc" trans_ru="ходить"></ana>xdьrtьva</w>
+<w><ana lex="xpəqə" gr="V,pf,3,sg,m.s" parts="xp<ij>q-ili" gloss="<>STEM" trans_en="" trans_ru="обнимать"></ana>xpijqili</w>
+<w><ana lex="xpəqə" gr="V,ppf,3,pl" parts="xp<ij>q-ivə" gloss="<>STEM" trans_en="" trans_ru="обнимать"></ana><ana lex="xpəqə" gr="V,ppf,3,sg,m.s" parts="xp<ij>q-ivə" gloss="<>STEM" trans_en="" trans_ru="обнимать"></ana>xpijqivə</w>
 <w><ana lex="xpəqə" gr="V,pst,1,sg" parts="xp<i>q-lij" gloss="<>STEM" trans_en="" trans_ru="обнимать"></ana>xpiqlij</w>
 <w><ana lex="xpəqə" gr="V,pst,3,pl" parts="xp<i>q-lun" gloss="<>STEM" trans_en="" trans_ru="обнимать"></ana>xpiqlun</w>
+<w><ana lex="xpəqə" gr="V,ptcp.pst,sg,f" parts="xp<i>q-tə" gloss="<>STEM" trans_en="" trans_ru="обнимать"></ana>xpiqtə</w>
+<w><ana lex="xvara" gr="V,ptcp.pst,sg,m" parts="xv<ьj>r-a" gloss="<>STEM" trans_en="to whiten, to become white" trans_ru="побелеть, побледнеть"></ana>xvьjra-</w>
 <w><ana lex="xəjmə" gr="ADJ,sg" parts="xəjmə" gloss="STEM" trans_en="= hot" trans_ru="горячий, жаркий"></ana>xəjmə-</w>
 <w><ana lex="xəjə" gr="ADJ,sg" parts="xəjə" gloss="STEM" trans_en="" trans_ru="бойкий, живой"></ana>xəjə-</w>
 <w><ana lex="xpəqə" gr="V,prs,3,sg,m.s" parts="x<ə>p<i>q" gloss="<><>STEM" trans_en="" trans_ru="обнимать"></ana>xəpiq</w>
+<w><ana lex="zmərə" gr="V,ptcp.pst,sg,f" parts="zm<i>r-tə" gloss="<>STEM" trans_en="OS" trans_ru="петь"></ana>zmirtə</w>
+<w><ana lex="zmaţa" gr="V,ptcp.pst,sg,m" parts="zm<ьj>ţ-ь" gloss="<>STEM" trans_en="" trans_ru="валить, насыпать"></ana>zmьjţь</w>
+<w><ana lex="zmaţa" gr="V,pf,3,sg,m.s" parts="zm<ьj>ţ-ьlь" gloss="<>STEM" trans_en="" trans_ru="валить, насыпать"></ana>zmьjţьlь</w>
+<w><ana lex="zmaţa" gr="V,ppf,3,pl" parts="zm<ьj>ţ-ьva" gloss="<>STEM" trans_en="" trans_ru="валить, насыпать"></ana><ana lex="zmaţa" gr="V,ppf,3,sg,m.s" parts="zm<ьj>ţ-ьva" gloss="<>STEM" trans_en="" trans_ru="валить, насыпать"></ana>zmьjţьva</w>
+<w><ana lex="zrəqə" gr="V,ptcp.pst,sg,m" parts="zr<ij>q-ə" gloss="<>STEM" trans_en="to rise as the sun or a star; to sprinkle; to scatter" trans_ru="восходить"></ana>zrijqə</w>
 <w><ana lex="zmərə" gr="V,prs,2,sg,m.s" parts="z<ə>mr-it" gloss="<>STEM" trans_en="OS" trans_ru="петь"></ana>zəmrit</w>
 <w><ana lex="zmərə" gr="V,prs,3,sg,f.s" parts="z<ə>mr-ə" gloss="<>STEM" trans_en="OS" trans_ru="петь"></ana>zəmrə</w>
 <w><ana lex="zrəqə" gr="V,prs,3,sg,m.s" parts="z<ə>r<i>q" gloss="<><>STEM" trans_en="to rise as the sun or a star; to sprinkle; to scatter" trans_ru="восходить"></ana>zəriq</w>
 <w><ana lex="çraţa" gr="V,prs,2,sg,m.s" parts="ç<a>rţ-ьt" gloss="<>STEM" trans_en="to slip; ? jraa-taa to slide, glide, slip" trans_ru="плыть, плавно двигаться"></ana>çarţьt</w>
 <w><ana lex="çar" gr="N,sg,p.1,p.sg" parts="çar-ьj" gloss="STEM" trans_en="proclamation" trans_ru="призыв"></ana><ana lex="çraja" gr="V,prs,3,sg,m.s" parts="ç<a>r<ь>j" gloss="<><>STEM" trans_en="to flow" trans_ru="литься"></ana>çarьj</w>
 <w><ana lex="çigara" gr="N,sg,nonposs" parts="çigara" gloss="STEM" trans_en="a cigarette" trans_ru="трубка"></ana>çigara</w>
+<w><ana lex="çnəvə" gr="V,ptcp.pst,sg,m" parts="çn<ij>v-ə" gloss="<>STEM" trans_en="̰ܸܵ seize, snatch; to abduct, elope with; to pursue; cf. ? to pick, gather" trans_ru="хватать"></ana>çnijvə</w>
 <w><ana lex="çohvərij" gr="ADJ,sg" parts="çohvərij" gloss="STEM" trans_en="cf. ̰ܲ a pearl; перс. گوھر gowhar жемчуг, араб. jauhar jewel, gem" trans_ru="опаловый"></ana>çohvərij</w>
+<w><ana lex="çvəçə" gr="V,ptcp.pst,sg,m" parts="çv<ij>ç-ə" gloss="<>STEM" trans_en="-wij, = chald. זוז" trans_ru="двигаться"></ana>çvijçə</w>
 <w><ana lex="çnəvə" gr="V,ipf,3,sg,m.s" parts="ç<ə>n<i>v-və" gloss="<><>STEM" trans_en="̰ܸܵ seize, snatch; to abduct, elope with; to pursue; cf. ? to pick, gather" trans_ru="хватать"></ana>çənivvə</w>
 <w><ana lex="çəssəstə" gr="N,sg,nonposs" parts="çəssəstə" gloss="STEM" trans_en="to try to find out, examine by touch; ‘to spy, examine’" trans_ru="розыск"></ana>çəssəstə</w>
+<w><ana lex="şləgə" gr="V,ppf,3,sg,f.s" parts="şl<i>g-tivə" gloss="<>STEM" trans_en="to pluck, pluck up" trans_ru="выдёргивать"></ana>şligtivə</w>
+<w><ana lex="şləgə" gr="V,pf,3,sg,m.s" parts="şl<ij>g-ili" gloss="<>STEM" trans_en="to pluck, pluck up" trans_ru="выдёргивать"></ana>şlijgili</w>
+<w><ana lex="şləgə" gr="V,ptcp.pst,sg,m" parts="şl<ij>g-ə" gloss="<>STEM" trans_en="to pluck, pluck up" trans_ru="выдёргивать"></ana>şlijgə</w>
 <w><ana lex="şurri" gr="PL" parts="şurri" gloss="STEM" trans_en="clothes, luggage" trans_ru="вещи"></ana>şurri-</w>
 <w><ana lex="şnəjə" gr="V,prs,3,sg,f.s" parts="ş<ə>nj-ə" gloss="<>STEM" trans_en="shānī to faint" trans_ru="лишаться чувств, испытывать припадок"></ana>şənjə</w>
 <w><ana lex="ţallь" gr="V,prs,3,pl" parts="ţ<a>ll-ьj" gloss="<>STEM" trans_en="" trans_ru="дремать"></ana>ţallьj</w>
@@ -943,6 +1084,7 @@
 <w><ana lex="aldeta" gr="N,sg,nonposs" parts="aldeta" gloss="STEM" trans_en="" trans_ru="обман"></ana>-aldeta</w>
 <w><ana lex="aqьldar" gr="ADJ,sg" parts="aqьldar" gloss="STEM" trans_en="wise, prudent" trans_ru="мудрый"></ana>-aqьldar</w>
 <w><ana lex="bar" gr="PREP" parts="bar" gloss="STEM" trans_en="" trans_ru="после"></ana>-bar</w>
+<w><ana lex="clapa" gr="V,pf,3,sg,m.s" parts="cl<ьj>p-ьlь" gloss="<>STEM" trans_en="to split, chop, cleave" trans_ru="рстерзать"></ana>-clьjpьlь</w>
 <w><ana lex="dara" gr="N,sg,nonposs" parts="dara" gloss="STEM" trans_en="a gallows, gibbet" trans_ru="виселица"></ana>-dara</w>
 <w><ana lex="deta" gr="N,sg,nonposs" parts="deta" gloss="STEM" trans_en="" trans_ru="знание"></ana>-deta</w>
 <w><ana lex="di" gr="ITJ" parts="di" gloss="STEM" trans_en="come now! be off! di, d particle that adds immediacy to imperatives" trans_ru="давай"></ana>-di</w>
@@ -950,8 +1092,10 @@
 <w><ana lex="dora" gr="N,sg,nonposs" parts="dora" gloss="STEM" trans_en="+dora" trans_ru="поколение"></ana>-dora</w>
 <w><ana lex="drana" gr="N,sg,nonposs" parts="drana" gloss="STEM" trans_en="+drana" trans_ru="рука"></ana>-drana</w>
 <w><ana lex="dunji" gr="N,sg,nonposs" parts="dunji" gloss="STEM" trans_en="" trans_ru="мир Т"></ana>-dunji</w>
+<w><ana lex="dvəqə" gr="V,pf,3,pl" parts="dv<ij>q-inə" gloss="<>STEM" trans_en="to catch, hold, seize, take, take hold oj, grip, handle; to stop tr., d. to restrain oneself, to be temperate; to hire; to correspond to or together; to take, take prisoner; to surprise a fortress; to celebrate, keep a feast; to keep, keep to, often with b.; to uphold; to contain lit. and in arith.; MB. to pickle in vinegar; in pass. to be frozen; ̭ I" trans_ru="держать"></ana>-dvijqinə</w>
 <w><ana lex="dəqijqə" gr="N,sg,nonposs" parts="dəqijqə" gloss="STEM" trans_en="minute" trans_ru="минута"></ana>-dəqijqə</w>
 <w><ana lex="egə" gr="ADV" parts="egə" gloss="STEM" trans_en="" trans_ru="тогда"></ana>-egə</w>
+<w><ana lex="grəşə" gr="V,ptcp.pst,pl" parts="gr<ij>ş-i" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana>-grijşi</w>
 <w><ana lex="grəşə" gr="V,pst,3,sg,m.s" parts="gr<i>ş-li" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana>-grişli</w>
 <w><ana lex="grəşə" gr="V,pst,3,sg,f.s" parts="gr<i>ş-lə" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana>-grişlə</w>
 <w><ana lex="gudə" gr="N,sg,nonposs" parts="gudə" gloss="STEM" trans_en="a wall of a house or field" trans_ru="стена"></ana>-gudə</w>
@@ -966,13 +1110,20 @@
 <w><ana lex="mərdə" gr="ADJ,sg" parts="mərdə" gloss="STEM" trans_en="198a , brave, energetic, generous" trans_ru="смелый"></ana>-mərdə</w>
 <w><ana lex="plaşa" gr="N,sg,nonposs" parts="plaşa" gloss="STEM" trans_en="v" trans_ru="поединок"></ana>-plaşa</w>
 <w><ana lex="plaţa" gr="N,sg,nonposs" parts="plaţa" gloss="STEM" trans_en="" trans_ru="следствие"></ana>-plaţa</w>
-<w><ana lex="psьjxa" gr="ADJ,sg" parts="psьjxa" gloss="STEM" trans_en="psaxa" trans_ru="радостный"></ana>-psьjxa</w>
+<w><ana lex="plaţa" gr="V,pf,3,pl" parts="pl<ьj>ţ-ьna" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>-plьjţьna</w>
+<w><ana lex="plaţa" gr="V,ppf,3,pl" parts="pl<ьj>ţ-ьva" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana><ana lex="plaţa" gr="V,ppf,3,sg,m.s" parts="pl<ьj>ţ-ьva" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>-plьjţьva</w>
+<w><ana lex="plaţa" gr="V,pf,1,pl" parts="pl<ьj>ţ-ьvax" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>-plьjţьvax</w>
+<w><ana lex="psaxa" gr="V,ptcp.pst,sg,m" parts="ps<ьj>x-a" gloss="<>STEM" trans_en="to be glad, to rejoice" trans_ru="торжествовать"></ana><ana lex="psьjxa" gr="ADJ,sg" parts="psьjxa" gloss="STEM" trans_en="psaxa" trans_ru="радостный"></ana>-psьjxa</w>
+<w><ana lex="tləqə" gr="V,ptcp.pst,sg,m" parts="tl<ij>q-ə" gloss="<>STEM" trans_en="322a to throw, cast away" trans_ru="исчезать"></ana>-tlijqə</w>
 <w><ana lex="tləj" gr="NUM" parts="tləj" gloss="STEM" trans_en="thirty" trans_ru="тридцать"></ana>-tləj</w>
+<w><ana lex="tvənə" gr="V,ptcp.pst,sg,m" parts="tv<ij>n-ə" gloss="<>STEM" trans_en="to be or become numb" trans_ru="неметь, цепенеть"></ana>-tvijnə</w>
 <w><ana lex="təntuni" gr="V,prs,3,pl" parts="t<ə>nn-ij" gloss="<>STEM" trans_en="" trans_ru="коптить"></ana>-tənnij</w>
 <w><ana lex="vaj" gr="INTERJ" parts="vaj" gloss="STEM" trans_en="" trans_ru="ах"></ana>-vaj</w>
 <w><ana lex="xdara" gr="N,sg,nonposs" parts="xdara" gloss="STEM" trans_en="" trans_ru="гулянье"></ana>-xdara</w>
 <w><ana lex="xvarnaja" gr="ADJ,sg" parts="xvarnaja" gloss="STEM" trans_en="whitish" trans_ru="серенькие тучи"></ana>-xvarnaja</w>
 <w><ana lex="zi" gr="CONJ" parts="zi" gloss="STEM" trans_en="also, too; Kurmanji ; Berwari ; Zaza" trans_ru="также, тоже"></ana>-zi</w>
+<w><ana lex="zmaţa" gr="V,ppf,3,pl" parts="zm<ьj>ţ-ьva" gloss="<>STEM" trans_en="" trans_ru="валить, насыпать"></ana><ana lex="zmaţa" gr="V,ppf,3,sg,m.s" parts="zm<ьj>ţ-ьva" gloss="<>STEM" trans_en="" trans_ru="валить, насыпать"></ana>-zmьjţьva</w>
+<w><ana lex="zrəqə" gr="V,pf,3,sg,m.s" parts="zr<ij>q-ili" gloss="<>STEM" trans_en="to rise as the sun or a star; to sprinkle; to scatter" trans_ru="восходить"></ana>-zrijqili</w>
 <w><ana lex="zmərə" gr="V,ipf,3,sg,m.s" parts="z<ə>m<i>r-və" gloss="<><>STEM" trans_en="OS" trans_ru="петь"></ana>-zəmirvə</w>
 <w><ana lex="zrəqə" gr="V,prs,3,sg,f.s" parts="z<ə>rq-ə" gloss="<>STEM" trans_en="to rise as the sun or a star; to sprinkle; to scatter" trans_ru="восходить"></ana>-zərqə</w>
 <w><ana lex="çihil" gr="ADJ,sg" parts="çihil" gloss="STEM" trans_en="young, foolish; to be foolish" trans_ru="Т"></ana>-çihil</w>
@@ -1024,6 +1175,7 @@
 <w><ana lex="biştə" gr="N,sg,nonposs" parts="biştə" gloss="STEM" trans_en="as OS" trans_ru="зло"></ana>biştə</w>
 <w><ana lex="bləgə" gr="V,pst,3,pl" parts="bl<i>g-lun" gloss="<>STEM" trans_en="" trans_ru="заниматься"></ana>bliglun</w>
 <w><ana lex="bləsə" gr="V,pst,3,pl" parts="bl<i>s-lun" gloss="<>STEM" trans_en="to bruise; to oppress" trans_ru="в"></ana>blislun</w>
+<w><ana lex="bsəmə" gr="V,ptcp.pst,sg,m" parts="bs<ij>m-ə" gloss="<>STEM" trans_en="to be pleased; to be healed or cured" trans_ru="мне угодно"></ana><ana lex="bəsumi" gr="V,ptcp.pst,sg,m" parts="bs<ij>m-ə" gloss="<>STEM" trans_en="" trans_ru="лечить"></ana>bsijmə-</w>
 <w><ana lex="burktə" gr="N,sg,nonposs" parts="burktə" gloss="STEM" trans_en="a blessing" trans_ru="благословение"></ana>burktə</w>
 <w><ana lex="buxcə" gr="N,sg,nonposs" parts="buxcə" gloss="STEM" trans_en="bundle, a wrapper for holding clothes" trans_ru="мешок"></ana>buxcə</w>
 <w><ana lex="buşələ" gr="N,sg,nonposs" parts="buşələ" gloss="STEM" trans_en="any cooked dish; pottage; soup with curdled rnilk and vegetables" trans_ru="щи"></ana>buşələ</w>
@@ -1046,7 +1198,10 @@
 <w><ana lex="ciqə" gr="ADJ,sg" parts="ciqə" gloss="STEM" trans_en="cross-eyed, squinting, f. ; az. turk" trans_ru="кривой"></ana>ciqə-</w>
 <w><ana lex="clapa" gr="V,pst,3,sg,f.s" parts="cl<ь>p-la" gloss="<>STEM" trans_en="to split, chop, cleave" trans_ru="рстерзать"></ana>clьpla</w>
 <w><ana lex="clapa" gr="V,pst,2,sg,m.s" parts="cl<ь>p-lux" gloss="<>STEM" trans_en="to split, chop, cleave" trans_ru="рстерзать"></ana>clьplux</w>
+<w><ana lex="crətə" gr="V,ptcp.pst,pl" parts="cr<ij>t-i" gloss="<>STEM" trans_en="to fire a gun" trans_ru="палить"></ana>crijti</w>
+<w><ana lex="crəzə" gr="V,ppf,3,pl" parts="cr<ij>z-ivə" gloss="<>STEM" trans_en="to pierce" trans_ru="прокалывать, пронзать"></ana><ana lex="crəzə" gr="V,ppf,3,sg,m.s" parts="cr<ij>z-ivə" gloss="<>STEM" trans_en="to pierce" trans_ru="прокалывать, пронзать"></ana>crijzivə</w>
 <w><ana lex="crətə" gr="V,pst,1,sg" parts="cr<i>t-lij" gloss="<>STEM" trans_en="to fire a gun" trans_ru="палить"></ana>critlij</w>
+<w><ana lex="crətə" gr="V,pf,3,sg,f.s" parts="cr<i>t-tilə" gloss="<>STEM" trans_en="to fire a gun" trans_ru="палить"></ana>crittilə</w>
 <w><ana lex="crəzə" gr="V,pst,3,pl" parts="cr<i>z-lun" gloss="<>STEM" trans_en="to pierce" trans_ru="прокалывать, пронзать"></ana>crizlun</w>
 <w><ana lex="cucana" gr="N,sg,nonposs" parts="cucana" gloss="STEM" trans_en="a chicken; the young of an animal; a magpie; chūcha a swan, chiken, chūchū a sparrow; chuchana сорока" trans_ru="сорока"></ana>cucana</w>
 <w><ana lex="culax" gr="ADJ,sg" parts="culax" gloss="STEM" trans_en="a lame; сухорукий" trans_ru="хромой"></ana>culax-</w>
@@ -1064,10 +1219,23 @@
 <w><ana lex="dijletə" gr="N,sg,nonposs" parts="dijletə" gloss="STEM" trans_en="characteristic, pecularity" trans_ru="с"></ana>dijletə</w>
 <w><ana lex="divə" gr="N,sg,nonposs" parts="divə" gloss="STEM" trans_en="diva" trans_ru="волк"></ana>divə-</w>
 <w><ana lex="diƶmin" gr="N,sg,p.2,p.sg,p.m" parts="diƶmin-ux" gloss="STEM" trans_en="dəžmən" trans_ru="враг"></ana>diƶminux</w>
+<w><ana lex="dməxə" gr="V,pf,1,sg,m.s" parts="dm<ij>x-ivin" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dmijxivin</w>
+<w><ana lex="dməxə" gr="V,pf,2,sg,m.s" parts="dm<ij>x-ivit" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dmijxivit</w>
+<w><ana lex="dməxə" gr="V,pf,1,pl" parts="dm<ij>x-ivəx" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dmijxivəx</w>
+<w><ana lex="dməxə" gr="V,ppf,1,pl" parts="dm<ij>x-ivəxvə" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dmijxivəxvə</w>
+<w><ana lex="dməxə" gr="V,ppf,1,sg,f.s" parts="dm<i>x-tivənvə" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dmixtivənvə</w>
+<w><ana lex="dməxə" gr="V,pf,2,sg,f.s" parts="dm<i>x-tivət" gloss="<>STEM" trans_en="to go to bed, to get into bed, to lie down, lie; to sleep; I" trans_ru="спать"></ana>dmixtivət</w>
 <w><ana lex="doqǝnǝ" gr="N,sg,nonposs" parts="doqǝnǝ" gloss="STEM" trans_en="n. ag. of ; catcher" trans_ru="стремянный"></ana>doqǝnǝ</w>
 <w><ana lex="dosţait" gr="ADV" parts="dosţait" gloss="STEM" trans_en="" trans_ru="дружески"></ana>dosţait</w>
 <w><ana lex="drana" gr="N,sg,nonposs" parts="drana" gloss="STEM" trans_en="+drana" trans_ru="рука"></ana>drana-</w>
+<w><ana lex="dvəqə" gr="V,pf,2,pl" parts="dv<ij>q-itun" gloss="<>STEM" trans_en="to catch, hold, seize, take, take hold oj, grip, handle; to stop tr., d. to restrain oneself, to be temperate; to hire; to correspond to or together; to take, take prisoner; to surprise a fortress; to celebrate, keep a feast; to keep, keep to, often with b.; to uphold; to contain lit. and in arith.; MB. to pickle in vinegar; in pass. to be frozen; ̭ I" trans_ru="держать"></ana>dvijqitun</w>
+<w><ana lex="dvəqə" gr="V,pf,2,sg,m.s" parts="dv<ij>q-ivit" gloss="<>STEM" trans_en="to catch, hold, seize, take, take hold oj, grip, handle; to stop tr., d. to restrain oneself, to be temperate; to hire; to correspond to or together; to take, take prisoner; to surprise a fortress; to celebrate, keep a feast; to keep, keep to, often with b.; to uphold; to contain lit. and in arith.; MB. to pickle in vinegar; in pass. to be frozen; ̭ I" trans_ru="держать"></ana>dvijqivit</w>
+<w><ana lex="dvəqə" gr="V,pf,1,pl" parts="dv<ij>q-ivəx" gloss="<>STEM" trans_en="to catch, hold, seize, take, take hold oj, grip, handle; to stop tr., d. to restrain oneself, to be temperate; to hire; to correspond to or together; to take, take prisoner; to surprise a fortress; to celebrate, keep a feast; to keep, keep to, often with b.; to uphold; to contain lit. and in arith.; MB. to pickle in vinegar; in pass. to be frozen; ̭ I" trans_ru="держать"></ana>dvijqivəx</w>
+<w><ana lex="dvərə" gr="V,pf,3,sg,m.s" parts="dv<ij>r-ili" gloss="<>STEM" trans_en="I" trans_ru="запирать"></ana>dvijrili</w>
+<w><ana lex="dvəxə" gr="V,ptcp.pst,pl" parts="dv<ij>x-i" gloss="<>STEM" trans_en="to sacrifice; I" trans_ru="жертвовать"></ana>dvijxi</w>
+<w><ana lex="dvəxə" gr="V,ptcp.pst,sg,m" parts="dv<ij>x-ə" gloss="<>STEM" trans_en="to sacrifice; I" trans_ru="жертвовать"></ana>dvijxə</w>
 <w><ana lex="dvəqə" gr="V,pst,2,sg,m.s" parts="dv<i>q-lux" gloss="<>STEM" trans_en="to catch, hold, seize, take, take hold oj, grip, handle; to stop tr., d. to restrain oneself, to be temperate; to hire; to correspond to or together; to take, take prisoner; to surprise a fortress; to celebrate, keep a feast; to keep, keep to, often with b.; to uphold; to contain lit. and in arith.; MB. to pickle in vinegar; in pass. to be frozen; ̭ I" trans_ru="держать"></ana>dviqlux</w>
+<w><ana lex="dvəxə" gr="V,ptcp.pst,sg,f" parts="dv<i>x-tə" gloss="<>STEM" trans_en="to sacrifice; I" trans_ru="жертвовать"></ana>dvixtə</w>
 <w><ana lex="dəguli" gr="V,prs,3,pl" parts="d<ə>gl-ij" gloss="<>STEM" trans_en="" trans_ru="врать"></ana>dəglij</w>
 <w><ana lex="dəguli" gr="V,prs,2,sg,f.s" parts="d<ə>gl-ət" gloss="<>STEM" trans_en="" trans_ru="врать"></ana>dəglət</w>
 <w><ana lex="dəguli" gr="V,ipf,3,sg,f.s" parts="d<ə>gl-əvə" gloss="<>STEM" trans_en="" trans_ru="врать"></ana>dəgləvə</w>
@@ -1080,14 +1248,30 @@
 <w><ana lex="geografijǝjǝ" gr="ADJ,sg" parts="geografijǝjǝ" gloss="STEM" trans_en="" trans_ru="географический"></ana>geografijǝjǝ</w>
 <w><ana lex="girdəjjə" gr="N,sg,nonposs" parts="girdəjjə" gloss="STEM" trans_en="" trans_ru="лепешка"></ana>girdəjjə</w>
 <w><ana lex="gizmə" gr="N,sg,nonposs" parts="gizmə" gloss="STEM" trans_en="" trans_ru="угроза"></ana>gizmə</w>
+<w><ana lex="gləçə" gr="V,ptcp.pst,pl" parts="gl<ij>ç-i" gloss="<>STEM" trans_en="to open mouth of a vessel or skin; met. to be talkative" trans_ru="разевать"></ana>glijçi</w>
+<w><ana lex="gnəvə" gr="V,pf,3,pl" parts="gn<ij>v-inə" gloss="<>STEM" trans_en="to steal; Oraham 89a gna-va steal; to take and carry away, feloniously" trans_ru="красть"></ana>gnijvinə</w>
+<w><ana lex="gnəvə" gr="V,pf,1,sg,m.s" parts="gn<ij>v-ivin" gloss="<>STEM" trans_en="to steal; Oraham 89a gna-va steal; to take and carry away, feloniously" trans_ru="красть"></ana>gnijvivin</w>
+<w><ana lex="gnəvə" gr="V,pf,2,sg,m.s" parts="gn<ij>v-ivit" gloss="<>STEM" trans_en="to steal; Oraham 89a gna-va steal; to take and carry away, feloniously" trans_ru="красть"></ana>gnijvivit</w>
 <w><ana lex="gnəvə" gr="V,pst,2,sg,m.s" parts="gn<i>v-lux" gloss="<>STEM" trans_en="to steal; Oraham 89a gna-va steal; to take and carry away, feloniously" trans_ru="красть"></ana>gnivlux</w>
 <w><ana lex="gorənəjə" gr="ADJ,sg" parts="gorənəjə" gloss="STEM" trans_en="" trans_ru="серый"></ana>gorənəjə-</w>
 <w><ana lex="gozəl" gr="N,sg,nonposs" parts="gozəl" gloss="STEM" trans_en="" trans_ru="газель"></ana>gozəl</w>
 <w><ana lex="gozəl" gr="N,sg,p.2,p.sg,p.m" parts="gozəl-ux" gloss="STEM" trans_en="" trans_ru="газель"></ana>gozəlux</w>
+<w><ana lex="grəşə" gr="V,pf,3,pl" parts="gr<ij>ş-inə" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana>grijşinə</w>
+<w><ana lex="grəşə" gr="V,pf,2,pl" parts="gr<ij>ş-itun" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana>grijşitun</w>
+<w><ana lex="gərvusi" gr="V,ptcp.pst,sg,f" parts="gr<i>s-tə" gloss="<>STEM" trans_en="/b" trans_ru="расти"></ana>gristə</w>
 <w><ana lex="grəşə" gr="V,pst,3,sg,m.s" parts="gr<i>ş-li" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana>grişli-</w>
 <w><ana lex="grəşə" gr="V,pst,1,pl" parts="gr<i>ş-lən" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana>grişlən</w>
 <w><ana lex="grəşə" gr="V,pst,2,sg,f.s" parts="gr<i>ş-ləx" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana>grişləx</w>
+<w><ana lex="grəşə" gr="V,ptcp.pst,sg,f" parts="gr<i>ş-tə" gloss="<>STEM" trans_en="" trans_ru="тянуть"></ana>griştə-</w>
 <w><ana lex="guşməjutə" gr="N,sg,nonposs" parts="guşməjutə" gloss="STEM" trans_en="- substantial, concrete" trans_ru="существенность"></ana>guşməjutə</w>
+<w><ana lex="gvərə" gr="V,ptcp.pst,pl" parts="gv<ij>r-i" gloss="<>STEM" trans_en="" trans_ru="жениться"></ana>gvijri</w>
+<w><ana lex="gvərə" gr="V,ptcp.pst,pl" parts="gv<ij>r-i" gloss="<>STEM" trans_en="" trans_ru="жениться"></ana>gvijri-</w>
+<w><ana lex="gvərə" gr="V,pf,3,sg,m.s" parts="gv<ij>r-ili" gloss="<>STEM" trans_en="" trans_ru="жениться"></ana>gvijrili</w>
+<w><ana lex="gvərə" gr="V,pf,3,pl" parts="gv<ij>r-inə" gloss="<>STEM" trans_en="" trans_ru="жениться"></ana>gvijrinə</w>
+<w><ana lex="gvərə" gr="V,pf,2,sg,m.s" parts="gv<ij>r-ivit" gloss="<>STEM" trans_en="" trans_ru="жениться"></ana>gvijrivit</w>
+<w><ana lex="gvərə" gr="V,ppf,3,sg,f.s" parts="gv<i>r-tivə" gloss="<>STEM" trans_en="" trans_ru="жениться"></ana>gvirtivə</w>
+<w><ana lex="gvərə" gr="V,pf,2,sg,f.s" parts="gv<i>r-tivət" gloss="<>STEM" trans_en="" trans_ru="жениться"></ana>gvirtivət</w>
+<w><ana lex="gxəkə" gr="V,ppf,3,pl" parts="gx<ij>k-ivə" gloss="<>STEM" trans_en="" trans_ru="смеяться"></ana><ana lex="gxəkə" gr="V,ppf,3,sg,m.s" parts="gx<ij>k-ivə" gloss="<>STEM" trans_en="" trans_ru="смеяться"></ana>gxijkivə</w>
 <w><ana lex="gləjə" gr="V,prs,3,sg,m.s" parts="g<ə>l<i>j" gloss="<><>STEM" trans_en="" trans_ru="признаваться"></ana>gəlij</w>
 <w><ana lex="gnəvə" gr="V,ipf,3,sg,m.s" parts="g<ə>n<i>v-və" gloss="<><>STEM" trans_en="to steal; Oraham 89a gna-va steal; to take and carry away, feloniously" trans_ru="красть"></ana>gənivvə</w>
 <w><ana lex="gnəjə" gr="V,prs,3,sg,f.s" parts="g<ə>nj-ə" gloss="<>STEM" trans_en="" trans_ru="садиться"></ana>gənjə</w>
@@ -1115,6 +1299,7 @@
 <w><ana lex="havaz" gr="N,sg,p.3,p.pl" parts="havaz-e" gloss="STEM" trans_en="" trans_ru="мелодия, мотив"></ana>havaze</w>
 <w><ana lex="havaz" gr="N,sg,p.3,p.sg,p.f" parts="havaz-o" gloss="STEM" trans_en="" trans_ru="мелодия, мотив"></ana>havazo</w>
 <w><ana lex="hazьr" gr="ADJ,sg" parts="hazьr" gloss="STEM" trans_en="" trans_ru="готовый"></ana>hazьr-</w>
+<w><ana lex="hadurь" gr="V,ppf,3,pl" parts="hd<ьj>r-ьva" gloss="<>STEM" trans_en="?" trans_ru="готовиться"></ana><ana lex="hadurь" gr="V,ppf,3,sg,m.s" parts="hd<ьj>r-ьva" gloss="<>STEM" trans_en="?" trans_ru="готовиться"></ana><ana lex="hdara" gr="V,ppf,3,pl" parts="hd<ьj>r-ьva" gloss="<>STEM" trans_en="" trans_ru="предстоящие жертвы"></ana><ana lex="hdara" gr="V,ppf,3,sg,m.s" parts="hd<ьj>r-ьva" gloss="<>STEM" trans_en="" trans_ru="предстоящие жертвы"></ana>hdьjrьva</w>
 <w><ana lex="hivij" gr="N,sg,p.2,p.pl" parts="hivij-oxun" gloss="STEM" trans_en="kurd" trans_ru="надежда"></ana>hivijoxun</w>
 <w><ana lex="hizzur" gr="N,sg,p.1,p.sg" parts="hizzur-ij" gloss="STEM" trans_en="presence" trans_ru="присутствие"></ana>hizzurij</w>
 <w><ana lex="hizzur" gr="N,sg,p.2,p.pl" parts="hizzur-oxun" gloss="STEM" trans_en="presence" trans_ru="присутствие"></ana>hizzuroxun</w>
@@ -1158,7 +1343,12 @@
 <w><ana lex="jəqid" gr="V,prs,3,pl" parts="j<ə>qd-ij" gloss="<>STEM" trans_en="" trans_ru="гореть"></ana>jəqdij</w>
 <w><ana lex="jəqid" gr="V,prs,2,sg,f.s" parts="j<ə>qd-ət" gloss="<>STEM" trans_en="" trans_ru="гореть"></ana>jəqdət</w>
 <w><ana lex="jəqid" gr="V,prs,1,pl" parts="j<ə>qd-əx" gloss="<>STEM" trans_en="" trans_ru="гореть"></ana>jəqdəx</w>
+<w><ana lex="kvəcə" gr="V,pf,3,sg,m.s" parts="kv<ij>c-ili" gloss="<>STEM" trans_en="a nomad" trans_ru="поселиться"></ana>kvijcili</w>
 <w><ana lex="kvəcə" gr="V,ipf,3,sg,m.s" parts="k<ə>v<i>c-və" gloss="<><>STEM" trans_en="a nomad" trans_ru="поселиться"></ana>kəvicvə</w>
+<w><ana lex="lvəxə" gr="V,ppf,3,pl" parts="lv<ij>x-ivə" gloss="<>STEM" trans_en="to catch fire, ignite, flash, dart out as a spark" trans_ru="в"></ana><ana lex="lvəxə" gr="V,ppf,3,sg,m.s" parts="lv<ij>x-ivə" gloss="<>STEM" trans_en="to catch fire, ignite, flash, dart out as a spark" trans_ru="в"></ana>lvijxivə</w>
+<w><ana lex="lvəşə" gr="V,pf,2,pl" parts="lv<ij>ş-itun" gloss="<>STEM" trans_en="" trans_ru="надевать, носить"></ana>lvijşitun</w>
+<w><ana lex="lvəşə" gr="V,ppf,1,pl" parts="lv<ij>ş-ivəxvə" gloss="<>STEM" trans_en="" trans_ru="надевать, носить"></ana>lvijşivəxvə</w>
+<w><ana lex="lvəxə" gr="V,ppf,3,sg,f.s" parts="lv<i>x-tivə" gloss="<>STEM" trans_en="to catch fire, ignite, flash, dart out as a spark" trans_ru="в"></ana>lvixtivə</w>
 <w><ana lex="ləhivijjutə" gr="N,sg,nonposs" parts="ləhivijjutə" gloss="STEM" trans_en="" trans_ru="отчаяние"></ana>ləhivijjutə</w>
 <w><ana lex="ljəjə" gr="V,prs,3,pl" parts="l<ə>jj-ij" gloss="<>STEM" trans_en="" trans_ru="рыдать"></ana>ləjjij</w>
 <w><ana lex="ljəjə" gr="V,ipf,3,pl" parts="l<ə>jj-ijvə" gloss="<>STEM" trans_en="" trans_ru="рыдать"></ana>ləjjijvə</w>
@@ -1170,6 +1360,7 @@
 <w><ana lex="marpujь" gr="V,prs,3,sg,m.s" parts="m<a>r<ь>j" gloss="<><>STEM" trans_en="" trans_ru="разжимать"></ana>marьj</w>
 <w><ana lex="marpujь" gr="V,ipf,3,sg,m.s" parts="m<a>r<ь>j-va" gloss="<><>STEM" trans_en="" trans_ru="разжимать"></ana>marьjva</w>
 <w><ana lex="mazuzta" gr="N,sg,nonposs" parts="mazuzta" gloss="STEM" trans_en="a lizard" trans_ru="ящерица"></ana>mazuzta</w>
+<w><ana lex="məkusi" gr="V,ppf,3,pl" parts="mk<ij>s-ivə" gloss="<>STEM" trans_en="= to cover; hide" trans_ru="закрывать"></ana><ana lex="məkusi" gr="V,ppf,3,sg,m.s" parts="mk<ij>s-ivə" gloss="<>STEM" trans_en="= to cover; hide" trans_ru="закрывать"></ana>mkijsivə</w>
 <w><ana lex="məkusi" gr="V,pst,1,sg" parts="mk<i>s-lij" gloss="<>STEM" trans_en="= to cover; hide" trans_ru="закрывать"></ana>mkislij</w>
 <w><ana lex="məkusi" gr="V,pst,3,pl" parts="mk<i>s-lun" gloss="<>STEM" trans_en="= to cover; hide" trans_ru="закрывать"></ana>mkislun</w>
 <w><ana lex="mraca" gr="V,pst,2,pl" parts="mr<ь>c-loxun" gloss="<>STEM" trans_en="" trans_ru="давить"></ana>mrьcloxun</w>
@@ -1189,13 +1380,20 @@
 <w><ana lex="psaxa" gr="V,ipf,3,sg,m.s" parts="p<a>s<ь>x-va" gloss="<><>STEM" trans_en="to be glad, to rejoice" trans_ru="торжествовать"></ana>pasьxva</w>
 <w><ana lex="pisqar" gr="N,sg,nonposs" parts="pisqar" gloss="STEM" trans_en="rus" trans_ru="пискарь"></ana>pisqar-</w>
 <w><ana lex="plotva" gr="N,sg,nonposs" parts="plotva" gloss="STEM" trans_en="rus" trans_ru="И щуки, и окуни, и головли, и плотва, и гольцы"></ana>plotva</w>
+<w><ana lex="plaşa" gr="V,ptcp.pst,sg,m" parts="pl<ьj>ş-ь" gloss="<>STEM" trans_en="" trans_ru="драться"></ana>plьjşь</w>
+<w><ana lex="plaţa" gr="V,ppf,1,sg,m.s" parts="pl<ьj>ţ-ьvьnva" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>plьjţьvьnva</w>
 <w><ana lex="plaşa" gr="V,pst,1,sg" parts="pl<ь>ş-lьj" gloss="<>STEM" trans_en="" trans_ru="драться"></ana>plьşlьj</w>
 <w><ana lex="plaţa" gr="V,pst,3,sg,f.s" parts="pl<ь>ţ-la" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>plьţla-</w>
 <w><ana lex="plaţa" gr="V,pst,1,pl" parts="pl<ь>ţ-lan" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>plьţlan-</w>
 <w><ana lex="plaţa" gr="V,pst,2,pl" parts="pl<ь>ţ-loxun" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>plьţloxun</w>
 <w><ana lex="plaţa" gr="V,pst,3,pl" parts="pl<ь>ţ-lun" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>plьţlun-</w>
 <w><ana lex="plaţa" gr="V,pst,3,sg,m.s" parts="pl<ь>ţ-lь" gloss="<>STEM" trans_en="" trans_ru="выходить"></ana>plьţlь-</w>
+<w><ana lex="prəşə" gr="V,pf,2,sg,m.s" parts="pr<ij>ş-ivit" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>prijşivit</w>
+<w><ana lex="prəşə" gr="V,pf,1,pl" parts="pr<ij>ş-ivəx" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>prijşivəx</w>
+<w><ana lex="prəşə" gr="V,ppf,1,pl" parts="pr<ij>ş-ivəxvə" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>prijşivəxvə</w>
+<w><ana lex="prəşə" gr="V,pf,2,sg,f.s" parts="pr<i>ş-tivət" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>priştivət</w>
 <w><ana lex="prǝştǝ" gr="N,sg,nonposs" parts="prǝştǝ" gloss="STEM" trans_en="" trans_ru="разлука"></ana>prǝştǝ</w>
+<w><ana lex="psaxa" gr="V,pf,3,pl" parts="ps<ьj>x-ьna" gloss="<>STEM" trans_en="to be glad, to rejoice" trans_ru="торжествовать"></ana>psьjxьna</w>
 <w><ana lex="puh" gr="INTERJ" parts="puh" gloss="STEM" trans_en="" trans_ru="тьфу"></ana>puh</w>
 <w><ana lex="puh" gr="INTERJ" parts="puh" gloss="STEM" trans_en="" trans_ru="тьфу"></ana>puh-</w>
 <w><ana lex="puxun" gr="N,sg,nonposs" parts="puxun" gloss="STEM" trans_en="" trans_ru="в"></ana>puxun</w>
@@ -1204,12 +1402,17 @@
 <w><ana lex="prəşə" gr="V,ipf,1,sg,m.s" parts="p<ə>rş-invə" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>pərşinvə</w>
 <w><ana lex="prəşə" gr="V,prs,1,sg,f.s" parts="p<ə>rş-ən" gloss="<>STEM" trans_en="to separate tr., divide; to be separated or divided; to judge, decide; to discern" trans_ru="отделять"></ana>pərşən</w>
 <w><ana lex="qvara" gr="V,prs,1,pl" parts="q<a>vr-ax" gloss="<>STEM" trans_en="" trans_ru="хоронить"></ana>qavrax</w>
+<w><ana lex="qdəxə" gr="V,ptcp.pst,sg,m" parts="qd<ij>x-ə" gloss="<>STEM" trans_en="" trans_ru="соединять"></ana>qdijxə</w>
 <w><ana lex="qdəxə" gr="V,pst,3,sg,m.s" parts="qd<i>x-li" gloss="<>STEM" trans_en="" trans_ru="соединять"></ana>qdixli</w>
 <w><ana lex="qdəxə" gr="V,pst,3,pl" parts="qd<i>x-lun" gloss="<>STEM" trans_en="" trans_ru="соединять"></ana>qdixlun</w>
+<w><ana lex="qdəxə" gr="V,ptcp.pst,sg,f" parts="qd<i>x-tə" gloss="<>STEM" trans_en="" trans_ru="соединять"></ana>qdixtə</w>
 <w><ana lex="qoccə" gr="N,sg,nonposs" parts="qoccə" gloss="STEM" trans_en="" trans_ru="баран"></ana>qoccə</w>
+<w><ana lex="qvara" gr="V,pf,1,sg,m.s" parts="qv<ьj>r-ьvьn" gloss="<>STEM" trans_en="" trans_ru="хоронить"></ana>qvьjrьvьn</w>
+<w><ana lex="qvara" gr="V,ptcp.pst,sg,f" parts="qv<ь>r-ta" gloss="<>STEM" trans_en="" trans_ru="хоронить"></ana>qvьrta</w>
 <w><ana lex="qţapa" gr="N,sg,nonposs" parts="qţapa" gloss="STEM" trans_en="vintage" trans_ru="сбор винограда"></ana>qţapa</w>
 <w><ana lex="qdəxə" gr="V,prs,3,pl" parts="q<ə>dx-ij" gloss="<>STEM" trans_en="" trans_ru="соединять"></ana>qədxij</w>
 <w><ana lex="qəşmərutə" gr="N,sg,nonposs" parts="qəşmərutə" gloss="STEM" trans_en="cf. a dandy, one who dresses smartly; тур. шут, фигляр, паяц, клоун" trans_ru="игривость"></ana>qəşmərutə</w>
+<w><ana lex="rixşə" gr="V,pf,3,pl" parts="rx<ij>ş-inə" gloss="<>STEM" trans_en="" trans_ru="идти"></ana>rxijşinə</w>
 <w><ana lex="rixşə" gr="V,pst,3,sg,m.s" parts="rx<i>ş-li" gloss="<>STEM" trans_en="" trans_ru="идти"></ana>rxişli</w>
 <w><ana lex="rixşə" gr="V,pst,3,sg,f.s" parts="rx<i>ş-lə" gloss="<>STEM" trans_en="" trans_ru="идти"></ana>rxişlə</w>
 <w><ana lex="sxaja" gr="V,ipf,3,sg,m.s" parts="s<a>x<ь>j-va" gloss="<><>STEM" trans_en="" trans_ru="купаться"></ana>saxьjva</w>
@@ -1221,7 +1424,10 @@
 <w><ana lex="taв" gr="N,sg,p.2,p.sg,p.f" parts="taв-ax" gloss="STEM" trans_en="" trans_ru="выдержка"></ana>taвax</w>
 <w><ana lex="taв" gr="N,sg,p.3,p.sg,p.f" parts="taв-o" gloss="STEM" trans_en="" trans_ru="выдержка"></ana>taвo</w>
 <w><ana lex="taв" gr="N,sg,p.3,p.sg,p.m" parts="taв-u" gloss="STEM" trans_en="" trans_ru="выдержка"></ana>taвu</w>
+<w><ana lex="tləqə" gr="V,pf,1,pl" parts="tl<ij>q-ivəx" gloss="<>STEM" trans_en="322a to throw, cast away" trans_ru="исчезать"></ana>tlijqivəx</w>
+<w><ana lex="tvənə" gr="V,pf,3,sg,m.s" parts="tv<ij>n-ili" gloss="<>STEM" trans_en="to be or become numb" trans_ru="неметь, цепенеть"></ana>tvijnili</w>
 <w><ana lex="tvirtə" gr="N,sg,nonposs" parts="tvirtə" gloss="STEM" trans_en="= an empty bier" trans_ru="гроб"></ana>tvirtə</w>
+<w><ana lex="txəsə" gr="V,ppf,3,pl" parts="tx<ij>s-ivə" gloss="<>STEM" trans_en="" trans_ru="совать"></ana><ana lex="txəsə" gr="V,ppf,3,sg,m.s" parts="tx<ij>s-ivə" gloss="<>STEM" trans_en="" trans_ru="совать"></ana>txijsivə</w>
 <w><ana lex="txəsə" gr="V,pst,1,sg" parts="tx<i>s-lij" gloss="<>STEM" trans_en="" trans_ru="совать"></ana>txislij</w>
 <w><ana lex="təgвir" gr="N,sg,p.3,p.pl" parts="təgвir-e" gloss="STEM" trans_en="" trans_ru="план"></ana>təgвire</w>
 <w><ana lex="təgвir" gr="N,sg,p.3,p.sg,p.m" parts="təgвir-u" gloss="STEM" trans_en="" trans_ru="план"></ana>təgвiru</w>
@@ -1245,12 +1451,27 @@
 <w><ana lex="xlava" gr="V,ipf,1,sg,f.s" parts="x<a>lv-anva" gloss="<>STEM" trans_en="to milk; to give milk" trans_ru="доить"></ana>xalvanva</w>
 <w><ana lex="xvara" gr="V,prs,3,sg,m.s" parts="x<a>v<ь>r" gloss="<><>STEM" trans_en="to whiten, to become white" trans_ru="побелеть, побледнеть"></ana>xavьr</w>
 <w><ana lex="xdara" gr="N,sg,nonposs" parts="xdara" gloss="STEM" trans_en="" trans_ru="гулянье"></ana>xdara-</w>
+<w><ana lex="xdara" gr="V,ptcp.pst,sg,m" parts="xd<ьj>r-a" gloss="<>STEM" trans_en="to go round etc" trans_ru="ходить"></ana>xdьjra-</w>
+<w><ana lex="xdara" gr="V,pf,1,pl" parts="xd<ьj>r-ьvax" gloss="<>STEM" trans_en="to go round etc" trans_ru="ходить"></ana>xdьjrьvax</w>
+<w><ana lex="xdara" gr="V,pf,2,sg,m.s" parts="xd<ьj>r-ьvьt" gloss="<>STEM" trans_en="to go round etc" trans_ru="ходить"></ana>xdьjrьvьt</w>
+<w><ana lex="xdara" gr="V,pf,2,sg,f.s" parts="xd<ь>r-tьvat" gloss="<>STEM" trans_en="to go round etc" trans_ru="ходить"></ana>xdьrtьvat</w>
 <w><ana lex="xlava" gr="V,pst,3,sg,m.s" parts="xl<ь>v-lь" gloss="<>STEM" trans_en="to milk; to give milk" trans_ru="доить"></ana>xlьvlь</w>
 <w><ana lex="xon" gr="N,sg,p.3,p.sg,p.m" parts="xon-u" gloss="STEM" trans_en="Pers. a sort of tray or table" trans_ru="в"></ana>xonu</w>
+<w><ana lex="xpəqə" gr="V,pf,3,sg,f.s" parts="xp<i>q-tilə" gloss="<>STEM" trans_en="" trans_ru="обнимать"></ana>xpiqtilə</w>
+<w><ana lex="xvara" gr="V,pf,2,sg,f.s" parts="xv<ь>r-tьvat" gloss="<>STEM" trans_en="to whiten, to become white" trans_ru="побелеть, побледнеть"></ana>xvьrtьvat</w>
 <w><ana lex="zmaţa" gr="V,prs,3,pl" parts="z<a>mţ-ьj" gloss="<>STEM" trans_en="" trans_ru="валить, насыпать"></ana>zamţьj</w>
 <w><ana lex="zena" gr="N,sg,nonposs" parts="zena" gloss="STEM" trans_en="? Syr. ‘shield, armour’" trans_ru="запятая"></ana>zena</w>
 <w><ana lex="zi" gr="CONJ" parts="zi" gloss="STEM" trans_en="also, too; Kurmanji ; Berwari ; Zaza" trans_ru="также, тоже"></ana>zi-</w>
+<w><ana lex="zmərə" gr="V,ptcp.pst,pl" parts="zm<ij>r-i" gloss="<>STEM" trans_en="OS" trans_ru="петь"></ana>zmijri</w>
+<w><ana lex="zmərə" gr="V,pf,3,pl" parts="zm<ij>r-inə" gloss="<>STEM" trans_en="OS" trans_ru="петь"></ana>zmijrinə</w>
+<w><ana lex="zmərə" gr="V,ppf,3,pl" parts="zm<ij>r-ivə" gloss="<>STEM" trans_en="OS" trans_ru="петь"></ana><ana lex="zmərə" gr="V,ppf,3,sg,m.s" parts="zm<ij>r-ivə" gloss="<>STEM" trans_en="OS" trans_ru="петь"></ana>zmijrivə</w>
+<w><ana lex="zmaţa" gr="V,ptcp.pst,sg,m" parts="zm<ьj>ţ-a" gloss="<>STEM" trans_en="" trans_ru="валить, насыпать"></ana>zmьjţa</w>
 <w><ana lex="zmaţa" gr="V,pst,3,pl" parts="zm<ь>ţ-lun" gloss="<>STEM" trans_en="" trans_ru="валить, насыпать"></ana>zmьţlun</w>
+<w><ana lex="zmaţa" gr="V,pf,3,sg,f.s" parts="zm<ь>ţ-tьla" gloss="<>STEM" trans_en="" trans_ru="валить, насыпать"></ana>zmьţtьla</w>
+<w><ana lex="zmaţa" gr="V,ppf,3,sg,f.s" parts="zm<ь>ţ-tьva" gloss="<>STEM" trans_en="" trans_ru="валить, насыпать"></ana>zmьţtьva</w>
+<w><ana lex="zrəqə" gr="V,ptcp.pst,pl" parts="zr<ij>q-i" gloss="<>STEM" trans_en="to rise as the sun or a star; to sprinkle; to scatter" trans_ru="восходить"></ana>zrijqi</w>
+<w><ana lex="zrəqə" gr="V,ppf,3,pl" parts="zr<ij>q-ivə" gloss="<>STEM" trans_en="to rise as the sun or a star; to sprinkle; to scatter" trans_ru="восходить"></ana><ana lex="zrəqə" gr="V,ppf,3,sg,m.s" parts="zr<ij>q-ivə" gloss="<>STEM" trans_en="to rise as the sun or a star; to sprinkle; to scatter" trans_ru="восходить"></ana>zrijqivə</w>
+<w><ana lex="zrəqə" gr="V,ppf,3,sg,f.s" parts="zr<i>q-tivə" gloss="<>STEM" trans_en="to rise as the sun or a star; to sprinkle; to scatter" trans_ru="восходить"></ana>zriqtivə</w>
 <w><ana lex="zmərə" gr="V,ipf,1,sg,m.s" parts="z<ə>mr-invə" gloss="<>STEM" trans_en="OS" trans_ru="петь"></ana>zəmrinvə</w>
 <w><ana lex="zmərə" gr="V,ipf,1,sg,f.s" parts="z<ə>mr-ənvə" gloss="<>STEM" trans_en="OS" trans_ru="петь"></ana>zəmrənvə</w>
 <w><ana lex="zmərə" gr="V,prs,2,sg,f.s" parts="z<ə>mr-ət" gloss="<>STEM" trans_en="OS" trans_ru="петь"></ana>zəmrət</w>
@@ -1262,9 +1483,14 @@
 <w><ana lex="çraţa" gr="V,prs,3,sg,m.s" parts="ç<a>r<ь>ţ" gloss="<><>STEM" trans_en="to slip; ? jraa-taa to slide, glide, slip" trans_ru="плыть, плавно двигаться"></ana>çarьţ</w>
 <w><ana lex="çihil" gr="ADJ,sg" parts="çihil" gloss="STEM" trans_en="young, foolish; to be foolish" trans_ru="Т"></ana>çihil-</w>
 <w><ana lex="çijbə" gr="N,sg,nonposs" parts="çijbə" gloss="STEM" trans_en="jaib a pocket" trans_ru="в"></ana>çijbə</w>
+<w><ana lex="çnəvə" gr="V,ptcp.pst,pl" parts="çn<ij>v-i" gloss="<>STEM" trans_en="̰ܸܵ seize, snatch; to abduct, elope with; to pursue; cf. ? to pick, gather" trans_ru="хватать"></ana>çnijvi</w>
+<w><ana lex="çnəvə" gr="V,pf,3,sg,m.s" parts="çn<ij>v-ili" gloss="<>STEM" trans_en="̰ܸܵ seize, snatch; to abduct, elope with; to pursue; cf. ? to pick, gather" trans_ru="хватать"></ana>çnijvili</w>
+<w><ana lex="çnəvə" gr="V,ptcp.pst,sg,f" parts="çn<i>v-tə" gloss="<>STEM" trans_en="̰ܸܵ seize, snatch; to abduct, elope with; to pursue; cf. ? to pick, gather" trans_ru="хватать"></ana>çnivtə</w>
+<w><ana lex="çrəpə" gr="V,pf,3,sg,f.s" parts="çr<i>p-tilə" gloss="<>STEM" trans_en="to slide, slip" trans_ru="кользить"></ana>çriptilə</w>
 <w><ana lex="çraţa" gr="V,pst,1,sg" parts="çr<ь>ţ-lьj" gloss="<>STEM" trans_en="to slip; ? jraa-taa to slide, glide, slip" trans_ru="плыть, плавно двигаться"></ana>çrьţlьj</w>
 <w><ana lex="çuldməxə" gr="N,sg,nonposs" parts="çuldməxə" gloss="STEM" trans_en="" trans_ru="постель"></ana>çuldməxə</w>
 <w><ana lex="çuvvab" gr="N,sg,nonposs" parts="çuvvab" gloss="STEM" trans_en="a reply, answer" trans_ru="ответ; ответственность"></ana>çuvvab</w>
+<w><ana lex="çvəçə" gr="V,ptcp.pst,pl" parts="çv<ij>ç-i" gloss="<>STEM" trans_en="-wij, = chald. זוז" trans_ru="двигаться"></ana>çvijçi</w>
 <w><ana lex="çvəçə" gr="V,pst,3,sg,f.s" parts="çv<i>ç-lə" gloss="<>STEM" trans_en="-wij, = chald. זוז" trans_ru="двигаться"></ana>çviçlə-</w>
 <w><ana lex="çǝtun" gr="ADV" parts="çǝtun" gloss="STEM" trans_en="difficult, hard; turk. …" trans_ru="трудно"></ana>çǝtun</w>
 <w><ana lex="çnəvə" gr="V,ipf,3,pl" parts="ç<ə>nv-ijvə" gloss="<>STEM" trans_en="̰ܸܵ seize, snatch; to abduct, elope with; to pursue; cf. ? to pick, gather" trans_ru="хватать"></ana>çənvijvə</w>
@@ -1279,6 +1505,10 @@
 <w><ana lex="şjaja" gr="V,prs,2,sg,m.s" parts="ş<a>jj-ьt" gloss="<>STEM" trans_en="+šayyə I to plaster, to smear, to stick" trans_ru="вцепиться, впиться"></ana>şajjьt</w>
 <w><ana lex="şləgə" gr="V,pst,3,pl" parts="şl<i>g-lun" gloss="<>STEM" trans_en="to pluck, pluck up" trans_ru="выдёргивать"></ana>şliglun</w>
 <w><ana lex="şləgə" gr="V,pst,3,sg,f.s" parts="şl<i>g-lə" gloss="<>STEM" trans_en="to pluck, pluck up" trans_ru="выдёргивать"></ana>şliglə</w>
+<w><ana lex="şləgə" gr="V,ptcp.pst,sg,f" parts="şl<i>g-tə" gloss="<>STEM" trans_en="to pluck, pluck up" trans_ru="выдёргивать"></ana>şligtə</w>
+<w><ana lex="şləgə" gr="V,pf,3,pl" parts="şl<ij>g-inə" gloss="<>STEM" trans_en="to pluck, pluck up" trans_ru="выдёргивать"></ana>şlijginə</w>
+<w><ana lex="şləgə" gr="V,pf,1,sg,m.s" parts="şl<ij>g-ivin" gloss="<>STEM" trans_en="to pluck, pluck up" trans_ru="выдёргивать"></ana>şlijgivin</w>
+<w><ana lex="şləgə" gr="V,ppf,3,pl" parts="şl<ij>g-ivə" gloss="<>STEM" trans_en="to pluck, pluck up" trans_ru="выдёргивать"></ana><ana lex="şləgə" gr="V,ppf,3,sg,m.s" parts="şl<ij>g-ivə" gloss="<>STEM" trans_en="to pluck, pluck up" trans_ru="выдёргивать"></ana>şlijgivə</w>
 <w><ana lex="şlijxə" gr="ADJ,sg" parts="şlijxə" gloss="STEM" trans_en="" trans_ru="развратное поведение"></ana><ana lex="şlijxə" gr="N,sg,nonposs" parts="şlijxə" gloss="STEM" trans_en="" trans_ru="апостол"></ana>şlijxə-</w>
 <w><ana lex="şləgə" gr="V,prs,3,pl" parts="ş<ə>lg-ij" gloss="<>STEM" trans_en="to pluck, pluck up" trans_ru="выдёргивать"></ana>şəlgij</w>
 <w><ana lex="şləgə" gr="V,prs,3,sg,f.s" parts="ş<ə>lg-ə" gloss="<>STEM" trans_en="to pluck, pluck up" trans_ru="выдёргивать"></ana>şəlgə</w>

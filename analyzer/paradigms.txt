@@ -155,6 +155,51 @@
  -flex: ..i.lun
   gramm: pst,3,pl
 
+ -flex: ..ij.ivin
+  gramm: pf,1,sg,m.s
+ -flex: ..i.tivən
+  gramm: pf,1,sg,f.s
+ -flex: ..ij.ivit
+  gramm: pf,2,sg,m.s
+ -flex: ..i.tivət
+  gramm: pf,2,sg,f.s
+ -flex: ..ij.ili
+  gramm: pf,3,sg,m.s
+ -flex: ..i.tilə
+  gramm: pf,3,sg,f.s
+ -flex: ..ij.ivəx
+  gramm: pf,1,pl
+ -flex: ..ij.itun
+  gramm: pf,2,pl
+ -flex: ..ij.inə
+  gramm: pf,3,pl
+
+ -flex: ..ij.ivinvə
+  gramm: ppf,1,sg,m.s
+ -flex: ..i.tivənvə
+  gramm: ppf,1,sg,f.s
+ -flex: ..ij.ivitvə
+  gramm: ppf,2,sg,m.s
+ -flex: ..i.tivətvə
+  gramm: ppf,2,sg,f.s
+ -flex: ..ij.ivə
+  gramm: ppf,3,sg,m.s
+ -flex: ..i.tivə
+  gramm: ppf,3,sg,f.s
+ -flex: ..ij.ivəxvə
+  gramm: ppf,1,pl
+ -flex: ..ij.itunvə
+  gramm: ppf,2,pl
+ -flex: ..ij.ivə
+  gramm: ppf,3,pl
+ -flex: ..ij.ə
+  gramm: ptcp.pst,sg,m
+ -flex: ..ij.i
+  gramm: ptcp.pst,pl
+ -flex: ..i.tə
+  gramm: ptcp.pst,sg,f
+
+
 
 
 -paradigm: V_strong_back
@@ -250,6 +295,49 @@
  -flex: ..ь.lun
   gramm: pst,3,pl
 
+ -flex: ..ьj.ьvьn
+  gramm: pf,1,sg,m.s
+ -flex: ..ь.tьvan
+  gramm: pf,1,sg,f.s
+ -flex: ..ьj.ьvьt
+  gramm: pf,2,sg,m.s
+ -flex: ..ь.tьvat
+  gramm: pf,2,sg,f.s
+ -flex: ..ьj.ьlь
+  gramm: pf,3,sg,m.s
+ -flex: ..ь.tьla
+  gramm: pf,3,sg,f.s
+ -flex: ..ьj.ьvax
+  gramm: pf,1,pl
+ -flex: ..ьj.ьtun
+  gramm: pf,2,pl
+ -flex: ..ьj.ьna
+  gramm: pf,3,pl
+
+ -flex: ..ьj.ьvьnva
+  gramm: ppf,1,sg,m.s
+ -flex: ..ь.tьvanva
+  gramm: ppf,1,sg,f.s
+ -flex: ..ьj.ьvьtva
+  gramm: ppf,2,sg,m.s
+ -flex: ..ь.tьvatva
+  gramm: ppf,2,sg,f.s
+ -flex: ..ьj.ьva
+  gramm: ppf,3,sg,m.s
+ -flex: ..ь.tьva
+  gramm: ppf,3,sg,f.s
+ -flex: ..ьj.ьvaxva
+  gramm: ppf,1,pl
+ -flex: ..ьj.ьtunva
+  gramm: ppf,2,pl
+ -flex: ..ьj.ьva
+  gramm: ppf,3,pl
+ -flex: ..ьj.a
+  gramm: ptcp.pst,sg,m
+ -flex: ..ьj.ь
+  gramm: ptcp.pst,sg,m
+ -flex: ..ь.ta
+  gramm: ptcp.pst,sg,f
 
 
 -paradigm: V_strong_alef_back

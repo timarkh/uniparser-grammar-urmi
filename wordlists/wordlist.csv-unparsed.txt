@@ -327,7 +327,6 @@ vramjan
 morişə
 xzij
 mitxə
-prijşi
 kar
 qirila
 mən
@@ -424,7 +423,6 @@ tuxminni
 vidli
 şəlqu
 вarnəşə
-gdijli
 pummu
 xelənə
 kjənə
@@ -710,7 +708,6 @@ xaвru
 20
 ajne
 akkarь
-dvijqə
 həlвət
 iran
 nəpəs
@@ -813,7 +810,6 @@ skintə
 cadra
 dişjəti
 kislən
-lviştə
 maşina
 mumkinutə
 mţьlь
@@ -1381,7 +1377,6 @@ xьţţь
 27
 50
 dij
-dvijqi
 gnijvu
 gərusi
 horeliq
@@ -1664,7 +1659,6 @@ məmlə
 məşhur
 narahat
 ordəgi
-plьjţьva
 ptijxi
 quвilli
 qənd
@@ -1677,7 +1671,6 @@ tivlij
 urşan
 varqa
 xaso
-xvьjra
 xəzi
 zad
 zajja
@@ -1743,7 +1736,6 @@ xməltə
 ammoxun
 buqarь
 cijməni
-dmijxivə
 dunja
 dərвə
 garвjaja
@@ -2137,7 +2129,6 @@ avuduta
 bixzəjivit
 dikkənə
 durвinnə
-dvijqivə
 dəptər
 dьla
 ginəvi
@@ -2299,7 +2290,6 @@ belogor
 demjən
 dki
 drilə
-dviqtə
 dvoretsqij
 dəri
 dəvənetə
@@ -2435,7 +2425,6 @@ pajtun
 paluţь
 pikkiri
 plaţta
-plьjţa
 poləretə
 purmьla
 pəcpəctə
@@ -2534,10 +2523,7 @@ məвriqəni
 npillij
 nəpilvə
 oçəxtə
-plьjţь
-prijşə
 prьjţь
-psьjxь
 pərəqtə
 pьrjь
 qarl
@@ -2551,7 +2537,6 @@ raвьjta
 rəngu
 sasanu
 sirjə
-tliqtə
 tluq
 uçвa
 viji
@@ -2602,7 +2587,6 @@ zərəl
 79
 derьj
 dirji
-dmijxə
 dəvulə
 esqimosь
 gəvrilovic
@@ -3190,7 +3174,6 @@ xelij
 xlьjselь
 xul
 xurdilə
-xvьjrь
 xvьţta
 xşixtə
 xəcu
@@ -3280,7 +3263,6 @@ kəmər
 lekə
 lixəjə
 lkul
-lvijşə
 lvişte
 maprumь
 marreta
@@ -3422,7 +3404,6 @@ ekeli
 eta
 gixkivə
 gizmi
-grijşə
 gungə
 gədug
 gərgəmtə
@@ -3851,7 +3832,6 @@ cərcurili
 cərcərjəti
 darsaat
 dirjə
-dmijxili
 dolətməndi
 dqьrrь
 dranano
@@ -3932,7 +3912,6 @@ palaşeta
 paţuxь
 pilxəni
 pjəşilə
-plьjţьna
 polərəji
 poxi
 proletariat
@@ -4079,7 +4058,6 @@ derax
 dijje
 doqin
 draşjatь
-dvijqili
 dəjjəni
 dərivə
 dəvlətməndi
@@ -4240,7 +4218,6 @@ xpili
 xpəqə
 xumili
 xutə
-xvьrta
 xzilux
 xşuv
 xəmijli
@@ -4341,7 +4318,6 @@ derь
 dgənu
 dijjən
 divxi
-dmijxinə
 dosţ
 dtre
 duke
@@ -4364,7 +4340,6 @@ girrəv
 glultə
 gori
 gozi
-grijşi
 gurtьla
 gurьlь
 gurьva
@@ -4398,7 +4373,6 @@ kəpik
 la-
 lazьmva
 limon
-lvijşivə
 ləxmi
 ləвillə
 lвetə
@@ -4451,7 +4425,6 @@ paluвa
 piqqəqi
 pirkə
 pləxtə
-plьjţьlь
 ptijxelə
 put
 puşəngi
@@ -4499,7 +4472,6 @@ səpəru
 terlan
 tiplis
 tirri
-tlijqi
 tlijxi
 tlitə
 topa
@@ -4509,7 +4481,6 @@ təgвirəni
 təruqjəti
 uçвь
 verejsqij
-xdьjrь
 xer
 xidjili
 xilmətkəri
@@ -4879,7 +4850,6 @@ zərdnetə
 şuqququtə
 şuqə
 şurjьna
-şvijtə
 şəqillə
 şəqlij
 şəqşuqivə
@@ -5010,7 +4980,6 @@ giвe
 giвəno
 giвənu
 gluli
-gnijvi
 gorax
 grijşələ
 grişə
@@ -5133,7 +5102,6 @@ pilxənili
 pis
 pisqari
 polisə
-psьxta
 pu
 pugdənə
 pulţь
@@ -5472,7 +5440,6 @@ loçənə
 luвiltə
 luвleli
 luвlelun
-lvijşi
 lərixqə
 ləspirtə
 ləxumi
@@ -5653,7 +5620,6 @@ tupənge
 turasa
 txijsəli
 txirrə
-txirtə
 təlimtə
 təmməztə
 tənəxtə
@@ -6207,7 +6173,6 @@ tunilə
 tupru
 tvьllь
 txijreli
-txijrə
 təgвuri
 tək
 təltə
@@ -6484,9 +6449,6 @@ durвintə
 duxrana
 duşə
 dvijqeli
-dvijqinə
-dvijri
-dviqtivə
 dvirrun
 dşimşə
 dəltə
@@ -6511,7 +6473,6 @@ girvəni
 gnijvo
 gorənetə
 gorənəji
-grijşivə
 grumant
 grəşə
 gurtьva
@@ -6716,7 +6677,6 @@ pitvə
 pjada
 pjetə
 plijxə
-plьţta
 prijmə
 primlun
 prixlə
@@ -6845,7 +6805,6 @@ tijitun
 tijvinvə
 tiviletə
 tjəvə
-tliqtivə
 tlixlə
 tpəqtu
 tujnə
@@ -6885,7 +6844,6 @@ xaluvva
 xarxacta
 xditivə
 xdənəjə
-xdьjrьva
 xetilə
 ximməni
 xinnə
@@ -6905,7 +6863,6 @@ xurdiji
 xurdijə
 xurçun
 xuввəni
-xvьjrьva
 xçijlə
 xşəvjəti
 xţьrrь
@@ -7165,7 +7122,6 @@ dizenterijə
 dkilpət
 dkulle
 dmar-
-dmijxi
 dnəşi
 dodonov
 doqijvə
@@ -7509,7 +7465,6 @@ plata
 plьtlь
 prijqili
 prijqivə
-prijşinə
 priqtə
 pristav
 ptijxələ
@@ -7671,7 +7626,6 @@ tarьs
 telegrafist
 tete
 titivən
-tlijqə
 tluqun
 topatь
 trajana
@@ -8081,7 +8035,6 @@ dirjəlun
 dkul
 dleli
 dmar-şimmun
-dmixtivə
 dməxi
 dorn
 dorьj
@@ -8138,7 +8091,6 @@ gumgimlun
 gumli
 gurvislə
 guвernia
-gvirtilə
 gəmijji
 gərgumi
 gərişlun
@@ -8289,7 +8241,6 @@ luвlelə
 luвlovə
 luвlə
 lvijşeli
-lviştivə
 lxudəji
 lţura
 ləgura
@@ -8355,7 +8306,6 @@ mişilməntə
 mişinertə
 mişmişşi
 mişxəni
-mkijsi
 moto
 motənə
 mreta
@@ -8516,13 +8466,11 @@ planь
 plaşe
 plaţtu
 pluţun
-plьţtьva
 pnilun
 pnəjinə
 prijmi
 prijqə
 prisjəti
-priştə
 prəxivə
 psьjxuta
 ptijxili
@@ -8791,8 +8739,6 @@ xaвre
 xaвrux
 xdartu
 xdǝ
-xdьjra
-xdьrtьla
 xejvəti
 xel
 xelənili
@@ -8809,7 +8755,6 @@ xmilli
 xoravajuta
 xorrəg
 xorux
-xpijqə
 xpitə
 xqarta
 xqьrta
@@ -9250,9 +9195,7 @@ djartьj
 djomqa
 dlazьm
 dmar
-dmijjə
 dmijə
-dmixtilə
 dməlik
 dmətə
 dolga
@@ -9278,10 +9221,7 @@ durvьdda
 durвin
 dutun
 duzganlьx
-dvijrivə
-dviqtilə
 dviqtuvə
-dvirtə
 dvornik
 dvuqun
 dəri-
@@ -9326,7 +9266,6 @@ gnəhivəx
 gorij
 gorinnə
 grafin
-grijşili
 grijşəlun
 griştelə
 gu
@@ -9599,8 +9538,6 @@ mixje
 mixjo
 mişkə
 mişutqa
-mkijsinə
-mkistivə
 moda
 moja
 morfij
@@ -9833,7 +9770,6 @@ plaşu
 plijxinə
 plixgazarta
 plixlij
-plьţtьla
 polus
 poləki
 praporşiq
@@ -10146,9 +10082,7 @@ tirrə
 tirvoxun
 tivtevə
 tla
-tlijqili
 tlili
-tliqtilə
 tlixlun
 tləqtə
 tlьвtu
@@ -10175,8 +10109,6 @@ turqmeni
 tursьna
 turve
 tuвerquljoz
-tvijni
-tvijnə
 tvort
 txijrələ
 txumi
@@ -10270,7 +10202,6 @@ xlьjsu
 xmətə
 xnamьj
 xore
-xpijqi
 xpijqu
 xrivlə
 xrivtə
@@ -10391,7 +10322,6 @@ zьrçam
 şixi
 şjəptə
 şlij
-şlijgi
 şlilun
 şoqijli
 şoqijlən
@@ -10723,7 +10653,6 @@ zьrçam
 -ni
 -nikko
 -ofiseri
--plьjţьlь
 -qoxə
 -quxi
 -qьvrah
@@ -10951,7 +10880,6 @@ duzgənlixi
 duzəlmiş
 duвrovsqiji
 dvijqelun
-dvijqivin
 dvələ
 dxelə
 dxirrə
@@ -11019,7 +10947,6 @@ gram
 grijşelə
 grijşu
 grişlun-gurgişlun
-griştə
 gucmu
 guddij
 gudənəni
@@ -11310,7 +11237,6 @@ lturkəji
 lujlə
 luвillij
 luвlələ
-lvijşili
 lvijşovə
 lvəxtə
 lxadьrvane
@@ -11437,7 +11363,6 @@ mişa
 mjaqrьjvalь
 mjətivin
 mjətə
-mkistilə
 mkulle
 mletə
 mod
@@ -11542,7 +11467,6 @@ mxete
 mximunli
 mxəjo
 mxəjvə
-mzijdi
 mşili
 mţetьj
 mţьtьla
@@ -11780,7 +11704,6 @@ poxənə
 pqilə
 praqtiqeta
 prasqovja
-prijşivə
 priqlən
 prislə
 prixlə-
@@ -12207,7 +12130,6 @@ tijvivəx
 tipjə
 titelə
 tjanta
-tlijqivə
 tlixtə
 tnetə
 todor
@@ -12326,7 +12248,6 @@ xdilən
 xdənəjutə
 xdьjrelь
 xdьrrun
-xdьrta
 xel-mə
 xelux
 xeləntilə
@@ -13282,8 +13203,6 @@ cirt
 clapta
 cliçtə
 cləçtə
-clьjpa
-clьjpь
 cocetə
 coli-вьjaвanь
 colxama
@@ -13382,9 +13301,7 @@ dkəlu
 dliввə
 dljvə
 dlətjəmə
-dmijxivinvə
 dmilə
-dmixtə
 dmişinerutə
 dmişmişşi
 dmumkin
@@ -14025,7 +13942,6 @@ luвlinni
 luвlinnə
 lvan
 lvijşevə
-lvijşinə
 lviştux
 lvəşə
 lxaвru
@@ -14233,7 +14149,6 @@ mjeta
 mjn
 mjuqruta
 mjətivə
-mkistə
 mlij
 mlitevə
 mnacar
@@ -14809,9 +14724,6 @@ plane
 planьj
 platьva
 plaţo
-plьjşьlь
-plьjşьvьn
-plьjţa-
 pnəjə
 poc
 poljəretə
@@ -14833,7 +14745,6 @@ priqtilə
 prisţə
 prixlij
 prizləji
-priştivə
 proletariji
 prorьv
 prusija
@@ -14845,7 +14756,6 @@ prəxinə
 prəxə-
 prəşte
 prьţlь
-psьjxьva
 ptijxuli
 ptixte
 ptixtevə
@@ -15550,7 +15460,6 @@ titivət
 tixxuвi
 tjəri
 tjəvutə
-tlijqinə
 tlijtəj
 tlitəji
 tlup
@@ -15621,12 +15530,9 @@ tutə
 tuxmini
 tuşjalь
 tuвerquloz
-tvijnivə
 tvinnun
-tvintə
 tvoja
 txijrinni
-txijsi
 txijsəlij
 txumə
 txute
@@ -15790,8 +15696,6 @@ xdəjutə
 xdənetə
 xdьjralьj
 xdьjrela
-xdьjrьlь
-xdьjrьna
 xeţansolь
 xidji-
 xidji-xidji
@@ -15904,10 +15808,8 @@ xuşəvu
 xuşвinni
 xuşвinnə
 xvartьla
-xvьjrьlь
 xvьjta
 xvьjţь-
-xvьrtьva
 xzitilə
 xzito
 xzitu
@@ -17596,7 +17498,6 @@ cix
 cjarta
 cjədjəti
 cjədtu
-clьpta
 cmьjcь
 cmьla
 coratan
@@ -17911,7 +17812,6 @@ dvan
 dvijqelij
 dvijqenə
 dvijqinnə
-dvijqivinvə
 dvijqovin
 dvijqovit
 dvijreli
@@ -18093,8 +17993,6 @@ gazmu
 gazьr
 gaвara
 gaввaruta
-gdijlinə
-gdijlivə
 gecəg
 gejmə
 gelland
@@ -18136,7 +18034,6 @@ giƶəntə
 giвə-
 glij
 glijçu
-glijçə
 gliləon
 gliçtuvə
 glulnəji
@@ -18145,7 +18042,6 @@ glulutə
 gmijrə
 gnetu
 gnijvenə
-gnijvivə
 gnijvonə
 gnijvuvə
 gnijvəli
@@ -18173,8 +18069,6 @@ grijşelən
 grijşunə
 grijşəlij
 grişqə
-griştilə
-griştivə
 grișli
 gruşlə
 guddəti
@@ -18243,8 +18137,6 @@ gvardijəji
 gvij
 gvijlili
 gvijrevə
-gvijrivə
-gvijrə
 gvijrəne
 gvullun
 gvəltə
@@ -18394,7 +18286,6 @@ haslanta
 hasulьlь
 havuz
 havьva
-hdьjrь
 hejmənujəti
 hejmənute
 hejmənutu
@@ -19179,12 +19070,8 @@ luвloli
 luвlonə
 luвlu
 lvijşelə
-lvijşivin
-lvijşivinvə
 lvijşələ
-lvixtə
 lvişjəte
-lviştilə
 lvux
 lxadirvanь
 lxadьrvanan
@@ -19691,7 +19578,6 @@ miƶəntə
 miƶənə
 mjaqrь
 mjasьva
-mkijsə
 mkijxə
 mkixli
 mleto
@@ -20067,7 +19953,6 @@ muв
 muвjinnǝ
 muвjintə
 muвrikli
-mxijtə
 mxilin
 mxilən
 mxitivə
@@ -20077,10 +19962,8 @@ mxəjeli
 mxəjoli
 mxəju
 mxəjə-
-mzijdə
 mzujəxə
 mşijxetə
-mşintə
 mşəje
 mşəjevə
 mşəjə
@@ -21019,10 +20902,7 @@ pljşivə
 pləju
 pləxə
 plьjtьva
-plьjşьva
 plьjţelь
-plьjţьvьn
-plьjţьvьt
 plьtlьj
 pnetə
 pnili
@@ -21058,7 +20938,6 @@ prijqeli
 prijsili
 prijsinə
 prijşelə
-prijşili
 prijşu
 primlə
 primtilə
@@ -21070,7 +20949,6 @@ prixlun-
 prixlun-tilun
 prixlə-vьrra
 prixtilə
-priştilə
 programa
 proletərij
 proletərəjə
@@ -21107,7 +20985,6 @@ prьţţa
 psevdonim
 psədijəti
 psьj
-psьjxьlь
 psьla
 ptijleli
 ptijlili
@@ -21493,7 +21370,6 @@ qaвineto
 qaвurxe
 qaвurxux
 qaьjda
-qdijxi
 qdəltə
 qdələx
 qedemtə
@@ -21695,7 +21571,6 @@ qvilun
 qvitevə
 qvitivə
 qvəltu
-qvьjra
 qţeţa
 qţulunla
 qţьjlala
@@ -22731,7 +22606,6 @@ tuş
 tuşe
 tuşja
 tuşnəqə
-tvijnə-
 tvijri
 tvijrə
 tvinni
@@ -23055,7 +22929,6 @@ xdьjro
 xdьrra-
 xdьrra-vilə
 xdьrteva
-xdьrtьva
 xe
 xel-məxeli
 xela
@@ -23168,14 +23041,11 @@ xoţьn
 xpiatə
 xpij
 xpijqe
-xpijqili
-xpijqivə
 xpijqo
 xpijqoli
 xpijquli
 xpiqte
 xpiqtu
-xpiqtə
 xpəqi
 xpərtə
 xqьjralь
@@ -23251,7 +23121,6 @@ xvaţta-
 xvaţta-xərвəştə
 xvuţlь
 xvəştə
-xvьjra-
 xvьjra-zugzikkə
 xvьjtьva
 xvьjţa-
@@ -23502,15 +23371,11 @@ zmartə
 zmijrəli
 zmikli
 zmirrij
-zmirtə
 zmuţun
 zmərjətu
 zmərta
 zmərtilə
 zməru
-zmьjţь
-zmьjţьlь
-zmьjţьva
 zodevə
 zodili
 zogili
@@ -23524,7 +23389,6 @@ zoьj
 zqьjrьva
 zracjatь
 zriclə
-zrijqə
 zrizlun
 zrute
 zrьcla
@@ -23644,7 +23508,6 @@ zьrxь-zьrxь
 çnijnə-
 çnijnə-çnijnə
 çnijvelun
-çnijvə
 çnijvəlij
 çnuv
 çopur
@@ -23671,7 +23534,6 @@ zьrxь-zьrxь
 çurвalь
 çuvaвo
 çuvaвьj
-çvijçə
 çvuç
 çvəctə
 çvəlij
@@ -23822,9 +23684,6 @@ zьrxь-zьrxь
 şişməni
 şiəmə
 şjara
-şligtivə
-şlijgili
-şlijgə
 şlimli
 şlimun
 şlixli
@@ -25524,7 +25383,6 @@ zьrxь-zьrxь
 -cirro
 -civə
 -cixtelə
--clьjpьlь
 -coвan
 -cu
 -cumcimmə
@@ -25583,7 +25441,6 @@ zьrxь-zьrxь
 -dutux
 -dutə
 -duвliввelə
--dvijqinə
 -dəmduki
 -dənij
 -dəptəre
@@ -25629,7 +25486,6 @@ zьrxь-zьrxь
 -gorənetə
 -gorənəji
 -gosə
--grijşi
 -gu
 -gudaьra
 -gulinə
@@ -26053,9 +25909,6 @@ zьrxь-zьrxь
 -plitə
 -ploşad
 -plьjtьva
--plьjţьna
--plьjţьva
--plьjţьvax
 -polismister
 -pomeşik
 -pomorь
@@ -26357,7 +26210,6 @@ zьrxь-zьrxь
 -tiqəjə
 -tivlə
 -tjəmu
--tlijqə
 -tlijxə
 -tləqə
 -top
@@ -26372,7 +26224,6 @@ zьrxь-zьrxь
 -tutə
 -tuxminni
 -tuxmə
--tvijnə
 -txuţ
 -təhər
 -tək
@@ -26529,10 +26380,8 @@ zьrxь-zьrxь
 -zinge
 -zinni
 -zinə
--zmьjţьva
 -zogi
 -zoruta
--zrijqili
 -zringe
 -zumi
 -zumivə
@@ -28269,7 +28118,6 @@ brətijlə
 brətux
 brьzzaja
 bsarasţuta
-bsijmə-
 bsijmə-ləвsəmə
 bsjəqtə
 bsьpjuta
@@ -28813,17 +28661,14 @@ cpalь
 cqbanuta
 crijteli
 crijtelun
-crijti
 crijtəlij
 crijtəlun
 crijxi
 crijxili
 crijxinə
 crijzelij
-crijzivə
 crit
 critllj
-crittilə
 criştə
 criţlij
 criţlə
@@ -29868,10 +29713,6 @@ dmijs
 dmijxeli
 dmijxilə
 dmijxiva
-dmijxivin
-dmijxivit
-dmijxivəx
-dmijxivəxvə
 dmijz
 dmiljivə
 dmiljuni
@@ -29888,8 +29729,6 @@ dmistir
 dmitrijev
 dmitrijevxvi
 dmixjoli
-dmixtivənvə
-dmixtivət
 dmixulta
 dmiz
 dmiççit
@@ -30469,9 +30308,6 @@ dvijqijli
 dvijqinni
 dvijqinnoxun
 dvijqinnun
-dvijqitun
-dvijqivit
-dvijqivəx
 dvijqixli
 dvijqiмə
 dvijqj
@@ -30491,11 +30327,8 @@ dvijqənnun
 dvijrenə
 dvijrevin
 dvijrevə
-dvijrili
 dvijrəlun
 dvijxgənə
-dvijxi
-dvijxə
 dviq-
 dviq-lux
 dviqe
@@ -30507,7 +30340,6 @@ dviqəli
 dvirrij
 dvirtuvə
 dvitqtə
-dvixtə
 dvjqlə
 dvjqu
 dvo
@@ -31589,7 +31421,6 @@ gjlji
 gjui
 glijdə-
 glijdə-qijdə
-glijçi
 glilun
 gliserin
 glitserin
@@ -31618,9 +31449,6 @@ gnijvelə
 gnijvevin
 gnijvevə
 gnijvij
-gnijvinə
-gnijvivin
-gnijvivit
 gnijvovit
 gnijvu-
 gnijvu-qarusa
@@ -31733,8 +31561,6 @@ grijşenə
 grijşevinvə
 grijşevə
 grijşinni
-grijşinə
-grijşitun
 grijşovin
 grijştə
 grijşu-
@@ -31749,7 +31575,6 @@ grimasь
 grindel
 grip-
 grip-ha
-gristə
 grişagina
 grişelun
 grişli-gurgişli
@@ -31758,7 +31583,6 @@ grişlə-cəqləmiş
 grişlə-mujilə
 griştovə
 griştuvə
-griştə-
 griştə-mujitə
 grjazi
 gromaşevsqij
@@ -31984,12 +31808,7 @@ gvardijә
 gvij-
 gvij-lili
 gvijlivə
-gvijri
-gvijri-
 gvijri-xijşivə
-gvijrili
-gvijrinə
-gvijrivit
 gvijrivǝ
 gvijrəli
 gvijrəlux
@@ -31999,8 +31818,6 @@ gvirrij
 gvirrun
 gvirrəx
 gvirtevə
-gvirtivə
-gvirtivət
 gvixtə
 gvur
 gvə-
@@ -32013,7 +31830,6 @@ gvərtən
 gvərux
 gvəxtə
 gxijkevə
-gxijkivə
 gxixlə
 gxukto
 gxəkto
@@ -32534,7 +32350,6 @@ haççətti
 haştarxan
 haţa
 hc
-hdьjrьva
 hdьrtela
 he-
 he-e
@@ -34813,7 +34628,6 @@ kuţţə
 kuв
 kvij-
 kvij-civə
-kvijcili
 kvik
 kvuri
 kvəclə
@@ -35994,17 +35808,13 @@ luввolə
 lvanovic
 lvaqzal
 lvatane
-lvijxivə
 lvijşe
 lvijşevin
 lvijşilij
-lvijşitun
-lvijşivəxvə
 lvijşt
 lvijşəlij
 lvisto
 lvixii
-lvixtivə
 lvişeli
 lviştevə
 lviştij
@@ -38359,7 +38169,6 @@ mjətinə
 mjətivən
 mjəttu
 mjəttə
-mkijsivə
 mkijşi
 mkinlə
 mkipə
@@ -43846,14 +43655,12 @@ plьjtь
 plьjtьlь
 plьjtьna
 plьjşevə
-plьjşь
 plьjţa-xijşili
 plьjţa-xijşivə
 plьjţa-zrijqili
 plьjţeva
 plьjţevьnva
 plьjţlь
-plьjţьvьnva
 plьlun
 plьlţun
 plьlţь
@@ -44007,9 +43814,6 @@ prijş
 prijşec
 prijşelij
 prijşevə
-prijşivit
-prijşivəx
-prijşivəxvə
 prijşovinvə
 prijşovə
 prijşuli
@@ -44048,7 +43852,6 @@ prizlivə
 prizlu
 prizə
 prişnaqop
-priştivət
 prjşi
 prljşi
 pro-
@@ -44146,7 +43949,6 @@ psarьva
 psaxta
 psixologiait
 psьjxta
-psьjxьna
 psьlan
 psьpjuta
 psьxtə
@@ -45531,8 +45333,6 @@ qdalə
 qdijil
 qdijle
 qdijxeli
-qdijxə
-qdixtə
 qdixţelə
 qdǝlu
 qdə
@@ -46404,10 +46204,8 @@ qvurra
 qvərtə
 qvьjralь
 qvьjruva
-qvьjrьvьn
 qvьrrun
 qvьrrь
-qvьrta
 qşijqdəlutu
 qşijqdələ
 qşijtə
@@ -47670,7 +47468,6 @@ rxijmə
 rxijqevə
 rxijqi
 rxijqutə
-rxijşinə
 rxijşələn
 rximlij
 rximlə
@@ -49988,7 +49785,6 @@ tli
 tlij
 tlijlə
 tlijqeli
-tlijqivəx
 tlijtəj-
 tlijtəj-gunəvən
 tlijtəje
@@ -50501,7 +50297,6 @@ tuвliввi
 tuвliввəli
 tveloxun
 tver
-tvijnili
 tvijnə-gəƶƶunili
 tvijnə-tvijnə
 tvijreli
@@ -50514,7 +50309,6 @@ txijrelun
 txijro
 txijrələn
 txijselə
-txijsivə
 txijsulu
 txijsunə
 txijsəloxun
@@ -51963,7 +51757,6 @@ xdədi
 xdəntə
 xdənəji
 xdətte
-xdьjra-
 xdьjra-vijivə
 xdьjralь
 xdьjrevьn
@@ -51971,11 +51764,8 @@ xdьjrova
 xdьjrovьn
 xdьjroxva
 xdьjrulь
-xdьjrьvax
-xdьjrьvьt
 xdьrrax
 xdьrtula
-xdьrtьvat
 xdьrь
 xe-
 xe-ləni
@@ -52495,7 +52285,6 @@ xpilij
 xpimun
 xpiqtelə
 xpiqtevə
-xpiqtilə
 xpiqtovə
 xpiqtuvə
 xpirri
@@ -52858,7 +52647,6 @@ xvьjţelь
 xvьjţeva
 xvьjţuva
 xvьjţь-xurвişşinə
-xvьrtьvat
 xvьtta
 xvьţjuta
 xvьţla-
@@ -53781,9 +53569,6 @@ zləktu
 zlьjmьlь
 zlьjmьva
 zmijreli
-zmijri
-zmijrinə
-zmijrivə
 zmirjəti
 zmirre
 zmirvəli
@@ -53799,10 +53584,7 @@ zmərlə
 zmərtən
 zmьjtulьlgo
 zmьjtьva
-zmьjţa
 zmьjţena
-zmьţtьla
-zmьţtьva
 zmьţţa
 znetə
 zoan
@@ -53861,9 +53643,6 @@ zqьrtьla
 zracta
 zracu
 zrijcevə
-zrijqi
-zrijqivə
-zriqtivə
 zrista
 zrizlə
 zriztə
@@ -54421,8 +54200,6 @@ zьrçəm
 çmьta
 çnijvelə
 çnijvelən
-çnijvi
-çnijvili
 çnijvinni
 çnijvoli
 çnijvu
@@ -54430,7 +54207,6 @@ zьrçəm
 çnintə
 çnivtu-
 çnivtu-luвiltuvə
-çnivtə
 ço
 çocij
 çol
@@ -54453,7 +54229,6 @@ zьrçəm
 çrela
 çretu
 çridlə
-çriptilə
 çrup
 çrəttə
 çrьtla
@@ -54583,7 +54358,6 @@ zьrçəm
 çuввəti
 çviclij
 çviclun
-çvijçi
 çviç
 çviçlə-xişlə
 çvujça
@@ -55156,10 +54930,6 @@ zьrçəm
 şkul
 şlapqu
 şletş
-şligtə
-şlijginə
-şlijgivin
-şlijgivə
 şlijgoli
 şlijgonə
 şlijguvə
