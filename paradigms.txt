@@ -114,6 +114,11 @@
  -flex: .nəx
   gramm: 2.o,f.o,sg.o
   regex-prev: .*n[.<>]*$
+ -flex: .loxun
+  gramm: 2.o,pl.o
+ -flex: .noxun
+  gramm: 2.o,pl.o
+  regex-prev: .*n[.<>]*$
 
 -paradigm: V_pro_sfx_back
  -flex: .
@@ -153,7 +158,11 @@
  -flex: .nax
   gramm: 2.o,f.o,sg.o
   regex-prev: .*n[.<>]*$
-
+ -flex: .loxun
+  gramm: 2.o,pl.o
+ -flex: .noxun
+  gramm: 2.o,pl.o
+  regex-prev: .*n[.<>]*$
 
 
 -paradigm: V_pro_ifx_front
@@ -185,7 +194,7 @@
   gramm: 3.o,pl.o
 
 
--paradigm: V_strong_front
+-paradigm: V_I_front
  -flex: .ə..in<.>//.ə.i.in<.>
   gramm: prs,1,sg,m.s
   paradigm: V_pro_sfx_front
@@ -367,7 +376,7 @@
 
 
 
--paradigm: V_strong_back
+-paradigm: V_I_back
  -flex: .a..ьn<.>//.a.ь.ьn<.>
   gramm: prs,1,sg,m.s
   paradigm: V_pro_sfx_back
@@ -615,3 +624,731 @@
   gramm: pst,2,pl
  -flex: ..ь.lun
   gramm: pst,3,pl
+
+
+
+
+
+
+
+
+-paradigm: V_4c_front
+ -flex: <1>.ə.i.in<.>
+  gramm: prs,1,sg,m.s
+  paradigm: V_pro_sfx_front
+ -flex: <1>.ə.i.ən<.>
+  gramm: prs,1,sg,f.s
+  paradigm: V_pro_sfx_front
+ -flex: <1>.ə.i.it<.>
+  gramm: prs,2,sg,m.s
+  paradigm: V_pro_sfx_front
+ -flex: <1>.ə.i.ət<.>
+  gramm: prs,2,sg,f.s
+  paradigm: V_pro_sfx_front
+ -flex: <0>.ə.i.<.>
+  gramm: prs,3,sg,m.s
+  paradigm: V_pro_sfx_front
+ -flex: <1>.ə.i.ə<.>
+  gramm: prs,3,sg,f.s
+  paradigm: V_pro_sfx_front
+ -flex: <1>.ə.i.əx<.>
+  gramm: prs,1,pl
+  paradigm: V_pro_sfx_front
+ -flex: <1>.ə.i.itun<.>
+  gramm: prs,2,pl
+  paradigm: V_pro_sfx_front
+ -flex: <1>.ə.i.ij<.>
+  gramm: prs,3,pl
+  paradigm: V_pro_sfx_front
+
+ -flex: <1>.ə.i.invə<.>
+  gramm: ipf,1,sg,m.s
+  paradigm: V_pro_sfx_front
+ -flex: <1>.ə.i.ənvə<.>
+  gramm: ipf,1,sg,f.s
+  paradigm: V_pro_sfx_front
+ -flex: <1>.ə.i.itvə<.>
+  gramm: ipf,2,sg,m.s
+  paradigm: V_pro_sfx_front
+ -flex: <1>.ə.i.ətvə<.>
+  gramm: ipf,2,sg,f.s
+  paradigm: V_pro_sfx_front
+ -flex: .ə.i.və<.>
+  gramm: ipf,3,sg,m.s
+  paradigm: V_pro_sfx_front
+ -flex: <1>.ə.i.əvə<.>
+  gramm: ipf,3,sg,f.s
+  paradigm: V_pro_sfx_front
+ -flex: <1>.ə.i.əxvə<.>
+  gramm: ipf,1,pl
+  paradigm: V_pro_sfx_front
+ -flex: <1>.ə.i.itunvə<.>
+  gramm: ipf,2,pl
+  paradigm: V_pro_sfx_front
+ -flex: <1>.ə.i.ijvə<.>
+  gramm: ipf,3,pl
+  paradigm: V_pro_sfx_front
+  
+ -flex: <0>.ə.u.<.>vin
+  gramm: prs2,1,sg,m.s
+  paradigm: V_pro_ifx_front
+ -flex: <0>.ə.u.<.>vən
+  gramm: prs2,1,sg,f.s
+  paradigm: V_pro_ifx_front
+ -flex: <0>.ə.u.<.>vit
+  gramm: prs2,2,sg,m.s
+  paradigm: V_pro_ifx_front
+ -flex: <0>.ə.u.<.>vət
+  gramm: prs2,2,sg,f.s
+  paradigm: V_pro_ifx_front
+ -flex: <0>.ə.u.<.>li
+  gramm: prs2,3,sg,m.s
+  paradigm: V_pro_ifx_front
+ -flex: <0>.ə.u.<.>lə
+  gramm: prs2,3,sg,f.s
+  paradigm: V_pro_ifx_front
+ -flex: <0>.ə.u.<.>vəx
+  gramm: prs2,1,pl
+  paradigm: V_pro_ifx_front
+ -flex: <0>.ə.u.<.>tun
+  gramm: prs2,2,pl
+  paradigm: V_pro_ifx_front
+ -flex: <0>.ə.u.<.>nə
+  gramm: prs2,3,pl
+  paradigm: V_pro_ifx_front
+
+ -flex: <0>.ə.u.<.>vinvə
+  gramm: ipf2,1,sg,m.s
+  paradigm: V_pro_ifx_front
+ -flex: <0>.ə.u.<.>vənvə
+  gramm: ipf2,1,sg,f.s
+  paradigm: V_pro_ifx_front
+ -flex: <0>.ə.u.<.>vitvə
+  gramm: ipf2,2,sg,m.s
+  paradigm: V_pro_ifx_front
+ -flex: <0>.ə.u.<.>vətvə
+  gramm: ipf2,2,sg,f.s
+  paradigm: V_pro_ifx_front
+ -flex: <0>.ə.u.<.>və
+  gramm: ipf2,3,sg
+  paradigm: V_pro_ifx_front
+ -flex: <0>.ə.u.<.>vəxvə
+  gramm: ipf2,1,pl
+  paradigm: V_pro_ifx_front
+ -flex: <0>.ə.u.<.>tunvə
+  gramm: ipf2,2,pl
+  paradigm: V_pro_ifx_front
+ -flex: <0>.ə.u.<.>və
+  gramm: ipf2,3,pl
+  paradigm: V_pro_ifx_front
+  
+ -flex: <0>.u.i.<.>lij
+  gramm: pst,1,sg
+  paradigm: V_pro_ifx_front
+ -flex: <0>.u.i.<.>lux
+  gramm: pst,2,sg,m.s
+  paradigm: V_pro_ifx_front
+ -flex: <0>.u.i.<.>ləx
+  gramm: pst,2,sg,f.s
+  paradigm: V_pro_ifx_front
+ -flex: <0>.u.i.<.>li
+  gramm: pst,3,sg,m.s
+  paradigm: V_pro_ifx_front
+ -flex: <0>.u.i.<.>lə
+  gramm: pst,3,sg,f.s
+  paradigm: V_pro_ifx_front
+ -flex: <0>.u.i.<.>lən
+  gramm: pst,1,pl
+  paradigm: V_pro_ifx_front
+ -flex: <0>.u.i.<.>loxun
+  gramm: pst,2,pl
+  paradigm: V_pro_ifx_front
+ -flex: <0>.u.i.<.>lun
+  gramm: pst,3,pl
+  paradigm: V_pro_ifx_front
+
+ -flex: <0>.u.i.ivin
+  gramm: pf,1,sg,m.s
+ -flex: <0>.u.i.tivən
+  gramm: pf,1,sg,f.s
+ -flex: <0>.u.i.ivit
+  gramm: pf,2,sg,m.s
+ -flex: <0>.u.i.tivət
+  gramm: pf,2,sg,f.s
+ -flex: <0>.u.i.ili
+  gramm: pf,3,sg,m.s
+ -flex: <0>.u.i.tilə
+  gramm: pf,3,sg,f.s
+ -flex: <0>.u.i.ivəx
+  gramm: pf,1,pl
+ -flex: <0>.u.i.itun
+  gramm: pf,2,pl
+ -flex: <0>.u.i.inə
+  gramm: pf,3,pl
+
+ -flex: <0>.u.i.ivinvə
+  gramm: ppf,1,sg,m.s
+ -flex: <0>.u.i.tivənvə
+  gramm: ppf,1,sg,f.s
+ -flex: <0>.u.i.ivitvə
+  gramm: ppf,2,sg,m.s
+ -flex: <0>.u.i.tivətvə
+  gramm: ppf,2,sg,f.s
+ -flex: <0>.u.i.ivə
+  gramm: ppf,3,sg,m.s
+ -flex: <0>.u.i.tivə
+  gramm: ppf,3,sg,f.s
+ -flex: <0>.u.i.ivəxvə
+  gramm: ppf,1,pl
+ -flex: <0>.u.i.itunvə
+  gramm: ppf,2,pl
+ -flex: <0>.u.i.ivə
+  gramm: ppf,3,pl
+ -flex: <0>.u.i.ə
+  gramm: ptcp.pst,sg,m
+ -flex: <0>.u.i.i
+  gramm: ptcp.pst,pl
+ -flex: <0>.u.i.tə
+  gramm: ptcp.pst,sg,f
+
+
+
+
+-paradigm: V_4c_back
+ -flex: <1>.a.ь.ьn<.>
+  gramm: prs,1,sg,m.s
+  paradigm: V_pro_sfx_back
+ -flex: <1>.a.ь.an<.>
+  gramm: prs,1,sg,f.s
+  paradigm: V_pro_sfx_back
+ -flex: <1>.a.ь.ьt<.>
+  gramm: prs,2,sg,m.s
+  paradigm: V_pro_sfx_back
+ -flex: <1>.a.ь.at<.>
+  gramm: prs,2,sg,f.s
+  paradigm: V_pro_sfx_back
+ -flex: <0>.a.ь.<.>
+  gramm: prs,3,sg,m.s
+  paradigm: V_pro_sfx_back
+ -flex: <1>.a.ь.a<.>
+  gramm: prs,3,sg,f.s
+  paradigm: V_pro_sfx_back
+ -flex: <1>.a.ь.ax<.>
+  gramm: prs,1,pl
+  paradigm: V_pro_sfx_back
+ -flex: <1>.a.ь.ьtun<.>
+  gramm: prs,2,pl
+  paradigm: V_pro_sfx_back
+ -flex: <1>.a.ь.ьj<.>
+  gramm: prs,3,pl
+  paradigm: V_pro_sfx_back
+  
+ -flex: <1>.a.ь.ьnva<.>
+  gramm: ipf,1,sg,m.s
+  paradigm: V_pro_sfx_back
+ -flex: <1>.a.ь.anva<.>
+  gramm: ipf,1,sg,f.s
+  paradigm: V_pro_sfx_back
+ -flex: <1>.a.ь.ьtva<.>
+  gramm: ipf,2,sg,m.s
+  paradigm: V_pro_sfx_back
+ -flex: <1>.a.ь.atva<.>
+  gramm: ipf,2,sg,f.s
+  paradigm: V_pro_sfx_back
+ -flex: <0>.a.ь.va<.>
+  gramm: ipf,3,sg,m.s
+  paradigm: V_pro_sfx_back
+ -flex: <1>.a.ь.ava<.>
+  gramm: ipf,3,sg,f.s
+  paradigm: V_pro_sfx_back
+ -flex: <1>.a.ь.axva<.>
+  gramm: ipf,1,pl
+  paradigm: V_pro_sfx_back
+ -flex: <1>.a.ь.ьtunva<.>
+  gramm: ipf,2,pl
+  paradigm: V_pro_sfx_back
+ -flex: <1>.a.ь.ьjva<.>
+  gramm: ipf,3,pl
+  paradigm: V_pro_sfx_back
+
+  
+ -flex: <0>.a.u.<.>vьn
+  gramm: prs2,1,sg,m.s
+  paradigm: V_pro_ifx_back
+ -flex: <0>.a.u.<.>van
+  gramm: prs2,1,sg,f.s
+  paradigm: V_pro_ifx_back
+ -flex: <0>.a.u.<.>vьt
+  gramm: prs2,2,sg,m.s
+  paradigm: V_pro_ifx_back
+ -flex: <0>.a.u.<.>vat
+  gramm: prs2,2,sg,f.s
+  paradigm: V_pro_ifx_back
+ -flex: <0>.a.u.<.>lь
+  gramm: prs2,3,sg,m.s
+  paradigm: V_pro_ifx_back
+ -flex: <0>.a.u.<.>la
+  gramm: prs2,3,sg,f.s
+  paradigm: V_pro_ifx_back
+ -flex: <0>.a.u.<.>vax
+  gramm: prs2,1,pl
+  paradigm: V_pro_ifx_back
+ -flex: <0>.a.u.<.>tun
+  gramm: prs2,2,pl
+  paradigm: V_pro_ifx_back
+ -flex: <0>.a.u.<.>na
+  gramm: prs2,3,pl
+  paradigm: V_pro_ifx_back
+
+ -flex: <0>.a.u.<.>vьnva
+  gramm: ipf2,1,sg,m.s
+  paradigm: V_pro_ifx_back
+ -flex: <0>.a.u.<.>vanva
+  gramm: ipf2,1,sg,f.s
+  paradigm: V_pro_ifx_back
+ -flex: <0>.a.u.<.>vьtva
+  gramm: ipf2,2,sg,m.s
+  paradigm: V_pro_ifx_back
+ -flex: <0>.a.u.<.>vatva
+  gramm: ipf2,2,sg,f.s
+  paradigm: V_pro_ifx_back
+ -flex: <0>.a.u.<.>va
+  gramm: ipf2,3,sg
+  paradigm: V_pro_ifx_back
+ -flex: <0>.a.u.<.>vaxva
+  gramm: ipf2,1,pl
+  paradigm: V_pro_ifx_back
+ -flex: <0>.a.u.<.>tunva
+  gramm: ipf2,2,pl
+  paradigm: V_pro_ifx_back
+ -flex: <0>.a.u.<.>va
+  gramm: ipf2,3,pl
+  paradigm: V_pro_ifx_back
+  
+ -flex: <0>.u.ь.lьj
+  gramm: pst,1,sg
+ -flex: <0>.u.ь.lux
+  gramm: pst,2,sg,m.s
+ -flex: <0>.u.ь.lax
+  gramm: pst,2,sg,f.s
+ -flex: <0>.u.ь.lь
+  gramm: pst,3,sg,m.s
+ -flex: <0>.u.ь.la
+  gramm: pst,3,sg,f.s
+ -flex: <0>.u.ь.lan
+  gramm: pst,1,pl
+ -flex: <0>.u.ь.loxun
+  gramm: pst,2,pl
+ -flex: <0>.u.ь.lun
+  gramm: pst,3,pl
+
+ -flex: <0>.u.ьj.ьvьn
+  gramm: pf,1,sg,m.s
+ -flex: <0>.u.ь.tьvan
+  gramm: pf,1,sg,f.s
+ -flex: <0>.u.ьj.ьvьt
+  gramm: pf,2,sg,m.s
+ -flex: <0>.u.ь.tьvat
+  gramm: pf,2,sg,f.s
+ -flex: <0>.u.ьj.ьlь
+  gramm: pf,3,sg,m.s
+ -flex: <0>.u.ь.tьla
+  gramm: pf,3,sg,f.s
+ -flex: <0>.u.ьj.ьvax
+  gramm: pf,1,pl
+ -flex: <0>.u.ьj.ьtun
+  gramm: pf,2,pl
+ -flex: <0>.u.ьj.ьna
+  gramm: pf,3,pl
+
+ -flex: <0>.u.ьj.ьvьnva
+  gramm: ppf,1,sg,m.s
+ -flex: <0>.u.ь.tьvanva
+  gramm: ppf,1,sg,f.s
+ -flex: <0>.u.ьj.ьvьtva
+  gramm: ppf,2,sg,m.s
+ -flex: <0>.u.ь.tьvatva
+  gramm: ppf,2,sg,f.s
+ -flex: <0>.u.ьj.ьva
+  gramm: ppf,3,sg,m.s
+ -flex: <0>.u.ь.tьva
+  gramm: ppf,3,sg,f.s
+ -flex: <0>.u.ьj.ьvaxva
+  gramm: ppf,1,pl
+ -flex: <0>.u.ьj.ьtunva
+  gramm: ppf,2,pl
+ -flex: <0>.u.ьj.ьva
+  gramm: ppf,3,pl
+ -flex: <0>.u.ьj.a
+  gramm: ptcp.pst,sg,m
+ -flex: <0>.u.ьj.ь
+  gramm: ptcp.pst,sg,m
+ -flex: <0>.u.ь.ta
+  gramm: ptcp.pst,sg,f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-paradigm: V_II_front
+ -flex: .ə..in<.>
+  gramm: prs,1,sg,m.s
+  paradigm: V_pro_sfx_front
+ -flex: .ə..ən<.>
+  gramm: prs,1,sg,f.s
+  paradigm: V_pro_sfx_front
+ -flex: .ə..it<.>
+  gramm: prs,2,sg,m.s
+  paradigm: V_pro_sfx_front
+ -flex: .ə..ət<.>
+  gramm: prs,2,sg,f.s
+  paradigm: V_pro_sfx_front
+ -flex: .ə.i.<.>
+  gramm: prs,3,sg,m.s
+  paradigm: V_pro_sfx_front
+ -flex: .ə..ə<.>
+  gramm: prs,3,sg,f.s
+  paradigm: V_pro_sfx_front
+ -flex: .ə..əx<.>
+  gramm: prs,1,pl
+  paradigm: V_pro_sfx_front
+ -flex: .ə..itun<.>
+  gramm: prs,2,pl
+  paradigm: V_pro_sfx_front
+ -flex: .ə..ij<.>
+  gramm: prs,3,pl
+  paradigm: V_pro_sfx_front
+
+ -flex: .ə..invə<.>
+  gramm: ipf,1,sg,m.s
+  paradigm: V_pro_sfx_front
+ -flex: .ə..ənvə<.>
+  gramm: ipf,1,sg,f.s
+  paradigm: V_pro_sfx_front
+ -flex: .ə..itvə<.>
+  gramm: ipf,2,sg,m.s
+  paradigm: V_pro_sfx_front
+ -flex: .ə..ətvə<.>
+  gramm: ipf,2,sg,f.s
+  paradigm: V_pro_sfx_front
+ -flex: .ə.i.və<.>
+  gramm: ipf,3,sg,m.s
+  paradigm: V_pro_sfx_front
+ -flex: .ə..əvə<.>
+  gramm: ipf,3,sg,f.s
+  paradigm: V_pro_sfx_front
+ -flex: .ə..əxvə<.>
+  gramm: ipf,1,pl
+  paradigm: V_pro_sfx_front
+ -flex: .ə..itunvə<.>
+  gramm: ipf,2,pl
+  paradigm: V_pro_sfx_front
+ -flex: .ə..ijvə<.>
+  gramm: ipf,3,pl
+  paradigm: V_pro_sfx_front
+  
+ -flex: .ə.u.<.>vin
+  gramm: prs2,1,sg,m.s
+  paradigm: V_pro_ifx_front
+ -flex: .ə.u.<.>vən
+  gramm: prs2,1,sg,f.s
+  paradigm: V_pro_ifx_front
+ -flex: .ə.u.<.>vit
+  gramm: prs2,2,sg,m.s
+  paradigm: V_pro_ifx_front
+ -flex: .ə.u.<.>vət
+  gramm: prs2,2,sg,f.s
+  paradigm: V_pro_ifx_front
+ -flex: .ə.u.<.>li
+  gramm: prs2,3,sg,m.s
+  paradigm: V_pro_ifx_front
+ -flex: .ə.u.<.>lə
+  gramm: prs2,3,sg,f.s
+  paradigm: V_pro_ifx_front
+ -flex: .ə.u.<.>vəx
+  gramm: prs2,1,pl
+  paradigm: V_pro_ifx_front
+ -flex: .ə.u.<.>tun
+  gramm: prs2,2,pl
+  paradigm: V_pro_ifx_front
+ -flex: .ə.u.<.>nə
+  gramm: prs2,3,pl
+  paradigm: V_pro_ifx_front
+
+ -flex: .ə.u.<.>vinvə
+  gramm: ipf2,1,sg,m.s
+  paradigm: V_pro_ifx_front
+ -flex: .ə.u.<.>vənvə
+  gramm: ipf2,1,sg,f.s
+  paradigm: V_pro_ifx_front
+ -flex: .ə.u.<.>vitvə
+  gramm: ipf2,2,sg,m.s
+  paradigm: V_pro_ifx_front
+ -flex: .ə.u.<.>vətvə
+  gramm: ipf2,2,sg,f.s
+  paradigm: V_pro_ifx_front
+ -flex: .ə.u.<.>və
+  gramm: ipf2,3,sg
+  paradigm: V_pro_ifx_front
+ -flex: .ə.u.<.>vəxvə
+  gramm: ipf2,1,pl
+  paradigm: V_pro_ifx_front
+ -flex: .ə.u.<.>tunvə
+  gramm: ipf2,2,pl
+  paradigm: V_pro_ifx_front
+ -flex: .ə.u.<.>və
+  gramm: ipf2,3,pl
+  paradigm: V_pro_ifx_front
+  
+ -flex: .u.i.<.>lij
+  gramm: pst,1,sg
+  paradigm: V_pro_ifx_front
+ -flex: .u.i.<.>lux
+  gramm: pst,2,sg,m.s
+  paradigm: V_pro_ifx_front
+ -flex: .u.i.<.>ləx
+  gramm: pst,2,sg,f.s
+  paradigm: V_pro_ifx_front
+ -flex: .u.i.<.>li
+  gramm: pst,3,sg,m.s
+  paradigm: V_pro_ifx_front
+ -flex: .u.i.<.>lə
+  gramm: pst,3,sg,f.s
+  paradigm: V_pro_ifx_front
+ -flex: .u.i.<.>lən
+  gramm: pst,1,pl
+  paradigm: V_pro_ifx_front
+ -flex: .u.i.<.>loxun
+  gramm: pst,2,pl
+  paradigm: V_pro_ifx_front
+ -flex: .u.i.<.>lun
+  gramm: pst,3,pl
+  paradigm: V_pro_ifx_front
+
+ -flex: .u.i.ivin
+  gramm: pf,1,sg,m.s
+ -flex: .u.i.tivən
+  gramm: pf,1,sg,f.s
+ -flex: .u.i.ivit
+  gramm: pf,2,sg,m.s
+ -flex: .u.i.tivət
+  gramm: pf,2,sg,f.s
+ -flex: .u.i.ili
+  gramm: pf,3,sg,m.s
+ -flex: .u.i.tilə
+  gramm: pf,3,sg,f.s
+ -flex: .u.i.ivəx
+  gramm: pf,1,pl
+ -flex: .u.i.itun
+  gramm: pf,2,pl
+ -flex: .u.i.inə
+  gramm: pf,3,pl
+
+ -flex: .u.i.ivinvə
+  gramm: ppf,1,sg,m.s
+ -flex: .u.i.tivənvə
+  gramm: ppf,1,sg,f.s
+ -flex: .u.i.ivitvə
+  gramm: ppf,2,sg,m.s
+ -flex: .u.i.tivətvə
+  gramm: ppf,2,sg,f.s
+ -flex: .u.i.ivə
+  gramm: ppf,3,sg,m.s
+ -flex: .u.i.tivə
+  gramm: ppf,3,sg,f.s
+ -flex: .u.i.ivəxvə
+  gramm: ppf,1,pl
+ -flex: .u.i.itunvə
+  gramm: ppf,2,pl
+ -flex: .u.i.ivə
+  gramm: ppf,3,pl
+ -flex: .u.i.ə
+  gramm: ptcp.pst,sg,m
+ -flex: .u.i.i
+  gramm: ptcp.pst,pl
+ -flex: .u.i.tə
+  gramm: ptcp.pst,sg,f
+
+
+
+
+-paradigm: V_II_back
+ -flex: .a..ьn<.>
+  gramm: prs,1,sg,m.s
+  paradigm: V_pro_sfx_back
+ -flex: .a..an<.>
+  gramm: prs,1,sg,f.s
+  paradigm: V_pro_sfx_back
+ -flex: .a..ьt<.>
+  gramm: prs,2,sg,m.s
+  paradigm: V_pro_sfx_back
+ -flex: .a..at<.>
+  gramm: prs,2,sg,f.s
+  paradigm: V_pro_sfx_back
+ -flex: .a.ь.<.>
+  gramm: prs,3,sg,m.s
+  paradigm: V_pro_sfx_back
+ -flex: .a..a<.>
+  gramm: prs,3,sg,f.s
+  paradigm: V_pro_sfx_back
+ -flex: .a..ax<.>
+  gramm: prs,1,pl
+  paradigm: V_pro_sfx_back
+ -flex: .a..ьtun<.>
+  gramm: prs,2,pl
+  paradigm: V_pro_sfx_back
+ -flex: .a..ьj<.>
+  gramm: prs,3,pl
+  paradigm: V_pro_sfx_back
+  
+ -flex: .a..ьnva<.>
+  gramm: ipf,1,sg,m.s
+  paradigm: V_pro_sfx_back
+ -flex: .a..anva<.>
+  gramm: ipf,1,sg,f.s
+  paradigm: V_pro_sfx_back
+ -flex: .a..ьtva<.>
+  gramm: ipf,2,sg,m.s
+  paradigm: V_pro_sfx_back
+ -flex: .a..atva<.>
+  gramm: ipf,2,sg,f.s
+  paradigm: V_pro_sfx_back
+ -flex: .a.ь.va<.>
+  gramm: ipf,3,sg,m.s
+  paradigm: V_pro_sfx_back
+ -flex: .a..ava<.>
+  gramm: ipf,3,sg,f.s
+  paradigm: V_pro_sfx_back
+ -flex: .a..axva<.>
+  gramm: ipf,1,pl
+  paradigm: V_pro_sfx_back
+ -flex: .a..ьtunva<.>
+  gramm: ipf,2,pl
+  paradigm: V_pro_sfx_back
+ -flex: .a..ьjva<.>
+  gramm: ipf,3,pl
+  paradigm: V_pro_sfx_back
+
+  
+ -flex: .a.u.<.>vьn
+  gramm: prs2,1,sg,m.s
+  paradigm: V_pro_ifx_back
+ -flex: .a.u.<.>van
+  gramm: prs2,1,sg,f.s
+  paradigm: V_pro_ifx_back
+ -flex: .a.u.<.>vьt
+  gramm: prs2,2,sg,m.s
+  paradigm: V_pro_ifx_back
+ -flex: .a.u.<.>vat
+  gramm: prs2,2,sg,f.s
+  paradigm: V_pro_ifx_back
+ -flex: .a.u.<.>lь
+  gramm: prs2,3,sg,m.s
+  paradigm: V_pro_ifx_back
+ -flex: .a.u.<.>la
+  gramm: prs2,3,sg,f.s
+  paradigm: V_pro_ifx_back
+ -flex: .a.u.<.>vax
+  gramm: prs2,1,pl
+  paradigm: V_pro_ifx_back
+ -flex: .a.u.<.>tun
+  gramm: prs2,2,pl
+  paradigm: V_pro_ifx_back
+ -flex: .a.u.<.>na
+  gramm: prs2,3,pl
+  paradigm: V_pro_ifx_back
+
+ -flex: .a.u.<.>vьnva
+  gramm: ipf2,1,sg,m.s
+  paradigm: V_pro_ifx_back
+ -flex: .a.u.<.>vanva
+  gramm: ipf2,1,sg,f.s
+  paradigm: V_pro_ifx_back
+ -flex: .a.u.<.>vьtva
+  gramm: ipf2,2,sg,m.s
+  paradigm: V_pro_ifx_back
+ -flex: .a.u.<.>vatva
+  gramm: ipf2,2,sg,f.s
+  paradigm: V_pro_ifx_back
+ -flex: .a.u.<.>va
+  gramm: ipf2,3,sg
+  paradigm: V_pro_ifx_back
+ -flex: .a.u.<.>vaxva
+  gramm: ipf2,1,pl
+  paradigm: V_pro_ifx_back
+ -flex: .a.u.<.>tunva
+  gramm: ipf2,2,pl
+  paradigm: V_pro_ifx_back
+ -flex: .a.u.<.>va
+  gramm: ipf2,3,pl
+  paradigm: V_pro_ifx_back
+  
+ -flex: .u.ь.lьj
+  gramm: pst,1,sg
+ -flex: .u.ь.lux
+  gramm: pst,2,sg,m.s
+ -flex: .u.ь.lax
+  gramm: pst,2,sg,f.s
+ -flex: .u.ь.lь
+  gramm: pst,3,sg,m.s
+ -flex: .u.ь.la
+  gramm: pst,3,sg,f.s
+ -flex: .u.ь.lan
+  gramm: pst,1,pl
+ -flex: .u.ь.loxun
+  gramm: pst,2,pl
+ -flex: .u.ь.lun
+  gramm: pst,3,pl
+
+ -flex: .u.ь.ьvьn
+  gramm: pf,1,sg,m.s
+ -flex: .u.ь.tьvan
+  gramm: pf,1,sg,f.s
+ -flex: .u.ь.ьvьt
+  gramm: pf,2,sg,m.s
+ -flex: .u.ь.tьvat
+  gramm: pf,2,sg,f.s
+ -flex: .u.ь.ьlь
+  gramm: pf,3,sg,m.s
+ -flex: .u.ь.tьla
+  gramm: pf,3,sg,f.s
+ -flex: .u.ь.ьvax
+  gramm: pf,1,pl
+ -flex: .u.ь.ьtun
+  gramm: pf,2,pl
+ -flex: .u.ь.ьna
+  gramm: pf,3,pl
+
+ -flex: .u.ь.ьvьnva
+  gramm: ppf,1,sg,m.s
+ -flex: .u.ь.tьvanva
+  gramm: ppf,1,sg,f.s
+ -flex: .u.ь.ьvьtva
+  gramm: ppf,2,sg,m.s
+ -flex: .u.ь.tьvatva
+  gramm: ppf,2,sg,f.s
+ -flex: .u.ь.ьva
+  gramm: ppf,3,sg,m.s
+ -flex: .u.ь.tьva
+  gramm: ppf,3,sg,f.s
+ -flex: .u.ь.ьvaxva
+  gramm: ppf,1,pl
+ -flex: .u.ь.ьtunva
+  gramm: ppf,2,pl
+ -flex: .u.ь.ьva
+  gramm: ppf,3,pl
+ -flex: .u.ь.a
+  gramm: ptcp.pst,sg,m
+ -flex: .u.ь.ь
+  gramm: ptcp.pst,sg,m
+ -flex: .u.ь.ta
+  gramm: ptcp.pst,sg,f
