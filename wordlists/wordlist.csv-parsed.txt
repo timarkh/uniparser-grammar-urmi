@@ -1,9 +1,16 @@
 <w><ana lex="d" gr="CONJ" parts="d" gloss="STEM" trans_en="" trans_ru="even if"></ana><ana lex="d" gr="CONJ" parts="d" gloss="STEM" trans_en="" trans_ru="что"></ana><ana lex="d" gr="PREP" parts="d" gloss="STEM" trans_en="" trans_ru="предлог родительного падежа"></ana><ana lex="d" gr="PRON" parts="d" gloss="STEM" trans_en="" trans_ru="относительное местоимение"></ana>d</w>
 <w><ana lex="u" gr="CONJ" parts="u" gloss="STEM" trans_en="" trans_ru="и"></ana>u</w>
+<w><ana lex="в" gr="PREP" parts="в" gloss="STEM" trans_en="" trans_ru="в"></ana>в</w>
 <w><ana lex="min/minn/m" gr="PREP" parts="min" gloss="STEM" trans_en="" trans_ru="от, из, сквозь, с"></ana>min</w>
 <w><ana lex="go/gu/gəv" gr="PREP" parts="go" gloss="STEM" trans_en="" trans_ru="in, into, в, по"></ana>go</w>
-<w><ana lex="lə" gr="PART" parts="lə" gloss="STEM" trans_en="" trans_ru="нет, не"></ana>lə</w>
+<w><ana lex="l" gr="PREP" parts="l" gloss="STEM" trans_en="" trans_ru="к, на"></ana>l</w>
+<w><ana lex="xə" gr="NUM,m" parts="xə" gloss="STEM" trans_en="" trans_ru="один; неопределенный артикль"></ana>xə</w>
+<w><ana lex="l" gr="PREP" parts="lə" gloss="STEM" trans_en="" trans_ru="к, на"></ana><ana lex="lə" gr="PART" parts="lə" gloss="STEM" trans_en="" trans_ru="нет, не"></ana>lə</w>
+<w><ana lex="av" gr="PRON" parts="av" gloss="STEM" trans_en="" trans_ru="тот, он"></ana>av</w>
+<w><ana lex="qə" gr="PREP" parts="qə" gloss="STEM" trans_en="" trans_ru="к, для; предлог прямого дополнения"></ana>qə</w>
 <w><ana lex="ki/k" gr="PART" parts="ki" gloss="STEM" trans_en="" trans_ru="индикативная хабитуальная частица"></ana>ki</w>
+<w><ana lex="al" gr="PREP" parts="al" gloss="STEM" trans_en="" trans_ru="на"></ana>al</w>
+<w><ana lex="inə" gr="CONJ" parts="inə" gloss="STEM" trans_en="" trans_ru="но"></ana>inə</w>
 <w><ana lex="kəd" gr="PART" parts="kəd" gloss="STEM" trans_en="" trans_ru="вводит деепричастный оборот"></ana>kəd</w>
 <w><ana lex="ənə" gr="PRON" parts="ənə" gloss="STEM" trans_en="" trans_ru="я"></ana>ənə</w>
 <w><ana lex="вit" gr="PART" parts="вit" gloss="STEM" trans_en="" trans_ru="частица будущего времени"></ana>вit</w>
@@ -71,6 +78,7 @@
 <w><ana lex="ələhə/ələ" gr="N,m,sg,nonposs" parts="ələhə" gloss="STEM" trans_en="" trans_ru="бог"></ana>ələhə</w>
 <w><ana lex="mijə/mijjə" gr="N,pl_tant,pl,nonposs" parts="mijə" gloss="STEM" trans_en="" trans_ru="вода"></ana>mijə</w>
 <w><ana lex="çəldi" gr="ADV" parts="çəldi" gloss="STEM" trans_en="" trans_ru="рано; скоро, скорей; слишком легко"></ana>çəldi</w>
+<w><ana lex="xə" gr="NUM,f" parts="xdə" gloss="STEM" trans_en="" trans_ru="один; неопределенный артикль"></ana>xdə</w>
 <w><ana lex="mud/mudij/mu" gr="PRON" parts="mud" gloss="STEM" trans_en="" trans_ru="что"></ana>mud</w>
 <w><ana lex="şitə" gr="N,pl,nonposs" parts="şinni" gloss="STEM" trans_en="" trans_ru="год"></ana>şinni</w>
 <w><ana lex="rişə" gr="N,sg,nonposs" parts="rişə" gloss="STEM" trans_en="" trans_ru="голова, конец (рядов), носок (обуви"></ana>rişə</w>
@@ -174,7 +182,7 @@
 <w><ana lex="mərzə" gr="N,sg,nonposs" parts="mərzə" gloss="STEM" trans_en="" trans_ru="край, конец, берег"></ana>mərzə</w>
 <w><ana lex="diввə" gr="N,f,sg,nonposs" parts="diввə" gloss="STEM" trans_en="" trans_ru="медведь"></ana>diввə</w>
 <w><ana lex="səmə" gr="N,sg,nonposs" parts="səmə" gloss="STEM" trans_en="" trans_ru="часть"></ana>səmə</w>
-<w><ana lex="dav" gr="N,sg,nonposs" parts="dav" gloss="STEM" trans_en="" trans_ru="Kampf, Streit, бой"></ana>dav</w>
+<w><ana lex="av" gr="PRON" parts="dav" gloss="STEM" trans_en="" trans_ru="тот, он"></ana><ana lex="dav" gr="N,sg,nonposs" parts="dav" gloss="STEM" trans_en="" trans_ru="Kampf, Streit, бой"></ana>dav</w>
 <w><ana lex="qurdəjə" gr="N,pl,nonposs" parts="qurdəji" gloss="STEM" trans_en="" trans_ru="курд"></ana>qurdəji</w>
 <w><ana lex="ə" gr="NUM" parts="ə" gloss="STEM" trans_en="" trans_ru="пять"></ana>ə</w>
 <w><ana lex="sitvə" gr="N,sg,nonposs" parts="sitvə" gloss="STEM" trans_en="" trans_ru="зима"></ana>sitvə</w>
@@ -264,6 +272,7 @@
 <w><ana lex="ktəvə/ktəvvə" gr="N,m,pl,nonposs" parts="ktəvi" gloss="STEM" trans_en="" trans_ru="письмо, записка"></ana>ktəvi</w>
 <w><ana lex="xvara" gr="ADJ,pl" parts="xvarь" gloss="STEM" trans_en="" trans_ru="белый"></ana>xvarь</w>
 <w><ana lex="tjəvə" gr="V,pst,3,sg,m.s,non_obj" parts="t<i>v-li" gloss="<>STEM" trans_en="" trans_ru="садиться, сидеть, лежать (о снеге"></ana>tivli</w>
+<w><ana lex="xə" gr="NUM,m" parts="xə" gloss="STEM" trans_en="" trans_ru="один; неопределенный артикль"></ana>xə-</w>
 <w><ana lex="seda/sedə" gr="N,sg,nonposs" parts="seda" gloss="STEM" trans_en="" trans_ru="охота, рыбная ловля"></ana><ana lex="sjada" gr="V,prs,3,sg,f.s,non_obj" parts="s<e>d-a" gloss="<>STEM" trans_en="" trans_ru="красться, прицеливаться"></ana>seda</w>
 <w><ana lex="irвə" gr="N,m,pl,nonposs" parts="irвi" gloss="STEM" trans_en="" trans_ru="1) овца"></ana>irвi</w>
 <w><ana lex="dipnə" gr="N,f,sg,nonposs" parts="dipnə" gloss="STEM" trans_en="" trans_ru="Seite, сторона, бок"></ana>dipnə</w>
@@ -272,6 +281,7 @@
 <w><ana lex="pjəşə" gr="V,pst,3,pl,non_obj" parts="p<i>ş-lun" gloss="<>STEM" trans_en="" trans_ru="оставаться; вспомогательный глагол при пассиве"></ana>pişlun</w>
 <w><ana lex="plaţa" gr="V,pst,3,sg,f.s" parts="pl<ь>ţ-la" gloss="<>STEM" trans_en="" trans_ru="выходить, выступить, оказаться"></ana>plьţla</w>
 <w><ana lex="xətə" gr="ADJ,m,sg" parts="xətə" gloss="STEM" trans_en="" trans_ru="новый"></ana><ana lex="xətə" gr="N,sg,nonposs" parts="xətə" gloss="STEM" trans_en="" trans_ru="сестра"></ana>xətə</w>
+<w><ana lex="в" gr="PREP" parts="вi" gloss="STEM" trans_en="" trans_ru="в"></ana>вi</w>
 <w><ana lex="garвja" gr="N,m,sg,nonposs" parts="garвja" gloss="STEM" trans_en="" trans_ru="север"></ana>garвja</w>
 <w><ana lex="smuqə" gr="ADJ,pl" parts="smuqi" gloss="STEM" trans_en="" trans_ru="красный"></ana>smuqi</w>
 <w><ana lex="kumə" gr="ADJ,m,sg" parts="kumə" gloss="STEM" trans_en="" trans_ru="черный"></ana>kumə</w>
@@ -413,6 +423,7 @@
 <w><ana lex="pikkir" gr="N,sg,nonposs" parts="pikkir" gloss="STEM" trans_en="" trans_ru="1) мечтательность, задумчивость"></ana>pikkir</w>
 <w><ana lex="xalva" gr="N,sg,nonposs" parts="xalva" gloss="STEM" trans_en="" trans_ru="молоко"></ana><ana lex="xlava" gr="V,prs,3,sg,f.s,non_obj" parts="x<a>lv-a" gloss="<>STEM" trans_en="" trans_ru="доить"></ana>xalva</w>
 <w><ana lex="çanavar" gr="N,m,sg,nonposs" parts="çanavar" gloss="STEM" trans_en="" trans_ru="зверек, зверь"></ana>çanavar</w>
+<w><ana lex="xə" gr="NUM,m" parts="xə" gloss="STEM" trans_en="" trans_ru="один; неопределенный артикль"></ana>-xə</w>
 <w><ana lex="kinşə" gr="N,m,sg,nonposs" parts="kinşə" gloss="STEM" trans_en="" trans_ru="толпа"></ana>kinşə</w>
 <w><ana lex="pəgə" gr="N,sg,nonposs" parts="pəgə" gloss="STEM" trans_en="" trans_ru="конюшня, стойло"></ana>pəgə</w>
 <w><ana lex="qullux" gr="N,sg,nonposs" parts="qullux" gloss="STEM" trans_en="" trans_ru="служба; служить"></ana>qullux</w>
@@ -829,6 +840,7 @@
 <w><ana lex="əmurə/amura" gr="ADJ,pl" parts="əmuri" gloss="STEM" trans_en="" trans_ru="густой, глубокий"></ana>əmuri</w>
 <w><ana lex="вajьs" gr="N,f,sg,nonposs" parts="вajьs" gloss="STEM" trans_en="" trans_ru="причина"></ana>вajьs</w>
 <w><ana lex="вehəd" gr="ADV" parts="вehəd" gloss="STEM" trans_en="" trans_ru="бесконечно"></ana>вehəd</w>
+<w><ana lex="в" gr="PREP" parts="в" gloss="STEM" trans_en="" trans_ru="в"></ana>-в</w>
 <w><ana lex="həqutə" gr="N,f,sg,nonposs" parts="həqutə" gloss="STEM" trans_en="" trans_ru="право, управа"></ana>həqutə</w>
 <w><ana lex="kirşə" gr="N,f,pl,nonposs" parts="kirşi" gloss="STEM" trans_en="" trans_ru="сани"></ana>kirşi</w>
 <w><ana lex="kletə" gr="N,f,sg,nonposs" parts="kletə" gloss="STEM" trans_en="" trans_ru="остановка"></ana>kletə</w>
@@ -1479,7 +1491,7 @@
 <w><ana lex="kirjutə" gr="N,f,sg,nonposs" parts="kirjutə" gloss="STEM" trans_en="" trans_ru="кратость"></ana>kirjutə</w>
 <w><ana lex="koxəjə" gr="N,m,sg,nonposs" parts="koxəjə" gloss="STEM" trans_en="" trans_ru="pl"></ana>koxəjə</w>
 <w><ana lex="laha" gr="N,sg,nonposs" parts="laha" gloss="STEM" trans_en="" trans_ru="пламя"></ana>laha</w>
-<w><ana lex="lə" gr="PART" parts="lə" gloss="STEM" trans_en="" trans_ru="нет, не"></ana>lə-</w>
+<w><ana lex="l" gr="PREP" parts="lə" gloss="STEM" trans_en="" trans_ru="к, на"></ana><ana lex="lə" gr="PART" parts="lə" gloss="STEM" trans_en="" trans_ru="нет, не"></ana>lə-</w>
 <w><ana lex="maja" gr="N,sg,nonposs" parts="maja" gloss="STEM" trans_en="" trans_ru="кишки, потроха"></ana><ana lex="maja" gr="N,sg,nonposs" parts="maja" gloss="STEM" trans_en="" trans_ru="средства, капитал"></ana>maja</w>
 <w><ana lex="maşьna" gr="N,pl,nonposs" parts="maşьnь" gloss="STEM" trans_en="" trans_ru="машина"></ana>maşьnь</w>
 <w><ana lex="mţaja" gr="V,prs,3,pl,non_obj" parts="m<a>ţ-ьj" gloss="<>STEM" trans_en="" trans_ru="догонять, достигать, доехать, доходить до; созреть"></ana>maţьj</w>
@@ -1950,6 +1962,7 @@
 <w><ana lex="вaqurь" gr="V,prs,3,sg,m.s,non_obj" parts="в<a>q<ь>r" gloss="<><>STEM" trans_en="" trans_ru="спрашивать; допрашивать"></ana>вaqьr</w>
 <w><ana lex="вarвurь" gr="V,ipf2,3,pl,non_obj" parts="в<a>rв<u>r-ь-va" gloss="<><>STEM" trans_en="" trans_ru="1) рычaть (лев"></ana><ana lex="вarвurь" gr="V,ipf2,3,sg,non_obj" parts="в<a>rв<u>r-ь-va" gloss="<><>STEM" trans_en="" trans_ru="1) рычaть (лев"></ana>вarвurьva</w>
 <w><ana lex="вasuruta" gr="N,f,sg,nonposs" parts="вasuruta" gloss="STEM" trans_en="" trans_ru="невыгода, ущербность"></ana>вasuruta</w>
+<w><ana lex="в" gr="PREP" parts="вi" gloss="STEM" trans_en="" trans_ru="в"></ana>вi-</w>
 <w><ana lex="grəşə" gr="V,ipf2,3,pl,3.o,pl.o" parts="вi-gr<ə>ş-e-və" gloss="<>STEM" trans_en="" trans_ru="тянуть; втягивать; курить; таскать, тащить; обнажать (шпагу); рисовать, расписывать; завладеть"></ana><ana lex="grəşə" gr="V,ipf2,3,sg,3.o,pl.o" parts="вi-gr<ə>ş-e-və" gloss="<>STEM" trans_en="" trans_ru="тянуть; втягивать; курить; таскать, тащить; обнажать (шпагу); рисовать, расписывать; завладеть"></ana>вigrəşevə</w>
 <w><ana lex="prəxə" gr="V,ipf2,3,pl,non_obj" parts="вi-pr<ə>x-i-və" gloss="<>STEM" trans_en="" trans_ru="лететь; протирать"></ana><ana lex="prəxə" gr="V,ipf2,3,sg,non_obj" parts="вi-pr<ə>x-i-və" gloss="<>STEM" trans_en="" trans_ru="лететь; протирать"></ana>вiprəxivə</w>
 <w><ana lex="qjəmə" gr="V,ipf2,3,pl,non_obj" parts="вi-qj<ə>m-i-və" gloss="<>STEM" trans_en="" trans_ru="вставать, возникать"></ana><ana lex="qjəmə" gr="V,ipf2,3,sg,non_obj" parts="вi-qj<ə>m-i-və" gloss="<>STEM" trans_en="" trans_ru="вставать, возникать"></ana>вiqjəmivə</w>
@@ -2659,6 +2672,7 @@
 <w><ana lex="ƶxəştə" gr="N,sg,nonposs" parts="ƶxəştə" gloss="STEM" trans_en="" trans_ru="волнение, возмущение"></ana>ƶxəştə</w>
 <w><ana lex="əmuqə" gr="ADJ,m,sg" parts="əmuqə" gloss="STEM" trans_en="" trans_ru="deep, глубокий"></ana>əmuqə</w>
 <w><ana lex="hətxə/ətxə/hədxə" gr="ADV" parts="ətxə" gloss="STEM" trans_en="" trans_ru="such, so, just so, такой, так, итак"></ana>ətxə</w>
+<w><ana lex="в" gr="PREP" parts="в" gloss="STEM" trans_en="" trans_ru="в"></ana>в-</w>
 <w><ana lex="вajja" gr="V,prs,2,sg,f.s,non_obj" parts="в<a>jj-at" gloss="<>STEM" trans_en="" trans_ru="хотеть; любить, полюбить"></ana>вajjat</w>
 <w><ana lex="вajja" gr="V,ipf,3,pl,non_obj" parts="в<a>j-ьjva" gloss="<>STEM" trans_en="" trans_ru="хотеть; любить, полюбить"></ana>вajьjva</w>
 <w><ana lex="вaqurь" gr="V,ipf,3,sg,m.s,non_obj" parts="в<a>q<ь>r-va" gloss="<><>STEM" trans_en="" trans_ru="спрашивать; допрашивать"></ana>вaqьrva</w>
@@ -2676,7 +2690,7 @@
 <w><ana lex="xvaţa" gr="V,ipf2,3,pl" parts="вь-xv<a>ţ-ьva" gloss="<>STEM" trans_en="" trans_ru="смешиваться с; вмешиваться, смущаться"></ana><ana lex="xvaţa" gr="V,ipf2,3,sg" parts="вь-xv<a>ţ-ьva" gloss="<>STEM" trans_en="" trans_ru="смешиваться с; вмешиваться, смущаться"></ana>вьxvaţьva</w>
 <w><ana lex="ьçaza" gr="N,sg,nonposs" parts="ьçaza" gloss="STEM" trans_en="" trans_ru="разрешение"></ana>ьçaza</w>
 <w><ana lex="ijdə" gr="N,f,sg,nonposs" parts="ijdə" gloss="STEM" trans_en="" trans_ru="рука"></ana>-ijdə</w>
-<w><ana lex="lə" gr="PART" parts="lə" gloss="STEM" trans_en="" trans_ru="нет, не"></ana>-lə</w>
+<w><ana lex="l" gr="PREP" parts="lə" gloss="STEM" trans_en="" trans_ru="к, на"></ana><ana lex="lə" gr="PART" parts="lə" gloss="STEM" trans_en="" trans_ru="нет, не"></ana>-lə</w>
 <w><ana lex="u" gr="CONJ" parts="u" gloss="STEM" trans_en="" trans_ru="и"></ana>-u</w>
 <w><ana lex="ajna" gr="N,f,pl,nonposs" parts="ajnatь" gloss="STEM" trans_en="" trans_ru="источник (воды"></ana>ajnatь</w>
 <w><ana lex="aldьjana" gr="N,m,sg,nonposs" parts="aldьjana" gloss="STEM" trans_en="" trans_ru="обманщик"></ana>aldьjana</w>
@@ -2950,6 +2964,7 @@
 <w><ana lex="qoməndir" gr="N,sg,nonposs" parts="qoməndir" gloss="STEM" trans_en="" trans_ru="командир"></ana>qoməndir</w>
 <w><ana lex="qoşunəjə" gr="ADJ,pl" parts="qoşunəji" gloss="STEM" trans_en="" trans_ru="армейский, военный"></ana>qoşunəji</w>
 <w><ana lex="qəluji" gr="V,ptcp.pst,sg,m" parts="q<u>lj-ə" gloss="<>STEM" trans_en="" trans_ru="жарить"></ana>quljə</w>
+<w><ana lex="qə" gr="PREP" parts="qə" gloss="STEM" trans_en="" trans_ru="к, для; предлог прямого дополнения"></ana>qə-</w>
 <w><ana lex="qədir" gr="ADV" parts="qədir" gloss="STEM" trans_en="" trans_ru="отчасти"></ana>qədir</w>
 <w><ana lex="qəmə-qəm" gr="PREP" parts="qəmə-qəm" gloss="STEM" trans_en="" trans_ru="перед"></ana>qəmə-qəm</w>
 <w><ana lex="qənki/вit-qənki" gr="PL" parts="qənki" gloss="STEM" trans_en="" trans_ru="алтарь"></ana>qənki</w>
@@ -3310,10 +3325,12 @@
 <w><ana lex="şmaja" gr="V,ipf2,3,pl,3.o,pl.o" parts="вь-şm<a>j-e-va" gloss="<>STEM" trans_en="" trans_ru="слышать"></ana><ana lex="şmaja" gr="V,ipf2,3,sg,3.o,pl.o" parts="вь-şm<a>j-e-va" gloss="<>STEM" trans_en="" trans_ru="слышать"></ana>вьşmajeva</w>
 <w><ana lex="ţвaja" gr="V,ipf2,3,pl,non_obj" parts="вь-ţв<a>j-ь-va" gloss="<>STEM" trans_en="" trans_ru="обрушиваться; погружаться"></ana><ana lex="ţвaja" gr="V,ipf2,3,sg,non_obj" parts="вь-ţв<a>j-ь-va" gloss="<>STEM" trans_en="" trans_ru="обрушиваться; погружаться"></ana>вьţвajьva</w>
 <w><ana lex="ьzla" gr="N,sg,nonposs" parts="ьzla" gloss="STEM" trans_en="" trans_ru="пряжа"></ana>ьzla</w>
+<w><ana lex="al" gr="PREP" parts="al" gloss="STEM" trans_en="" trans_ru="на"></ana>-al</w>
 <w><ana lex="gənə" gr="N,sg,nonposs" parts="gənə" gloss="STEM" trans_en="" trans_ru="лицо (персона), душа"></ana>-gənə</w>
 <w><ana lex="jəlzu" gr="N,sg,nonposs" parts="jəlzu" gloss="STEM" trans_en="" trans_ru="спешка"></ana>-jəlzu</w>
 <w><ana lex="kis" gr="PREP" parts="kis" gloss="STEM" trans_en="" trans_ru="у, около"></ana>-kis</w>
 <w><ana lex="pumə/pumm" gr="N,sg,p.3,p.sg,p.f" parts="pumm-ə" gloss="STEM" trans_en="" trans_ru="рот"></ana>-pummə</w>
+<w><ana lex="qə" gr="PREP" parts="qə" gloss="STEM" trans_en="" trans_ru="к, для; предлог прямого дополнения"></ana>-qə</w>
 <w><ana lex="ahval" gr="N,f,sg,p.1,p.sg" parts="ahval-ьj" gloss="STEM" trans_en="" trans_ru="состояние (физическое, эмоциональное"></ana>ahvalьj</w>
 <w><ana lex="açazta" gr="N,f,pl,nonposs" parts="aççazjatь" gloss="STEM" trans_en="" trans_ru="мучение"></ana>aççazjatь</w>
 <w><ana lex="caluj" gr="N,f,sg,nonposs" parts="caluj" gloss="STEM" trans_en="" trans_ru="куст, кустарник"></ana>caluj</w>
@@ -3910,6 +3927,7 @@
 <w><ana lex="ьqra" gr="N,pl,nonposs" parts="ьqrь" gloss="STEM" trans_en="" trans_ru="корень"></ana>ьqrь</w>
 <w><ana lex="сəmcə" gr="N,m,pl,nonposs" parts="cəmci" gloss="STEM" trans_en="" trans_ru="ложка"></ana>-cəmci</w>
 <w><ana lex="həl/hal" gr="PREP" parts="hal" gloss="STEM" trans_en="" trans_ru="до"></ana>-hal</w>
+<w><ana lex="l" gr="PREP" parts="l" gloss="STEM" trans_en="" trans_ru="к, на"></ana>-l</w>
 <w><ana lex="mekə" gr="ADV" parts="mekə" gloss="STEM" trans_en="" trans_ru="откуда"></ana>-mekə</w>
 <w><ana lex="mud/mudij/mu" gr="PRON" parts="mudij" gloss="STEM" trans_en="" trans_ru="что"></ana>-mudij</w>
 <w><ana lex="qujə" gr="ADJ,m,sg" parts="qujə" gloss="STEM" trans_en="" trans_ru="сильный, твердый, тугой"></ana><ana lex="qujə" gr="ADV" parts="qujə" gloss="STEM" trans_en="" trans_ru="сильно, громко"></ana>-qujə</w>
@@ -4332,6 +4350,7 @@
 <w><ana lex="xəjə" gr="ADJ,f,sg" parts="xetə" gloss="STEM" trans_en="" trans_ru="живой, бойкий"></ana>-xetə</w>
 <w><ana lex="aheta" gr="N,f,sg,nonposs" parts="aheta" gloss="STEM" trans_en="" trans_ru="госпожа"></ana>aheta</w>
 <w><ana lex="ahval" gr="N,f,sg,p.3,p.pl" parts="ahval-e" gloss="STEM" trans_en="" trans_ru="состояние (физическое, эмоциональное"></ana>ahvale</w>
+<w><ana lex="av" gr="PRON" parts="av" gloss="STEM" trans_en="" trans_ru="тот, он"></ana>av-</w>
 <w><ana lex="avaj" gr="N,f,pl,nonposs" parts="avajь" gloss="STEM" trans_en="" trans_ru="жилье"></ana>avajь</w>
 <w><ana lex="aƶdahaja II" gr="N,pl,nonposs" parts="aƶdahajь" gloss="STEM" trans_en="" trans_ru="чудовище, громадина"></ana>aƶdahajь</w>
 <w><ana lex="calluşь" gr="V,prs2,3,pl,non_obj" parts="c<a>ll<u>ş-ь-na" gloss="<><>STEM" trans_en="" trans_ru="стараться"></ana>calluşьna</w>
@@ -4569,7 +4588,7 @@
 <w><ana lex="qnəjə" gr="V,prs,1,sg,m.s,non_obj" parts="q<ə>n-in" gloss="<>STEM" trans_en="" trans_ru="приобретать"></ana>qənin</w>
 <w><ana lex="qəppəz" gr="N,m,pl,nonposs" parts="qəppəzi" gloss="STEM" trans_en="" trans_ru="клетка"></ana>qəppəzi</w>
 <w><ana lex="qəriвəjə/qərijвəjə" gr="ADJ,f,sg" parts="qərijвetə" gloss="STEM" trans_en="" trans_ru="странный; фантастический"></ana>qərijвetə</w>
-<w><ana lex="qət" gr="PREP" parts="qət" gloss="STEM" trans_en="" trans_ru="к, для; предлог прямого дополнения"></ana>qət</w>
+<w><ana lex="qə" gr="PREP" parts="qət" gloss="STEM" trans_en="" trans_ru="к, для; предлог прямого дополнения"></ana>qət</w>
 <w><ana lex="qəzzəв" gr="N,sg,nonposs" parts="qəzzəв" gloss="STEM" trans_en="" trans_ru="гнев"></ana>qəzzəв</w>
 <w><ana lex="qəƶduri" gr="V,prs2,3,sg,m.s,non_obj" parts="q<ə>ƶd<u>r-i-li" gloss="<><>STEM" trans_en="" trans_ru="посметь, сметь"></ana>qəƶdurili</w>
 <w><ana lex="qəвuli" gr="V,prs,3,sg,m.s,3.o,m.o,sg.o" parts="q<ə>в<i>l-li" gloss="<><>STEM" trans_en="" trans_ru="получать, принимать; признавать"></ana><ana lex="qвələ" gr="V,prs,3,sg,m.s,3.o,m.o,sg.o" parts="q<ə>в<i>l-li" gloss="<><>STEM" trans_en="" trans_ru="получать, принимать"></ana>qəвilli</w>
@@ -6732,6 +6751,7 @@
 <w><ana lex="ţвaja" gr="V,prs2,3,pl,non_obj" parts="вь-ţв<a>j-ь-na" gloss="<>STEM" trans_en="" trans_ru="обрушиваться; погружаться"></ana>вьţвajьna</w>
 <w><ana lex="вlaja" gr="V,ipf2,3,pl,non_obj" parts="вь-вl<a>j-ь-va" gloss="<>STEM" trans_en="" trans_ru="глотать"></ana><ana lex="вlaja" gr="V,ipf2,3,sg,non_obj" parts="вь-вl<a>j-ь-va" gloss="<>STEM" trans_en="" trans_ru="глотать"></ana>вьвlajьva</w>
 <w><ana lex="ьnana" gr="N,sg,nonposs" parts="ьnana" gloss="STEM" trans_en="" trans_ru="туча"></ana>ьnana</w>
+<w><ana lex="av" gr="PRON" parts="av" gloss="STEM" trans_en="" trans_ru="тот, он"></ana>-av</w>
 <w><ana lex="avara" gr="N,m,sg,nonposs" parts="avara" gloss="STEM" trans_en="" trans_ru="бродяга"></ana>-avara</w>
 <w><ana lex="dax" gr="N,m,sg,nonposs" parts="dax" gloss="STEM" trans_en="" trans_ru="шрам"></ana>-dax</w>
 <w><ana lex="dax" gr="N,m,pl,nonposs" parts="daxь" gloss="STEM" trans_en="" trans_ru="шрам"></ana>-daxь</w>
@@ -6805,6 +6825,7 @@
 <w><ana lex="əj/dəj II" gr="PRON" parts="əj" gloss="STEM" trans_en="" trans_ru="она, эта, оно, это"></ana>-əj</w>
 <w><ana lex="əxcij" gr="ADV" parts="əxcij" gloss="STEM" trans_en="" trans_ru="только"></ana>-əxcij</w>
 <w><ana lex="вar/вir/вur" gr="N,m,sg,p.1,p.sg" parts="вar-ьj" gloss="STEM" trans_en="" trans_ru="сын"></ana>-вarьj</w>
+<w><ana lex="в" gr="PREP" parts="вi" gloss="STEM" trans_en="" trans_ru="в"></ana>-вi</w>
 <w><ana lex="вit" gr="PART" parts="вit" gloss="STEM" trans_en="" trans_ru="частица будущего времени"></ana>-вit</w>
 <w><ana lex="tjəvə" gr="V,ipf2,3,pl,non_obj" parts="вi-tj<ə>v-i-və" gloss="<>STEM" trans_en="" trans_ru="садиться, сидеть, лежать (о снеге"></ana><ana lex="tjəvə" gr="V,ipf2,3,sg,non_obj" parts="вi-tj<ə>v-i-və" gloss="<>STEM" trans_en="" trans_ru="садиться, сидеть, лежать (о снеге"></ana>-вitjəvivə</w>
 <w><ana lex="вxəjə" gr="V,pst,3,sg,f.s,non_obj" parts="в<i>xj-i-lə" gloss="<>STEM" trans_en="" trans_ru="плакать"></ana>-вixjilə</w>
@@ -6813,6 +6834,7 @@
 <w><ana lex="adataja" gr="ADJ,m,sg" parts="adataja" gloss="STEM" trans_en="" trans_ru="обычный"></ana>adataja</w>
 <w><ana lex="ədət/adatt/ədətt" gr="N,f,sg,p.1,p.pl" parts="adatt-an" gloss="STEM" trans_en="" trans_ru="обычай, обыкновение; привычка"></ana>adattan</w>
 <w><ana lex="ədət/adatt/ədətt" gr="N,f,sg,p.3,p.pl" parts="adatt-e" gloss="STEM" trans_en="" trans_ru="обычай, обыкновение; привычка"></ana>adatte</w>
+<w><ana lex="al" gr="PREP" parts="al" gloss="STEM" trans_en="" trans_ru="на"></ana>al-</w>
 <w><ana lex="alamat" gr="N,f,sg,nonposs" parts="alamat" gloss="STEM" trans_en="" trans_ru="чучело"></ana>alamat</w>
 <w><ana lex="əmurə/amura" gr="ADJ,m,sg" parts="amura" gloss="STEM" trans_en="" trans_ru="густой, глубокий"></ana>amura</w>
 <w><ana lex="apra" gr="N,m,pl,nonposs" parts="aprь" gloss="STEM" trans_en="" trans_ru="прах, земля"></ana>aprь</w>
@@ -7104,7 +7126,8 @@
 <w><ana lex="impratur/imperatur" gr="N,m,sg,nonposs" parts="imperatur" gloss="STEM" trans_en="" trans_ru="император"></ana>imperatur</w>
 <w><ana lex="injət" gr="N,f,sg,p.1,p.sg" parts="injətt-ij" gloss="STEM" trans_en="" trans_ru="совесть"></ana>injəttij</w>
 <w><ana lex="invalid" gr="N,m,pl,nonposs" parts="invalidь" gloss="STEM" trans_en="" trans_ru="инвалид"></ana>invalidь</w>
-<w><ana lex="inь" gr="CONJ" parts="inь" gloss="STEM" trans_en="" trans_ru="но"></ana>inь</w>
+<w><ana lex="inə" gr="CONJ" parts="inə" gloss="STEM" trans_en="" trans_ru="но"></ana>inə-</w>
+<w><ana lex="inə" gr="CONJ" parts="inь" gloss="STEM" trans_en="" trans_ru="но"></ana>inь</w>
 <w><ana lex="irxi" gr="N,f,pl,nonposs" parts="irxəvəti" gloss="STEM" trans_en="" trans_ru="mill, мельница"></ana>irxəvəti</w>
 <w><ana lex="itə" gr="CONJ" parts="itə" gloss="STEM" trans_en="" trans_ru="а"></ana>itə</w>
 <w><ana lex="iz" gr="N,m,sg,p.1,p.sg" parts="iz-ij" gloss="STEM" trans_en="" trans_ru="trail, track, след"></ana>izij</w>
@@ -10190,6 +10213,7 @@
 <w><ana lex="ktəvə" gr="V,prs,1,pl,3.o,m.o,sg.o" parts="k<ə>tv-əx-li" gloss="<>STEM" trans_en="" trans_ru="писать"></ana>kətvəxli</w>
 <w><ana lex="kətərə" gr="ADJ,pl" parts="kətəri" gloss="STEM" trans_en="" trans_ru="сердитый"></ana>kətəri</w>
 <w><ana lex="kvəcə" gr="V,ipf,3,sg,m.s,non_obj" parts="k<ə>v<i>c-və" gloss="<><>STEM" trans_en="" trans_ru="поселиться"></ana>kəvicvə</w>
+<w><ana lex="l" gr="PREP" parts="l" gloss="STEM" trans_en="" trans_ru="к, на"></ana>l-</w>
 <w><ana lex="lal" gr="N,pl,nonposs" parts="lalь" gloss="STEM" trans_en="" trans_ru="жемчуг, бриллиант"></ana><ana lex="lala" gr="ADJ,f,sg" parts="lalь" gloss="STEM" trans_en="" trans_ru="немой"></ana>lalь-</w>
 <w><ana lex="lqaţa" gr="V,prs,3,sg,f.s,non_obj" parts="l<a>qţ-a" gloss="<>STEM" trans_en="" trans_ru="клевать"></ana>laqţa</w>
 <w><ana lex="lqaţa" gr="V,prs,1,sg,f.s,3.o,f.o,sg.o" parts="l<a>qţ-an-na" gloss="<>STEM" trans_en="" trans_ru="клевать"></ana>laqţanna</w>

@@ -191,6 +191,14 @@
  trans_ru: крестьянин, мужик
 
 -lexeme
+ lex: al
+ stem: al.//all.
+ gramm: PREP
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: на
+
+-lexeme
  lex: alamat
  stem: alamat.|<UNKNOWN>.
  gramm: N,f
@@ -671,8 +679,8 @@
  trans_ru: чудовище, громадина
 
 -lexeme
- lex: вij-
- stem: вij-.
+ lex: в
+ stem: в.//вi.//вij-.
  gramm: PREP
  paradigm: unchangeable
  trans_en: 
@@ -3907,6 +3915,14 @@
  paradigm: N_back
  trans_en: 
  trans_ru: упряжь, поводья, уздечка
+
+-lexeme
+ lex: av
+ stem: av.//dav.
+ gramm: PRON
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: тот, он
 
 -lexeme
  lex: d
@@ -7939,8 +7955,8 @@
  trans_ru: if, whether, если
 
 -lexeme
- lex: inь
- stem: inь.
+ lex: inə
+ stem: inə.//inь.
  gramm: CONJ
  paradigm: unchangeable
  trans_en: 
@@ -9932,8 +9948,8 @@
  trans_ru: узел
 
 -lexeme
- lex: ill-
- stem: ill-.
+ lex: l
+ stem: l.//lə.//ill-.
  gramm: PREP
  paradigm: unchangeable
  trans_en: 
@@ -17709,8 +17725,8 @@
  trans_ru: лето
 
 -lexeme
- lex: qət
- stem: qət.
+ lex: qə
+ stem: qə.//qət.
  gramm: PREP
  paradigm: unchangeable
  trans_en: 
@@ -26456,6 +26472,22 @@
  paradigm: ADJ_front
  trans_en: 
  trans_ru: сильный, мощный
+
+-lexeme
+ lex: xə
+ stem: xə.
+ gramm: NUM,m
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: один; неопределенный артикль
+
+-lexeme
+ lex: xə
+ stem: xdə.
+ gramm: NUM,f
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: один; неопределенный артикль
 
 -lexeme
  lex: xəвər
