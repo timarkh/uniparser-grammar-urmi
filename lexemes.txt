@@ -1192,7 +1192,7 @@
 
 -lexeme
  lex: вdəjə
- stem: .в.d.j.
+ stem: .в.d.j.|.в.d.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -1537,7 +1537,7 @@
 
 -lexeme
  lex: вəlвuji
- stem: .в.lв.j.|.в.lв.jj.
+ stem: .в.lв.j.|.в.lв.jj.|.в.lв.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -1761,7 +1761,7 @@
 
 -lexeme
  lex: вəstuji
- stem: .в.st.j.|.в.st.jj.
+ stem: .в.st.j.|.в.st.jj.|.в.st.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -2081,7 +2081,7 @@
 
 -lexeme
  lex: вajja
- stem: .в.j.j.
+ stem: .в.j.j.|.в.j.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -2105,7 +2105,7 @@
 
 -lexeme
  lex: вlaja
- stem: .в.l.j.
+ stem: .в.l.j.|.в.l.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -2146,7 +2146,7 @@
 
 -lexeme
  lex: вnəjə
- stem: .в.n.j.
+ stem: .в.n.j.|.в.n.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -2196,7 +2196,7 @@
 
 -lexeme
  lex: вrəjə
- stem: .в.r.j.
+ stem: .в.r.j.|.в.r.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -2592,7 +2592,7 @@
 
 -lexeme
  lex: вxəjə
- stem: .в.x.j.
+ stem: .в.x.j.|.в.x.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -2600,7 +2600,7 @@
 
 -lexeme
  lex: вzaja
- stem: .в.z.j.
+ stem: .в.z.j.|.в.z.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -2752,7 +2752,7 @@
 
 -lexeme
  lex: carcujь
- stem: .c.rc.j.|.c.rc.jj.
+ stem: .c.rc.j.|.c.rc.jj.|.c.rc.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -2784,7 +2784,7 @@
 
 -lexeme
  lex: cвaja
- stem: .c.в.j.
+ stem: .c.в.j.|.c.в.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -3121,9 +3121,9 @@
 
 -lexeme
  lex: сjama
- stem: .с.j.m.
+ stem: .с.j.m.|.с.m.
  gramm: V
- paradigm: V_I_back
+ paradigm: V_I_2j_back
  trans_en: 
  trans_ru: закрывать (глаза, рот); прищуривать
 
@@ -3137,9 +3137,9 @@
 
 -lexeme
  lex: cjədə
- stem: .c.j.d.
+ stem: .c.j.d.|.c.d.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: приглашать, предлагать
 
@@ -3153,9 +3153,9 @@
 
 -lexeme
  lex: cjələ
- stem: .c.j.l.
+ stem: .c.j.l.|.c.l.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: махнуть, пожать (чем-то
 
@@ -3169,7 +3169,7 @@
 
 -lexeme
  lex: cmaja
- stem: .c.m.j.
+ stem: .c.m.j.|.c.m.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -3412,7 +3412,7 @@
 
 -lexeme
  lex: çammujь
- stem: .ç.mm.j.|.ç.mm.jj.
+ stem: .ç.mm.j.|.ç.mm.jj.|.ç.mm.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -3532,7 +3532,7 @@
 
 -lexeme
  lex: çəjə
- stem: .çj.
+ stem: .çj.|.ç
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -3716,7 +3716,7 @@
 
 -lexeme
  lex: çjəjə
- stem: .ç.j.j.
+ stem: .ç.j.j.|.ç.j.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -3724,7 +3724,7 @@
 
 -lexeme
  lex: çmaja
- stem: .ç.m.j.
+ stem: .ç.m.j.|.ç.m.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -3942,7 +3942,7 @@
 
 -lexeme
  lex: daja
- stem: .dj.
+ stem: .dj.|.d
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -4790,9 +4790,9 @@
 
 -lexeme
  lex: djara
- stem: .d.j.r.
+ stem: .d.j.r.|.d.r.
  gramm: V
- paradigm: V_I_back
+ paradigm: V_I_2j_back
  trans_en: 
  trans_ru: возвращаться
 
@@ -4806,9 +4806,9 @@
 
 -lexeme
  lex: djənə
- stem: .d.j.n.
+ stem: .d.j.n.|.d.n.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: судить
 
@@ -4822,9 +4822,9 @@
 
 -lexeme
  lex: djəşə
- stem: .d.j.ş.
+ stem: .d.j.ş.|.d.ş.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: овладевать
 
@@ -4838,7 +4838,7 @@
 
 -lexeme
  lex: dməjə
- stem: .d.m.j.
+ stem: .d.m.j.|.d.m.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -4983,7 +4983,7 @@
 
 -lexeme
  lex: drəjə
- stem: .d.r.j.
+ stem: .d.r.j.|.d.r.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -6477,7 +6477,7 @@
 
 -lexeme
  lex: gləjə
- stem: .g.l.j.
+ stem: .g.l.j.|.g.l.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -6501,7 +6501,7 @@
 
 -lexeme
  lex: gnəjə
- stem: .g.n.j.
+ stem: .g.n.j.|.g.n.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -6632,7 +6632,7 @@
 
 -lexeme
  lex: graja
- stem: .g.r.j.
+ stem: .g.r.j.|.g.r.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -6672,7 +6672,7 @@
 
 -lexeme
  lex: gsəjə
- stem: .g.s.j.
+ stem: .g.s.j.|.g.s.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -6906,7 +6906,7 @@
 
 -lexeme
  lex: gvəjə
- stem: .g.v.j.
+ stem: .g.v.j.|.g.v.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -9328,17 +9328,17 @@
 
 -lexeme
  lex: kjələ
- stem: .k.j.l.
+ stem: .k.j.l.|.k.l.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: измерять; примеривать
 
 -lexeme
  lex: kjəmə
- stem: .k.j.m.
+ stem: .k.j.m.|.k.m.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: чернеть
 
@@ -9368,9 +9368,9 @@
 
 -lexeme
  lex: kjəpə
- stem: .k.j.p.
+ stem: .k.j.p.|.k.p.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: наклоняться; ухудшаться
 
@@ -9400,7 +9400,7 @@
 
 -lexeme
  lex: kləjə
- stem: .k.l.j.
+ stem: .k.l.j.|.k.l.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -9578,7 +9578,7 @@
 
 -lexeme
  lex: krəjə
- stem: .k.r.j.
+ stem: .k.r.j.|.k.r.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -10551,15 +10551,15 @@
 
 -lexeme
  lex: ljaţa
- stem: .l.j.ţ.
+ stem: .l.j.ţ.|.l.ţ.
  gramm: V
- paradigm: V_I_back
+ paradigm: V_I_2j_back
  trans_en: 
  trans_ru: проклинать
 
 -lexeme
  lex: ljəjə
- stem: .l.j.j.
+ stem: .l.j.j.|.l.j.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -10567,9 +10567,9 @@
 
 -lexeme
  lex: ljəmə
- stem: .l.j.m.
+ stem: .l.j.m.|.l.m.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: поносить, хулить, оскорблять
 
@@ -10599,7 +10599,7 @@
 
 -lexeme
  lex: lləjə/lhəjə
- stem: .llj/lhj.
+ stem: .llj/lhj.|.llj/lh
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -10767,7 +10767,7 @@
 
 -lexeme
  lex: maввujь
- stem: .m.вв.j.|.m.вв.jj.
+ stem: .m.вв.j.|.m.вв.jj.|.m.вв.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -10807,7 +10807,7 @@
 
 -lexeme
  lex: macmuji
- stem: .m.cm.j.|.m.cm.jj.
+ stem: .m.cm.j.|.m.cm.jj.|.m.cm.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -10815,7 +10815,7 @@
 
 -lexeme
  lex: macrujь
- stem: .m.cr.j.|.m.cr.jj.
+ stem: .m.cr.j.|.m.cr.jj.|.m.cr.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -10847,7 +10847,7 @@
 
 -lexeme
  lex: maçrujь
- stem: .m.çr.j.|.m.çr.jj.
+ stem: .m.çr.j.|.m.çr.jj.|.m.çr.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -10855,7 +10855,7 @@
 
 -lexeme
  lex: maddujь
- stem: .m.dd.j.|.m.dd.jj.
+ stem: .m.dd.j.|.m.dd.jj.|.m.dd.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -11039,7 +11039,7 @@
 
 -lexeme
  lex: malpujь
- stem: .m.lp.j.|.m.lp.jj.
+ stem: .m.lp.j.|.m.lp.jj.|.m.lp.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -11079,7 +11079,7 @@
 
 -lexeme
  lex: mamrujь
- stem: .m.mr.j.|.m.mr.jj.
+ stem: .m.mr.j.|.m.mr.jj.|.m.mr.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -11103,7 +11103,7 @@
 
 -lexeme
  lex: mamţujь
- stem: .m.mţ.j.|.m.mţ.jj.
+ stem: .m.mţ.j.|.m.mţ.jj.|.m.mţ.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -11271,7 +11271,7 @@
 
 -lexeme
  lex: maqrujь
- stem: .m.qr.j.|.m.qr.jj.
+ stem: .m.qr.j.|.m.qr.jj.|.m.qr.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -11335,7 +11335,7 @@
 
 -lexeme
  lex: maqvujь
- stem: .m.qv.j.|.m.qv.jj.
+ stem: .m.qv.j.|.m.qv.jj.|.m.qv.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -11407,7 +11407,7 @@
 
 -lexeme
  lex: marpujь
- stem: .m.rp.j.|.m.rp.jj.
+ stem: .m.rp.j.|.m.rp.jj.|.m.rp.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -11431,7 +11431,7 @@
 
 -lexeme
  lex: marrujь
- stem: .m.rr.j.|.m.rr.jj.
+ stem: .m.rr.j.|.m.rr.jj.|.m.rr.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -11567,7 +11567,7 @@
 
 -lexeme
  lex: maslujь
- stem: .m.sl.j.|.m.sl.jj.
+ stem: .m.sl.j.|.m.sl.jj.|.m.sl.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -11663,7 +11663,7 @@
 
 -lexeme
  lex: maţlujь
- stem: .m.ţl.j.|.m.ţl.jj.
+ stem: .m.ţl.j.|.m.ţl.jj.|.m.ţl.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -11671,7 +11671,7 @@
 
 -lexeme
  lex: maţrujь
- stem: .m.ţr.j.|.m.ţr.jj.
+ stem: .m.ţr.j.|.m.ţr.jj.|.m.ţr.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -11767,7 +11767,7 @@
 
 -lexeme
  lex: maxlujь
- stem: .m.xl.j.|.m.xl.jj.
+ stem: .m.xl.j.|.m.xl.jj.|.m.xl.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -11791,7 +11791,7 @@
 
 -lexeme
  lex: mazdujь
- stem: .m.zd.j.|.m.zd.jj.
+ stem: .m.zd.j.|.m.zd.jj.|.m.zd.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -12193,9 +12193,9 @@
 
 -lexeme
  lex: məjuji
- stem: .m.j.j.
+ stem: .m.j.j.|.m.j.
  gramm: V
- paradigm: V_II_3j_front
+ paradigm: V_II_2j_3j_front
  trans_en: 
  trans_ru: нести, принести, привести
 
@@ -12249,7 +12249,7 @@
 
 -lexeme
  lex: məkluji
- stem: .m.kl.j.|.m.kl.jj.
+ stem: .m.kl.j.|.m.kl.jj.|.m.kl.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -12273,7 +12273,7 @@
 
 -lexeme
  lex: məkruji
- stem: .m.kr.j.|.m.kr.jj.
+ stem: .m.kr.j.|.m.kr.jj.|.m.kr.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -12513,7 +12513,7 @@
 
 -lexeme
  lex: məmxuji
- stem: .m.mx.j.|.m.mx.jj.
+ stem: .m.mx.j.|.m.mx.jj.|.m.mx.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -12529,7 +12529,7 @@
 
 -lexeme
  lex: mənduji
- stem: .m.nd.j.|.m.nd.jj.
+ stem: .m.nd.j.|.m.nd.jj.|.m.nd.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -12593,7 +12593,7 @@
 
 -lexeme
  lex: mənşuji
- stem: .m.nş.j.|.m.nş.jj.
+ stem: .m.nş.j.|.m.nş.jj.|.m.nş.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -12625,7 +12625,7 @@
 
 -lexeme
  lex: məntuji
- stem: .m.nt.j.|.m.nt.jj.
+ stem: .m.nt.j.|.m.nt.jj.|.m.nt.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -12697,7 +12697,7 @@
 
 -lexeme
  lex: məptuji
- stem: .m.pt.j.|.m.pt.jj.
+ stem: .m.pt.j.|.m.pt.jj.|.m.pt.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -12785,7 +12785,7 @@
 
 -lexeme
  lex: məqvuji
- stem: .m.qv.j.|.m.qv.jj.
+ stem: .m.qv.j.|.m.qv.jj.|.m.qv.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -12929,7 +12929,7 @@
 
 -lexeme
  lex: mərzuji
- stem: .m.rz.j.|.m.rz.jj.
+ stem: .m.rz.j.|.m.rz.jj.|.m.rz.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -12985,7 +12985,7 @@
 
 -lexeme
  lex: məsluji
- stem: .m.sl.j.|.m.sl.jj.
+ stem: .m.sl.j.|.m.sl.jj.|.m.sl.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -13025,7 +13025,7 @@
 
 -lexeme
  lex: məsruji
- stem: .m.sr.j.|.m.sr.jj.
+ stem: .m.sr.j.|.m.sr.jj.|.m.sr.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -13065,7 +13065,7 @@
 
 -lexeme
  lex: məşluji
- stem: .m.şl.j.|.m.şl.jj.
+ stem: .m.şl.j.|.m.şl.jj.|.m.şl.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -13121,7 +13121,7 @@
 
 -lexeme
  lex: məşruji
- stem: .m.şr.j.|.m.şr.jj.
+ stem: .m.şr.j.|.m.şr.jj.|.m.şr.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -13137,7 +13137,7 @@
 
 -lexeme
  lex: məştuji
- stem: .m.şt.j.|.m.şt.jj.
+ stem: .m.şt.j.|.m.şt.jj.|.m.şt.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -13185,7 +13185,7 @@
 
 -lexeme
  lex: mətnuji
- stem: .m.tn.j.|.m.tn.jj.
+ stem: .m.tn.j.|.m.tn.jj.|.m.tn.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -13201,7 +13201,7 @@
 
 -lexeme
  lex: mətruji
- stem: .m.tr.j.|.m.tr.jj.
+ stem: .m.tr.j.|.m.tr.jj.|.m.tr.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -13209,7 +13209,7 @@
 
 -lexeme
  lex: məttuji
- stem: .m.tt.j.|.m.tt.jj.
+ stem: .m.tt.j.|.m.tt.jj.|.m.tt.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -13281,7 +13281,7 @@
 
 -lexeme
  lex: məxnuji
- stem: .m.xn.j.|.m.xn.jj.
+ stem: .m.xn.j.|.m.xn.jj.|.m.xn.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -13353,7 +13353,7 @@
 
 -lexeme
  lex: məxxuji
- stem: .m.xx.j.|.m.xx.jj.
+ stem: .m.xx.j.|.m.xx.jj.|.m.xx.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -13377,7 +13377,7 @@
 
 -lexeme
  lex: məxzuji
- stem: .m.xz.j.|.m.xz.jj.
+ stem: .m.xz.j.|.m.xz.jj.|.m.xz.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -13409,7 +13409,7 @@
 
 -lexeme
  lex: məzvuji
- stem: .m.zv.j.|.m.zv.jj.
+ stem: .m.zv.j.|.m.zv.jj.|.m.zv.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -13785,15 +13785,15 @@
 
 -lexeme
  lex: mjasa
- stem: .m.j.s.
+ stem: .m.j.s.|.m.s.
  gramm: V
- paradigm: V_I_back
+ paradigm: V_I_2j_back
  trans_en: 
  trans_ru: сосать
 
 -lexeme
  lex: mjəjə
- stem: .m.j.j.
+ stem: .m.j.j.|.m.j.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -13801,9 +13801,9 @@
 
 -lexeme
  lex: mjətə
- stem: .m.j.t.
+ stem: .m.j.t.|.m.t.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: умирать
 
@@ -13833,7 +13833,7 @@
 
 -lexeme
  lex: mləjə
- stem: .m.l.j.
+ stem: .m.l.j.|.m.l.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -13841,7 +13841,7 @@
 
 -lexeme
  lex: mnəjə
- stem: .m.n.j.
+ stem: .m.n.j.|.m.n.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -13947,7 +13947,7 @@
 
 -lexeme
  lex: mraja
- stem: .m.r.j.
+ stem: .m.r.j.|.m.r.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -13979,7 +13979,7 @@
 
 -lexeme
  lex: msaja
- stem: .m.s.j.
+ stem: .m.s.j.|.m.s.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -13987,7 +13987,7 @@
 
 -lexeme
  lex: msəjə
- stem: .m.s.j.
+ stem: .m.s.j.|.m.s.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -13995,7 +13995,7 @@
 
 -lexeme
  lex: mşəjə
- stem: .m.ş.j.
+ stem: .m.ş.j.|.m.ş.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -14043,7 +14043,7 @@
 
 -lexeme
  lex: mţaja
- stem: .m.ţ.j.
+ stem: .m.ţ.j.|.m.ţ.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -14357,7 +14357,7 @@
 
 -lexeme
  lex: mxəjə
- stem: .m.x.j.
+ stem: .m.x.j.|.m.x.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -14685,7 +14685,7 @@
 
 -lexeme
  lex: ndəjə
- stem: .n.d.j.
+ stem: .n.d.j.|.n.d.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -14909,7 +14909,7 @@
 
 -lexeme
  lex: nhəjə
- stem: .n.h.j.
+ stem: .n.h.j.|.n.h.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -15069,17 +15069,17 @@
 
 -lexeme
  lex: njasa
- stem: .n.j.s.
+ stem: .n.j.s.|.n.s.
  gramm: V
- paradigm: V_I_back
+ paradigm: V_I_2j_back
  trans_en: 
  trans_ru: укусить
 
 -lexeme
  lex: njəmə
- stem: .n.j.m.
+ stem: .n.j.m.|.n.m.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: дремать
 
@@ -15093,7 +15093,7 @@
 
 -lexeme
  lex: nnəjə
- stem: .n.n.j.
+ stem: .n.n.j.|.n.n.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -15649,7 +15649,7 @@
 
 -lexeme
  lex: parmujь
- stem: .p.rm.j.|.p.rm.jj.
+ stem: .p.rm.j.|.p.rm.jj.|.p.rm.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -16129,7 +16129,7 @@
 
 -lexeme
  lex: pərpuji
- stem: .p.rp.j.|.p.rp.jj.
+ stem: .p.rp.j.|.p.rp.jj.|.p.rp.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -16225,7 +16225,7 @@
 
 -lexeme
  lex: pərzuji
- stem: .p.rz.j.|.p.rz.jj.
+ stem: .p.rz.j.|.p.rz.jj.|.p.rz.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -16465,9 +16465,9 @@
 
 -lexeme
  lex: pjaca
- stem: .p.j.c.
+ stem: .p.j.c.|.p.c.
  gramm: V
- paradigm: V_I_back
+ paradigm: V_I_2j_back
  trans_en: 
  trans_ru: ныть, болеть
 
@@ -16489,7 +16489,7 @@
 
 -lexeme
  lex: pjəjə
- stem: .p.j.j.
+ stem: .p.j.j.|.p.j.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -16505,9 +16505,9 @@
 
 -lexeme
  lex: pjəşə
- stem: .p.j.ş.
+ stem: .p.j.ş.|.p.ş.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: оставаться; вспомогательный глагол при пассиве
 
@@ -16553,7 +16553,7 @@
 
 -lexeme
  lex: pləjə
- stem: .p.l.j.
+ stem: .p.l.j.|.p.l.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -16653,7 +16653,7 @@
 
 -lexeme
  lex: praja
- stem: .p.r.j.
+ stem: .p.r.j.|.p.r.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -16693,7 +16693,7 @@
 
 -lexeme
  lex: prəjə
- stem: .p.r.j.
+ stem: .p.r.j.|.p.r.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -16805,7 +16805,7 @@
 
 -lexeme
  lex: psaja
- stem: .p.s.j.
+ stem: .p.s.j.|.p.s.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -17454,7 +17454,7 @@
 
 -lexeme
  lex: qarţujь
- stem: .q.rţ.j.|.q.rţ.jj.
+ stem: .q.rţ.j.|.q.rţ.jj.|.q.rţ.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -18438,33 +18438,33 @@
 
 -lexeme
  lex: qjarə
- stem: .q.j.r.
+ stem: .q.j.r.|.q.r.
  gramm: V
- paradigm: V_I_back
+ paradigm: V_I_2j_back
  trans_en: 
  trans_ru: скрести, отламывать, ковырять
 
 -lexeme
  lex: qjəвə
- stem: .q.j.в.
+ stem: .q.j.в.|.q.в.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: клубиться
 
 -lexeme
  lex: qjədə
- stem: .q.j.d.
+ stem: .q.j.d.|.q.d.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: гореть
 
 -lexeme
  lex: qjəmə
- stem: .q.j.m.
+ stem: .q.j.m.|.q.m.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: вставать, возникать
 
@@ -18478,23 +18478,23 @@
 
 -lexeme
  lex: qjəşə
- stem: .q.j.ş.
+ stem: .q.j.ş.|.q.ş.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: остывать
 
 -lexeme
  lex: qjətə
- stem: .q.j.t.
+ stem: .q.j.t.|.q.t.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: бить, звучать; падать, ударять
 
 -lexeme
  lex: qləjə
- stem: .q.l.j.
+ stem: .q.l.j.|.q.l.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -18518,7 +18518,7 @@
 
 -lexeme
  lex: qnəjə
- stem: .q.n.j.
+ stem: .q.n.j.|.q.n.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -18729,7 +18729,7 @@
 
 -lexeme
  lex: qraja
- stem: .q.r.j.
+ stem: .q.r.j.|.q.r.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -18785,7 +18785,7 @@
 
 -lexeme
  lex: qţaja
- stem: .q.ţ.j.
+ stem: .q.ţ.j.|.q.ţ.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -19139,7 +19139,7 @@
 
 -lexeme
  lex: qvəjə
- stem: .q.v.j.
+ stem: .q.v.j.|.q.v.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -19387,7 +19387,7 @@
 
 -lexeme
  lex: rappujь
- stem: .r.pp.j.|.r.pp.jj.
+ stem: .r.pp.j.|.r.pp.jj.|.r.pp.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -19788,9 +19788,9 @@
 
 -lexeme
  lex: rjama
- stem: .r.j.m.
+ stem: .r.j.m.|.r.m.
  gramm: V
- paradigm: V_I_back
+ paradigm: V_I_2j_back
  trans_en: 
  trans_ru: подниматься
 
@@ -19845,7 +19845,7 @@
 
 -lexeme
  lex: rpaja
- stem: .r.p.j.
+ stem: .r.p.j.|.r.p.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -19998,7 +19998,7 @@
 
 -lexeme
  lex: rvaja
- stem: .r.v.j.
+ stem: .r.v.j.|.r.v.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -20214,7 +20214,7 @@
 
 -lexeme
  lex: saluvь/salujь
- stem: .slv/slj.
+ stem: .slv/slj.|.slv/sl
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -20454,7 +20454,7 @@
 
 -lexeme
  lex: saxsujь
- stem: .s.xs.j.|.s.xs.jj.
+ stem: .s.xs.j.|.s.xs.jj.|.s.xs.
  gramm: V
  paradigm: V_4c_3j_back
  trans_en: 
@@ -21183,15 +21183,15 @@
 
 -lexeme
  lex: sjada
- stem: .s.j.d.
+ stem: .s.j.d.|.s.d.
  gramm: V
- paradigm: V_I_back
+ paradigm: V_I_2j_back
  trans_en: 
  trans_ru: красться, прицеливаться
 
 -lexeme
  lex: sjaja/ssaja
- stem: .sjj/ssj.
+ stem: .sjj/ssj.|.sjj/ss
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -21199,9 +21199,9 @@
 
 -lexeme
  lex: sjara
- stem: .s.j.r.
+ stem: .s.j.r.|.s.r.
  gramm: V
- paradigm: V_I_back
+ paradigm: V_I_2j_back
  trans_en: 
  trans_ru: завязывать, привязывать, запрягать
 
@@ -21215,9 +21215,9 @@
 
 -lexeme
  lex: sjəvə
- stem: .s.j.v.
+ stem: .s.j.v.|.s.v.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: стареть
 
@@ -21239,7 +21239,7 @@
 
 -lexeme
  lex: slaja
- stem: .s.l.j.
+ stem: .s.l.j.|.s.l.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -21279,7 +21279,7 @@
 
 -lexeme
  lex: sməjə
- stem: .s.m.j.
+ stem: .s.m.j.|.s.m.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -21343,7 +21343,7 @@
 
 -lexeme
  lex: snəjə
- stem: .s.n.j.
+ stem: .s.n.j.|.s.n.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -21506,7 +21506,7 @@
 
 -lexeme
  lex: spaja
- stem: .s.p.j.
+ stem: .s.p.j.|.s.p.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -21530,7 +21530,7 @@
 
 -lexeme
  lex: spəjə
- stem: .s.p.j.
+ stem: .s.p.j.|.s.p.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -21925,7 +21925,7 @@
 
 -lexeme
  lex: sxaja
- stem: .s.x.j.
+ stem: .s.x.j.|.s.x.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -22542,7 +22542,7 @@
 
 -lexeme
  lex: şərquji
- stem: .ş.rq.j.|.ş.rq.jj.
+ stem: .ş.rq.j.|.ş.rq.jj.|.ş.rq.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -22566,7 +22566,7 @@
 
 -lexeme
  lex: şərşuji
- stem: .ş.rş.j.|.ş.rş.jj.
+ stem: .ş.rş.j.|.ş.rş.jj.|.ş.rş.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -22926,7 +22926,7 @@
 
 -lexeme
  lex: şjaja
- stem: .ş.j.j.
+ stem: .ş.j.j.|.ş.j.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -22934,9 +22934,9 @@
 
 -lexeme
  lex: şjara
- stem: .ş.j.r.
+ stem: .ş.j.r.|.ş.r.
  gramm: V
- paradigm: V_I_back
+ paradigm: V_I_2j_back
  trans_en: 
  trans_ru: растапливать (печи
 
@@ -22958,9 +22958,9 @@
 
 -lexeme
  lex: şjəpə
- stem: .ş.j.p.
+ stem: .ş.j.p.|.ş.p.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: помазать, мазать; вытирать, гладить; становиться тупым
 
@@ -22990,7 +22990,7 @@
 
 -lexeme
  lex: şləjə
- stem: .ş.l.j.
+ stem: .ş.l.j.|.ş.l.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -23046,7 +23046,7 @@
 
 -lexeme
  lex: şmaja
- stem: .ş.m.j.
+ stem: .ş.m.j.|.ş.m.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -23070,7 +23070,7 @@
 
 -lexeme
  lex: şnəjə
- stem: .ş.n.j.
+ stem: .ş.n.j.|.ş.n.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -23144,7 +23144,7 @@
 
 -lexeme
  lex: şqəjə
- stem: .ş.q.j.
+ stem: .ş.q.j.|.ş.q.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -23208,7 +23208,7 @@
 
 -lexeme
  lex: şrəjə
- stem: .ş.r.j.
+ stem: .ş.r.j.|.ş.r.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -23256,7 +23256,7 @@
 
 -lexeme
  lex: ştəjə
- stem: .ş.t.j.
+ stem: .ş.t.j.|.ş.t.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -23296,7 +23296,7 @@
 
 -lexeme
  lex: şţaja
- stem: .ş.ţ.j.
+ stem: .ş.ţ.j.|.ş.ţ.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -23923,7 +23923,7 @@
 
 -lexeme
  lex: təjə
- stem: .tj.
+ stem: .tj.|.t
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -24275,7 +24275,7 @@
 
 -lexeme
  lex: tərsuji
- stem: .t.rs.j.|.t.rs.jj.
+ stem: .t.rs.j.|.t.rs.jj.|.t.rs.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -24475,17 +24475,17 @@
 
 -lexeme
  lex: tjəkə
- stem: .t.j.k.
+ stem: .t.j.k.|.t.k.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: сажать (деревья
 
 -lexeme
  lex: tjəmə
- stem: .t.j.m.
+ stem: .t.j.m.|.t.m.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: заканчиваться
 
@@ -24507,17 +24507,17 @@
 
 -lexeme
  lex: tjərə
- stem: .t.j.r.
+ stem: .t.j.r.|.t.r.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: опомниться, прийти в себя
 
 -lexeme
  lex: tjəvə
- stem: .t.j.v.
+ stem: .t.j.v.|.t.v.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: садиться, сидеть, лежать (о снеге
 
@@ -24547,7 +24547,7 @@
 
 -lexeme
  lex: tləjə
- stem: .t.l.j.
+ stem: .t.l.j.|.t.l.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -24627,7 +24627,7 @@
 
 -lexeme
  lex: tnəjə
- stem: .t.n.j.
+ stem: .t.n.j.|.t.n.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -24685,7 +24685,7 @@
 
 -lexeme
  lex: tpəjə
- stem: .t.p.j.
+ stem: .t.p.j.|.t.p.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -24789,7 +24789,7 @@
 
 -lexeme
  lex: trəjə
- stem: .t.r.j.
+ stem: .t.r.j.|.t.r.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -25192,7 +25192,7 @@
 
 -lexeme
  lex: ţaşujь/taşujь
- stem: .ţşj/tşj.
+ stem: .ţşj/tşj.|.ţşj/tş
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -25208,7 +25208,7 @@
 
 -lexeme
  lex: ţaujь/ţaвujь
- stem: .ţj/ţвj.
+ stem: .ţj/ţвj.|.ţj/ţв
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -25256,7 +25256,7 @@
 
 -lexeme
  lex: ţвaja
- stem: .ţ.в.j.
+ stem: .ţ.в.j.|.ţ.в.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -25320,9 +25320,9 @@
 
 -lexeme
  lex: ţjama
- stem: .ţ.j.m.
+ stem: .ţ.j.m.|.ţ.m.
  gramm: V
- paradigm: V_I_back
+ paradigm: V_I_2j_back
  trans_en: 
  trans_ru: пробовать
 
@@ -25344,25 +25344,25 @@
 
 -lexeme
  lex: ţjapa
- stem: .ţ.j.p.
+ stem: .ţ.j.p.|.ţ.p.
  gramm: V
- paradigm: V_I_back
+ paradigm: V_I_2j_back
  trans_en: 
  trans_ru: складывать
 
 -lexeme
  lex: ţjasa
- stem: .ţ.j.s.
+ stem: .ţ.j.s.|.ţ.s.
  gramm: V
- paradigm: V_I_back
+ paradigm: V_I_2j_back
  trans_en: 
  trans_ru: втыкать, втыкаться
 
 -lexeme
  lex: ţjaxa
- stem: .ţ.j.x.
+ stem: .ţ.j.x.|.ţ.x.
  gramm: V
- paradigm: V_I_back
+ paradigm: V_I_2j_back
  trans_en: 
  trans_ru: затихнуть, присмиреть
 
@@ -25376,7 +25376,7 @@
 
 -lexeme
  lex: ţlaja
- stem: .ţ.l.j.
+ stem: .ţ.l.j.|.ţ.l.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -25432,7 +25432,7 @@
 
 -lexeme
  lex: ţmaja
- stem: .ţ.m.j.
+ stem: .ţ.m.j.|.ţ.m.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -25480,7 +25480,7 @@
 
 -lexeme
  lex: ţraja
- stem: .ţ.r.j.
+ stem: .ţ.r.j.|.ţ.r.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -25512,7 +25512,7 @@
 
 -lexeme
  lex: ţşaja
- stem: .ţ.ş.j.
+ stem: .ţ.ş.j.|.ţ.ş.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -26027,7 +26027,7 @@
 
 -lexeme
  lex: vəjə
- stem: .vj.
+ stem: .vj.|.v
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -26427,7 +26427,7 @@
 
 -lexeme
  lex: xdəjə
- stem: .x.d.j.
+ stem: .x.d.j.|.x.d.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -26555,7 +26555,7 @@
 
 -lexeme
  lex: xəjə
- stem: .xj.
+ stem: .xj.|.x
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -26603,9 +26603,9 @@
 
 -lexeme
  lex: xəjudi
- stem: .x.j.d.
+ stem: .x.j.d.|.x.d.
  gramm: V
- paradigm: V_II_front
+ paradigm: V_II_2j_front
  trans_en: 
  trans_ru: соединяться
 
@@ -26811,7 +26811,7 @@
 
 -lexeme
  lex: xərduji
- stem: .x.rd.j.|.x.rd.jj.
+ stem: .x.rd.j.|.x.rd.jj.|.x.rd.
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
@@ -27235,33 +27235,33 @@
 
 -lexeme
  lex: xjaţa
- stem: .x.j.ţ.
+ stem: .x.j.ţ.|.x.ţ.
  gramm: V
- paradigm: V_I_back
+ paradigm: V_I_2j_back
  trans_en: 
  trans_ru: шить, зашивать
 
 -lexeme
  lex: xjəkə
- stem: .x.j.k.
+ stem: .x.j.k.|.x.k.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: чесаться, чесать
 
 -lexeme
  lex: xjəpə
- stem: .x.j.p.
+ stem: .x.j.p.|.x.p.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: мыться
 
 -lexeme
  lex: xjərə
- stem: .x.j.r.
+ stem: .x.j.r.|.x.r.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: смотреть, глядеть
 
@@ -27291,7 +27291,7 @@
 
 -lexeme
  lex: xlaja
- stem: .x.l.j.
+ stem: .x.l.j.|.x.l.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -27371,7 +27371,7 @@
 
 -lexeme
  lex: xməjə
- stem: .x.m.j.
+ stem: .x.m.j.|.x.m.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -27461,7 +27461,7 @@
 
 -lexeme
  lex: xpəjə
- stem: .x.p.j.
+ stem: .x.p.j.|.x.p.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -27878,7 +27878,7 @@
 
 -lexeme
  lex: xvəjə
- stem: .x.v.j.
+ stem: .x.v.j.|.x.v.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -27926,7 +27926,7 @@
 
 -lexeme
  lex: xzəjə
- stem: .x.z.j.
+ stem: .x.z.j.|.x.z.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
@@ -28158,7 +28158,7 @@
 
 -lexeme
  lex: zdaja
- stem: .z.d.j.
+ stem: .z.d.j.|.z.d.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -28622,9 +28622,9 @@
 
 -lexeme
  lex: zjərə
- stem: .z.j.r.
+ stem: .z.j.r.|.z.r.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_I_2j_front
  trans_en: 
  trans_ru: пухнуть
 
@@ -28766,7 +28766,7 @@
 
 -lexeme
  lex: zraja
- stem: .z.r.j.
+ stem: .z.r.j.|.z.r.
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
@@ -28847,7 +28847,7 @@
 
 -lexeme
  lex: zvəjə
- stem: .z.v.j.
+ stem: .z.v.j.|.z.v.
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
