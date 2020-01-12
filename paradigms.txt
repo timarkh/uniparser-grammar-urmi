@@ -391,7 +391,19 @@
  -flex: ..i.tə
   gramm: ptcp.pst,sg,f
 
+# Imperative
+ -flex: ..u.
+  gramm: imv,sg
+ -flex: ..u.un
+  gremm: imv,pl
 
+# Act. part.
+ -flex: .ə..ənə
+  gram: ptcp.act,m,sg
+ -flex: .ə..əntə
+  gram: ptcp.act,f,sg
+ -flex: .ə..əni
+  gram: ptcp.act,pl
 
 
 -paradigm: V_I_back
@@ -548,6 +560,20 @@
   gramm: ptcp.pst,sg,m
  -flex: ..ь.ta
   gramm: ptcp.pst,sg,f
+
+# Imperative
+ -flex: ..u.
+  gramm: imv,sg
+ -flex: ..u.un
+  gremm: imv,pl
+  
+# Act. part.
+ -flex: .a..ana
+  gram: ptcp.act,m,sg
+ -flex: .a..anta
+  gram: ptcp.act,f,sg
+ -flex: .a..anь
+  gram: ptcp.act,pl
 
 
 -paradigm: V_strong_alef_back
@@ -1949,9 +1975,21 @@
  -flex: <1>..itə
   gramm: ptcp.pst,sg,f
 
+# Imperative
+ -flex: <1>..ij
+  gramm: imv,sg
+ -flex: <1>..imun
+  gremm: imv,pl
 
+# Act. part.
+ -flex: <0>.ə..ənə
+  gram: ptcp.act,m,sg
+ -flex: <0>.ə..əntə
+  gram: ptcp.act,f,sg
+ -flex: <0>.ə..əni
+  gram: ptcp.act,pl
 
-
+  
 -paradigm: V_I_3j_back
  -flex: <1>.a.ьn<.>
   gramm: prs,1,sg,m.s
@@ -2149,7 +2187,19 @@
  -flex: <1>..ьta
   gramm: ptcp.pst,sg,f
 
-
+# Imperative
+ -flex: <1>..ьj
+  gramm: imv,sg
+ -flex: <1>..ьmun
+  gremm: imv,pl
+  
+# Act. part.
+ -flex: <0>.a..ana
+  gram: ptcp.act,m,sg
+ -flex: <0>.a..anta
+  gram: ptcp.act,f,sg
+ -flex: <0>.a..anь
+  gram: ptcp.act,pl
 
 
 -paradigm: V_I_2j_front
@@ -2165,7 +2215,7 @@
  -flex: <1>.e.ət<.>
   gramm: prs,2,sg,f.s
   paradigm: V_pro_sfx_front
- -flex: <0>.ə.i.<.>
+ -flex: <0>.ə.i.<.>//<1>.əi.<.>
   gramm: prs,3,sg,m.s
   paradigm: V_pro_sfx_front
  -flex: <1>.e.ə<.>
@@ -2349,8 +2399,21 @@
  -flex: <1>.i.tə
   gramm: ptcp.pst,sg,f
 
+# Imperative
+ -flex: <1>.u.
+  gramm: imv,sg
+ -flex: <1>.u.un
+  gremm: imv,pl
+  
+# Act. part.
+ -flex: <1>.e.ənə
+  gram: ptcp.act,m,sg
+ -flex: <1>.e.əntə
+  gram: ptcp.act,f,sg
+ -flex: <1>.e.əni
+  gram: ptcp.act,pl
 
-
+  
 -paradigm: V_I_2j_back
  -flex: <1>.e.ьn<.>
   gramm: prs,1,sg,m.s
@@ -2364,7 +2427,7 @@
  -flex: <1>.e.at<.>
   gramm: prs,2,sg,f.s
   paradigm: V_pro_sfx_back
- -flex: <0>.a.ь.<.>
+ -flex: <0>.a.ь.<.>//<1>.aь.<.>
   gramm: prs,3,sg,m.s
   paradigm: V_pro_sfx_back
  -flex: <1>.e.a<.>
@@ -2547,3 +2610,17 @@
   gramm: ptcp.pst,pl
  -flex: <1>.ь.ta
   gramm: ptcp.pst,sg,f
+  
+# Imperative
+ -flex: <1>.u.
+  gramm: imv,sg
+ -flex: <1>.u.un
+  gremm: imv,pl
+  
+# Act. part.
+ -flex: <1>.e.ana
+  gram: ptcp.act,m,sg
+ -flex: <1>.e.anta
+  gram: ptcp.act,f,sg
+ -flex: <1>.e.anь
+  gram: ptcp.act,pl
