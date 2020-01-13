@@ -271,8 +271,8 @@
  trans_ru: улица, прихожая
 
 -lexeme
- lex: amm-
- stem: amm-.
+ lex: am
+ stem: am.//amm.//amm-.
  gramm: PREP
  paradigm: unchangeable
  trans_en: 
@@ -685,6 +685,14 @@
  paradigm: unchangeable
  trans_en: 
  trans_ru: в; предлог творительного падежа
+
+-lexeme
+ lex: вuş
+ stem: вuş.
+ gramm: ADV
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: более
 
 -lexeme
  lex: вadvan
@@ -5305,6 +5313,30 @@
  trans_ru: сейчас, теперь, тотчас
 
 -lexeme
+ lex: əhə
+ stem: əhə.//ə.//dəhə.//də.
+ gramm: PRON,sg
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: этот, эта, это
+
+-lexeme
+ lex: ənij
+ stem: ənij.//dənij.
+ gramm: PRON,pl
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: эти
+
+-lexeme
+ lex: ənni
+ stem: ənni.//dənni
+ gramm: PRON,pl
+ paradigm: unchangeable
+ trans_en: 
+ trans_ru: эти
+
+-lexeme
  lex: əhəg
  stem: əhəg.|<UNKNOWN>.
  gramm: N,m
@@ -5313,16 +5345,16 @@
  trans_ru: известь
 
 -lexeme
- lex: əj I
- stem: əj I.
+ lex: əj
+ stem: əj.
  gramm: INTERJ
  paradigm: unchangeable
  trans_en: 
  trans_ru: ах
 
 -lexeme
- lex: əj/dəj II
- stem: əj.//dəj II.
+ lex: əj/dəj
+ stem: əj.//dəj.
  gramm: PRON
  paradigm: unchangeable
  trans_en: 

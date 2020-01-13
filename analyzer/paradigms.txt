@@ -195,6 +195,9 @@
 
 
 -paradigm: V_I_front
+ -flex: ..ə.ə
+  gramm: inf
+  
  -flex: .ə..in<.>//.ə.i.in<.>
   gramm: prs,1,sg,m.s
   paradigm: V_pro_sfx_front
@@ -393,9 +396,9 @@
 
 # Imperative
  -flex: ..u.
-  gramm: imv,sg
+  gramm: imp,sg
  -flex: ..u.un
-  gremm: imv,pl
+  gremm: imp,pl
 
 # Act. part.
  -flex: .ə..ənə
@@ -407,6 +410,8 @@
 
 
 -paradigm: V_I_back
+ -flex: ..a.a
+  gramm: inf
  -flex: .a..ьn<.>//.a.ь.ьn<.>
   gramm: prs,1,sg,m.s
   paradigm: V_pro_sfx_back
@@ -563,9 +568,9 @@
 
 # Imperative
  -flex: ..u.
-  gramm: imv,sg
+  gramm: imp,sg
  -flex: ..u.un
-  gremm: imv,pl
+  gremm: imp,pl
   
 # Act. part.
  -flex: .a..ana
@@ -577,6 +582,9 @@
 
 
 -paradigm: V_strong_alef_back
+ -flex: .a.a
+  gramm: inf
+  
  -flex: a..ьn
   gramm: prs,1,sg,m.s
  -flex: a..an
@@ -1044,6 +1052,9 @@
 
 
 -paradigm: V_II_front
+ -flex: .ə.u.i
+  gramm: inf
+  
  -flex: .ə..in<.>
   gramm: prs,1,sg,m.s
   paradigm: V_pro_sfx_front
@@ -1226,6 +1237,9 @@
 
 
 -paradigm: V_II_back
+ -flex: .a.u.ь
+  gramm: inf
+
  -flex: .a..ьn<.>
   gramm: prs,1,sg,m.s
   paradigm: V_pro_sfx_back
@@ -1414,6 +1428,9 @@
 
 
 -paradigm: V_II_3j_front
+ -flex: <0>.ə.u.i
+  gramm: inf
+  
  -flex: <1>.ə.in<.>
   gramm: prs,1,sg,m.s
   paradigm: V_pro_sfx_front
@@ -1596,6 +1613,9 @@
 
 
 -paradigm: V_II_3j_back
+ -flex: <0>.a.u.ь
+  gramm: inf
+  
  -flex: <1>.a.ьn<.>
   gramm: prs,1,sg,m.s
   paradigm: V_pro_sfx_back
@@ -1977,9 +1997,9 @@
 
 # Imperative
  -flex: <1>..ij
-  gramm: imv,sg
+  gramm: imp,sg
  -flex: <1>..imun
-  gremm: imv,pl
+  gremm: imp,pl
 
 # Act. part.
  -flex: <0>.ə..ənə
@@ -2189,9 +2209,9 @@
 
 # Imperative
  -flex: <1>..ьj
-  gramm: imv,sg
+  gramm: imp,sg
  -flex: <1>..ьmun
-  gremm: imv,pl
+  gremm: imp,pl
   
 # Act. part.
  -flex: <0>.a..ana
@@ -2401,9 +2421,9 @@
 
 # Imperative
  -flex: <1>.u.
-  gramm: imv,sg
+  gramm: imp,sg
  -flex: <1>.u.un
-  gremm: imv,pl
+  gremm: imp,pl
   
 # Act. part.
  -flex: <1>.e.ənə
@@ -2613,9 +2633,9 @@
   
 # Imperative
  -flex: <1>.u.
-  gramm: imv,sg
+  gramm: imp,sg
  -flex: <1>.u.un
-  gremm: imv,pl
+  gremm: imp,pl
   
 # Act. part.
  -flex: <1>.e.ana
