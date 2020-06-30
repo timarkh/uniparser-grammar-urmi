@@ -1,3 +1,21 @@
+
+-lexeme
+ lex: ijli
+ stem: ij.
+ gramm: V,cop.prs
+ paradigm: cop-prs
+ trans_en: present tense copula
+ trans_ru: копула настоящего времени
+
+-lexeme
+ lex: ijvə
+ stem: ij.
+ gramm: V,cop.pst
+ paradigm: cop-pst
+ trans_en: past tense copula
+ trans_ru: копула прошедшего времени
+
+
 -lexeme
  lex: aвasьj
  stem: aвasьj.|aвasьjь.
