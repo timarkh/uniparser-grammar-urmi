@@ -4,6 +4,8 @@
  -flex: <1>.<.>
   gramm: pl
  paradigm: poss-back
+ paradigm: cop-prs-back
+ paradigm: cop-pst-back
 
 -paradigm: N_front
  -flex: <0>.<.>
@@ -11,6 +13,8 @@
  -flex: <1>.<.>
   gramm: pl
  paradigm: poss-front
+ paradigm: cop-prs-front
+ paradigm: cop-pst-front
 
 -paradigm: poss-front
  -flex: .
@@ -54,22 +58,26 @@
 
 
 -paradigm: ADJ_back
- -flex: <0>.
+ -flex: <0>.<.>
   gramm: m,sg
- -flex: <1>.
+ -flex: <1>.<.>
   gramm: f,sg
- -flex: <2>.
+ -flex: <2>.<.>
   gramm: pl
  paradigm: poss-back
+ paradigm: cop-prs-back
+ paradigm: cop-pst-back
 
 -paradigm: ADJ_front
- -flex: <0>.
+ -flex: <0>.<.>
   gramm: m,sg
- -flex: <1>.
+ -flex: <1>.<.>
   gramm: f,sg
- -flex: <2>.
+ -flex: <2>.<.>
   gramm: pl
  paradigm: poss-front
+ paradigm: cop-prs-front
+ paradigm: cop-pst-front
 
 -paradigm: unchangeable
  -flex: .
@@ -77,43 +85,128 @@
 
 -paradigm: cop-prs
  -flex: .vin
-  gramm: p.1,p.sg,p.m
+  gramm: cop.prs,p.1,p.sg,p.m
  -flex: .vən
-  gramm: p.1,p.sg,p.f
+  gramm: cop.prs,p.1,p.sg,p.f
  -flex: .vit
-  gramm: p.2,p.sg,p.m
+  gramm: cop.prs,p.2,p.sg,p.m
  -flex: .vət
-  gramm: p.2,p.sg,p.f
+  gramm: cop.prs,p.2,p.sg,p.f
  -flex: .li
-  gramm: p.3,p.sg,p.m
+  gramm: cop.prs,p.3,p.sg,p.m
  -flex: .lə
-  gramm: p.3,p.sg,p.f
+  gramm: cop.prs,p.3,p.sg,p.f
  -flex: .vəx
-  gramm: p.1,p.pl
+  gramm: cop.prs,p.1,p.pl
  -flex: .tun
-  gramm: p.2,p.pl
+  gramm: cop.prs,p.2,p.pl
  -flex: .nə
-  gramm: p.3,p.pl
+  gramm: cop.prs,p.3,p.pl
 
 -paradigm: cop-pst
  -flex: .vinvə
-  gramm: p.1,p.sg,p.m
+  gramm: cop.pst,p.1,p.sg,p.m
  -flex: .vənvə
-  gramm: p.1,p.sg,p.f
+  gramm: cop.pst,p.1,p.sg,p.f
  -flex: .vitvə
-  gramm: p.2,p.sg,p.m
+  gramm: cop.pst,p.2,p.sg,p.m
  -flex: .vətvə
-  gramm: p.2,p.sg,p.f
+  gramm: cop.pst,p.2,p.sg,p.f
  -flex: .və
-  gramm: p.3,p.sg,p.m
+  gramm: cop.pst,p.3,p.sg,p.m
  -flex: .və
-  gramm: p.3,p.sg,p.f
+  gramm: cop.pst,p.3,p.sg,p.f
  -flex: .vəxvə
-  gramm: p.1,p.pl
+  gramm: cop.pst,p.1,p.pl
  -flex: .tunvə
-  gramm: p.2,p.pl
+  gramm: cop.pst,p.2,p.pl
  -flex: .və
-  gramm: p.3,p.pl
+  gramm: cop.pst,p.3,p.pl
+
+
+-paradigm: cop-prs-front
+ -flex: .ivin
+  gramm: cop.prs,p.1,p.sg,p.m
+ -flex: .ivən
+  gramm: cop.prs,p.1,p.sg,p.f
+ -flex: .ivit
+  gramm: cop.prs,p.2,p.sg,p.m
+ -flex: .ivət
+  gramm: cop.prs,p.2,p.sg,p.f
+ -flex: .ili
+  gramm: cop.prs,p.3,p.sg,p.m
+ -flex: .ilə
+  gramm: cop.prs,p.3,p.sg,p.f
+ -flex: .ivəx
+  gramm: cop.prs,p.1,p.pl
+ -flex: .itun
+  gramm: cop.prs,p.2,p.pl
+ -flex: .inə
+  gramm: cop.prs,p.3,p.pl
+
+-paradigm: cop-pst-front
+ -flex: .ivinvə
+  gramm: cop.pst,p.1,p.sg,p.m
+ -flex: .ivənvə
+  gramm: cop.pst,p.1,p.sg,p.f
+ -flex: .ivitvə
+  gramm: cop.pst,p.2,p.sg,p.m
+ -flex: .ivətvə
+  gramm: cop.pst,p.2,p.sg,p.f
+ -flex: .ivə
+  gramm: cop.pst,p.3,p.sg,p.m
+ -flex: .ivə
+  gramm: cop.pst,p.3,p.sg,p.f
+ -flex: .ivəxvə
+  gramm: cop.pst,p.1,p.pl
+ -flex: .itunvə
+  gramm: cop.pst,p.2,p.pl
+ -flex: .ivə
+  gramm: cop.pst,p.3,p.pl
+
+
+
+-paradigm: cop-prs-back
+ -flex: .ьvьn
+  gramm: cop.prs,p.1,p.sg,p.m
+ -flex: .ьvan
+  gramm: cop.prs,p.1,p.sg,p.f
+ -flex: .ьvьt
+  gramm: cop.prs,p.2,p.sg,p.m
+ -flex: .ьvat
+  gramm: cop.prs,p.2,p.sg,p.f
+ -flex: .ьlь
+  gramm: cop.prs,p.3,p.sg,p.m
+ -flex: .ьla
+  gramm: cop.prs,p.3,p.sg,p.f
+ -flex: .ьvax
+  gramm: cop.prs,p.1,p.pl
+ -flex: .ьtun
+  gramm: cop.prs,p.2,p.pl
+ -flex: .ьna
+  gramm: cop.prs,p.3,p.pl
+
+-paradigm: cop-pst-back
+ -flex: .ьvьnva
+  gramm: cop.pst,p.1,p.sg,p.m
+ -flex: .ьvanva
+  gramm: cop.pst,p.1,p.sg,p.f
+ -flex: .ьvьtva
+  gramm: cop.pst,p.2,p.sg,p.m
+ -flex: .ьvatva
+  gramm: cop.pst,p.2,p.sg,p.f
+ -flex: .ьva
+  gramm: cop.pst,p.3,p.sg,p.m
+ -flex: .ьva
+  gramm: cop.pst,p.3,p.sg,p.f
+ -flex: .ьvaxva
+  gramm: cop.pst,p.1,p.pl
+ -flex: .ьtunva
+  gramm: cop.pst,p.2,p.pl
+ -flex: .ьva
+  gramm: cop.pst,p.3,p.pl
+
+
 
 
 -paradigm: V_pro_sfx_front
