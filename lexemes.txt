@@ -14,7 +14,7 @@
  gramm: N,mf
  paradigm: N_back
  trans_en: 
- trans_ru: аббаси (персидская серебряная монета
+ trans_ru: аббаси (персидская серебряная монета)
 
 -lexeme
  lex: aвeta
@@ -158,7 +158,7 @@
  gramm: N,f
  paradigm: N_back
  trans_en: 
- trans_ru: состояние (физическое, эмоциональное
+ trans_ru: состояние (физическое, эмоциональное)
 
 -lexeme
  lex: ajвa
@@ -204,7 +204,7 @@
  lex: al
  stem: al.//all.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-back
  trans_en: 
  trans_ru: на
 
@@ -222,7 +222,7 @@
  gramm: ADV
  paradigm: unchangeable
  trans_en: 
- trans_ru: страсть, беда (очень много
+ trans_ru: страсть, беда (очень много)
 
 -lexeme
  lex: aldeta
@@ -284,7 +284,7 @@
  lex: am
  stem: am.//amm.//amm-.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-back
  trans_en: 
  trans_ru: с
 
@@ -486,7 +486,7 @@
  gramm: V
  paradigm: V_strong_alef_3j_back
  trans_en: 
- trans_ru: чинить (одежду, стену
+ trans_ru: чинить (одежду, стену)
 
 -lexeme
  lex: arxalьx
@@ -534,7 +534,7 @@
  gramm: N,fm
  paradigm: N_back
  trans_en: 
- trans_ru: подкладка (одежды
+ trans_ru: подкладка (одежды)
 
 -lexeme
  lex: aşpazxana
@@ -550,7 +550,7 @@
  gramm: N,m
  paradigm: N_back
  trans_en: 
- trans_ru: атлас (ткань
+ trans_ru: атлас (ткань)
 
 -lexeme
  lex: atra
@@ -673,16 +673,16 @@
  trans_ru: свобода, вольность
 
 -lexeme
- lex: aƶdahaja I
- stem: aƶdahaja I.|<UNKNOWN>.|<UNKNOWN>.
+ lex: aƶdahaja
+ stem: aƶdahaja.|<UNKNOWN>.|<UNKNOWN>.
  gramm: ADJ
  paradigm: ADJ_back
  trans_en: 
  trans_ru: громадный, огромный
 
 -lexeme
- lex: aƶdahaja II
- stem: aƶdahaja II.|aƶdahajь.//aƶdahaj.
+ lex: aƶdahaja
+ stem: aƶdahaja.|aƶdahajь.//aƶdahaj.
  gramm: N
  paradigm: N_back
  trans_en: 
@@ -692,7 +692,7 @@
  lex: в
  stem: в.//вi.//вij-.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: в; предлог творительного падежа
 
@@ -924,7 +924,7 @@
  lex: вar
  stem: вar.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-back
  trans_en: 
  trans_ru: после
 
@@ -956,7 +956,7 @@
  lex: вara-вar
  stem: вara-вar.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-back
  trans_en: 
  trans_ru: (идти вслед) за
 
@@ -1006,7 +1006,7 @@
  gramm: V
  paradigm: V_4c_back
  trans_en: 
- trans_ru: 1) рычaть (лев
+ trans_ru: 1) рычaть (лев)
 
 -lexeme
  lex: вar d
@@ -1385,8 +1385,8 @@
  trans_ru: любовь
 
 -lexeme
- lex: II
- stem: II.|вəti.//вət.//вətvəti.//вətvət.
+ lex: вetə
+ stem: вetə.|вəti.//вət.//вətvəti.//вətvət.
  gramm: N,m
  paradigm: N_back
  paradigm: N_front
@@ -1511,7 +1511,7 @@
  gramm: N,m
  paradigm: N_front
  trans_en: 
- trans_ru: стена (крепостная
+ trans_ru: стена (крепостная)
 
 -lexeme
  lex: вədrəng
@@ -1546,18 +1546,18 @@
  trans_ru: боярe
 
 -lexeme
- lex: вəhs I
- stem: вəhs I.|вəhsi.//вəhs.
+ lex: вəhs
+ stem: вəhs.|вəhsi.//вəhs.
  gramm: N
  paradigm: N_front
  trans_en: 
  trans_ru: весть
 
 -lexeme
- lex: вəhs II
- stem: вəhs II.
+ lex: вəhs
+ stem: вəhs.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: о, про
 
@@ -1709,7 +1709,7 @@
  lex: вərqul
  stem: вərqul.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: напротив
 
@@ -1879,7 +1879,7 @@
  gramm: N,f
  paradigm: N_front
  trans_en: 
- trans_ru: зрачок, зеница (ока
+ trans_ru: зрачок, зеница (ока)
 
 -lexeme
  lex: вidjutə
@@ -1891,7 +1891,7 @@
 
 -lexeme
  lex: вijə в
- stem: вijə в.
+ stem: вijə.
  gramm: PREP
  paradigm: unchangeable
  trans_en: 
@@ -1925,7 +1925,7 @@
  lex: вil
  stem: вil.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: между, cреди
 
@@ -2266,7 +2266,7 @@
  gramm: N,f
  paradigm: N_front
  trans_en: 
- trans_ru: молодость (женщины
+ trans_ru: молодость (женщины)
 
 -lexeme
  lex: вrəzə
@@ -2282,7 +2282,7 @@
  gramm: ADJ
  paradigm: ADJ_front
  trans_en: 
- trans_ru: сухой (старик
+ trans_ru: сухой (старик)
 
 -lexeme
  lex: вriliant
@@ -2304,7 +2304,7 @@
  lex: вriş/в riş
  stem: вriş.//в riş.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: с, на
 
@@ -2539,21 +2539,21 @@
  lex: вut
  stem: вut.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-back
  trans_en: 
  trans_ru: о, (радоваться) за
 
 -lexeme
- lex: вuttə/вutə I
- stem: вuttə.//вutt.//вutə I.|вuttəti.//вuttət.//вutəti.//вutət.
+ lex: вuttə/вutə
+ stem: вuttə.//вutt.//вutə.|вuttəti.//вuttət.//вutəti.//вutət.
  gramm: N,f
  paradigm: N_front
  trans_en: 
  trans_ru: рукав
 
 -lexeme
- lex: вuttə/вutə II
- stem: вuttə.//вutt.//вutə II.|вuttəti.//вuttət.//вutəti.//вutət.
+ lex: вuttə/вutə
+ stem: вuttə.//вutt.//вutə.|вuttəti.//вuttət.//вutəti.//вutət.
  gramm: N,f
  paradigm: N_front
  trans_en: 
@@ -2742,7 +2742,7 @@
  gramm: V
  paradigm: V_4c_back
  trans_en: 
- trans_ru: срывать; разрывать(ся
+ trans_ru: срывать; разрывать(ся)
 
 -lexeme
  lex: capcupь
@@ -2774,7 +2774,7 @@
  gramm: N,f
  paradigm: N_back
  trans_en: 
- trans_ru: средство, мера; выход (из положения
+ trans_ru: средство, мера; выход (из положения)
 
 -lexeme
  lex: carcujь
@@ -2903,7 +2903,7 @@
  gramm: V
  paradigm: V_4c_front
  trans_en: 
- trans_ru: бить (звук барабана
+ trans_ru: бить (звук барабана)
 
 -lexeme
  lex: cəngələ
@@ -3183,7 +3183,7 @@
  gramm: V
  paradigm: V_I_2j_front
  trans_en: 
- trans_ru: махнуть, пожать (чем-то
+ trans_ru: махнуть, пожать (чем-то)
 
 -lexeme
  lex: clapa
@@ -3210,8 +3210,8 @@
  trans_ru: чабан; пастух
 
 -lexeme
- lex: col I
- stem: col I.|<UNKNOWN>.|<UNKNOWN>.
+ lex: col
+ stem: col.|<UNKNOWN>.|<UNKNOWN>.
  gramm: ADJ
  paradigm: ADJ_back
  paradigm: ADJ_front
@@ -3219,8 +3219,8 @@
  trans_ru: голый
 
 -lexeme
- lex: col II
- stem: col II.|coli.//col.
+ lex: col
+ stem: col.|coli.//col.
  gramm: N,f
  paradigm: N_back
  paradigm: N_front
@@ -3434,7 +3434,7 @@
  gramm: N,f
  paradigm: N_back
  trans_en: 
- trans_ru: сбор (урожая
+ trans_ru: сбор (урожая)
 
 -lexeme
  lex: çammujь
@@ -3602,7 +3602,7 @@
  gramm: V
  paradigm: V_4c_front
  trans_en: 
- trans_ru: кричать (обезьяна
+ trans_ru: кричать (обезьяна)
 
 -lexeme
  lex: çərgə
@@ -3618,7 +3618,7 @@
  gramm: V
  paradigm: V_II_front
  trans_en: 
- trans_ru: скользить, течь (о воде
+ trans_ru: скользить, течь (о воде)
 
 -lexeme
  lex: çərupə
@@ -3634,7 +3634,7 @@
  gramm: N,f
  paradigm: N_front
  trans_en: 
- trans_ru: «розыск», (т
+ trans_ru: «розыск»
 
 -lexeme
  lex: çəsusə
@@ -3908,7 +3908,7 @@
  gramm: N,m
  paradigm: N_front
  trans_en: 
- trans_ru: юноша (ум
+ trans_ru: юноша (ум)
 
 -lexeme
  lex: çvənqutə
@@ -4028,7 +4028,7 @@
  gramm: V
  paradigm: V_4c_back
  trans_en: 
- trans_ru: слезиться (о глазах
+ trans_ru: слезиться (о глазах)
 
 -lexeme
  lex: dana
@@ -4119,8 +4119,8 @@
  trans_ru: полотенце
 
 -lexeme
- lex: data I
- stem: data I.|<UNKNOWN>.
+ lex: data
+ stem: data.|<UNKNOWN>.
  gramm: N,f
  paradigm: N_back
  trans_en: 
@@ -4482,7 +4482,7 @@
  lex: dərqul
  stem: dərqul.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: против
 
@@ -4866,7 +4866,7 @@
  lex: dlə
  stem: dlə.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: без
 
@@ -5296,7 +5296,7 @@
  gramm: PRON
  paradigm: unchangeable
  trans_en: 
- trans_ru: который (относительное местоимение); который (вопросительное местоимение
+ trans_ru: который (относительное местоимение); который (вопросительное местоимение)
 
 -lexeme
  lex: əвəd
@@ -5520,7 +5520,7 @@
  gramm: V
  paradigm: V_II_3j_front
  trans_en: 
- trans_ru: свертываться (о крови
+ trans_ru: свертываться (о крови)
 
 -lexeme
  lex: ərəq
@@ -5595,16 +5595,16 @@
  trans_ru: задерживаться
 
 -lexeme
- lex: ərzijвən-
+ lex: ərzijвən
  stem: ərzijвən.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: вокруг
 
 -lexeme
  lex: ərzijвəni d
- stem: ərzijвəni d.
+ stem: ərzijвəni.
  gramm: PREP
  paradigm: unchangeable
  trans_en: 
@@ -5656,7 +5656,7 @@
  gramm: N
  paradigm: N_front
  trans_en: 
- trans_ru: жалоба (в суд
+ trans_ru: жалоба (в суд)
 
 -lexeme
  lex: ərzən
@@ -5768,7 +5768,7 @@
  gramm: CONJ
  paradigm: unchangeable
  trans_en: 
- trans_ru: как (союз сравнительный), как (союз временной
+ trans_ru: как (союз сравнительный), как (союз временной)
 
 -lexeme
  lex: əxcij
@@ -5963,7 +5963,7 @@
  gramm: N
  paradigm: N_back
  trans_en: 
- trans_ru: гармония (музыкальный инструмент
+ trans_ru: гармония (музыкальный инструмент)
 
 -lexeme
  lex: garug
@@ -5971,7 +5971,7 @@
  gramm: N,f
  paradigm: N_back
  trans_en: 
- trans_ru: ласка (зверь
+ trans_ru: ласка (зверь)
 
 -lexeme
  lex: gazarta
@@ -6139,7 +6139,7 @@
  gramm: V
  paradigm: V_II_front
  trans_en: 
- trans_ru: открывать (тайну
+ trans_ru: открывать (тайну)
 
 -lexeme
  lex: gəmgumi
@@ -6339,7 +6339,7 @@
  gramm: V
  paradigm: V_II_front
  trans_en: 
- trans_ru: смотреть, разбирать (дело, спор
+ trans_ru: смотреть, разбирать (дело, спор)
 
 -lexeme
  lex: gəvə
@@ -6371,7 +6371,7 @@
  gramm: N
  paradigm: N_front
  trans_en: 
- trans_ru: ямочка (на лице
+ trans_ru: ямочка (на лице)
 
 -lexeme
  lex: gəƶƶuni
@@ -6379,7 +6379,7 @@
  gramm: V
  paradigm: V_4c_front
  trans_en: 
- trans_ru: одуреть (от радости
+ trans_ru: одуреть (от радости)
 
 -lexeme
  lex: giвə/giвв
@@ -6571,7 +6571,7 @@
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
- trans_ru: садиться (о солнце); склоняться, переваливаться (из стороны в сторону
+ trans_ru: садиться (о солнце); склоняться, переваливаться (из стороны в сторону)
 
 -lexeme
  lex: gnəhə
@@ -6593,7 +6593,7 @@
  lex: go/gu/gəv
  stem: go.//gu.//gəv.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: в, по
 
@@ -6742,7 +6742,7 @@
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
- trans_ru: рвать (безл
+ trans_ru: рвать (безл)
 
 -lexeme
  lex: guввu
@@ -6778,8 +6778,8 @@
  trans_ru: кулак
 
 -lexeme
- lex: guçə I
- stem: guçə I.|guçi.//guç.
+ lex: guçə
+ stem: guçə.|guçi.//guç.
  gramm: N,m
  paradigm: N_front
  trans_en: 
@@ -7361,7 +7361,7 @@
  gramm: N,f
  paradigm: N_front
  trans_en: 
- trans_ru: повод, причина, предмет (любви
+ trans_ru: повод, причина, предмет (любви)
 
 -lexeme
  lex: həd
@@ -7377,7 +7377,7 @@
  gramm: N,m
  paradigm: N_front
  trans_en: 
- trans_ru: член (семьи
+ trans_ru: член (семьи)
 
 -lexeme
  lex: həddi-sinnuri
@@ -7423,7 +7423,8 @@
  lex: həl/hal
  stem: həl.//hal.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
+ paradigm: poss-back
  trans_en: 
  trans_ru: до
 
@@ -7463,7 +7464,7 @@
  lex: həm
  stem: həm.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: до
 
@@ -7673,7 +7674,7 @@
  gramm: INTERJ
  paradigm: unchangeable
  trans_en: 
- trans_ru: да, точно так (утвердительный ответ
+ trans_ru: да, точно так (утвердительный ответ)
 
 -lexeme
  lex: hic
@@ -8133,16 +8134,16 @@
  trans_ru: шестнадцать
 
 -lexeme
- lex: iştə I
- stem: iştə I.
+ lex: iştə
+ stem: iştə.
  gramm: NUM
  paradigm: unchangeable
  trans_en: 
  trans_ru: шесть
 
 -lexeme
- lex: iştə II
- stem: iştə II.|<UNKNOWN>.
+ lex: iştə
+ stem: iştə.|<UNKNOWN>.
  gramm: N,f
  paradigm: N_front
  trans_en: 
@@ -8804,7 +8805,7 @@
  gramm: N,f
  paradigm: N_front
  trans_en: 
- trans_ru: гребень (волны
+ trans_ru: гребень (волны)
 
 -lexeme
  lex: kəkunə
@@ -9020,7 +9021,7 @@
  gramm: V
  paradigm: V_4c_front
  trans_en: 
- trans_ru: стягивать (бинтами), складывать (бумагу
+ trans_ru: стягивать (бинтами), складывать (бумагу)
 
 -lexeme
  lex: kərpic
@@ -9076,7 +9077,7 @@
  gramm: V
  paradigm: V_II_3j_front
  trans_en: 
- trans_ru: скрывать, заглушать (чувства
+ trans_ru: скрывать, заглушать (чувства)
 
 -lexeme
  lex: kətərə
@@ -9124,7 +9125,7 @@
  gramm: V
  paradigm: V_4c_front
  trans_en: 
- trans_ru: всхлипывать, выть (о человеке
+ trans_ru: всхлипывать, выть (о человеке)
 
 -lexeme
  lex: kətləntə
@@ -9330,7 +9331,7 @@
  lex: kis
  stem: kis.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: у, около
 
@@ -9484,7 +9485,7 @@
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
- trans_ru: оставаться, располагаться, держаться (на ногах); стать (конструкция будущего вр
+ trans_ru: оставаться, располагаться, держаться (на ногах); стать (конструкция будущего вр)
 
 -lexeme
  lex: kmala
@@ -9654,7 +9655,7 @@
  gramm: V
  paradigm: V_I_front
  trans_en: 
- trans_ru: щелкать (семечки
+ trans_ru: щелкать (семечки)
 
 -lexeme
  lex: krəjə
@@ -10013,9 +10014,9 @@
 
 -lexeme
  lex: l
- stem: l.//lə.//ill-.
+ stem: l.//lə.//ill.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: к, на
 
@@ -10161,7 +10162,7 @@
  lex: ləв/ləвi
  stem: ləв.//ləвi.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: к, до
 
@@ -10259,7 +10260,7 @@
  gramm: N
  paradigm: N_front
  trans_en: 
- trans_ru: дядька (воспитатель
+ trans_ru: дядька (воспитатель)
 
 -lexeme
  lex: lə masjatta
@@ -10454,7 +10455,7 @@
  trans_ru: беспокойство
 
 -lexeme
- lex: l ərzijвəni d/l ərzijвən-
+ lex: l ərzijвəni d/l ərzijвən
  stem: l ərzijвəni d.//l ərzijвən.
  gramm: PREP
  paradigm: unchangeable
@@ -10561,7 +10562,7 @@
  lex: lgiв
  stem: lgiв.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: к, в сторону
 
@@ -10627,7 +10628,7 @@
  gramm: N
  paradigm: N_front
  trans_en: 
- trans_ru: язык (орган); язык (средство общения
+ trans_ru: язык (орган); язык (средство общения)
 
 -lexeme
  lex: lit/let
@@ -10673,7 +10674,7 @@
  lex: lkisl
  stem: lkisl.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: у, при, к
 
@@ -11675,7 +11676,7 @@
  gramm: V
  paradigm: V_4c_back
  trans_en: 
- trans_ru: таращить (глаза
+ trans_ru: таращить (глаза)
 
 -lexeme
  lex: masveta
@@ -11779,7 +11780,7 @@
  gramm: V
  paradigm: V_4c_back
  trans_en: 
- trans_ru: потупить (глаза), закатить (глаза
+ trans_ru: потупить (глаза), закатить (глаза)
 
 -lexeme
  lex: maţţunь
@@ -12101,7 +12102,7 @@
  gramm: V
  paradigm: V_4c_front
  trans_en: 
- trans_ru: двигать, пожимать (плечами
+ trans_ru: двигать, пожимать (плечами)
 
 -lexeme
  lex: mədinxə
@@ -12597,7 +12598,7 @@
  gramm: V
  paradigm: V_4c_front
  trans_en: 
- trans_ru: приладить; подобрать (лапы
+ trans_ru: приладить; подобрать (лапы)
 
 -lexeme
  lex: məmxuji
@@ -13125,7 +13126,7 @@
  gramm: V
  paradigm: V_4c_front
  trans_en: 
- trans_ru: обливаться (слезами
+ trans_ru: обливаться (слезами)
 
 -lexeme
  lex: məssumi
@@ -13381,7 +13382,7 @@
  gramm: V
  paradigm: V_4c_front
  trans_en: 
- trans_ru: повесить (подвергнуть казни
+ trans_ru: повесить (подвергнуть казни)
 
 -lexeme
  lex: məxpuli
@@ -13469,7 +13470,7 @@
  gramm: V
  paradigm: V_4c_3j_front
  trans_en: 
- trans_ru: показывать, оказывать (помощь
+ trans_ru: показывать, оказывать (помощь)
 
 -lexeme
  lex: məzhəвəjə
@@ -13597,7 +13598,7 @@
  gramm: N,pl_tant
  paradigm: N_front
  trans_en: 
- trans_ru: Крещение (праздник
+ trans_ru: Крещение (праздник)
 
 -lexeme
  lex: mijlə
@@ -13681,9 +13682,17 @@
 
 -lexeme
  lex: min/minn/m
- stem: min.//minn.//m.
- gramm: PREP
+ stem: m.
+ gramm: PREP,nonposs
  paradigm: unchangeable
+ trans_en: 
+ trans_ru: от, из, сквозь, с
+
+-lexeme
+ lex: min/minn/m
+ stem: min.//minn.
+ gramm: PREP
+ paradigm: poss-front
  trans_en: 
  trans_ru: от, из, сквозь, с
 
@@ -13721,9 +13730,9 @@
 
 -lexeme
  lex: min go/mgo
- stem: min go.//mgo.
+ stem: min go.//mgo.//mgəv.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: по, из
 
@@ -14037,7 +14046,7 @@
  lex: mqəm/m qəm
  stem: mqəm.//m qəm.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: от
 
@@ -15201,7 +15210,7 @@
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
- trans_ru: ныть (болеть
+ trans_ru: ныть (болеть)
 
 -lexeme
  lex: noвə
@@ -17426,7 +17435,7 @@
  gramm: N
  paradigm: N_back
  trans_en: 
- trans_ru: атлас (ткань
+ trans_ru: атлас (ткань)
 
 -lexeme
  lex: qapitan/qapiţan
@@ -17808,7 +17817,7 @@
  lex: qə
  stem: qə.//qət.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: к, для; предлог прямого дополнения
 
@@ -18032,7 +18041,7 @@
  lex: qəm
  stem: qəm.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: перед; из-за
 
@@ -18071,7 +18080,7 @@
 -lexeme
  lex: qəməjt/qəməjut
  stem: qəməjt.//qəməjut.
- gramm: PREP
+ gramm: poss-front
  paradigm: unchangeable
  trans_en: 
  trans_ru: впереди
@@ -18079,7 +18088,7 @@
 -lexeme
  lex: qəmə-qəm
  stem: qəmə-qəm.
- gramm: PREP
+ gramm: poss-front
  paradigm: unchangeable
  trans_en: 
  trans_ru: перед
@@ -18266,7 +18275,7 @@
  gramm: N
  paradigm: N_front
  trans_en: 
- trans_ru: кавалер (ордена
+ trans_ru: кавалер (ордена)
 
 -lexeme
  lex: qəvəltə/qəvvəltə
@@ -18370,7 +18379,7 @@
  gramm: V
  paradigm: V_4c_front
  trans_en: 
- trans_ru: шуметь (о воде
+ trans_ru: шуметь (о воде)
 
 -lexeme
  lex: qiвitqə
@@ -19076,7 +19085,7 @@
  lex: qurв
  stem: qurв.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: рядом
 
@@ -19102,7 +19111,7 @@
  gramm: PREP
  paradigm: unchangeable
  trans_en: 
- trans_ru: около (приблизительно
+ trans_ru: около (приблизительно)
 
 -lexeme
  lex: qurвəвi
@@ -19455,7 +19464,7 @@
  gramm: N
  paradigm: N_back
  trans_en: 
- trans_ru: вечер (время суток); вечер (вечеринка
+ trans_ru: вечер (время суток); вечер (вечеринка)
 
 -lexeme
  lex: ramuta
@@ -19811,10 +19820,10 @@
  trans_ru: рыцарь
 
 -lexeme
- lex: riş/riş-
+ lex: riş
  stem: riş.//riş-.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: за
 
@@ -19824,7 +19833,7 @@
  gramm: N
  paradigm: N_front
  trans_en: 
- trans_ru: голова, конец (рядов), носок (обуви
+ trans_ru: голова, конец (рядов), носок (обуви)
 
 -lexeme
  lex: rişəjə
@@ -19840,7 +19849,7 @@
  gramm: N
  paradigm: N_front
  trans_en: 
- trans_ru: перевес (победа
+ trans_ru: перевес (победа)
 
 -lexeme
  lex: rişvət
@@ -19912,7 +19921,7 @@
  gramm: V
  paradigm: V_I_back
  trans_en: 
- trans_ru: мигать (диал
+ trans_ru: мигать (диал)
 
 -lexeme
  lex: rom
@@ -20370,7 +20379,7 @@
  gramm: V
  paradigm: V_4c_back
  trans_en: 
- trans_ru: навострить (уши
+ trans_ru: навострить (уши)
 
 -lexeme
  lex: sansulь
@@ -20586,7 +20595,7 @@
  gramm: N
  paradigm: N_back
  trans_en: 
- trans_ru: сааз (турецкая балалайка
+ trans_ru: сааз (турецкая балалайка)
 
 -lexeme
  lex: saz
@@ -20843,7 +20852,7 @@
  gramm: V
  paradigm: V_II_3j_front
  trans_en: 
- trans_ru: приказывать, поручать, вверять (тайну), выдавать; сдаваться; предаваться (эмоциям, страху
+ trans_ru: приказывать, поручать, вверять (тайну), выдавать; сдаваться; предаваться (эмоциям, страху)
 
 -lexeme
  lex: səpuqi
@@ -21011,7 +21020,7 @@
  gramm: N
  paradigm: N_front
  trans_en: 
- trans_ru: дедушка, дедушка (обращение
+ trans_ru: дедушка, дедушка (обращение)
 
 -lexeme
  lex: səxвuri
@@ -21549,7 +21558,7 @@
  gramm: N
  paradigm: N_back
  trans_en: 
- trans_ru: гоголь (птица
+ trans_ru: гоголь (птица)
 
 -lexeme
  lex: sotə
@@ -21582,7 +21591,7 @@
  paradigm: N_back
  paradigm: N_front
  trans_en: 
- trans_ru: совет (орган власти
+ trans_ru: совет (орган власти)
 
 -lexeme
  lex: sovetniq
@@ -22129,7 +22138,7 @@
  gramm: N
  paradigm: N_back
  trans_en: 
- trans_ru: плавание (фразовый глагол mx
+ trans_ru: плавание (фразовый глагол mx)
 
 -lexeme
  lex: şadlaxanuta
@@ -22714,7 +22723,7 @@
  gramm: N
  paradigm: N_front
  trans_en: 
- trans_ru: черный камень (агат, черный янтарь
+ trans_ru: черный камень (агат, черный янтарь)
 
 -lexeme
  lex: şəvitənə
@@ -22802,7 +22811,7 @@
  gramm: ADJ
  paradigm: ADJ_front
  trans_en: 
- trans_ru: целый (весь, полный
+ trans_ru: целый (весь, полный)
 
 -lexeme
  lex: şijrə
@@ -22818,7 +22827,7 @@
  gramm: ADJ
  paradigm: ADJ_front
  trans_en: 
- trans_ru: сочный, жирный (почва
+ trans_ru: сочный, жирный (почва)
 
 -lexeme
  lex: şijşə
@@ -22938,7 +22947,7 @@
  gramm: N
  paradigm: N_front
  trans_en: 
- trans_ru: сон (состояние
+ trans_ru: сон (состояние)
 
 -lexeme
  lex: şintənə
@@ -23042,7 +23051,7 @@
  gramm: V
  paradigm: V_I_2j_back
  trans_en: 
- trans_ru: растапливать (печи
+ trans_ru: растапливать (печи)
 
 -lexeme
  lex: şjaşa/şşaşa
@@ -23268,7 +23277,7 @@
  gramm: V
  paradigm: V_4c_front
  trans_en: 
- trans_ru: взятие (города
+ trans_ru: взятие (города)
 
 -lexeme
  lex: şraja
@@ -23316,7 +23325,7 @@
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
- trans_ru: развязывать, распутывать; расстегивать; распускать (волосы); останавливаться (на ночлег
+ trans_ru: развязывать, распутывать; расстегивать; распускать (волосы); останавливаться (на ночлег)
 
 -lexeme
  lex: şrəqə
@@ -23791,7 +23800,7 @@
  gramm: ADJ
  paradigm: ADJ_back
  trans_en: 
- trans_ru: исполнительный, исправный (старательный
+ trans_ru: исполнительный, исправный (старательный)
 
 -lexeme
  lex: tanьş
@@ -23975,7 +23984,7 @@
  gramm: N
  paradigm: N_front
  trans_en: 
- trans_ru: детали (рассказа, плана
+ trans_ru: детали (рассказа, плана)
 
 -lexeme
  lex: təgвərtə
@@ -24207,7 +24216,7 @@
  gramm: V
  paradigm: V_4c_front
  trans_en: 
- trans_ru: коптить (intr
+ trans_ru: коптить (intr)
 
 -lexeme
  lex: təntusi
@@ -24279,7 +24288,7 @@
  gramm: V
  paradigm: V_II_3j_front
  trans_en: 
- trans_ru: топить (печь
+ trans_ru: топить (печь)
 
 -lexeme
  lex: təpuxi
@@ -24287,7 +24296,7 @@
  gramm: V
  paradigm: V_II_front
  trans_en: 
- trans_ru: проливать (кровь
+ trans_ru: проливать (кровь)
 
 -lexeme
  lex: təq
@@ -24511,7 +24520,7 @@
  gramm: ADV
  paradigm: unchangeable
  trans_en: 
- trans_ru: завтра (класс
+ trans_ru: завтра (класс)
 
 -lexeme
  lex: tinnə
@@ -24583,7 +24592,7 @@
  gramm: V
  paradigm: V_I_2j_front
  trans_en: 
- trans_ru: сажать (деревья
+ trans_ru: сажать (деревья)
 
 -lexeme
  lex: tjəmə
@@ -24623,7 +24632,7 @@
  gramm: V
  paradigm: V_I_2j_front
  trans_en: 
- trans_ru: садиться, сидеть, лежать (о снеге
+ trans_ru: садиться, сидеть, лежать (о снеге)
 
 -lexeme
  lex: tjəvutə
@@ -25588,7 +25597,7 @@
  gramm: V
  paradigm: V_I_3j_back
  trans_en: 
- trans_ru: ехать (на лошади, в повозке
+ trans_ru: ехать (на лошади, в повозке)
 
 -lexeme
  lex: ţrapa
@@ -25850,7 +25859,7 @@
  lex: ullul
  stem: ullul.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-back
  trans_en: 
  trans_ru: над
 
@@ -26037,7 +26046,7 @@
  gramm: V
  paradigm: V_4c_back
  trans_en: 
- trans_ru: выть (о ветре), свистеть (о пулях
+ trans_ru: выть (о ветре), свистеть (о пулях)
 
 -lexeme
  lex: vara
@@ -26061,7 +26070,7 @@
  gramm: N
  paradigm: N_back
  trans_en: 
- trans_ru: вой (ветра
+ trans_ru: вой (ветра)
 
 -lexeme
  lex: vazvuzь
@@ -26086,7 +26095,7 @@
  gramm: PART
  paradigm: unchangeable
  trans_en: 
- trans_ru: вон (указательная частица
+ trans_ru: вон (указательная частица)
 
 -lexeme
  lex: vers/verstə
@@ -26111,7 +26120,7 @@
  gramm: PART
  paradigm: unchangeable
  trans_en: 
- trans_ru: ли (вопросительная частица
+ trans_ru: ли (вопросительная частица)
 
 -lexeme
  lex: vədə
@@ -26279,7 +26288,7 @@
  gramm: V
  paradigm: V_I_back
  trans_en: 
- trans_ru: есть (принимать пищу
+ trans_ru: есть (принимать пищу)
 
 -lexeme
  lex: xalвana
@@ -26695,7 +26704,7 @@
  gramm: N
  paradigm: N_front
  trans_en: 
- trans_ru: соединение (встреча
+ trans_ru: соединение (встреча)
 
 -lexeme
  lex: xəjji
@@ -27087,7 +27096,7 @@
  gramm: N
  paradigm: N_front
  trans_en: 
- trans_ru: мак (растение
+ trans_ru: мак (растение)
 
 -lexeme
  lex: xəƶвuni
@@ -27495,7 +27504,7 @@
  gramm: V
  paradigm: V_I_3j_front
  trans_en: 
- trans_ru: подходить (о тесте
+ trans_ru: подходить (о тесте)
 
 -lexeme
  lex: xmələ
@@ -27657,7 +27666,7 @@
  gramm: V
  paradigm: V_I_front
  trans_en: 
- trans_ru: выстраивать в линию, нанизывать, скалить (зубы
+ trans_ru: выстраивать в линию, нанизывать, скалить (зубы)
 
 -lexeme
  lex: xruţa
@@ -27721,7 +27730,7 @@
  gramm: V
  paradigm: V_I_back
  trans_en: 
- trans_ru: хлопать (дверью
+ trans_ru: хлопать (дверью)
 
 -lexeme
  lex: xţьjta
@@ -27777,7 +27786,7 @@
  gramm: N
  paradigm: N_back
  trans_en: 
- trans_ru: кружок (в университете
+ trans_ru: кружок (в университете)
 
 -lexeme
  lex: xujədə
@@ -27864,7 +27873,7 @@
  lex: xut/txut
  stem: xut.//txut.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: под
 
@@ -27888,7 +27897,7 @@
  lex: xutə-xut/txutə-txut
  stem: xutə-xut.//txutə-txut.
  gramm: PREP
- paradigm: unchangeable
+ paradigm: poss-front
  trans_en: 
  trans_ru: под
 
@@ -28010,7 +28019,7 @@
  gramm: N
  paradigm: N_front
  trans_en: 
- trans_ru: заключение (место лишения свободы
+ trans_ru: заключение (место лишения свободы)
 
 -lexeme
  lex: xvьjra
@@ -28098,7 +28107,7 @@
  gramm: N
  paradigm: N_back
  trans_en: 
- trans_ru: сладкое, сласти (pl
+ trans_ru: сладкое, сласти (pl)
 
 -lexeme
  lex: xьlţa
@@ -28186,7 +28195,7 @@
  gramm: N
  paradigm: N_back
  trans_en: 
- trans_ru: молодое животное или птица, детеныш (кроме детенышей собаки
+ trans_ru: молодое животное или птица, детеныш (кроме детенышей собаки)
 
 -lexeme
  lex: zal/zala
@@ -28202,7 +28211,7 @@
  gramm: V
  paradigm: V_I_back
  trans_en: 
- trans_ru: прясть (шерсть
+ trans_ru: прясть (шерсть)
 
 -lexeme
  lex: zalmana
@@ -28586,7 +28595,7 @@
  gramm: V
  paradigm: V_II_front
  trans_en: 
- trans_ru: улаживать (упряжь
+ trans_ru: улаживать (упряжь)
 
 -lexeme
  lex: zəvugi
@@ -28898,7 +28907,7 @@
  gramm: V
  paradigm: V_I_front
  trans_en: 
- trans_ru: восходить (о светилах
+ trans_ru: восходить (о светилах)
 
 -lexeme
  lex: zrəqə
@@ -28963,7 +28972,7 @@
  gramm: N
  paradigm: N_front
  trans_en: 
- trans_ru: монета, деньги (pl
+ trans_ru: монета, деньги (pl)
 
 -lexeme
  lex: zvəjə
