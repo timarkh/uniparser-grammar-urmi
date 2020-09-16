@@ -27,7 +27,7 @@
   gramm: p.2,p.sg,p.f
  -flex: .u
   gramm: p.3,p.sg,p.m
- -flex: .ə
+ -flex: .o
   gramm: p.3,p.sg,p.f
  -flex: .enij//.ən
   gramm: p.1,p.pl
