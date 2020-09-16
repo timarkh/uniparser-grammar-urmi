@@ -690,7 +690,7 @@
 
 -lexeme
  lex: в
- stem: в.//вi.//вij-.
+ stem: в.//вij.//вijj.
  gramm: PREP
  paradigm: poss-front
  trans_en: 
@@ -8559,10 +8559,10 @@
  trans_ru: утешение
 
 -lexeme
- lex: jəvə/jəvuli
- stem: .jv/jvl.
+ lex: jəvə/juvili
+ stem: .j.v.//.j.vv.|.j.v.l.//.j.vv.l.|.h.l.|.h.l.l.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_jəvə
  trans_en: 
  trans_ru: давать
 
@@ -9329,7 +9329,7 @@
 
 -lexeme
  lex: kis
- stem: kis.
+ stem: kis.//kisl.
  gramm: PREP
  paradigm: poss-front
  trans_en: 
@@ -18080,16 +18080,16 @@
 -lexeme
  lex: qəməjt/qəməjut
  stem: qəməjt.//qəməjut.
- gramm: poss-front
- paradigm: unchangeable
+ gramm: PREP
+ paradigm: poss-front
  trans_en: 
  trans_ru: впереди
 
 -lexeme
  lex: qəmə-qəm
  stem: qəmə-qəm.
- gramm: poss-front
- paradigm: unchangeable
+ gramm: PREP
+ paradigm: poss-front
  trans_en: 
  trans_ru: перед
 
@@ -26139,10 +26139,10 @@
  trans_ru: ведро
 
 -lexeme
- lex: vəjə
- stem: .vj.|.v
+ lex: həvi/vəjə
+ stem: .h.v.|.h.|.v.j.//.v.jj.|.v.
  gramm: V
- paradigm: V_I_3j_front
+ paradigm: V_vəjə
  trans_en: 
  trans_ru: быть, становиться
 
