@@ -29206,7 +29206,7 @@
 
 -lexeme
  lex: ьtanaja
- stem: ьtanaja.//ьtanaj.|ьtaneta.//ьtanet.//pl. ьtanajь.//pl. ьtanaj.|<UNKNOWN>.
+ stem: ьtanaja.//ьtanaj.|ьtaneta.//ьtanet.//ьtanajь.//ьtanaj.|<UNKNOWN>.
  gramm: ADJ
  paradigm: ADJ_back
  trans_en: churchly, ecclesiactical

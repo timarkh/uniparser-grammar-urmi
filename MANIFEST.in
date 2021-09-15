@@ -1,0 +1,4 @@
+include uniparser_urmi/data_strict/*.txt
+include uniparser_urmi/data_nodiacritics/*.txt
+include uniparser_urmi/data_strict/*.cg3
+include uniparser_urmi/data_nodiacritics/*.cg3
