@@ -30,11 +30,11 @@ for ana in analyses:
 # output format ('xml', 'json' or 'conll')
 # If you pass a list, you will get a list of analyses
 # with the same structure
-analyses = a.analyze_words([['вajjannux'], ['ʕəbarwo', 'lab', 'bote', '.']],
+analyses = a.analyze_words([['вajjannux'], ['Ptixli', 'tarra', 'd', 'xə', 'вetə', '.']],
 	                       format='xml')
-analyses = a.analyze_words([['вajjannux'], ['ʕəbarwo', 'lab', 'bote', '.']],
+analyses = a.analyze_words([['вajjannux'], ['Ptixli', 'tarra', 'd', 'xə', 'вetə', '.']],
 	                       format='conll')
-analyses = a.analyze_words(['вajjannux', [['laḥmawo'], ['ʕəbarwo', 'lab', 'bote', '.']]],
+analyses = a.analyze_words(['вajjannux', [['вəxtə'], ['Ptixli', 'tarra', 'd', 'xə', 'вetə', '.']]],
 	                       format='json')
 ```
 
@@ -51,7 +51,7 @@ python3 -m uniparser_urmi вajjannux
 Apart from the analyzer, this repository contains a set of [Constraint Grammar](https://visl.sdu.dk/constraint_grammar.html) rules that can be used for partial disambiguation of analyzed Urmi texts. If you want to use them, set ``disambiguation=True`` when calling ``analyze_words``:
 
 ```python
-analyses = a.analyze_words(['ʕəbarwo', 'lab', 'bote', '.'], disambiguate=True)
+analyses = a.analyze_words(['Ptixli', 'tarra', 'd', 'xə', 'вetə', '.'], disambiguate=True)
 ```
 
 In order for this to work, you have to install the ``cg3`` executable separately. On Ubuntu/Debian, you can use ``apt-get``:
