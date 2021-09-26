@@ -19890,10 +19890,10 @@
  trans_ru: далеко
 
 -lexeme
- lex: rixşə
- stem: .r.x.ş.
+ lex: zələ/rixşə
+ stem: .z.l.|.z.|.x.ş.|.r.x.ş.|si.
  gramm: V
- paradigm: V_I_front
+ paradigm: V_go
  trans_en: to go
  trans_ru: идти
 
@@ -28458,14 +28458,6 @@
  paradigm: V_4c_front
  trans_en: to turn pale
  trans_ru: бледнеть
-
--lexeme
- lex: zələ
- stem: .zl.
- gramm: V
- paradigm: V_I_front
- trans_en: to go
- trans_ru: идти
 
 -lexeme
  lex: zəllu

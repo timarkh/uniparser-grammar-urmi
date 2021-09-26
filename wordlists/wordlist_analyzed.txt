@@ -127,12 +127,13 @@
 <w><ana lex="səвəв" gr="CONJ" trans_en="because" trans_ru="потому что, ибо"></ana><ana lex="səвəв" gr="N,sg,nonposs" trans_en="reason, cause" trans_ru="причина"></ana>səвəв</w>
 <w><ana lex="jumə/jumm" gr="N,m,pl,nonposs" trans_en="" trans_ru="1) день"></ana>juməni</w>
 <w><ana lex="mud/mudij/mu" gr="PRON" trans_en="what" trans_ru="что"></ana>mu</w>
+<w><ana lex="zələ/rixşə" gr="V,pst,3,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>xişli</w>
 <w><ana lex="şitə" gr="N,sg,nonposs" trans_en="year" trans_ru="год"></ana>şitə</w>
 <w><ana lex="gənə" gr="N,sg,p.3,p.pl" trans_en="person, soul, spirit, life" trans_ru="лицо (персона), душа"></ana>gəne</w>
 <w><ana lex="əqlə" gr="N,f,sg,p.3,p.sg,p.m" trans_en="leg" trans_ru="нога"></ana>əqlu</w>
 <w><ana lex="xinə" gr="ADJ,f,sg,nonposs" trans_en="another" trans_ru="другой"></ana>xitə</w>
 <w><ana lex="вəxtə" gr="N,f,sg,nonposs" trans_en="woman, wife" trans_ru="женщина, жена"></ana>вəxtə</w>
-<w><ana lex="xuş" gr="PART" trans_en="let" trans_ru="пусть, пускай; побудительная частица"></ana>xuş</w>
+<w><ana lex="xuş" gr="PART" trans_en="let" trans_ru="пусть, пускай; побудительная частица"></ana><ana lex="zələ/rixşə" gr="V,imp,sg" trans_en="to go" trans_ru="идти"></ana>xuş</w>
 <w><ana lex="pjəşə" gr="V,prs,3,sg,f.s,non_obj" trans_en="to stay" trans_ru="оставаться; вспомогательный глагол при пассиве"></ana>peşə</w>
 <w><ana lex="вrətə" gr="N,f,sg,nonposs" trans_en="a daughter, a girl" trans_ru="1) дочь"></ana>вrətə</w>
 <w><ana lex="gənə" gr="N,sg,p.3,p.sg,p.f" trans_en="person, soul, spirit, life" trans_ru="лицо (персона), душа"></ana>gəno</w>
@@ -279,6 +280,7 @@
 <w><ana lex="mumkin/mumkun" gr="ADJ,m,sg,nonposs" trans_en="possible" trans_ru="возможный"></ana>mumkin</w>
 <w><ana lex="вixjə" gr="N,m,sg,nonposs" trans_en="cry" trans_ru="плач"></ana><ana lex="вxəjə" gr="V,ptcp.res,sg,m" trans_en="to cry, to weep" trans_ru="плакать"></ana>вixjə</w>
 <w><ana lex="kəlu" gr="N,f,sg,nonposs" trans_en="bride" trans_ru="невеста"></ana>kəlu</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.pst,3,pl,non_obj" trans_en="to go" trans_ru="идти"></ana><ana lex="zələ/rixşə" gr="V,prog,cop.pst,3,sg,non_obj" trans_en="to go" trans_ru="идти"></ana>вrixşivə</w>
 <w><ana lex="atra" gr="N,m,sg,nonposs" trans_en="country" trans_ru="страна"></ana>atra</w>
 <w><ana lex="gənə" gr="N,sg,nonposs" trans_en="person, soul, spirit, life" trans_ru="лицо (персона), душа"></ana>gənə</w>
 <w><ana lex="jaqura" gr="ADJ,f,sg,nonposs" trans_en="" trans_ru="тяжелый, грузный, тягостный"></ana>jaqurta</w>
@@ -322,9 +324,11 @@
 <w><ana lex="pjəşə" gr="V,pst,3,sg,f.s,non_obj" trans_en="to stay" trans_ru="оставаться; вспомогательный глагол при пассиве"></ana>pişlə</w>
 <w><ana lex="saldat" gr="N,pl,nonposs" trans_en="soldier" trans_ru="солдат"></ana>saldattь</w>
 <w><ana lex="qjəmə" gr="V,pst,3,sg,m.s,non_obj" trans_en="to arise, to get up" trans_ru="вставать, возникать"></ana>qimli</w>
+<w><ana lex="zələ/rixşə" gr="V,pst,3,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>xişlun</w>
 <w><ana lex="вar" gr="PREP,p.3,p.sg,p.m" trans_en="after" trans_ru="после"></ana><ana lex="вar/вir/вur" gr="N,m,sg,p.3,p.sg,p.m" trans_en="son" trans_ru="сын"></ana><ana lex="вara/вahra" gr="N,m,sg,p.3,p.sg,p.m" trans_en="light" trans_ru="свет"></ana>вaru</w>
 <w><ana lex="diştə" gr="N,f,sg,nonposs" trans_en="field" trans_ru="поле"></ana><ana lex="djəşə" gr="V,ptcp.res,sg,f" trans_en="to master" trans_ru="овладевать"></ana>diştə</w>
 <w><ana lex="npələ" gr="V,pst,3,sg,f.s,non_obj" trans_en="to fall; to attack; to be situated" trans_ru="упасть; напасть; находиться"></ana>npillə</w>
+<w><ana lex="zələ/rixşə" gr="V,pst,3,sg,f.s,non_obj" trans_en="to go" trans_ru="идти"></ana>xişlə</w>
 <w><ana lex="xəmşə" gr="NUM" trans_en="five" trans_ru="пять"></ana>xəmşə</w>
 <w><ana lex="araвana" gr="N,f,sg,nonposs" trans_en="a carriage, coach, cart, waggon" trans_ru="машина, повозка, тележка; обоз"></ana>araвana</w>
 <w><ana lex="xvara" gr="ADJ,pl,nonposs" trans_en="white" trans_ru="белый"></ana>xvarь</w>
@@ -333,6 +337,7 @@
 <w><ana lex="tjəvə" gr="V,pst,3,sg,m.s,non_obj" trans_en="to seat down, to sit, to lay (snow)" trans_ru="садиться, сидеть, лежать (о снеге)"></ana>tivli</w>
 <w><ana lex="seda/sedə" gr="N,sg,nonposs" trans_en="hunting, fishing" trans_ru="охота, рыбная ловля"></ana><ana lex="sjada" gr="V,prs,3,sg,f.s,non_obj" trans_en="to sneak, to aim" trans_ru="красться, прицеливаться"></ana>seda</w>
 <w><ana lex="xə" gr="NUM,m" trans_en="one; indefinite article" trans_ru="один; неопределенный артикль"></ana>xə-</w>
+<w><ana lex="zələ/rixşə" gr="V,prs,1,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>əzəx</w>
 <w><ana lex="dipnə" gr="N,f,sg,nonposs" trans_en="side" trans_ru="сторона, бок"></ana>dipnə</w>
 <w><ana lex="irвə" gr="N,m,pl,nonposs" trans_en="sheep" trans_ru="1) овца"></ana>irвi</w>
 <w><ana lex="mxəjə" gr="V,pst,3,sg,m.s,non_obj" trans_en="to blow (about the wind), to shove, to put in shackles, to glue, to clog, to beat, to play a musical instrument, to push" trans_ru="бить; запихивать, засовывать, приклеивать; заковывать в кандалы; играть на музыкальном инструменте; биться; дуть (о ветре); забиться"></ana>mxili</w>
@@ -385,6 +390,7 @@
 <w><ana lex="вetə" gr="N,m,pl,nonposs" trans_en="house, building" trans_ru="дом"></ana>вəti</w>
 <w><ana lex="nunə" gr="N,pl,nonposs" trans_en="fish" trans_ru="рыба"></ana>nuni</w>
 <w><ana lex="pumə/pumm" gr="N,sg,p.3,p.sg,p.m" trans_en="mouth" trans_ru="рот"></ana>pummu</w>
+<w><ana lex="zələ/rixşə" gr="V,prs,3,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>əzil</w>
 <w><ana lex="gdijlə" gr="N,m,pl,nonposs" trans_en="ice" trans_ru="лёд"></ana><ana lex="gdələ" gr="V,ptcp.res,pl" trans_en="to weave, braid, wreathe" trans_ru="плести"></ana>gdijli</w>
 <w><ana lex="xelənə" gr="ADJ,m,sg,nonposs" trans_en="strong, able, powerful" trans_ru="сильный, мощный"></ana>xelənə</w>
 <w><ana lex="dəstə" gr="N,f,sg,nonposs" trans_en="crowd, class (in hierarchy of officials)" trans_ru="класс (в иерархии чиновников); толпа"></ana>dəstə</w>
@@ -414,6 +420,7 @@
 <w><ana lex="pəkuri" gr="V,inf" trans_en="to examine, to look (around)" trans_ru="рассматривать, смотреть; осматриваться, оглядываться"></ana>pəkuri</w>
 <w><ana lex="təzə" gr="ADJ,m,sg,nonposs" trans_en="fresh, young" trans_ru="свежий, молодой"></ana><ana lex="təzə" gr="ADV" trans_en="just, recently" trans_ru="только что, недавно"></ana>təzə</w>
 <w><ana lex="zogə" gr="N,sg,nonposs" trans_en="pair" trans_ru="пара"></ana>zogə</w>
+<w><ana lex="zələ/rixşə" gr="V,prs,1,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>əzin</w>
 <w><ana lex="dənə" gr="NUM" trans_en="" trans_ru="штука (счетное слово)"></ana>dən</w>
 <w><ana lex="l" gr="PREP,p.1,p.sg" trans_en="to, toward" trans_ru="к, на"></ana>illij</w>
 <w><ana lex="qə" gr="PREP,p.2,p.pl" trans_en="the preposition of the direct complement, to, for" trans_ru="к, для; предлог прямого дополнения"></ana>qətoxun</w>
@@ -501,6 +508,7 @@
 <w><ana lex="marumь" gr="V,pst,3,sg,m.s" trans_en="to rise, to lift" trans_ru="поднимать; подниматься"></ana>murьmlь</w>
 <w><ana lex="qreta" gr="N,sg,nonposs" trans_en="reading, learning" trans_ru="чтение, обучение"></ana>qreta</w>
 <w><ana lex="quxə" gr="N,sg,nonposs" trans_en="group, snowdrift, pile" trans_ru="куча, сугроб; группа"></ana>quxə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,sg,m" trans_en="to go" trans_ru="идти"></ana>вrixşə</w>
 <w><ana lex="ha" gr="INTERJ" trans_en="here" trans_ru="вот"></ana>ha</w>
 <w><ana lex="həвəs" gr="ADV" trans_en="inopportunely, in vain" trans_ru="напрасно, зря, некстати"></ana>həвəs</w>
 <w><ana lex="mьxulta/mixulta" gr="N,sg,nonposs" trans_en="food" trans_ru="кушанье, пища"></ana>mьxulta</w>
@@ -516,6 +524,7 @@
 <w><ana lex="pikkir" gr="N,sg,nonposs" trans_en="dreaminess, thoughtfulness" trans_ru="1) мечтательность, задумчивость"></ana>pikkir</w>
 <w><ana lex="plaţa" gr="N,sg,nonposs" trans_en="consequence" trans_ru="следствие"></ana><ana lex="plaţa" gr="V,inf" trans_en="to go out, to come forward" trans_ru="выходить, выступить, оказаться"></ana>plaţa</w>
 <w><ana lex="qdələ" gr="N,sg,p.3,p.sg,p.m" trans_en="collar, neck" trans_ru="шея, воротник"></ana>qdəlu</w>
+<w><ana lex="zələ/rixşə" gr="V,pst,1,sg,non_obj" trans_en="to go" trans_ru="идти"></ana>xişlij</w>
 <w><ana lex="çanavar" gr="N,m,sg,nonposs" trans_en="" trans_ru="зверек, зверь"></ana>çanavar</w>
 <w><ana lex="xə" gr="NUM,m" trans_en="one; indefinite article" trans_ru="один; неопределенный артикль"></ana>-xə</w>
 <w><ana lex="amrana" gr="N,m,pl,nonposs" trans_en="an inhabitant" trans_ru="житель"></ana>amranь</w>
@@ -595,11 +604,13 @@
 <w><ana lex="вijə в" gr="PREP" trans_en="along" trans_ru="у, по, около, подле"></ana>вijə</w>
 <w><ana lex="rahatuta" gr="N,sg,nonposs" trans_en="calmness, peace, composure" trans_ru="покой, хладнокровие, спокойствие"></ana>rahatuta</w>
 <w><ana lex="tjəvə" gr="V,ptcp.res,sg,m" trans_en="to seat down, to sit, to lay (snow)" trans_ru="садиться, сидеть, лежать (о снеге)"></ana>tijvə</w>
+<w><ana lex="zələ/rixşə" gr="V,prs,3,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>əzij</w>
 <w><ana lex="spərə" gr="V,prog,sg,m" trans_en="to wait" trans_ru="ждать"></ana>вispərə</w>
 <w><ana lex="kləjə" gr="V,imp,sg" trans_en="to stop, stay; to stand; ?" trans_ru="оставаться, располагаться, держаться (на ногах); стать (конструкция будущего вр)"></ana>klij</w>
 <w><ana lex="liввə" gr="N,sg,p.3,p.sg,p.f" trans_en="heart; belly; entrails" trans_ru="сердце; живот, внутренности"></ana>liввo</w>
 <w><ana lex="msaja" gr="V,ipf,3,sg,m.s,non_obj" trans_en="to sweet with, to be able to" trans_ru="мочь; сладить с"></ana>masьva</w>
 <w><ana lex="saat/sahat/saatt/sahatt" gr="N,f,pl,nonposs" trans_en="hour, watch" trans_ru="час; часы"></ana>saattь</w>
+<w><ana lex="zələ/rixşə" gr="V,ipf,3,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>əzilvə</w>
 <w><ana lex="вar" gr="PREP,p.3,p.sg,p.f" trans_en="after" trans_ru="после"></ana><ana lex="вar/вir/вur" gr="N,m,sg,p.3,p.sg,p.f" trans_en="son" trans_ru="сын"></ana><ana lex="вara/вahra" gr="N,m,sg,p.3,p.sg,p.f" trans_en="light" trans_ru="свет"></ana>вaro</w>
 <w><ana lex="вriş/в riş" gr="PREP,p.3,p.sg,p.m" trans_en="" trans_ru="с, на"></ana>вrişu</w>
 <w><ana lex="dəvə" gr="N,m,sg,nonposs" trans_en="1) gold" trans_ru="1) золото"></ana>dəvə</w>
@@ -668,6 +679,7 @@
 <w><ana lex="toz" gr="N,sg,nonposs" trans_en="dust" trans_ru="пыль"></ana>toz</w>
 <w><ana lex="zarьjra" gr="N,pl,nonposs" trans_en="ray" trans_ru="луч"></ana>zarьjrь</w>
 <w><ana lex="ətijqə" gr="ADJ,m,sg,nonposs" trans_en="old" trans_ru="старый"></ana>ətijqə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,3,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>вrixşili</w>
 <w><ana lex="jarьjxa/jarьxa" gr="ADJ,m,sg,nonposs" trans_en="" trans_ru="длинный"></ana>jarьjxa</w>
 <w><ana lex="lviştə" gr="N,sg,nonposs" trans_en="clothes" trans_ru="одежда"></ana><ana lex="lvəşə" gr="V,ptcp.res,sg,f" trans_en="to put on, to wear" trans_ru="надевать, носить"></ana>lviştə</w>
 <w><ana lex="məcuxi" gr="V,pst,3,sg,m.s,non_obj" trans_en="to guess, to find" trans_ru="находить, угадывать"></ana>mucixli</w>
@@ -811,6 +823,7 @@
 <w><ana lex="xzəjə" gr="V,pst,3,sg,f.s,non_obj" trans_en="to see" trans_ru="видеть"></ana>xzilə</w>
 <w><ana lex="xəjji" gr="N,pl_tant,pl,cop.pst,p.3,p.pl" trans_en="life" trans_ru="жизнь"></ana><ana lex="xəjji" gr="N,pl_tant,pl,cop.pst,p.3,p.sg,p.f" trans_en="life" trans_ru="жизнь"></ana><ana lex="xəjji" gr="N,pl_tant,pl,cop.pst,p.3,p.sg,p.m" trans_en="life" trans_ru="жизнь"></ana>xəjjivə</w>
 <w><ana lex="zavod" gr="N,sg,nonposs" trans_en="factory" trans_ru="завод"></ana>zavod</w>
+<w><ana lex="zələ/rixşə" gr="V,prs,3,sg,f.s,non_obj" trans_en="to go" trans_ru="идти"></ana>əzə</w>
 <w><ana lex="hişjər" gr="ADJ,m,sg,nonposs" trans_en="careful" trans_ru="осторожный"></ana>hişjər</w>
 <w><ana lex="jarьjxa/jarьxa" gr="ADJ,pl,nonposs" trans_en="" trans_ru="длинный"></ana>jarьjxь</w>
 <w><ana lex="omma" gr="N,sg,nonposs" trans_en="cholera" trans_ru="холера"></ana>omma</w>
@@ -855,6 +868,7 @@
 <w><ana lex="min/minn/m" gr="PREP,p.1,p.pl" trans_en="with, through, from" trans_ru="от, из, сквозь, с"></ana>minnən</w>
 <w><ana lex="mərutə" gr="N,sg,nonposs" trans_en="economy" trans_ru="хозяйство"></ana>mərutə</w>
 <w><ana lex="saxseta" gr="N,sg,nonposs" trans_en="investigation" trans_ru="следствие"></ana>saxseta</w>
+<w><ana lex="zələ/rixşə" gr="V,imp,sg" trans_en="to go" trans_ru="идти"></ana>si</w>
 <w><ana lex="tjəvə" gr="V,pst,3,pl,non_obj" trans_en="to seat down, to sit, to lay (snow)" trans_ru="садиться, сидеть, лежать (о снеге)"></ana>tivlun</w>
 <w><ana lex="xişkənə" gr="ADJ,m,sg,nonposs" trans_en="dark, gloomy" trans_ru="темный, мрачный"></ana>xişkənə</w>
 <w><ana lex="xoş" gr="N,f,sg,p.3,p.sg,p.m" trans_en="pleasure" trans_ru="удовольствие"></ana>xoşu</w>
@@ -900,10 +914,12 @@
 <w><ana lex="qajra" gr="ADJ,m,sg,nonposs" trans_en="cold" trans_ru="холодный"></ana>qajra</w>
 <w><ana lex="sadra" gr="N,sg,p.3,p.sg,p.f" trans_en="breast, chest" trans_ru="грудь"></ana>sadro</w>
 <w><ana lex="tənuji" gr="V,inf" trans_en="to tell; to tell a tale or story" trans_ru="сказать, рассказать"></ana>tənuji</w>
+<w><ana lex="zələ/rixşə" gr="V,pst,1,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>xişlən</w>
 <w><ana lex="xətirçəm" gr="ADJ,m,sg,nonposs" trans_en="sure, confident" trans_ru="уверенный"></ana>xətirçəm</w>
 <w><ana lex="в" gr="PREP,p.1,p.sg" trans_en="in; preposition of instrumental case" trans_ru="в; предлог творительного падежа"></ana>вijij</w>
 <w><ana lex="ktəvə" gr="V,prog,cop.prs,3,sg,m.s,non_obj" trans_en="write" trans_ru="писать"></ana>вiktəvili</w>
 <w><ana lex="вijşə" gr="ADJ,f,sg,nonposs" trans_en="evil" trans_ru="злой"></ana><ana lex="вiştə" gr="N,f,sg,nonposs" trans_en="evil" trans_ru="зло"></ana>вiştə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,3,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>вrixşinə</w>
 <w><ana lex="ьllьl" gr="ADV" trans_en="up, upwards" trans_ru="вверх"></ana>ьllьl</w>
 <w><ana lex="caluj" gr="N,f,pl,nonposs" trans_en="bush" trans_ru="куст, кустарник"></ana>calujь</w>
 <w><ana lex="həq" gr="ADJ,m,sg,nonposs" trans_en="fair" trans_ru="справедливый"></ana><ana lex="həqə" gr="N,sg,nonposs" trans_en="payment" trans_ru="плата"></ana>həq</w>
@@ -934,6 +950,7 @@
 <w><ana lex="qəməjt/qəməjut" gr="PREP,p.3,p.sg,p.m" trans_en="ahead" trans_ru="впереди"></ana>qəməjutu</w>
 <w><ana lex="sajada" gr="N,pl,nonposs" trans_en="fisherman" trans_ru="рыбак"></ana>sajadь</w>
 <w><ana lex="təmmiz" gr="ADJ,m,sg,nonposs" trans_en="clean" trans_ru="чистый"></ana><ana lex="təmmuzi" gr="V,prs,3,sg,m.s,non_obj" trans_en="to clean" trans_ru="чистить"></ana>təmmiz</w>
+<w><ana lex="zələ/rixşə" gr="V,inf" trans_en="to go" trans_ru="идти"></ana>xəşə</w>
 <w><ana lex="çanavar" gr="N,m,pl,nonposs" trans_en="" trans_ru="зверек, зверь"></ana>çanavarь</w>
 <w><ana lex="вirqə" gr="N,sg,nonposs" trans_en="a lightning" trans_ru="1) гром"></ana>вirqə</w>
 <w><ana lex="вrətə" gr="N,f,sg,p.1,p.sg" trans_en="a daughter, a girl" trans_ru="1) дочь"></ana>вrətij</w>
@@ -970,6 +987,7 @@
 <w><ana lex="zigə" gr="N,sg,nonposs" trans_en="bell" trans_ru="колокол, колокольчик"></ana>zigə</w>
 <w><ana lex="çərgə" gr="N,m,pl,nonposs" trans_en="" trans_ru="ряд; круг (танца); строка; черта; стихи"></ana>çərgi</w>
 <w><ana lex="ţjama" gr="V,ptcp.res,sg,m" trans_en="to taste" trans_ru="пробовать"></ana><ana lex="ţьjma" gr="N,sg,nonposs" trans_en="price, farming (of revenues)" trans_ru="цена, откуп"></ana>ţьjma</w>
+<w><ana lex="zələ/rixşə" gr="V,prs,2,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>əzit</w>
 <w><ana lex="вrətə" gr="N,f,sg,p.3,p.sg,p.f" trans_en="a daughter, a girl" trans_ru="1) дочь"></ana>вrəto</w>
 <w><ana lex="вar" gr="PREP,nonposs" trans_en="after" trans_ru="после"></ana><ana lex="вar/вir/вur" gr="N,m,sg,nonposs" trans_en="son" trans_ru="сын"></ana><ana lex="вara/вahra" gr="N,m,sg,nonposs" trans_en="light" trans_ru="свет"></ana>-вar</w>
 <w><ana lex="dijnə" gr="N,m,sg,nonposs" trans_en="court" trans_ru="суд"></ana><ana lex="djənə" gr="V,ptcp.res,sg,m" trans_en="to judge" trans_ru="судить"></ana>dijnə</w>
@@ -1119,6 +1137,7 @@
 <w><ana lex="вara-вar" gr="PREP,nonposs" trans_en="(to go) after" trans_ru="(идти вслед) за"></ana>вara-вar</w>
 <w><ana lex="вar" gr="PREP,p.1,p.sg" trans_en="after" trans_ru="после"></ana><ana lex="вar/вir/вur" gr="N,m,sg,p.1,p.sg" trans_en="son" trans_ru="сын"></ana><ana lex="вara/вahra" gr="N,m,sg,p.1,p.sg" trans_en="light" trans_ru="свет"></ana>вarьj</w>
 <w><ana lex="dvəqə" gr="V,prog,sg,m" trans_en="to bite, to occupy, to hold, to catch, to grab, to fill, to possess, to plug" trans_ru="держать; хватать; кусать; овладевать; ловить; занимать; наполнять; затыкать"></ana>вidvəqə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,3,sg,f.s,non_obj" trans_en="to go" trans_ru="идти"></ana>вrixşilə</w>
 <w><ana lex="вxəjə" gr="V,pst,3,sg,f.s,non_obj" trans_en="to cry, to weep" trans_ru="плакать"></ana>вxilə</w>
 <w><ana lex="вьzza" gr="N,m,sg,nonposs" trans_en="hole" trans_ru="отверстие, дыра"></ana>вьzza</w>
 <w><ana lex="ajna" gr="N,f,sg,p.2,p.sg,p.m" trans_en="a fountain, spring, source" trans_ru="источник (воды)"></ana><ana lex="ajna" gr="N,f,sg,p.2,p.sg,p.m" trans_en="an eye" trans_ru="глаз"></ana>ajnux</w>
@@ -1153,6 +1172,7 @@
 <w><ana lex="ţava" gr="ADJ,f,sg,nonposs" trans_en="kind" trans_ru="добрый"></ana><ana lex="ţota" gr="N,sg,nonposs" trans_en="good, good deed" trans_ru="благо, благодеяние, добро"></ana>ţota</w>
 <w><ana lex="ələhə/ələ" gr="N,m,sg,nonposs" trans_en="God" trans_ru="бог"></ana>ələ</w>
 <w><ana lex="həvi/vəjə" gr="V,prog,cop.prs,3,sg,m.s,non_obj" trans_en="to be, to become" trans_ru="быть, становиться"></ana>вivəjili</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.pst,3,pl,non_obj" trans_en="to go" trans_ru="идти"></ana><ana lex="zələ/rixşə" gr="V,prog,cop.pst,3,sg,non_obj" trans_en="to go" trans_ru="идти"></ana>вizəlivə</w>
 <w><ana lex="вrətə" gr="N,f,sg,p.3,p.sg,p.m" trans_en="a daughter, a girl" trans_ru="1) дочь"></ana>вrətu</w>
 <w><ana lex="вərqul" gr="PREP,nonposs" trans_en="opposite, over against" trans_ru="напротив"></ana>вərqul</w>
 <w><ana lex="msaja" gr="V,prog,sg,m" trans_en="to sweet with, to be able to" trans_ru="мочь; сладить с"></ana>вьmsaja</w>
@@ -1232,6 +1252,7 @@
 <w><ana lex="supra/sьpra" gr="N,sg,nonposs" trans_en="meal, tablecloth" trans_ru="трапеза, скатерть"></ana>sьpra</w>
 <w><ana lex="xola" gr="N,sg,nonposs" trans_en="rope" trans_ru="веревка"></ana>xola</w>
 <w><ana lex="xoş" gr="N,f,sg,p.1,p.sg" trans_en="pleasure" trans_ru="удовольствие"></ana>xoşij</w>
+<w><ana lex="zələ/rixşə" gr="V,pst,3,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>zilli</w>
 <w><ana lex="zərdə" gr="ADJ,pl,nonposs" trans_en="yellow" trans_ru="желтый"></ana>zərdi</w>
 <w><ana lex="çurrə" gr="N,m,pl,nonposs" trans_en="" trans_ru="1) сорт, вид"></ana>çurri</w>
 <w><ana lex="şopə" gr="N,sg,p.3,p.sg,p.m" trans_en="place" trans_ru="место"></ana>şopu</w>
@@ -1342,6 +1363,7 @@
 <w><ana lex="xməltə" gr="N,sg,nonposs" trans_en="patience" trans_ru="терпение"></ana>xməltə</w>
 <w><ana lex="zulə" gr="N,sg,nonposs" trans_en="stripe" trans_ru="полоса"></ana>zulə</w>
 <w><ana lex="əməl" gr="N,m,sg,nonposs" trans_en="action, behavior, phenomenon" trans_ru="поведение, действие, явление"></ana>əməl</w>
+<w><ana lex="zələ/rixşə" gr="V,ipf,1,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>əzinvə</w>
 <w><ana lex="вajja" gr="V,prs,3,pl,non_obj" trans_en="to want, to desire, to wish; to love, to fall in love; to demand, to need" trans_ru="хотеть; любить, полюбить"></ana>вajьj</w>
 <w><ana lex="вixjə" gr="N,m,sg,cop.pst,p.3,p.pl" trans_en="cry" trans_ru="плач"></ana><ana lex="вixjə" gr="N,m,sg,cop.pst,p.3,p.sg,p.f" trans_en="cry" trans_ru="плач"></ana><ana lex="вixjə" gr="N,m,sg,cop.pst,p.3,p.sg,p.m" trans_en="cry" trans_ru="плач"></ana><ana lex="вxəjə" gr="V,ptcp.res,cop.pst,3,pl,non_obj" trans_en="to cry, to weep" trans_ru="плакать"></ana><ana lex="вxəjə" gr="V,ptcp.res,cop.pst,3,sg,m.s,non_obj" trans_en="to cry, to weep" trans_ru="плакать"></ana>вixjivə</w>
 <w><ana lex="rraşa" gr="V,prog,cop.pst,3,pl" trans_en="to guess, to feel, to wake up" trans_ru="просыпаться, очнуться; чувствовать, догадаться"></ana><ana lex="rraşa" gr="V,prog,cop.pst,3,sg" trans_en="to guess, to feel, to wake up" trans_ru="просыпаться, очнуться; чувствовать, догадаться"></ana>вьrraşьva</w>
@@ -1445,6 +1467,7 @@
 <w><ana lex="sudra" gr="N,sg,p.3,p.sg,p.m" trans_en="shirt, sweatshirt" trans_ru="рубашка, фуфайка"></ana>sudru</w>
 <w><ana lex="tpəqə" gr="V,pst,3,sg,f.s,non_obj" trans_en="to meet, to encounter, to see each other" trans_ru="встречать, встречаться, видеться"></ana>tpiqlə</w>
 <w><ana lex="vədrə" gr="N,sg,nonposs" trans_en="bucket" trans_ru="ведро"></ana>vədrə</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.pst,3,pl,non_obj" trans_en="to go" trans_ru="идти"></ana><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.pst,3,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>xijşivə</w>
 <w><ana lex="xuввənə" gr="ADJ,m,sg,nonposs" trans_en="affectionate" trans_ru="ласковый"></ana>xuввənə</w>
 <w><ana lex="xvaţa" gr="V,ptcp.res,pl" trans_en="to mix, mingle; tr. and intr.; met. to interfere, intrigue; to be embarrassed" trans_ru="смешиваться с; вмешиваться, смущаться"></ana><ana lex="xvьjţa" gr="ADJ,pl,nonposs" trans_en="turbid" trans_ru="мутный"></ana>xvьjţь</w>
 <w><ana lex="xədutə" gr="N,sg,p.3,p.sg,p.m" trans_en="joy" trans_ru="радость"></ana>xədutu</w>
@@ -1531,6 +1554,7 @@
 <w><ana lex="şmaja" gr="V,imp,sg" trans_en="to hear" trans_ru="слышать"></ana>şmьj</w>
 <w><ana lex="şuxləpə" gr="N,sg,nonposs" trans_en="change" trans_ru="перемена"></ana>şuxləpə</w>
 <w><ana lex="ţava" gr="ADJ,m,sg,nonposs" trans_en="kind" trans_ru="добрый"></ana>ţava</w>
+<w><ana lex="zələ/rixşə" gr="V,ipf,3,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>əzijvə</w>
 <w><ana lex="ndəjə" gr="V,prog,cop.pst,3,pl,non_obj" trans_en="to jump (up)" trans_ru="прыгнуть, вскочить"></ana><ana lex="ndəjə" gr="V,prog,cop.pst,3,sg,non_obj" trans_en="to jump (up)" trans_ru="прыгнуть, вскочить"></ana>вindəjivə</w>
 <w><ana lex="arpa/arвa" gr="NUM" trans_en="four" trans_ru="четыре"></ana>arвa</w>
 <w><ana lex="cadra" gr="N,m,pl,nonposs" trans_en="tent, sail, veil, long cotton overall" trans_ru="занавес, чадра; парус"></ana>cadrь</w>
@@ -1864,6 +1888,7 @@
 <w><ana lex="ţlaja" gr="V,ptcp.res,cop.pst,3,pl,non_obj" trans_en="to fall asleep, to sleep" trans_ru="засыпать; спать"></ana><ana lex="ţlaja" gr="V,ptcp.res,cop.pst,3,sg,m.s,non_obj" trans_en="to fall asleep, to sleep" trans_ru="засыпать; спать"></ana>ţьljьva</w>
 <w><ana lex="ţьşva" gr="N,sg,nonposs" trans_en="secret" trans_ru="тайна"></ana>ţьşva</w>
 <w><ana lex="əməl" gr="N,m,pl,nonposs" trans_en="action, behavior, phenomenon" trans_ru="поведение, действие, явление"></ana>əməli</w>
+<w><ana lex="zələ/rixşə" gr="V,ipf,3,sg,f.s,non_obj" trans_en="to go" trans_ru="идти"></ana>əzəvə</w>
 <w><ana lex="вajja" gr="V,ipf,3,sg,f.s,non_obj" trans_en="to want, to desire, to wish; to love, to fall in love; to demand, to need" trans_ru="хотеть; любить, полюбить"></ana>вajjava</w>
 <w><ana lex="вeta/вjeta" gr="N,f,sg,nonposs" trans_en="love" trans_ru="любовь"></ana>вet</w>
 <w><ana lex="qjəmə" gr="V,prog,sg,m" trans_en="to arise, to get up" trans_ru="вставать, возникать"></ana>вiqjəmə</w>
@@ -1916,6 +1941,7 @@
 <w><ana lex="tliqtə" gr="N,sg,nonposs" trans_en="confusion" trans_ru="замешательство"></ana><ana lex="tləqə" gr="V,ptcp.res,sg,f" trans_en="to disappear; to ruin, to destroy" trans_ru="исчезать, пропадать; губить"></ana>tliqtə</w>
 <w><ana lex="təxmuni" gr="V,prog,cop.pst,1,sg,m.s,non_obj" trans_en="to consider, to think of" trans_ru="думать, размышлять, задумываться, вникать"></ana>təxmunivinvə</w>
 <w><ana lex="həvi/vəjə" gr="V,ptcp.res,pl" trans_en="to be, to become" trans_ru="быть, становиться"></ana>viji</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,sg,m" trans_en="to go" trans_ru="идти"></ana>xijşə</w>
 <w><ana lex="zaja" gr="N,sg,nonposs" trans_en="the young of an animal or bird" trans_ru="молодое животное или птица, детеныш (кроме детенышей собаки)"></ana>zaja</w>
 <w><ana lex="zəngərtə" gr="N,sg,nonposs" trans_en="sound, ringing" trans_ru="звучание, звон"></ana>zəngərtə</w>
 <w><ana lex="zərər/zərəl" gr="N,sg,nonposs" trans_en="harm" trans_ru="вред"></ana>zərəl</w>
@@ -1927,7 +1953,7 @@
 <w><ana lex="ţaalta/ţalta" gr="N,sg,nonposs" trans_en="game" trans_ru="игра"></ana>ţalta</w>
 <w><ana lex="ţarpa" gr="N,sg,nonposs" trans_en="leaf" trans_ru="лист"></ana><ana lex="ţrapa" gr="V,prs,3,sg,f.s,non_obj" trans_en="to throw" trans_ru="бросать"></ana>ţarpa</w>
 <w><ana lex="əzizij" gr="ADJ,m,sg,nonposs" trans_en="expensive" trans_ru="дорогой"></ana>əzizij</w>
-<w><ana lex="əzənə" gr="N,m,sg,nonposs" trans_en="traveler" trans_ru="путешественник"></ana>əzən</w>
+<w><ana lex="zələ/rixşə" gr="V,prs,1,sg,f.s,non_obj" trans_en="to go" trans_ru="идти"></ana><ana lex="əzənə" gr="N,m,sg,nonposs" trans_en="traveler" trans_ru="путешественник"></ana>əzən</w>
 <w><ana lex="prəxə" gr="V,prog,sg,m" trans_en="to fly; to rub (eyes)" trans_ru="лететь; протирать"></ana>вiprəxə</w>
 <w><ana lex="çvəçə" gr="V,prog,cop.pst,3,pl,non_obj" trans_en="" trans_ru="двигаться"></ana><ana lex="çvəçə" gr="V,prog,cop.pst,3,sg,non_obj" trans_en="" trans_ru="двигаться"></ana>вiçvəçivə</w>
 <w><ana lex="djara" gr="V,prs,3,pl,non_obj" trans_en="to go back" trans_ru="возвращаться"></ana>derьj</w>
@@ -2057,6 +2083,7 @@
 <w><ana lex="tərjissər" gr="NUM" trans_en="twelve" trans_ru="двенадцать"></ana>tərjissər</w>
 <w><ana lex="təxmuni" gr="V,prs,3,sg,m.s,non_obj" trans_en="to consider, to think of" trans_ru="думать, размышлять, задумываться, вникать"></ana>təxmin</w>
 <w><ana lex="xdəjə" gr="V,ptcp.res,cop.pst,3,pl,non_obj" trans_en="to rejoice, to be glad" trans_ru="радоваться"></ana><ana lex="xdəjə" gr="V,ptcp.res,cop.pst,3,sg,m.s,non_obj" trans_en="to rejoice, to be glad" trans_ru="радоваться"></ana><ana lex="xidjə" gr="ADJ,m,sg,cop.pst,p.3,p.pl" trans_en="gay, merry, cheerful" trans_ru="веселый"></ana><ana lex="xidjə" gr="ADJ,m,sg,cop.pst,p.3,p.sg,p.f" trans_en="gay, merry, cheerful" trans_ru="веселый"></ana><ana lex="xidjə" gr="ADJ,m,sg,cop.pst,p.3,p.sg,p.m" trans_en="gay, merry, cheerful" trans_ru="веселый"></ana>xidjivə</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.prs,3,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>xijşili</w>
 <w><ana lex="xmaţa" gr="N,sg,nonposs" trans_en="needle, pin" trans_ru="иголка, булавка"></ana>xmaţa</w>
 <w><ana lex="xmaţa" gr="N,pl,nonposs" trans_en="needle, pin" trans_ru="иголка, булавка"></ana>xmaţь</w>
 <w><ana lex="xora" gr="N,pl,p.1,p.sg" trans_en="friend, comrade" trans_ru="друг, товарищ, приятель"></ana>xoravatьj</w>
@@ -2229,6 +2256,7 @@
 <w><ana lex="nvəxə" gr="V,prog,sg,m" trans_en="to bark" trans_ru="лаять"></ana>вinvəxə</w>
 <w><ana lex="pjəşə" gr="V,prog,cop.pst,3,pl,3.o,pl.o" trans_en="to stay" trans_ru="оставаться; вспомогательный глагол при пассиве"></ana><ana lex="pjəşə" gr="V,prog,cop.pst,3,sg,3.o,pl.o" trans_en="to stay" trans_ru="оставаться; вспомогательный глагол при пассиве"></ana>вipjəşevə</w>
 <w><ana lex="вit" gr="PART" trans_en="" trans_ru="частица будущего времени"></ana><ana lex="вitə" gr="N,f,sg,nonposs" trans_en="egg" trans_ru="яйцо"></ana>вit-</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,sg,m" trans_en="to go" trans_ru="идти"></ana>вizələ</w>
 <w><ana lex="вufet" gr="N,sg,nonposs" trans_en="buffet, cupboard" trans_ru="буфет"></ana>вufet</w>
 <w><ana lex="plaţa" gr="V,prog,sg,m" trans_en="to go out, to come forward" trans_ru="выходить, выступить, оказаться"></ana>вьplaţa</w>
 <w><ana lex="xlasa" gr="V,prog,cop.pst,3,pl" trans_en="to press, squeeze, to shrink" trans_ru="сжиматься; сжимать, пожимать"></ana><ana lex="xlasa" gr="V,prog,cop.pst,3,sg" trans_en="to press, squeeze, to shrink" trans_ru="сжиматься; сжимать, пожимать"></ana>вьxlasьva</w>
@@ -2315,7 +2343,7 @@
 <w><ana lex="ştijqə" gr="ADJ,f,sg,nonposs" trans_en="silent, mute" trans_ru="молчаливый, безмолвный"></ana><ana lex="ştəqə" gr="V,ptcp.res,sg,f" trans_en="to be silent" trans_ru="молчать"></ana>ştiqtə</w>
 <w><ana lex="şuxləpə" gr="N,pl,nonposs" trans_en="change" trans_ru="перемена"></ana>şuxləpi</w>
 <w><ana lex="şьţrana" gr="ADJ,f,sg,nonposs" trans_en="cute, lovely, lush" trans_ru="милый, прекрасный, пышный"></ana>şьţranta</w>
-<w><ana lex="əzənə" gr="N,m,pl,nonposs" trans_en="traveler" trans_ru="путешественник"></ana>əzəni</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.act,pl" trans_en="to go" trans_ru="идти"></ana><ana lex="əzənə" gr="N,m,pl,nonposs" trans_en="traveler" trans_ru="путешественник"></ana>əzəni</w>
 <w><ana lex="вalluţa" gr="N,f,sg,nonposs" trans_en="oak" trans_ru="дуб"></ana>вalluţa</w>
 <w><ana lex="вasmaxana" gr="N,f,sg,nonposs" trans_en="a printing-office" trans_ru="типография"></ana>вasmaxana</w>
 <w><ana lex="вaşarta" gr="N,f,sg,nonposs" trans_en="dexterity; skill and ease in using the hands; readiness and grace in physical activity" trans_ru="способность"></ana>вaşarta</w>
@@ -2323,6 +2351,7 @@
 <w><ana lex="jəvə/juvili" gr="V,prog,cop.prs,3,pl,non_obj" trans_en="" trans_ru="давать"></ana>вijəvinə</w>
 <w><ana lex="nşəqə" gr="V,prog,sg,m" trans_en="to kiss" trans_ru="целовать"></ana>вinşəqə</w>
 <w><ana lex="tjəvə" gr="V,prog,sg,m" trans_en="to seat down, to sit, to lay (snow)" trans_ru="садиться, сидеть, лежать (о снеге)"></ana>вitjəvə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,1,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>вrixşivəx</w>
 <w><ana lex="вuqtə" gr="N,f,sg,nonposs" trans_en="a doll, puppet" trans_ru="кукла, игрушка"></ana>вuqtə</w>
 <w><ana lex="вuttə/вutə" gr="N,f,pl,nonposs" trans_en="a bush" trans_ru="1) куст"></ana><ana lex="вuttə/вutə" gr="N,f,pl,nonposs" trans_en="a sleeve" trans_ru="рукав"></ana>вuttəti</w>
 <w><ana lex="вədrəng" gr="ADJ,m,sg,nonposs" trans_en="of a bad colour, faded" trans_ru="серый"></ana>вədrəng</w>
@@ -2400,6 +2429,7 @@
 <w><ana lex="xaвra" gr="N,sg,p.1,p.sg" trans_en="word" trans_ru="слово"></ana><ana lex="xaвurь" gr="V,prs,3,pl,non_obj" trans_en="to embrace, to greet" trans_ru="обнимать, здороваться"></ana>xaвrьj</w>
 <w><ana lex="xdəjə" gr="V,ptcp.res,sg,f" trans_en="to rejoice, to be glad" trans_ru="радоваться"></ana>xditə</w>
 <w><ana lex="xlusa" gr="ADJ,m,sg,nonposs" trans_en="tight" trans_ru="тугой"></ana>xlusa</w>
+<w><ana lex="zələ/rixşə" gr="V,imp,pl" trans_en="to go" trans_ru="идти"></ana>xuşun</w>
 <w><ana lex="xəlluni" gr="V,prog,cop.pst,3,pl,non_obj" trans_en="to strengthen, to become strong, to encourage" trans_ru="ободрять, (во)одушевлять; становиться сильнее"></ana><ana lex="xəlluni" gr="V,prog,cop.pst,3,sg,non_obj" trans_en="to strengthen, to become strong, to encourage" trans_ru="ободрять, (во)одушевлять; становиться сильнее"></ana>xəllunivə</w>
 <w><ana lex="zduta" gr="N,sg,p.3,p.pl" trans_en="fear" trans_ru="страх"></ana>zdute</w>
 <w><ana lex="ziвlə" gr="N,sg,nonposs" trans_en="litter" trans_ru="сор"></ana>ziвlə</w>
@@ -2424,11 +2454,13 @@
 <w><ana lex="prəxə" gr="V,prog,cop.pst,3,pl,non_obj" trans_en="to fly; to rub (eyes)" trans_ru="лететь; протирать"></ana><ana lex="prəxə" gr="V,prog,cop.pst,3,sg,non_obj" trans_en="to fly; to rub (eyes)" trans_ru="лететь; протирать"></ana>вiprəxivə</w>
 <w><ana lex="qjəmə" gr="V,prog,cop.pst,3,pl,non_obj" trans_en="to arise, to get up" trans_ru="вставать, возникать"></ana><ana lex="qjəmə" gr="V,prog,cop.pst,3,sg,non_obj" trans_en="to arise, to get up" trans_ru="вставать, возникать"></ana>вiqjəmivə</w>
 <w><ana lex="tjəvə" gr="V,prog,cop.pst,3,pl,non_obj" trans_en="to seat down, to sit, to lay (snow)" trans_ru="садиться, сидеть, лежать (о снеге)"></ana><ana lex="tjəvə" gr="V,prog,cop.pst,3,sg,non_obj" trans_en="to seat down, to sit, to lay (snow)" trans_ru="садиться, сидеть, лежать (о снеге)"></ana>вitjəvivə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.pst,3,pl,3.o,pl.o" trans_en="to go" trans_ru="идти"></ana><ana lex="zələ/rixşə" gr="V,prog,cop.pst,3,sg,3.o,pl.o" trans_en="to go" trans_ru="идти"></ana>вrixşevə</w>
 <w><ana lex="вuraxa" gr="N,m,sg,nonposs" trans_en="a wedding" trans_ru="венчание"></ana>вuraxa</w>
 <w><ana lex="xlasa" gr="V,prog,sg,m" trans_en="to press, squeeze, to shrink" trans_ru="сжиматься; сжимать, пожимать"></ana>вьxlasa</w>
 <w><ana lex="ьnana" gr="N,pl,nonposs" trans_en="cloud" trans_ru="туча"></ana>ьnanь</w>
 <w><ana lex="ьqвal" gr="N,sg,p.3,p.sg,p.m" trans_en="happiness, fate" trans_ru="счастье, судьба"></ana>ьqвalu</w>
 <w><ana lex="xarta" gr="ADV" trans_en="finally; after" trans_ru="наконец; после"></ana>-xarta</w>
+<w><ana lex="zələ/rixşə" gr="V,pst,3,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>-xişli</w>
 <w><ana lex="ahval" gr="N,f,sg,p.3,p.sg,p.m" trans_en="condition, state" trans_ru="состояние (физическое, эмоциональное)"></ana>ahvalu</w>
 <w><ana lex="al" gr="PREP,p.2,p.sg,p.f" trans_en="on, upon, over" trans_ru="на"></ana>allax</w>
 <w><ana lex="cappa" gr="N,m,pl,nonposs" trans_en="palm" trans_ru="ладонь"></ana>cappь</w>
@@ -2542,6 +2574,7 @@
 <w><ana lex="tpəqə" gr="V,prog,sg,m" trans_en="to meet, to encounter, to see each other" trans_ru="встречать, встречаться, видеться"></ana>вitpəqə</w>
 <w><ana lex="вixjə" gr="N,m,sg,nonposs" trans_en="cry" trans_ru="плач"></ana><ana lex="вxəjə" gr="V,ptcp.res,sg,m" trans_en="to cry, to weep" trans_ru="плакать"></ana>вixjə-</w>
 <w><ana lex="xzəjə" gr="V,prog,cop.prs,2,pl,non_obj" trans_en="to see" trans_ru="видеть"></ana>вixzəjitun</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,2,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>вrixşivit</w>
 <w><ana lex="вuşəjuvə/вuşəjuvvə" gr="N,m,sg,nonposs" trans_en="multitude" trans_ru="множество"></ana>вuşəjuvvə</w>
 <w><ana lex="вəg" gr="N,m,sg,nonposs" trans_en="a bey" trans_ru="боярe"></ana>вəg</w>
 <w><ana lex="dənə" gr="NUM" trans_en="" trans_ru="штука (счетное слово)"></ana>-dənə</w>
@@ -2677,8 +2710,10 @@
 <w><ana lex="вirkə" gr="N,f,pl,p.3,p.pl" trans_en="knee" trans_ru="колено"></ana>вirkəke</w>
 <w><ana lex="вirkə" gr="N,f,pl,nonposs" trans_en="knee" trans_ru="колено"></ana>вirkəki</w>
 <w><ana lex="xşəvə" gr="V,prog,sg,m" trans_en="to think, to consider, to believe" trans_ru="думать; считать, полагать"></ana>вixşəvə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.pst,3,pl,3.o,pl.o" trans_en="to go" trans_ru="идти"></ana><ana lex="zələ/rixşə" gr="V,prog,cop.pst,3,sg,3.o,pl.o" trans_en="to go" trans_ru="идти"></ana>вizəlevə</w>
 <w><ana lex="вrunə" gr="N,m,pl,nonposs" trans_en="a son" trans_ru="сын"></ana>вnuni</w>
 <w><ana lex="вrijzə" gr="ADJ,m,sg,nonposs" trans_en="dried, dry" trans_ru="сухой (старик)"></ana><ana lex="вrəzə" gr="V,ptcp.res,sg,m" trans_en="to dry, to dry up" trans_ru="высыхать; остолбенеть, застыть, обмереть"></ana>вrijzə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,1,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>вrixşivin</w>
 <w><ana lex="вuttə/вutə" gr="N,f,sg,nonposs" trans_en="a bush" trans_ru="1) куст"></ana><ana lex="вuttə/вutə" gr="N,f,sg,nonposs" trans_en="a sleeve" trans_ru="рукав"></ana>вuttə</w>
 <w><ana lex="вuxcə" gr="N,f,sg,nonposs" trans_en="bundle, a wrapper for holding clothes" trans_ru="мешок, чехол"></ana>вuxcə</w>
 <w><ana lex="вəd" gr="ADJ,m,sg,nonposs" trans_en="dashing" trans_ru="лихой"></ana>вəd</w>
@@ -2774,6 +2809,7 @@
 <w><ana lex="tьjan" gr="N,sg,nonposs" trans_en="boiler, pot" trans_ru="котел"></ana>tьjan</w>
 <w><ana lex="xdara" gr="N,sg,nonposs" trans_en="promenade" trans_ru="гулянье"></ana><ana lex="xdara" gr="V,inf" trans_en="to go round; to walk, to stroll" trans_ru="ходить (взад-вперед, по кругу), бродить, гулять, ухаживать"></ana>xdara</w>
 <w><ana lex="ximjənə" gr="N,sg,p.3,p.sg,p.m" trans_en="father-in-law" trans_ru="свекор"></ana>ximjənu</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.prs,3,sg,f.s,non_obj" trans_en="to go" trans_ru="идти"></ana>xiştilə</w>
 <w><ana lex="xlasa" gr="V,pst,3,sg,f.s" trans_en="to press, squeeze, to shrink" trans_ru="сжиматься; сжимать, пожимать"></ana>xlьsla</w>
 <w><ana lex="xəccə/xədcə" gr="ADV" trans_en="little, a bit" trans_ru="немного"></ana>xədcə</w>
 <w><ana lex="xməjə" gr="V,prs,3,sg,m.s,3.o,f.o,sg.o" trans_en="to ferment, to rise (dough)" trans_ru="подходить (о тесте)"></ana><ana lex="xmələ" gr="V,prs,3,sg,f.s,non_obj" trans_en="to be patient, endure" trans_ru="ждать, терпеть"></ana><ana lex="xəm" gr="N,sg,cop.prs,p.3,p.sg,p.f" trans_en="care, custody" trans_ru="опека, забота"></ana>xəmilə</w>
@@ -2941,6 +2977,7 @@
 <w><ana lex="əməg/əmək" gr="N,sg,nonposs" trans_en="labour" trans_ru="труд"></ana>əməg</w>
 <w><ana lex="ərmiltə" gr="N,f,sg,nonposs" trans_en="widow" trans_ru="вдова"></ana>ərmiltə</w>
 <w><ana lex="ərzə" gr="N,sg,p.1,p.pl" trans_en="complaint (to court)" trans_ru="жалоба (в суд)"></ana><ana lex="ərzən" gr="ADJ,m,sg,nonposs" trans_en="cheap" trans_ru="дешевый"></ana>ərzən</w>
+<w><ana lex="zələ/rixşə" gr="V,ipf,1,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>əzəxvə</w>
 <w><ana lex="вaluta" gr="N,f,sg,nonposs" trans_en="throat" trans_ru="горло"></ana>вaluta</w>
 <w><ana lex="вehuş" gr="ADV" trans_en="insensible, unconscious" trans_ru="без сознания, в бреду"></ana>вehuş</w>
 <w><ana lex="вidjutə" gr="N,f,sg,nonposs" trans_en="ink" trans_ru="чернила"></ana>вidjutə</w>
@@ -3055,7 +3092,7 @@
 <w><ana lex="qţaja" gr="V,pst,3,sg,m.s,3.o,f.o,sg.o" trans_en="to stop, to solve, to cut off, to interrupt, to tear off, to cross" trans_ru="отрезать, отрывать; пересекать; перебивать; решать; прекращаться, пресекаться"></ana><ana lex="qţaja" gr="V,ptcp.res,cop.prs,3,sg,m.s,3.o,f.o,sg.o" trans_en="to stop, to solve, to cut off, to interrupt, to tear off, to cross" trans_ru="отрезать, отрывать; пересекать; перебивать; решать; прекращаться, пресекаться"></ana>qьţjalь</w>
 <w><ana lex="rappujь" gr="V,prs,3,pl,3.o,m.o,sg.o" trans_en="to throw, to release, to shove, to lower, to leave, to rush, to attack" trans_ru="кидать, бросать, опускать, отпускать, покидать, засовывать, выпускать; бросаться, нападать"></ana><ana lex="rappujь" gr="V,prs,3,sg,m.s,3.o,m.o,sg.o" trans_en="to throw, to release, to shove, to lower, to leave, to rush, to attack" trans_ru="кидать, бросать, опускать, отпускать, покидать, засовывать, выпускать; бросаться, нападать"></ana>rappьjlь</w>
 <w><ana lex="rgədə" gr="V,pst,3,sg,f.s,non_obj" trans_en="to shake" trans_ru="дрожать, трястись"></ana>rgidlə</w>
-<w><ana lex="rьxşa/rixşə" gr="N,sg,nonposs" trans_en="feeling" trans_ru="чувство"></ana>rixşə</w>
+<w><ana lex="rьxşa/rixşə" gr="N,sg,nonposs" trans_en="feeling" trans_ru="чувство"></ana><ana lex="zələ/rixşə" gr="V,inf" trans_en="to go" trans_ru="идти"></ana>rixşə</w>
 <w><ana lex="rişə" gr="N,pl,p.3,p.pl" trans_en="toe (shoes), head, end (rows)" trans_ru="голова, конец (рядов), носок (обуви)"></ana>rişəne</w>
 <w><ana lex="rəkijxə" gr="ADJ,pl,nonposs" trans_en="soft" trans_ru="мягкий"></ana>rəkijxi</w>
 <w><ana lex="rjama" gr="V,pst,3,sg,f.s,non_obj" trans_en="to go up" trans_ru="подниматься"></ana>rьmla</w>
@@ -3120,6 +3157,7 @@
 <w><ana lex="txərə" gr="V,prog,sg,m" trans_en="to remember, to call to mind" trans_ru="помнить, вспомнить"></ana>вitxərə</w>
 <w><ana lex="вrəzə" gr="V,ptcp.res,pl" trans_en="to dry, to dry up" trans_ru="высыхать; остолбенеть, застыть, обмереть"></ana>вrijzi</w>
 <w><ana lex="вrəkə" gr="V,pst,3,sg,m.s,non_obj" trans_en="to kneel" trans_ru="вставать на колени"></ana>вrikli</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,sg,m" trans_en="to go" trans_ru="идти"></ana>вrixşə-</w>
 <w><ana lex="вrьjxa" gr="ADJ,m,sg,nonposs" trans_en="kind" trans_ru="добрый"></ana>вrьjxa</w>
 <w><ana lex="вulgənə" gr="N,m,sg,nonposs" trans_en="occupation" trans_ru="занятие"></ana>вulgənə</w>
 <w><ana lex="вəlmuli" gr="V,pst,3,sg,f.s,non_obj" trans_en="to mix up" trans_ru="спутывать"></ana>вulmillə</w>
@@ -3232,6 +3270,7 @@
 <w><ana lex="saxsьjana" gr="ADJ,m,sg,nonposs" trans_en="investigative" trans_ru="следственный"></ana><ana lex="saxsьjana" gr="N,sg,nonposs" trans_en="researcher, investigator" trans_ru="исследователь, следователь"></ana>saxsьjana</w>
 <w><ana lex="seвutə" gr="N,sg,nonposs" trans_en="old age" trans_ru="старость"></ana>seвutə</w>
 <w><ana lex="sikrənə" gr="ADJ,f,sg,nonposs" trans_en="sharp, harsh, rough, prickly" trans_ru="резкий, суровый, грубый, колкий, жесткий"></ana>sikrəntə</w>
+<w><ana lex="zələ/rixşə" gr="V,imp,pl" trans_en="to go" trans_ru="идти"></ana>simun</w>
 <w><ana lex="simвuləli/sinвuləli/sumвuləli" gr="N,pl_tant,pl,p.3,p.sg,p.m" trans_en="moustache" trans_ru="усы"></ana>sinвuləlu</w>
 <w><ana lex="sləвə" gr="N,pl,nonposs" trans_en="robbery" trans_ru="грабеж"></ana>sləвi</w>
 <w><ana lex="sməqə" gr="V,pst,3,sg,m.s,non_obj" trans_en="to redden, to blush" trans_ru="краснеть"></ana>smiqli</w>
@@ -3256,6 +3295,7 @@
 <w><ana lex="təruqtə" gr="N,pl,nonposs" trans_en="button" trans_ru="пуговица"></ana>təruqjəti</w>
 <w><ana lex="təsmə" gr="N,sg,p.3,p.sg,p.m" trans_en="belt, harness, strips" trans_ru="пояс, портупея, штрипки"></ana>təsmu</w>
 <w><ana lex="xarxurь" gr="V,prog,cop.pst,3,pl,non_obj" trans_en="to snore" trans_ru="храпеть"></ana><ana lex="xarxurь" gr="V,prog,cop.pst,3,sg,non_obj" trans_en="to snore" trans_ru="храпеть"></ana>xarxurьva</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,pl" trans_en="to go" trans_ru="идти"></ana>xijşi</w>
 <w><ana lex="xjəkə" gr="V,pst,3,sg,m.s,non_obj" trans_en="to scratch" trans_ru="чесаться, чесать"></ana>xikli</w>
 <w><ana lex="ximmənə" gr="ADJ,m,sg,nonposs" trans_en="hot" trans_ru="жаркий"></ana>ximmənə</w>
 <w><ana lex="xzəjə" gr="V,ptcp.res,cop.prs,1,sg,m.s,non_obj" trans_en="to see" trans_ru="видеть"></ana>xizjivin</w>
@@ -3490,6 +3530,7 @@
 <w><ana lex="xzəjə" gr="V,prs,3,sg,m.s,3.o,m.o,sg.o" trans_en="to see" trans_ru="видеть"></ana>xəzili</w>
 <w><ana lex="xəşkuni" gr="V,prog,cop.pst,3,pl,non_obj" trans_en="to dusk, to grow dark" trans_ru="смеркаться, темнеть"></ana><ana lex="xəşkuni" gr="V,prog,cop.pst,3,sg,non_obj" trans_en="to dusk, to grow dark" trans_ru="смеркаться, темнеть"></ana>xəşkunivə</w>
 <w><ana lex="zdaja" gr="V,prs,2,sg,m.s,non_obj" trans_en="to fear, to be afraid" trans_ru="бояться, испугаться"></ana>zadьt</w>
+<w><ana lex="zələ/rixşə" gr="V,pst,3,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>zillun</w>
 <w><ana lex="zmərə" gr="V,imp,sg" trans_en="to sing" trans_ru="петь"></ana>zmur</w>
 <w><ana lex="zmərtə" gr="N,sg,p.3,p.sg,p.m" trans_en="song" trans_ru="песня"></ana>zmərtu</w>
 <w><ana lex="zoa" gr="N,sg,nonposs" trans_en="feeling" trans_ru="чувство"></ana>zoa</w>
@@ -3521,6 +3562,7 @@
 <w><ana lex="ərimnəjə" gr="N,m,sg,nonposs" trans_en="armenian" trans_ru="армянин"></ana>ərimnəjə</w>
 <w><ana lex="ərxutə" gr="N,f,sg,nonposs" trans_en="food, feast" trans_ru="угощение, пир"></ana>ərxutə</w>
 <w><ana lex="əvəhi" gr="N,pl_tant,pl,p.3,p.sg,p.f" trans_en="parents" trans_ru="родители"></ana>əvəho</w>
+<w><ana lex="zələ/rixşə" gr="V,prs,2,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>əzitun</w>
 <w><ana lex="вaqurь" gr="V,ipf,3,sg,m.s,non_obj" trans_en="to ask; to interrogate" trans_ru="спрашивать; допрашивать"></ana>вaqьrva</w>
 <w><ana lex="вar" gr="PREP,p.2,p.sg,p.m" trans_en="after" trans_ru="после"></ana><ana lex="вar/вir/вur" gr="N,m,sg,p.2,p.sg,p.m" trans_en="son" trans_ru="сын"></ana><ana lex="вara/вahra" gr="N,m,sg,p.2,p.sg,p.m" trans_en="light" trans_ru="свет"></ana>вarux</w>
 <w><ana lex="вaşkir" gr="N,m,pl,nonposs" trans_en="Bashkir" trans_ru="башкир"></ana>вaşkiri</w>
@@ -3723,10 +3765,12 @@
 <w><ana lex="xdəjə" gr="V,pst,1,sg,non_obj" trans_en="to rejoice, to be glad" trans_ru="радоваться"></ana>xdilij</w>
 <w><ana lex="xdəjə" gr="V,pst,3,sg,f.s,non_obj" trans_en="to rejoice, to be glad" trans_ru="радоваться"></ana>xdilə</w>
 <w><ana lex="xdəjə" gr="V,ptcp.res,sg,m" trans_en="to rejoice, to be glad" trans_ru="радоваться"></ana><ana lex="xidjə" gr="ADJ,m,sg,nonposs" trans_en="gay, merry, cheerful" trans_ru="веселый"></ana>xidjə-</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.prs,3,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>xijşinə</w>
 <w><ana lex="ximjənə" gr="N,sg,p.3,p.sg,p.f" trans_en="father-in-law" trans_ru="свекор"></ana>ximjəno</w>
 <w><ana lex="ximmənə" gr="ADJ,f,sg,nonposs" trans_en="hot" trans_ru="жаркий"></ana>ximməntə</w>
 <w><ana lex="xzəjə" gr="V,ptcp.res,cop.pst,3,pl,3.o,f.o,sg.o" trans_en="to see" trans_ru="видеть"></ana><ana lex="xzəjə" gr="V,ptcp.res,cop.pst,3,sg,m.s,3.o,f.o,sg.o" trans_en="to see" trans_ru="видеть"></ana>xizjovə</w>
 <w><ana lex="xzəjə" gr="V,ptcp.res,cop.pst,3,pl,3.o,m.o,sg.o" trans_en="to see" trans_ru="видеть"></ana><ana lex="xzəjə" gr="V,ptcp.res,cop.pst,3,sg,m.s,3.o,m.o,sg.o" trans_en="to see" trans_ru="видеть"></ana>xizjuvə</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,sg,f" trans_en="to go" trans_ru="идти"></ana>xiştə</w>
 <w><ana lex="xon" gr="N,pl,nonposs" trans_en="tray, dish" trans_ru="поднос, блюдо"></ana>xonь</w>
 <w><ana lex="xoş" gr="N,f,sg,p.2,p.sg,p.m" trans_en="pleasure" trans_ru="удовольствие"></ana>xoşux</w>
 <w><ana lex="xqara" gr="V,ptcp.res,sg,m" trans_en="to glorify, to praise; to boast" trans_ru="прославлять, хвалить, хвастаться"></ana>xqьjra</w>
@@ -3815,6 +3859,7 @@
 <w><ana lex="xəccə/xədcə" gr="ADV" trans_en="little, a bit" trans_ru="немного"></ana>-xəccə</w>
 <w><ana lex="əhə" gr="PRON,sg" trans_en="this" trans_ru="этот, эта, это"></ana>-ə</w>
 <w><ana lex="ələhə/ələ" gr="N,m,sg,nonposs" trans_en="God" trans_ru="бог"></ana>-ələhə</w>
+<w><ana lex="zələ/rixşə" gr="V,prs,3,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>-əzil</w>
 <w><ana lex="вiz" gr="ADJ,m,sg,nonposs" trans_en="sharp, pointed" trans_ru="торчащий, заострённый, стоящий дыбом"></ana>-вiz</w>
 <w><ana lex="adataja" gr="ADJ,f,sg,nonposs" trans_en="usual" trans_ru="обычный"></ana>adateta</w>
 <w><ana lex="aldьjana" gr="N,m,pl,nonposs" trans_en="liar, cheater" trans_ru="обманщик"></ana>aldьjanь</w>
@@ -4148,6 +4193,7 @@
 <w><ana lex="kis" gr="PREP,nonposs" trans_en="at, near" trans_ru="у, около"></ana><ana lex="kisə" gr="N,f,sg,nonposs" trans_en="belly" trans_ru="живот"></ana>-kis</w>
 <w><ana lex="qə" gr="PREP,nonposs" trans_en="the preposition of the direct complement, to, for" trans_ru="к, для; предлог прямого дополнения"></ana>-qə</w>
 <w><ana lex="qəm" gr="PREP,p.3,p.pl" trans_en="because of, before" trans_ru="перед; из-за"></ana>-qəme</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.pst,3,pl,non_obj" trans_en="to go" trans_ru="идти"></ana><ana lex="zələ/rixşə" gr="V,prog,cop.pst,3,sg,non_obj" trans_en="to go" trans_ru="идти"></ana>-вrixşivə</w>
 <w><ana lex="ahval" gr="N,f,sg,p.1,p.sg" trans_en="condition, state" trans_ru="состояние (физическое, эмоциональное)"></ana>ahvalьj</w>
 <w><ana lex="açazta" gr="N,f,pl,nonposs" trans_en="annoyance" trans_ru="мучение"></ana>aççazjatь</w>
 <w><ana lex="caluj" gr="N,f,sg,nonposs" trans_en="bush" trans_ru="куст, кустарник"></ana>caluj</w>
@@ -4392,6 +4438,7 @@
 <w><ana lex="xpəjə" gr="V,pst,3,sg,m.s,non_obj" trans_en="to lie down, to sit down" trans_ru="лежать; приседать"></ana><ana lex="xpəjə" gr="V,ptcp.res,cop.prs,3,sg,m.s,non_obj" trans_en="to lie down, to sit down" trans_ru="лежать; приседать"></ana>xipjili</w>
 <w><ana lex="xpəjə" gr="V,ptcp.res,sg,m" trans_en="to lie down, to sit down" trans_ru="лежать; приседать"></ana>xipjə</w>
 <w><ana lex="xişkə" gr="N,sg,cop.pst,p.3,p.pl" trans_en="darkness, haze" trans_ru="темнота, мгла"></ana><ana lex="xişkə" gr="N,sg,cop.pst,p.3,p.sg,p.f" trans_en="darkness, haze" trans_ru="темнота, мгла"></ana><ana lex="xişkə" gr="N,sg,cop.pst,p.3,p.sg,p.m" trans_en="darkness, haze" trans_ru="темнота, мгла"></ana>xişkivə</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.pst,3,sg,f.s,non_obj" trans_en="to go" trans_ru="идти"></ana>xiştivə</w>
 <w><ana lex="xlapa" gr="N,sg,p.3,p.sg,p.m" trans_en="substitutionary victim" trans_ru="заместительная жертва"></ana>xlapu</w>
 <w><ana lex="xlasa" gr="V,ptcp.res,cop.pst,3,pl" trans_en="to press, squeeze, to shrink" trans_ru="сжиматься; сжимать, пожимать"></ana><ana lex="xlasa" gr="V,ptcp.res,cop.pst,3,sg,m.s" trans_en="to press, squeeze, to shrink" trans_ru="сжиматься; сжимать, пожимать"></ana>xlьjsьva</w>
 <w><ana lex="xpəqə" gr="N,sg,p.1,p.sg" trans_en="embrace" trans_ru="объятия"></ana>xpəqij</w>
@@ -4452,6 +4499,7 @@
 <w><ana lex="ənənqəjə" gr="ADJ,f,sg,nonposs" trans_en="necessary" trans_ru="необходимый"></ana>ənənqetə</w>
 <w><ana lex="ənənqəjə" gr="ADJ,pl,nonposs" trans_en="necessary" trans_ru="необходимый"></ana>ənənqəji</w>
 <w><ana lex="əxunə" gr="N,m,pl,p.1,p.sg" trans_en="brother" trans_ru="брат"></ana>əxunvətij</w>
+<w><ana lex="zələ/rixşə" gr="V,ipf,2,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>əzitvə</w>
 <w><ana lex="вalвusь" gr="V,prog,cop.prs,3,pl,non_obj" trans_en="to twinkle, to glitter, to glisten, to gleam" trans_ru="блестеть, сверкать"></ana>вalвusьna</w>
 <w><ana lex="вaqurь" gr="V,prog,cop.prs,3,pl,non_obj" trans_en="to ask; to interrogate" trans_ru="спрашивать; допрашивать"></ana>вaqurьna</w>
 <w><ana lex="вarzarra" gr="N,m,sg,nonposs" trans_en="seed" trans_ru="семя"></ana>вarzarra</w>
@@ -4481,6 +4529,8 @@
 <w><ana lex="çvəçə" gr="V,prog,cop.prs,3,sg,m.s,non_obj" trans_en="" trans_ru="двигаться"></ana>вiçvəçili</w>
 <w><ana lex="вləgə" gr="V,ptcp.res,sg,m" trans_en="to be busy" trans_ru="заниматься"></ana>вlijgə</w>
 <w><ana lex="вləsə" gr="V,ptcp.res,sg,f" trans_en="to bruise; to oppress" trans_ru="поразить"></ana>вlistə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.pst,1,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>вrixşivinvə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.pst,1,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>вrixşivəxvə</w>
 <w><ana lex="вriş/в riş" gr="PREP,p.1,p.pl" trans_en="" trans_ru="с, на"></ana>вrişən</w>
 <w><ana lex="вrunə" gr="N,m,sg,p.2,p.sg,p.m" trans_en="a son" trans_ru="сын"></ana>вrunux</w>
 <w><ana lex="вuqara" gr="N,m,sg,p.3,p.sg,p.m" trans_en="a question" trans_ru="вопрос"></ana>вuqaru</w>
@@ -4496,7 +4546,10 @@
 <w><ana lex="rişə" gr="N,sg,nonposs" trans_en="toe (shoes), head, end (rows)" trans_ru="голова, конец (рядов), носок (обуви)"></ana>-rişə</w>
 <w><ana lex="təhər" gr="N,pl,nonposs" trans_en="manner, kind, type" trans_ru="образ (действий), вид, род"></ana>-təhəri</w>
 <w><ana lex="xanьm" gr="N,sg,nonposs" trans_en="lady, noblewoman" trans_ru="барыня, дворянка"></ana>-xanьm</w>
+<w><ana lex="zələ/rixşə" gr="V,pst,3,sg,f.s,non_obj" trans_en="to go" trans_ru="идти"></ana>-xişlə</w>
+<w><ana lex="zələ/rixşə" gr="V,inf" trans_en="to go" trans_ru="идти"></ana>-xəşə</w>
 <w><ana lex="вar" gr="PREP,p.3,p.pl" trans_en="after" trans_ru="после"></ana><ana lex="вar/вir/вur" gr="N,m,sg,p.3,p.pl" trans_en="son" trans_ru="сын"></ana><ana lex="вara/вahra" gr="N,m,sg,p.3,p.pl" trans_en="light" trans_ru="свет"></ana>-вare</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,3,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>-вrixşinə</w>
 <w><ana lex="acux" gr="ADJ,m,sg,nonposs" trans_en="bold, fearless; open, clear, of colours" trans_ru="яркий"></ana>acux</w>
 <w><ana lex="al" gr="PREP,p.3,p.sg,p.m" trans_en="on, upon, over" trans_ru="на"></ana>alu</w>
 <w><ana lex="amrana" gr="ADJ,m,sg,p.3,p.sg,p.f" trans_en="wollen" trans_ru="шерстяной, пушистый"></ana><ana lex="amrana" gr="N,m,sg,p.3,p.sg,p.f" trans_en="an inhabitant" trans_ru="житель"></ana>amrano</w>
@@ -4944,6 +4997,7 @@
 <w><ana lex="mekə" gr="ADV" trans_en="where from" trans_ru="откуда"></ana>-mekə</w>
 <w><ana lex="mud/mudij/mu" gr="PRON" trans_en="what" trans_ru="что"></ana>-mudij</w>
 <w><ana lex="qujə" gr="ADJ,m,sg,nonposs" trans_en="tight, firm, strong" trans_ru="сильный, твердый, тугой"></ana><ana lex="qujə" gr="ADV" trans_en="loud, strong" trans_ru="сильно, громко"></ana>-qujə</w>
+<w><ana lex="zələ/rixşə" gr="V,pst,3,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>-xişlun</w>
 <w><ana lex="ələhə/ələ" gr="N,m,sg,nonposs" trans_en="God" trans_ru="бог"></ana>-ələ</w>
 <w><ana lex="ajna" gr="N,f,sg,p.2,p.pl" trans_en="a fountain, spring, source" trans_ru="источник (воды)"></ana><ana lex="ajna" gr="N,f,sg,p.2,p.pl" trans_en="an eye" trans_ru="глаз"></ana>ajnoxun</w>
 <w><ana lex="aqьşqa/aquşqa" gr="N,m,sg,nonposs" trans_en="a window" trans_ru="окно"></ana>aqьşqa</w>
@@ -5357,6 +5411,7 @@
 <w><ana lex="xşəvə" gr="V,ipf,3,pl,3.o,f.o,sg.o" trans_en="to think, to consider, to believe" trans_ru="думать; считать, полагать"></ana>xəşvijvələ</w>
 <w><ana lex="xşəxə" gr="V,prs,3,sg,f.s,non_obj" trans_en="to be worthy, fitting" trans_ru="годиться, подходить"></ana>xəşxə</w>
 <w><ana lex="xəşşə" gr="N,pl,nonposs" trans_en="suffering, sorrow" trans_ru="печаль"></ana>xəşşi</w>
+<w><ana lex="zələ/rixşə" gr="V,inf" trans_en="to go" trans_ru="идти"></ana>xəşə-</w>
 <w><ana lex="zləqə" gr="V,ptcp.res,cop.prs,3,sg,m.s,3.o,pl.o" trans_en="to stare" trans_ru="таращить глаза"></ana>zlijqeli</w>
 <w><ana lex="zukzikkə" gr="ADJ,m,sg,nonposs" trans_en="pale" trans_ru="бледный"></ana>zukzikkə</w>
 <w><ana lex="zmərə" gr="V,prs,1,sg,f.s,2.o,m.o,sg.o" trans_en="to sing" trans_ru="петь"></ana>zəmrənnux</w>
@@ -5419,6 +5474,7 @@
 <w><ana lex="ənənqəjutə" gr="N,f,sg,nonposs" trans_en="necessity" trans_ru="необходимость"></ana>ənənqəjutə</w>
 <w><ana lex="əqlə" gr="N,f,sg,p.1,p.pl" trans_en="leg" trans_ru="нога"></ana>əqlən</w>
 <w><ana lex="ətutə" gr="N,f,sg,nonposs" trans_en="letter" trans_ru="буква"></ana>ətutə</w>
+<w><ana lex="zələ/rixşə" gr="V,prs,2,sg,f.s,non_obj" trans_en="to go" trans_ru="идти"></ana>əzət</w>
 <w><ana lex="вagzada" gr="N,m,sg,nonposs" trans_en="nobleman" trans_ru="дворянин"></ana>вagzada</w>
 <w><ana lex="вagzada" gr="N,m,pl,nonposs" trans_en="nobleman" trans_ru="дворянин"></ana>вagzadь</w>
 <w><ana lex="вara/вahra" gr="N,m,sg,nonposs" trans_en="light" trans_ru="свет"></ana>вahra</w>
@@ -5453,6 +5509,7 @@
 <w><ana lex="xrəvə" gr="V,prog,cop.pst,3,pl,non_obj" trans_en="to spoil (intr.), to get worse" trans_ru="портиться, становиться хуже"></ana><ana lex="xrəvə" gr="V,prog,cop.pst,3,sg,non_obj" trans_en="to spoil (intr.), to get worse" trans_ru="портиться, становиться хуже"></ana>вixrəvivə</w>
 <w><ana lex="xrəvə" gr="V,prog,sg,m" trans_en="to spoil (intr.), to get worse" trans_ru="портиться, становиться хуже"></ana>вixrəvə</w>
 <w><ana lex="xzəjə" gr="V,prog,cop.pst,3,pl,3.o,m.o,sg.o" trans_en="to see" trans_ru="видеть"></ana><ana lex="xzəjə" gr="V,prog,cop.pst,3,sg,3.o,m.o,sg.o" trans_en="to see" trans_ru="видеть"></ana>вixzəjuvə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,3,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>вizəlili</w>
 <w><ana lex="çrəpə" gr="V,prog,cop.pst,3,pl,non_obj" trans_en="" trans_ru="скользить"></ana><ana lex="çrəpə" gr="V,prog,cop.pst,3,sg,non_obj" trans_en="" trans_ru="скользить"></ana>вiçrəpivə</w>
 <w><ana lex="çvəçə" gr="V,prog,cop.pst,3,pl,3.o,pl.o" trans_en="" trans_ru="двигаться"></ana><ana lex="çvəçə" gr="V,prog,cop.pst,3,sg,3.o,pl.o" trans_en="" trans_ru="двигаться"></ana>вiçvəçevə</w>
 <w><ana lex="çvəçə" gr="V,prog,cop.prs,3,pl,non_obj" trans_en="" trans_ru="двигаться"></ana>вiçvəçinə</w>
@@ -5500,6 +5557,8 @@
 <w><ana lex="qjətə" gr="V,imp,sg" trans_en="to fall, to strike, to sound, to beat" trans_ru="бить, звучать; падать, ударять"></ana>-qut</w>
 <w><ana lex="sax" gr="ADJ,m,sg,nonposs" trans_en="whole, happy, healthy" trans_ru="целый, благополучный, здоровый"></ana>-sax</w>
 <w><ana lex="xəjə" gr="ADJ,f,sg,nonposs" trans_en="lively, perky" trans_ru="живой, бойкий"></ana>-xetə</w>
+<w><ana lex="zələ/rixşə" gr="V,prs,3,sg,f.s,non_obj" trans_en="to go" trans_ru="идти"></ana>-əzə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,3,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>-вrixşili</w>
 <w><ana lex="aheta" gr="N,f,sg,nonposs" trans_en="a mistress, lady, landlord’s wife" trans_ru="госпожа"></ana>aheta</w>
 <w><ana lex="ahval" gr="N,f,sg,p.3,p.pl" trans_en="condition, state" trans_ru="состояние (физическое, эмоциональное)"></ana>ahvale</w>
 <w><ana lex="ajna" gr="N,f,pl,p.3,p.sg,p.m" trans_en="a fountain, spring, source" trans_ru="источник (воды)"></ana>ajnatu</w>
@@ -5966,6 +6025,7 @@
 <w><ana lex="ximjənə" gr="N,sg,nonposs" trans_en="father-in-law" trans_ru="свекор"></ana>ximjənə</w>
 <w><ana lex="xzəjə" gr="V,ptcp.res,cop.prs,2,sg,m.s,non_obj" trans_en="to see" trans_ru="видеть"></ana>xizjivit</w>
 <w><ana lex="xizmə" gr="N,sg,p.3,p.sg,p.m" trans_en="kinsman, relative" trans_ru="родственник"></ana>xizmu</w>
+<w><ana lex="zələ/rixşə" gr="V,pst,3,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>xişli-</w>
 <w><ana lex="xişşə" gr="N,sg,p.3,p.sg,p.m" trans_en="melancholy, sadness, boredom" trans_ru="тоска, печаль, скука"></ana>xişşu</w>
 <w><ana lex="xjuţa" gr="N,sg,nonposs" trans_en="sewing" trans_ru="шитье"></ana>xjuţa</w>
 <w><ana lex="xjərtə" gr="N,sg,p.3,p.sg,p.m" trans_en="sight, look" trans_ru="взгляд"></ana>xjərtu</w>
@@ -6008,6 +6068,7 @@
 <w><ana lex="zal/zala" gr="N,sg,nonposs" trans_en="hall" trans_ru="зал"></ana>zala</w>
 <w><ana lex="zalmana" gr="N,sg,nonposs" trans_en="villain" trans_ru="злодей"></ana>zalmana</w>
 <w><ana lex="zalmana" gr="N,pl,nonposs" trans_en="villain" trans_ru="злодей"></ana>zalmanь</w>
+<w><ana lex="zələ/rixşə" gr="V,pst,3,sg,f.s,non_obj" trans_en="to go" trans_ru="идти"></ana>zillə</w>
 <w><ana lex="zində" gr="N,sg,nonposs" trans_en="spark" trans_ru="искра"></ana>zində</w>
 <w><ana lex="zmərtə" gr="N,sg,p.3,p.sg,p.f" trans_en="song" trans_ru="песня"></ana>zmərto</w>
 <w><ana lex="zonənə" gr="N,sg,nonposs" trans_en="buyer" trans_ru="покупатель"></ana>zonənə</w>
@@ -6203,9 +6264,11 @@
 <w><ana lex="qьvrah" gr="ADV" trans_en="quickly" trans_ru="быстро"></ana>-qьvrah</w>
 <w><ana lex="raja" gr="N,pl,nonposs" trans_en="shepherd" trans_ru="пастух"></ana>-rajь</w>
 <w><ana lex="raвa" gr="ADV" trans_en="very much, a lot" trans_ru="много; очень"></ana>-raвa</w>
+<w><ana lex="zələ/rixşə" gr="V,imp,sg" trans_en="to go" trans_ru="идти"></ana>-si</w>
 <w><ana lex="səvə" gr="ADJ,f,sg,nonposs" trans_en="old" trans_ru="старый"></ana>-səvi</w>
 <w><ana lex="tənə" gr="N,sg,nonposs" trans_en="waist, belt" trans_ru="талия, пояс"></ana>-tən</w>
 <w><ana lex="həvi/vəjə" gr="V,pst,3,sg,f.s,non_obj" trans_en="to be, to become" trans_ru="быть, становиться"></ana>-vilə</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.pst,3,pl,non_obj" trans_en="to go" trans_ru="идти"></ana><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.pst,3,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>-xijşivə</w>
 <w><ana lex="вar" gr="PREP,p.3,p.sg,p.f" trans_en="after" trans_ru="после"></ana><ana lex="вar/вir/вur" gr="N,m,sg,p.3,p.sg,p.f" trans_en="son" trans_ru="сын"></ana><ana lex="вara/вahra" gr="N,m,sg,p.3,p.sg,p.f" trans_en="light" trans_ru="свет"></ana>-вaro</w>
 <w><ana lex="в" gr="PREP,nonposs" trans_en="in; preposition of instrumental case" trans_ru="в; предлог творительного падежа"></ana><ana lex="в" gr="PREP,p.1,p.sg" trans_en="in; preposition of instrumental case" trans_ru="в; предлог творительного падежа"></ana>-вij</w>
 <w><ana lex="вut" gr="PREP,nonposs" trans_en="for, about, concerning" trans_ru="о, (радоваться) за"></ana>-вut</w>
@@ -6941,6 +7004,7 @@
 <w><ana lex="zapţьja" gr="N,pl,nonposs" trans_en="policeman" trans_ru="жандарм, полицейский"></ana>zapţьjь</w>
 <w><ana lex="zraja" gr="V,ipf,1,pl,non_obj" trans_en="to saw" trans_ru="сеять"></ana>zaraxva</w>
 <w><ana lex="zdaja" gr="V,pst,2,sg,m.s,non_obj" trans_en="to fear, to be afraid" trans_ru="бояться, испугаться"></ana>zdьlux</w>
+<w><ana lex="zələ/rixşə" gr="V,pst,1,sg,non_obj" trans_en="to go" trans_ru="идти"></ana>zillij</w>
 <w><ana lex="zinnə" gr="N,pl,nonposs" trans_en="swamp" trans_ru="болото"></ana>zinnəti</w>
 <w><ana lex="zirəgutə/zirrəgutə/zirəngutə/zirrəngutə" gr="N,sg,nonposs" trans_en="agility, liveliness" trans_ru="прытость, живость, бодрость"></ana>zirəngutə</w>
 <w><ana lex="zjənə" gr="N,pl,nonposs" trans_en="harm" trans_ru="вред"></ana>zjəni</w>
@@ -7142,6 +7206,9 @@
 <w><ana lex="xşəvə" gr="V,prog,cop.prs,3,sg,m.s,non_obj" trans_en="to think, to consider, to believe" trans_ru="думать; считать, полагать"></ana>вixşəvili</w>
 <w><ana lex="xşəvə" gr="V,prog,cop.prs,3,pl,non_obj" trans_en="to think, to consider, to believe" trans_ru="думать; считать, полагать"></ana>вixşəvinə</w>
 <w><ana lex="xşəvə" gr="V,prog,cop.pst,1,sg,m.s,3.o,f.o,sg.o" trans_en="to think, to consider, to believe" trans_ru="думать; считать, полагать"></ana>вixşəvovinvə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,3,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>вizəlinə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,2,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>вizəlivit</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,1,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>вizəlivəx</w>
 <w><ana lex="çvəçə" gr="V,prog,cop.prs,3,sg,f.s,non_obj" trans_en="" trans_ru="двигаться"></ana>вiçvəçilə</w>
 <w><ana lex="şpəxə" gr="V,prog,sg,m" trans_en="to pour out" trans_ru="выливаться"></ana>вişpəxə-</w>
 <w><ana lex="şvəqə" gr="V,prog,cop.pst,3,pl,3.o,f.o,sg.o" trans_en="to leave, to let, to permit, to let pass" trans_ru="оставлять; позволять; пропускать"></ana><ana lex="şvəqə" gr="V,prog,cop.pst,3,sg,3.o,f.o,sg.o" trans_en="to leave, to let, to permit, to let pass" trans_ru="оставлять; позволять; пропускать"></ana>вişvəqovə</w>
@@ -7222,14 +7289,19 @@
 <w><ana lex="tikə" gr="N,pl,nonposs" trans_en="piece" trans_ru="кусок, обрубок"></ana>-tiki</w>
 <w><ana lex="tpəjə" gr="V,prs,3,sg,m.s,non_obj" trans_en="to hang, to stick (to)" trans_ru="виснуть, приклеиться"></ana>-təpi</w>
 <w><ana lex="xdəjə" gr="V,ptcp.res,pl" trans_en="to rejoice, to be glad" trans_ru="радоваться"></ana><ana lex="xidjə" gr="ADJ,pl,nonposs" trans_en="gay, merry, cheerful" trans_ru="веселый"></ana>-xidji</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.prs,3,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>-xijşili</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.prs,3,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>-xijşinə</w>
 <w><ana lex="xvara" gr="ADJ,m,sg,nonposs" trans_en="white" trans_ru="белый"></ana><ana lex="xvara" gr="V,inf" trans_en="to become white, pale" trans_ru="побелеть, побледнеть"></ana>-xvara</w>
 <w><ana lex="zulə" gr="N,pl,nonposs" trans_en="stripe" trans_ru="полоса"></ana>-zuli</w>
 <w><ana lex="şap" gr="INTERJ" trans_en="bang" trans_ru="хлоп"></ana>-şap</w>
 <w><ana lex="şimşə" gr="N,sg,nonposs" trans_en="sun" trans_ru="солнце"></ana>-şimşə</w>
 <w><ana lex="əqlə" gr="N,f,sg,p.3,p.sg,p.m" trans_en="leg" trans_ru="нога"></ana>-əqlu</w>
+<w><ana lex="zələ/rixşə" gr="V,prs,1,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>-əzəx</w>
 <w><ana lex="вaqurь" gr="V,inf" trans_en="to ask; to interrogate" trans_ru="спрашивать; допрашивать"></ana>-вaqurь</w>
 <w><ana lex="вar" gr="PREP,p.1,p.pl" trans_en="after" trans_ru="после"></ana><ana lex="вar/вir/вur" gr="N,m,sg,p.1,p.pl" trans_en="son" trans_ru="сын"></ana><ana lex="вara/вahra" gr="N,m,sg,p.1,p.pl" trans_en="light" trans_ru="свет"></ana><ana lex="вarana" gr="ADJ,m,sg,nonposs" trans_en="light" trans_ru="светлый"></ana>-вaran</w>
 <w><ana lex="вetə" gr="N,m,sg,nonposs" trans_en="house, building" trans_ru="дом"></ana>-вetə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,3,sg,f.s,non_obj" trans_en="to go" trans_ru="идти"></ana>-вrixşilə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,sg,m" trans_en="to go" trans_ru="идти"></ana>-вrixşə</w>
 <w><ana lex="adres" gr="N,m,sg,nonposs" trans_en="address" trans_ru="адрес"></ana>adres</w>
 <w><ana lex="alamatuta" gr="ADV" trans_en="an awful lot" trans_ru="страсть, беда (очень много)"></ana>alamatuta</w>
 <w><ana lex="alma" gr="N,m,sg,p.3,p.sg,p.f" trans_en="people, men" trans_ru="народ"></ana>almo</w>
@@ -8312,6 +8384,10 @@
 <w><ana lex="xdara" gr="V,ptcp.res,cop.prs,3,pl" trans_en="to go round; to walk, to stroll" trans_ru="ходить (взад-вперед, по кругу), бродить, гулять, ухаживать"></ana>xdьjrьna</w>
 <w><ana lex="xdəjə" gr="V,ptcp.res,pl" trans_en="to rejoice, to be glad" trans_ru="радоваться"></ana><ana lex="xidjə" gr="ADJ,pl,nonposs" trans_en="gay, merry, cheerful" trans_ru="веселый"></ana>xidji-</w>
 <w><ana lex="xdəjə" gr="V,ptcp.res,cop.pst,1,sg,m.s,non_obj" trans_en="to rejoice, to be glad" trans_ru="радоваться"></ana><ana lex="xidjə" gr="ADJ,m,sg,cop.pst,p.1,p.sg,p.m" trans_en="gay, merry, cheerful" trans_ru="веселый"></ana>xidjivinvə</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.pst,3,pl,3.o,pl.o" trans_en="to go" trans_ru="идти"></ana><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.pst,3,sg,m.s,3.o,pl.o" trans_en="to go" trans_ru="идти"></ana>xijşevə</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.prs,2,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>xijşitun</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.prs,2,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>xijşivit</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.prs,1,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>xijşivəx</w>
 <w><ana lex="xilmət" gr="N,sg,p.1,p.sg" trans_en="service; position, post" trans_ru="служба, должность"></ana>xilməttij</w>
 <w><ana lex="ximjənə" gr="N,sg,p.1,p.sg" trans_en="father-in-law" trans_ru="свекор"></ana>ximjənij</w>
 <w><ana lex="xinə" gr="ADJ,m,sg,cop.prs,p.3,p.sg,p.m" trans_en="another" trans_ru="другой"></ana>xinili</w>
@@ -8455,6 +8531,7 @@
 <w><ana lex="zəhmət" gr="N,f,pl,nonposs" trans_en="effort" trans_ru="усилие"></ana>zəhmətti</w>
 <w><ana lex="zəjərutə" gr="N,sg,nonposs" trans_en="boastfulness" trans_ru="хвастливость"></ana>zəjərutə</w>
 <w><ana lex="zəllu" gr="N,sg,nonposs" trans_en="leech" trans_ru="пиявка"></ana>zəllu</w>
+<w><ana lex="zələ/rixşə" gr="V,inf" trans_en="to go" trans_ru="идти"></ana>zələ</w>
 <w><ana lex="zmərə" gr="V,ipf,3,pl,non_obj" trans_en="to sing" trans_ru="петь"></ana>zəmrijvə</w>
 <w><ana lex="zmərə" gr="V,ptcp.act,m,sg" trans_en="to sing" trans_ru="петь"></ana>zəmrənə</w>
 <w><ana lex="zmərə" gr="V,prs,1,pl,non_obj" trans_en="to sing" trans_ru="петь"></ana>zəmrəx</w>
@@ -8742,6 +8819,9 @@
 <w><ana lex="zmərə" gr="V,prog,cop.prs,3,sg,f.s,non_obj" trans_en="to sing" trans_ru="петь"></ana>вizmərilə</w>
 <w><ana lex="zmərə" gr="V,prog,cop.pst,3,pl,3.o,f.o,sg.o" trans_en="to sing" trans_ru="петь"></ana><ana lex="zmərə" gr="V,prog,cop.pst,3,sg,3.o,f.o,sg.o" trans_en="to sing" trans_ru="петь"></ana>вizmərovə</w>
 <w><ana lex="вizzə" gr="N,m,pl,nonposs" trans_en="breast" trans_ru="грудь"></ana>вizzəzi</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,3,sg,f.s,non_obj" trans_en="to go" trans_ru="идти"></ana>вizəlilə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,1,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>вizəlivin</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.pst,1,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>вizəlivinvə</w>
 <w><ana lex="şjəpə" gr="V,prog,cop.pst,3,pl,3.o,f.o,sg.o" trans_en="to smear, to anoint; to wipe, to stroke; to become dull" trans_ru="помазать, мазать; вытирать, гладить; становиться тупым"></ana><ana lex="şjəpə" gr="V,prog,cop.pst,3,sg,3.o,f.o,sg.o" trans_en="to smear, to anoint; to wipe, to stroke; to become dull" trans_ru="помазать, мазать; вытирать, гладить; становиться тупым"></ana>вişjəpovə</w>
 <w><ana lex="şjəpə" gr="V,prog,sg,m" trans_en="to smear, to anoint; to wipe, to stroke; to become dull" trans_ru="помазать, мазать; вытирать, гладить; становиться тупым"></ana>вişjəpə</w>
 <w><ana lex="şləgə" gr="V,prog,sg,m" trans_en="to pull out" trans_ru="выдёргивать"></ana>вişləgə</w>
@@ -8770,6 +8850,8 @@
 <w><ana lex="вrəkə" gr="V,ptcp.res,cop.pst,3,pl,non_obj" trans_en="to kneel" trans_ru="вставать на колени"></ana><ana lex="вrəkə" gr="V,ptcp.res,cop.pst,3,sg,m.s,non_obj" trans_en="to kneel" trans_ru="вставать на колени"></ana>вrijkivə</w>
 <w><ana lex="вrəkə" gr="V,ptcp.res,sg,m" trans_en="to kneel" trans_ru="вставать на колени"></ana>вrijkə</w>
 <w><ana lex="вrəkə" gr="V,ptcp.res,sg,f" trans_en="to kneel" trans_ru="вставать на колени"></ana>вriktə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,1,sg,m.s,3.o,pl.o" trans_en="to go" trans_ru="идти"></ana>вrixşevin</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,2,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>вrixşitun</w>
 <w><ana lex="вrəzə" gr="V,pst,1,sg,non_obj" trans_en="to dry, to dry up" trans_ru="высыхать; остолбенеть, застыть, обмереть"></ana>вrizlij</w>
 <w><ana lex="вrəijdə" gr="N,f,sg,nonposs" trans_en="a glove" trans_ru="перчатка"></ana>вrəijdə</w>
 <w><ana lex="вrəkə" gr="V,inf" trans_en="to kneel" trans_ru="вставать на колени"></ana>вrəkə</w>
@@ -8941,6 +9023,7 @@
 <w><ana lex="vana" gr="N,sg,nonposs" trans_en="sheep" trans_ru="овца"></ana>-vana</w>
 <w><ana lex="həvi/vəjə" gr="V,inf" trans_en="to be, to become" trans_ru="быть, становиться"></ana>-vəjə</w>
 <w><ana lex="xelə" gr="N,pl,nonposs" trans_en="force" trans_ru="сила"></ana>-xeli</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,sg,m" trans_en="to go" trans_ru="идти"></ana>-xijşə</w>
 <w><ana lex="xəjmə" gr="ADJ,m,sg,nonposs" trans_en="hot" trans_ru="горячий, жаркий"></ana>-xəjmə</w>
 <w><ana lex="xəjə" gr="ADJ,m,sg,nonposs" trans_en="lively, perky" trans_ru="живой, бойкий"></ana>-xəjə</w>
 <w><ana lex="xəm" gr="N,sg,nonposs" trans_en="care, custody" trans_ru="опека, забота"></ana>-xəm</w>
@@ -8957,6 +9040,8 @@
 <w><ana lex="ţjama" gr="V,ptcp.res,cop.prs,3,pl,3.o,f.o,sg.o" trans_en="to taste" trans_ru="пробовать"></ana><ana lex="ţьjmana" gr="ADJ,m,sg,nonposs" trans_en="precious, dear, costly" trans_ru="ценный, дорогой, драгоценный"></ana>-ţьjmana</w>
 <w><ana lex="əj" gr="INTERJ" trans_en="ah" trans_ru="ах"></ana><ana lex="əj/dəj" gr="PRON" trans_en="she, that" trans_ru="она, эта, оно, это"></ana>-əj</w>
 <w><ana lex="əxcij" gr="ADV" trans_en="only" trans_ru="только"></ana>-əxcij</w>
+<w><ana lex="zələ/rixşə" gr="V,prs,3,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>-əzij</w>
+<w><ana lex="zələ/rixşə" gr="V,prs,2,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>-əzit</w>
 <w><ana lex="вar" gr="PREP,p.1,p.sg" trans_en="after" trans_ru="после"></ana><ana lex="вar/вir/вur" gr="N,m,sg,p.1,p.sg" trans_en="son" trans_ru="сын"></ana><ana lex="вara/вahra" gr="N,m,sg,p.1,p.sg" trans_en="light" trans_ru="свет"></ana>-вarьj</w>
 <w><ana lex="вitə" gr="N,f,pl,nonposs" trans_en="egg" trans_ru="яйцо"></ana>-вi</w>
 <w><ana lex="вit" gr="PART" trans_en="" trans_ru="частица будущего времени"></ana><ana lex="вitə" gr="N,f,sg,nonposs" trans_en="egg" trans_ru="яйцо"></ana>-вit</w>
@@ -10970,6 +11055,10 @@
 <w><ana lex="xdəjə" gr="V,ptcp.res,cop.prs,2,sg,m.s,non_obj" trans_en="to rejoice, to be glad" trans_ru="радоваться"></ana><ana lex="xidjə" gr="ADJ,m,sg,cop.prs,p.2,p.sg,p.m" trans_en="gay, merry, cheerful" trans_ru="веселый"></ana>xidjivit</w>
 <w><ana lex="xidəmtə" gr="N,sg,nonposs" trans_en="female servant" trans_ru="служанка"></ana>xidəmtə</w>
 <w><ana lex="xijmə" gr="ADJ,m,sg,cop.pst,p.3,p.pl" trans_en="red-hot" trans_ru="раскаленный"></ana><ana lex="xijmə" gr="ADJ,m,sg,cop.pst,p.3,p.sg,p.f" trans_en="red-hot" trans_ru="раскаленный"></ana><ana lex="xijmə" gr="ADJ,m,sg,cop.pst,p.3,p.sg,p.m" trans_en="red-hot" trans_ru="раскаленный"></ana>xijmivə</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.prs,3,sg,m.s,3.o,pl.o" trans_en="to go" trans_ru="идти"></ana>xijşeli</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.pst,1,sg,m.s,1.o,sg.o" trans_en="to go" trans_ru="идти"></ana>xijşinvinvə</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.prs,1,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>xijşivin</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,sg,m" trans_en="to go" trans_ru="идти"></ana>xijşə-</w>
 <w><ana lex="xilmət" gr="N,sg,p.2,p.sg,p.m" trans_en="service; position, post" trans_ru="служба, должность"></ana>xilməttux</w>
 <w><ana lex="xinə" gr="ADJ,m,sg,nonposs" trans_en="another" trans_ru="другой"></ana>xin</w>
 <w><ana lex="xpəjə" gr="V,ptcp.res,pl" trans_en="to lie down, to sit down" trans_ru="лежать; приседать"></ana>xipji</w>
@@ -11502,8 +11591,10 @@
 <w><ana lex="əxunə" gr="N,m,pl,p.2,p.pl" trans_en="brother" trans_ru="брат"></ana>əxunvətoxun</w>
 <w><ana lex="əxunə" gr="N,m,pl,p.1,p.pl" trans_en="brother" trans_ru="брат"></ana>əxunvətən</w>
 <w><ana lex="əxunə" gr="N,m,sg,p.1,p.pl" trans_en="brother" trans_ru="брат"></ana>əxunən</w>
-<w><ana lex="əzənə" gr="N,m,pl,nonposs" trans_en="traveler" trans_ru="путешественник"></ana>əzəni-</w>
-<w><ana lex="əzənə" gr="N,m,sg,nonposs" trans_en="traveler" trans_ru="путешественник"></ana>əzənə</w>
+<w><ana lex="zələ/rixşə" gr="V,ipf,3,pl,3.o,pl.o" trans_en="to go" trans_ru="идти"></ana>əzijvəlun</w>
+<w><ana lex="zələ/rixşə" gr="V,ipf,2,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>əzitunvə</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.act,pl" trans_en="to go" trans_ru="идти"></ana><ana lex="əzənə" gr="N,m,pl,nonposs" trans_en="traveler" trans_ru="путешественник"></ana>əzəni-</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.act,m,sg" trans_en="to go" trans_ru="идти"></ana><ana lex="əzənə" gr="N,m,sg,nonposs" trans_en="traveler" trans_ru="путешественник"></ana>əzənə</w>
 <w><ana lex="əвədutə" gr="N,f,sg,nonposs" trans_en="eternity" trans_ru="вечность"></ana>əвədutə</w>
 <w><ana lex="вadja" gr="N,f,sg,p.2,p.sg,p.m" trans_en="tub" trans_ru="бадья"></ana>вadjux</w>
 <w><ana lex="вagьruta" gr="N,f,sg,p.3,p.sg,p.f" trans_en="leanness" trans_ru="худоба"></ana>вagьruto</w>
@@ -11714,6 +11805,7 @@
 <w><ana lex="xşəvə" gr="V,prog,cop.prs,3,sg,m.s,3.o,f.o,sg.o" trans_en="to think, to consider, to believe" trans_ru="думать; считать, полагать"></ana>вixşəvoli</w>
 <w><ana lex="xşəvə" gr="V,prog,cop.prs,1,sg,m.s,3.o,f.o,sg.o" trans_en="to think, to consider, to believe" trans_ru="думать; считать, полагать"></ana>вixşəvovin</w>
 <w><ana lex="xşəvə" gr="V,prog,cop.prs,3,pl,3.o,m.o,sg.o" trans_en="to think, to consider, to believe" trans_ru="думать; считать, полагать"></ana>вixşəvunə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,sg,m" trans_en="to go" trans_ru="идти"></ana>вixəşə</w>
 <w><ana lex="zjərə" gr="V,prog,cop.prs,3,pl,non_obj" trans_en="to swell" trans_ru="пухнуть"></ana>вizjərinə</w>
 <w><ana lex="zrəqə" gr="V,prog,cop.pst,3,pl,non_obj" trans_en="to rise (luminaries)" trans_ru="восходить (о светилах)"></ana><ana lex="zrəqə" gr="V,prog,cop.pst,3,sg,non_obj" trans_en="to rise (luminaries)" trans_ru="восходить (о светилах)"></ana>вizrəqivə</w>
 <w><ana lex="zvəjə" gr="V,prog,sg,m" trans_en="to swell" trans_ru="пухнуть"></ana>вizvəjə</w>
@@ -11758,6 +11850,8 @@
 <w><ana lex="вrəkə" gr="V,ptcp.res,cop.pst,3,sg,f.s,non_obj" trans_en="to kneel" trans_ru="вставать на колени"></ana>вriktivə</w>
 <w><ana lex="вrəjə" gr="V,pst,2,sg,m.s,non_obj" trans_en="to happen, to occur" trans_ru="происходить, случаться"></ana>вrilux</w>
 <w><ana lex="вrisim" gr="N,m,pl,nonposs" trans_en="silk" trans_ru="шёлк"></ana>вrisimi</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.pst,1,sg,m.s,3.o,pl.o" trans_en="to go" trans_ru="идти"></ana>вrixşevinvə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.pst,3,pl,3.o,f.o,sg.o" trans_en="to go" trans_ru="идти"></ana><ana lex="zələ/rixşə" gr="V,prog,cop.pst,3,sg,3.o,f.o,sg.o" trans_en="to go" trans_ru="идти"></ana>вrixşovə</w>
 <w><ana lex="вrəzə" gr="V,ptcp.res,cop.prs,3,sg,f.s,non_obj" trans_en="to dry, to dry up" trans_ru="высыхать; остолбенеть, застыть, обмереть"></ana>вriztilə</w>
 <w><ana lex="вriş/в riş" gr="PREP,p.2,p.pl" trans_en="" trans_ru="с, на"></ana>вrişoxun</w>
 <w><ana lex="вrunə" gr="N,m,sg,nonposs" trans_en="a son" trans_ru="сын"></ana>вrun-</w>
@@ -12232,12 +12326,15 @@
 <w><ana lex="xişkə" gr="N,sg,nonposs" trans_en="darkness, haze" trans_ru="темнота, мгла"></ana>-xişkə</w>
 <w><ana lex="xişkənə" gr="ADJ,f,sg,nonposs" trans_en="dark, gloomy" trans_ru="темный, мрачный"></ana>-xişkəntə</w>
 <w><ana lex="xişkənə" gr="ADJ,m,sg,nonposs" trans_en="dark, gloomy" trans_ru="темный, мрачный"></ana>-xişkənə</w>
+<w><ana lex="zələ/rixşə" gr="V,pst,1,sg,non_obj" trans_en="to go" trans_ru="идти"></ana>-xişlij</w>
+<w><ana lex="zələ/rixşə" gr="V,pst,1,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>-xişlən</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,sg,f" trans_en="to go" trans_ru="идти"></ana>-xiştə</w>
 <w><ana lex="xlasa" gr="V,inf" trans_en="to press, squeeze, to shrink" trans_ru="сжиматься; сжимать, пожимать"></ana>-xlasa</w>
 <w><ana lex="xlula" gr="N,sg,nonposs" trans_en="wedding" trans_ru="свадьба"></ana>-xlula</w>
 <w><ana lex="xlasa" gr="V,ptcp.res,cop.prs,3,sg,f.s" trans_en="to press, squeeze, to shrink" trans_ru="сжиматься; сжимать, пожимать"></ana>-xlьstьla</w>
 <w><ana lex="xnəqə" gr="V,inf" trans_en="to drown" trans_ru="утонуть"></ana>-xnəqə</w>
 <w><ana lex="xrəzə" gr="V,ptcp.res,cop.prs,3,pl,non_obj" trans_en="to line up; to string; to grin" trans_ru="выстраивать в линию, нанизывать, скалить (зубы)"></ana>-xrijzinə</w>
-<w><ana lex="xuş" gr="PART" trans_en="let" trans_ru="пусть, пускай; побудительная частица"></ana>-xuş</w>
+<w><ana lex="xuş" gr="PART" trans_en="let" trans_ru="пусть, пускай; побудительная частица"></ana><ana lex="zələ/rixşə" gr="V,imp,sg" trans_en="to go" trans_ru="идти"></ana>-xuş</w>
 <w><ana lex="xuввa/xuввə" gr="N,sg,p.3,p.sg,p.m" trans_en="love" trans_ru="любовь"></ana>-xuввu</w>
 <w><ana lex="xvarnaja" gr="ADJ,m,sg,nonposs" trans_en="grayish, whitish" trans_ru="серенький, беловатый"></ana>-xvarnaja</w>
 <w><ana lex="xvara" gr="ADJ,pl,nonposs" trans_en="white" trans_ru="белый"></ana>-xvarь</w>
@@ -12316,8 +12413,10 @@
 <w><ana lex="ərxə" gr="N,m,pl,nonposs" trans_en="guest" trans_ru="гость"></ana>-ərxi</w>
 <w><ana lex="əxunə" gr="N,m,sg,p.1,p.sg" trans_en="brother" trans_ru="брат"></ana>-əxunij</w>
 <w><ana lex="əxunə" gr="N,m,sg,nonposs" trans_en="brother" trans_ru="брат"></ana>-əxunə</w>
-<w><ana lex="əzənə" gr="N,m,pl,nonposs" trans_en="traveler" trans_ru="путешественник"></ana>-əzəni</w>
-<w><ana lex="əzənə" gr="N,m,sg,nonposs" trans_en="traveler" trans_ru="путешественник"></ana>-əzənə</w>
+<w><ana lex="zələ/rixşə" gr="V,ipf,3,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>-əzijvə</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.act,pl" trans_en="to go" trans_ru="идти"></ana><ana lex="əzənə" gr="N,m,pl,nonposs" trans_en="traveler" trans_ru="путешественник"></ana>-əzəni</w>
+<w><ana lex="zələ/rixşə" gr="V,ipf,1,sg,f.s,non_obj" trans_en="to go" trans_ru="идти"></ana>-əzənvə</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.act,m,sg" trans_en="to go" trans_ru="идти"></ana><ana lex="əzənə" gr="N,m,sg,nonposs" trans_en="traveler" trans_ru="путешественник"></ana>-əzənə</w>
 <w><ana lex="вagьjra" gr="ADJ,m,sg,cop.pst,p.3,p.pl" trans_en="lean" trans_ru="худой"></ana><ana lex="вagьjra" gr="ADJ,m,sg,cop.pst,p.3,p.sg,p.f" trans_en="lean" trans_ru="худой"></ana><ana lex="вagьjra" gr="ADJ,m,sg,cop.pst,p.3,p.sg,p.m" trans_en="lean" trans_ru="худой"></ana>-вagьjrьva</w>
 <w><ana lex="вalвusь" gr="V,prog,cop.pst,3,pl,non_obj" trans_en="to twinkle, to glitter, to glisten, to gleam" trans_ru="блестеть, сверкать"></ana><ana lex="вalвusь" gr="V,prog,cop.pst,3,sg,non_obj" trans_en="to twinkle, to glitter, to glisten, to gleam" trans_ru="блестеть, сверкать"></ana>-вalвusьva</w>
 <w><ana lex="вara/вahra" gr="N,m,sg,nonposs" trans_en="light" trans_ru="свет"></ana>-вara</w>
@@ -12356,6 +12455,7 @@
 <w><ana lex="вar/вir/вur" gr="N,m,pl,nonposs" trans_en="son" trans_ru="сын"></ana><ana lex="вne" gr="N,pl_tant,pl,nonposs" trans_en="" trans_ru="сыны, выражает принадлежность к чему-либо"></ana>-вne</w>
 <w><ana lex="вrəzə" gr="V,ptcp.res,pl" trans_en="to dry, to dry up" trans_ru="высыхать; остолбенеть, застыть, обмереть"></ana>-вrijzi</w>
 <w><ana lex="вrijzə" gr="ADJ,m,sg,cop.pst,p.3,p.pl" trans_en="dried, dry" trans_ru="сухой (старик)"></ana><ana lex="вrijzə" gr="ADJ,m,sg,cop.pst,p.3,p.sg,p.f" trans_en="dried, dry" trans_ru="сухой (старик)"></ana><ana lex="вrijzə" gr="ADJ,m,sg,cop.pst,p.3,p.sg,p.m" trans_en="dried, dry" trans_ru="сухой (старик)"></ana><ana lex="вrəzə" gr="V,ptcp.res,cop.pst,3,pl,non_obj" trans_en="to dry, to dry up" trans_ru="высыхать; остолбенеть, застыть, обмереть"></ana><ana lex="вrəzə" gr="V,ptcp.res,cop.pst,3,sg,m.s,non_obj" trans_en="to dry, to dry up" trans_ru="высыхать; остолбенеть, застыть, обмереть"></ana>-вrijzivə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,2,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>-вrixşitun</w>
 <w><ana lex="вrəzə" gr="V,pst,3,pl,non_obj" trans_en="to dry, to dry up" trans_ru="высыхать; остолбенеть, застыть, обмереть"></ana>-вrizlun</w>
 <w><ana lex="вulgənə" gr="N,m,sg,nonposs" trans_en="occupation" trans_ru="занятие"></ana>-вulgənə</w>
 <w><ana lex="вəlmuli" gr="V,pst,3,sg,m.s,non_obj" trans_en="to mix up" trans_ru="спутывать"></ana>-вulmilli</w>
@@ -16725,13 +16825,13 @@
 <w><ana lex="rxəmə" gr="V,ptcp.res,sg,m" trans_en="to regret" trans_ru="жалеть"></ana>rxijmə</w>
 <w><ana lex="rxəqə" gr="V,ptcp.res,cop.pst,3,pl,3.o,pl.o" trans_en="to avoid" trans_ru="избегать"></ana><ana lex="rxəqə" gr="V,ptcp.res,cop.pst,3,sg,m.s,3.o,pl.o" trans_en="to avoid" trans_ru="избегать"></ana>rxijqevə</w>
 <w><ana lex="rxəqə" gr="V,ptcp.res,pl" trans_en="to avoid" trans_ru="избегать"></ana>rxijqi</w>
-<w><ana lex="rixşə" gr="V,ptcp.res,cop.prs,3,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>rxijşinə</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.prs,3,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>rxijşinə</w>
 <w><ana lex="rxəmə" gr="V,pst,1,sg,non_obj" trans_en="to regret" trans_ru="жалеть"></ana>rximlij</w>
 <w><ana lex="rxəmə" gr="V,pst,3,sg,f.s,non_obj" trans_en="to regret" trans_ru="жалеть"></ana>rximlə</w>
 <w><ana lex="rxəqə" gr="V,pst,1,sg,non_obj" trans_en="to avoid" trans_ru="избегать"></ana>rxiqlij</w>
 <w><ana lex="rxəqə" gr="V,pst,3,pl,non_obj" trans_en="to avoid" trans_ru="избегать"></ana>rxiqlun</w>
-<w><ana lex="rixşə" gr="V,pst,3,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>rxişli</w>
-<w><ana lex="rixşə" gr="V,pst,3,sg,f.s,non_obj" trans_en="to go" trans_ru="идти"></ana>rxişlə</w>
+<w><ana lex="zələ/rixşə" gr="V,pst,3,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>rxişli</w>
+<w><ana lex="zələ/rixşə" gr="V,pst,3,sg,f.s,non_obj" trans_en="to go" trans_ru="идти"></ana>rxişlə</w>
 <w><ana lex="rxaţa" gr="V,imp,sg" trans_en="to run" trans_ru="бежать, бегать"></ana>rxuţ-</w>
 <w><ana lex="rxəmə" gr="V,inf" trans_en="to regret" trans_ru="жалеть"></ana>rxəmə</w>
 <w><ana lex="rxaţa" gr="V,ptcp.res,sg,m" trans_en="to run" trans_ru="бежать, бегать"></ana>rxьjţa-</w>
@@ -17942,6 +18042,13 @@
 <w><ana lex="xjəpə" gr="V,ptcp.res,cop.prs,3,sg,m.s,3.o,pl.o" trans_en="to bathe, wash intr." trans_ru="мыться"></ana>xijpeli</w>
 <w><ana lex="xjəpə" gr="V,ptcp.res,cop.prs,3,pl,1.o,sg.o" trans_en="to bathe, wash intr." trans_ru="мыться"></ana>xijpinnə</w>
 <w><ana lex="xjəpə" gr="V,ptcp.res,sg,m" trans_en="to bathe, wash intr." trans_ru="мыться"></ana>xijpə</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.pst,2,sg,m.s,3.o,pl.o" trans_en="to go" trans_ru="идти"></ana>xijşevitvə</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.pst,2,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>xijşitunvə</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.pst,1,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>xijşivinvə</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.pst,2,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>xijşivitvə</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.pst,1,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>xijşivəxvə</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.pst,3,pl,3.o,f.o,sg.o" trans_en="to go" trans_ru="идти"></ana><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.pst,3,sg,m.s,3.o,f.o,sg.o" trans_en="to go" trans_ru="идти"></ana>xijşovə</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.prs,3,sg,m.s,3.o,f.o,sg.o" trans_en="to go" trans_ru="идти"></ana>xijşəli</w>
 <w><ana lex="xiljə" gr="ADJ,m,sg,nonposs" trans_en="gentle, sweet" trans_ru="ласковый"></ana>xiljə</w>
 <w><ana lex="xilmətkər" gr="N,sg,p.1,p.sg" trans_en="servant, batman" trans_ru="слуга, денщик"></ana>xilmətkərij</w>
 <w><ana lex="xilmətkər" gr="N,sg,p.3,p.sg,p.m" trans_en="servant, batman" trans_ru="слуга, денщик"></ana>xilmətkəru</w>
@@ -17991,6 +18098,11 @@
 <w><ana lex="xişkənə" gr="ADJ,m,sg,cop.prs,p.3,p.pl" trans_en="dark, gloomy" trans_ru="темный, мрачный"></ana>xişkəninə</w>
 <w><ana lex="xişkənə" gr="ADJ,m,sg,cop.prs,p.2,p.sg,p.m" trans_en="dark, gloomy" trans_ru="темный, мрачный"></ana>xişkənivit</w>
 <w><ana lex="xişkənə" gr="ADJ,m,sg,nonposs" trans_en="dark, gloomy" trans_ru="темный, мрачный"></ana>xişkənə-</w>
+<w><ana lex="zələ/rixşə" gr="V,pst,1,sg,non_obj" trans_en="to go" trans_ru="идти"></ana>xişlij-</w>
+<w><ana lex="zələ/rixşə" gr="V,pst,2,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>xişlux</w>
+<w><ana lex="zələ/rixşə" gr="V,pst,2,sg,f.s,non_obj" trans_en="to go" trans_ru="идти"></ana>xişləx</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.pst,3,sg,f.s,1.o,sg.o" trans_en="to go" trans_ru="идти"></ana>xiştinvə</w>
+<w><ana lex="zələ/rixşə" gr="V,ptcp.res,cop.pst,1,sg,f.s,non_obj" trans_en="to go" trans_ru="идти"></ana>xiştivənvə</w>
 <w><ana lex="xişşə" gr="N,sg,nonposs" trans_en="melancholy, sadness, boredom" trans_ru="тоска, печаль, скука"></ana>xişşə-</w>
 <w><ana lex="xişşənə" gr="ADJ,f,sg,cop.pst,p.3,p.pl" trans_en="suffering, sad, baleful" trans_ru="печальный, грустный"></ana><ana lex="xişşənə" gr="ADJ,f,sg,cop.pst,p.3,p.sg,p.f" trans_en="suffering, sad, baleful" trans_ru="печальный, грустный"></ana><ana lex="xişşənə" gr="ADJ,f,sg,cop.pst,p.3,p.sg,p.m" trans_en="suffering, sad, baleful" trans_ru="печальный, грустный"></ana>xişşəntivə</w>
 <w><ana lex="xiƶвunə" gr="N,sg,p.3,p.pl" trans_en="calculation, payment" trans_ru="расчет, расплата"></ana>xiƶвune</w>
@@ -18126,7 +18238,7 @@
 <w><ana lex="xəzdugi" gr="V,ptcp.res,cop.prs,3,sg,f.s" trans_en="to hurt, injure; to get hurt" trans_ru="повредить, получать повреждение"></ana>xuzdigtilə</w>
 <w><ana lex="xəzdugi" gr="V,ptcp.res,cop.pst,3,sg,f.s" trans_en="to hurt, injure; to get hurt" trans_ru="повредить, получать повреждение"></ana>xuzdigtivə</w>
 <w><ana lex="xuzdəgə" gr="N,pl,nonposs" trans_en="harm" trans_ru="вред"></ana>xuzdəgi</w>
-<w><ana lex="xuş" gr="PART" trans_en="let" trans_ru="пусть, пускай; побудительная частица"></ana>xuş-</w>
+<w><ana lex="xuş" gr="PART" trans_en="let" trans_ru="пусть, пускай; побудительная частица"></ana><ana lex="zələ/rixşə" gr="V,imp,sg" trans_en="to go" trans_ru="идти"></ana>xuş-</w>
 <w><ana lex="xəşkuni" gr="V,ptcp.res,pl" trans_en="to dusk, to grow dark" trans_ru="смеркаться, темнеть"></ana>xuşkini</w>
 <w><ana lex="xəşkuni" gr="V,ptcp.res,sg,f" trans_en="to dusk, to grow dark" trans_ru="смеркаться, темнеть"></ana>xuşkintə</w>
 <w><ana lex="xəşxuşi" gr="V,pst,3,pl,non_obj" trans_en="to rustle, rattle" trans_ru="шуметь"></ana>xuşxişlun</w>
@@ -18484,6 +18596,7 @@
 <w><ana lex="zigə" gr="N,sg,p.3,p.sg,p.f" trans_en="bell" trans_ru="колокол, колокольчик"></ana>zigo</w>
 <w><ana lex="zjərə" gr="V,ptcp.res,cop.pst,3,pl,3.o,pl.o" trans_en="to swell" trans_ru="пухнуть"></ana><ana lex="zjərə" gr="V,ptcp.res,cop.pst,3,sg,m.s,3.o,pl.o" trans_en="to swell" trans_ru="пухнуть"></ana>zijrevə</w>
 <w><ana lex="zjərə" gr="V,ptcp.res,cop.prs,3,pl,non_obj" trans_en="to swell" trans_ru="пухнуть"></ana>zijrinə</w>
+<w><ana lex="zələ/rixşə" gr="V,pst,1,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>zillən</w>
 <w><ana lex="zirəng/zirrəng/zirəg/zirrəg" gr="ADJ,m,sg,p.3,p.sg,p.m" trans_en="reasonable" trans_ru="разумный"></ana>zirrəngu</w>
 <w><ana lex="zirəgutə/zirrəgutə/zirəngutə/zirrəngutə" gr="N,sg,nonposs" trans_en="agility, liveliness" trans_ru="прытость, живость, бодрость"></ana>zirrəngutə</w>
 <w><ana lex="zjərə" gr="V,ptcp.res,cop.prs,3,sg,f.s,non_obj" trans_en="to swell" trans_ru="пухнуть"></ana>zirtilə</w>
@@ -19488,6 +19601,12 @@
 <w><ana lex="əxməqutə/əhməqutə" gr="N,f,sg,p.3,p.sg,p.m" trans_en="nonsense, stupidity" trans_ru="глупость, вздор, дурь"></ana>əxməqutu</w>
 <w><ana lex="əxunə" gr="N,m,pl,p.2,p.sg,p.m" trans_en="brother" trans_ru="брат"></ana>əxunvətux</w>
 <w><ana lex="əxunə" gr="N,m,sg,p.2,p.sg,p.f" trans_en="brother" trans_ru="брат"></ana>əxunəx</w>
+<w><ana lex="zələ/rixşə" gr="V,prs,3,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>əzij-</w>
+<w><ana lex="zələ/rixşə" gr="V,ipf,3,pl,3.o,m.o,sg.o" trans_en="to go" trans_ru="идти"></ana>əzijvəli</w>
+<w><ana lex="zələ/rixşə" gr="V,prs,3,sg,m.s,3.o,f.o,sg.o" trans_en="to go" trans_ru="идти"></ana>əzillə</w>
+<w><ana lex="zələ/rixşə" gr="V,prs,1,sg,m.s,3.o,f.o,sg.o" trans_en="to go" trans_ru="идти"></ana>əzinnə</w>
+<w><ana lex="zələ/rixşə" gr="V,prs,2,sg,m.s,3.o,f.o,sg.o" trans_en="to go" trans_ru="идти"></ana>əzitlə</w>
+<w><ana lex="zələ/rixşə" gr="V,ipf,1,sg,f.s,non_obj" trans_en="to go" trans_ru="идти"></ana>əzənvə</w>
 <w><ana lex="əşq" gr="N,f,sg,p.3,p.sg,p.m" trans_en="rage, passion" trans_ru="страсть, ярость"></ana>əşqu-</w>
 <w><ana lex="əşqənə" gr="ADJ,pl,nonposs" trans_en="passionate, violent, strong" trans_ru="cтрастный, неистовый, сильный"></ana>əşqəni</w>
 <w><ana lex="əşqənə" gr="ADJ,m,sg,nonposs" trans_en="passionate, violent, strong" trans_ru="cтрастный, неистовый, сильный"></ana>əşqənə</w>
@@ -19923,7 +20042,6 @@
 <w><ana lex="вirvənə" gr="N,m,sg,p.3,p.pl" trans_en="apron, pinafore" trans_ru="фартук, сарафан"></ana>вirvəne</w>
 <w><ana lex="rxəmə" gr="V,prog,cop.prs,3,sg,m.s,non_obj" trans_en="to regret" trans_ru="жалеть"></ana>вirxəmili</w>
 <w><ana lex="rxəqə" gr="V,prog,cop.prs,3,sg,m.s,non_obj" trans_en="to avoid" trans_ru="избегать"></ana>вirxəqili</w>
-<w><ana lex="rixşə" gr="V,prog,sg,m" trans_en="to go" trans_ru="идти"></ana>вirxəşə</w>
 <w><ana lex="sjəvə" gr="V,prog,cop.prs,2,sg,m.s,non_obj" trans_en="to age" trans_ru="стареть"></ana>вisjəvivit</w>
 <w><ana lex="sjəvə" gr="V,prog,sg,m" trans_en="to age" trans_ru="стареть"></ana>вisjəvə</w>
 <w><ana lex="вiskə" gr="N,m,sg,p.3,p.pl" trans_en="lock, curls" trans_ru="локон, кудри"></ana>вiske</w>
@@ -20119,6 +20237,15 @@
 <w><ana lex="zvəjə" gr="V,prog,cop.prs,3,sg,f.s,non_obj" trans_en="to swell" trans_ru="пухнуть"></ana>вizvəjilə</w>
 <w><ana lex="zvənə" gr="V,prog,cop.prs,1,pl,non_obj" trans_en="to buy" trans_ru="покупать"></ana>вizvənivəx</w>
 <w><ana lex="вizzə" gr="N,m,sg,p.3,p.sg,p.f" trans_en="breast" trans_ru="грудь"></ana>вizzo</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,3,sg,f.s,3.o,pl.o" trans_en="to go" trans_ru="идти"></ana>вizəlelə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,3,pl,3.o,pl.o" trans_en="to go" trans_ru="идти"></ana>вizəlenə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,2,pl,3.o,pl.o" trans_en="to go" trans_ru="идти"></ana>вizəletun</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,1,sg,m.s,3.o,pl.o" trans_en="to go" trans_ru="идти"></ana>вizəlevin</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,pl" trans_en="to go" trans_ru="идти"></ana>вizəli</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,2,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>вizəlitun</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.pst,1,pl,non_obj" trans_en="to go" trans_ru="идти"></ana>вizəlivəxvə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.pst,3,pl,3.o,f.o,sg.o" trans_en="to go" trans_ru="идти"></ana><ana lex="zələ/rixşə" gr="V,prog,cop.pst,3,sg,3.o,f.o,sg.o" trans_en="to go" trans_ru="идти"></ana>вizəlovə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,2,sg,m.s,non_obj" trans_en="to go" trans_ru="идти"></ana>вizəlvit</w>
 <w><ana lex="çrəpə" gr="V,prog,cop.pst,1,sg,f.s,3.o,pl.o" trans_en="" trans_ru="скользить"></ana>вiçrəpevənvə</w>
 <w><ana lex="çrəpə" gr="V,prog,cop.prs,3,sg,f.s,non_obj" trans_en="" trans_ru="скользить"></ana>вiçrəpilə</w>
 <w><ana lex="çrəpə" gr="V,prog,cop.prs,3,pl,non_obj" trans_en="" trans_ru="скользить"></ana>вiçrəpinə</w>
@@ -20227,6 +20354,15 @@
 <w><ana lex="вrijzə" gr="ADJ,m,sg,cop.prs,p.1,p.pl" trans_en="dried, dry" trans_ru="сухой (старик)"></ana><ana lex="вrəzə" gr="V,ptcp.res,cop.prs,1,pl,non_obj" trans_en="to dry, to dry up" trans_ru="высыхать; остолбенеть, застыть, обмереть"></ana>вrijzivəx</w>
 <w><ana lex="вriliant" gr="N,sg,nonposs" trans_en="a brilliant" trans_ru="бриллиант"></ana>вriliant</w>
 <w><ana lex="вrəjə" gr="V,ptcp.res,cop.pst,3,sg,f.s,non_obj" trans_en="to happen, to occur" trans_ru="происходить, случаться"></ana>вritivə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,3,sg,f.s,3.o,pl.o" trans_en="to go" trans_ru="идти"></ana>вrixşelə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,3,pl,3.o,pl.o" trans_en="to go" trans_ru="идти"></ana>вrixşenə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,2,sg,m.s,3.o,pl.o" trans_en="to go" trans_ru="идти"></ana>вrixşevit</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,pl" trans_en="to go" trans_ru="идти"></ana>вrixşi-</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,3,sg,f.s,non_obj" trans_en="to go" trans_ru="идти"></ana>вrixşilə-</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.pst,3,pl,1.o,sg.o" trans_en="to go" trans_ru="идти"></ana><ana lex="zələ/rixşə" gr="V,prog,cop.pst,3,sg,1.o,sg.o" trans_en="to go" trans_ru="идти"></ana>вrixşinvə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.prs,1,sg,f.s,non_obj" trans_en="to go" trans_ru="идти"></ana>вrixşivən</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.pst,1,sg,f.s,non_obj" trans_en="to go" trans_ru="идти"></ana>вrixşivənvə</w>
+<w><ana lex="zələ/rixşə" gr="V,prog,cop.pst,3,pl,3.o,f.o,sg.o" trans_en="to go" trans_ru="идти"></ana><ana lex="zələ/rixşə" gr="V,prog,cop.pst,3,sg,3.o,f.o,sg.o" trans_en="to go" trans_ru="идти"></ana>вrixşəvə</w>
 <w><ana lex="вrəzə" gr="V,pst,1,pl,non_obj" trans_en="to dry, to dry up" trans_ru="высыхать; остолбенеть, застыть, обмереть"></ana>вrizlən</w>
 <w><ana lex="вrəzə" gr="V,ptcp.res,cop.pst,3,sg,f.s,non_obj" trans_en="to dry, to dry up" trans_ru="высыхать; остолбенеть, застыть, обмереть"></ana>вriztivə</w>
 <w><ana lex="вrəzə" gr="V,ptcp.res,sg,f" trans_en="to dry, to dry up" trans_ru="высыхать; остолбенеть, застыть, обмереть"></ana>вriztə-</w>

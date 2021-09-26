@@ -18,7 +18,6 @@ kullə
 lelə
 dijən
 itvə
-xişli
 вuqьrrь
 dijij
 вəhə
@@ -55,7 +54,6 @@ pələxi
 qьvrax
 litvə
 qəməjə
-вrixşivə
 vьrrun
 dьrrь
 qьţţa
@@ -75,14 +73,11 @@ qirila
 tilun
 celqaş
 ţura
-xişlun
 pugacov
 şqilli
-xişlə
 вivədə
 a
 vladimir
-əzəx
 ivan
 keti
 lgo
@@ -108,7 +103,6 @@ tuxminni
 məhlum
 vidli
 əti
-əzil
 levit
 jaşqa
 stansa
@@ -120,7 +114,6 @@ ruppьlь
 ƶilin
 ətjə
 semjon
-əzin
 вimərə
 məвjuni
 əsmər
@@ -150,7 +143,6 @@ omər-вəg
 ş
 i
 вajjь
-вrixşə
 вuqьrra
 qəməji
 zaruвa
@@ -159,7 +151,6 @@ sippətu
 5
 səvelic
 muвjinnə
-xişlij
 odij
 2
 aşxen
@@ -188,9 +179,7 @@ gikor
 mudijli
 вajjьt
 çurri-çurri
-əzij
 xu
-əzilvə
 grenlandia
 tənetə
 ətij
@@ -219,7 +208,6 @@ dunə
 itlə
 qurвinnə
 vidlun
-вrixşili
 rigəvəti
 вьlь
 şaman
@@ -292,7 +280,6 @@ varja
 məxzuji
 pjəşivə
 ruppalь
-əzə
 вuqьrrьj
 mar
 mudijlə
@@ -311,7 +298,6 @@ jaddьn
 siвir
 vijdə
 litvəli
-si
 вajjьn
 gurşud
 işajqa
@@ -338,9 +324,7 @@ livədə
 matrjona
 siqli
 varta
-xişlən
 вaqteriji
-вrixşinə
 ьta
 litli
 mumu
@@ -353,7 +337,6 @@ həj
 ispravniq
 miko
 pavel
-xəşə
 ətjəvə
 kilometri
 mamont
@@ -368,7 +351,6 @@ dvəqtə
 həmmuni
 lodka
 mar-
-əzit
 вəsijmi
 dəjqi
 levəx
@@ -443,7 +425,6 @@ spajva
 zurin
 çuviвlij
 şьşlь
-вrixşilə
 вəsimtə
 odə
 pitji
@@ -454,7 +435,6 @@ tajon
 vədə
 xəqləni
 şoqə
-вizəlivə
 6
 miller
 mujilə
@@ -488,7 +468,6 @@ odit
 peterвurg
 qəmxə
 vagunь
-zilli
 вivədinə
 andrej
 at
@@ -534,7 +513,6 @@ vagun
 çəndəg
 şixtə
 şəsqij
-əzinvə
 вirrəqə
 dunja
 garвjaja
@@ -567,7 +545,6 @@ dostuta
 guptə
 metri
 savda
-xijşivə
 xьrşь
 30
 degə
@@ -603,7 +580,6 @@ qapьtan
 qunçijəti
 vьjra
 çmeta
-əzijvə
 вajjьnva
 alulta
 curcirrə
@@ -782,7 +758,6 @@ zoвar
 şirin
 şqijlə
 əmuqutə
-əzəvə
 вaвьlla
 вjumə
 вnoşe
@@ -818,7 +793,6 @@ turgenev
 uçвa
 vudun
 vьrta
-xijşə
 zarвana
 çurrət
 çvələ
@@ -903,7 +877,6 @@ tif
 urus
 uçьвlь
 vьrtьva
-xijşili
 xizjo
 xnamьjь
 xəccinə
@@ -1018,7 +991,6 @@ xьllun
 вalto
 вarь
 вixəjə
-вizələ
 вxdə
 вəruztə
 вəzə
@@ -1087,7 +1059,6 @@ zurna
 вaţьjlь
 вesodə
 вivədovə
-вrixşivəx
 вrəqələ
 вьvarьna
 13
@@ -1140,7 +1111,6 @@ vijdeli
 vьjrьlь
 xa
 xjetə
-xuşun
 xzьjran
 xəşkuni
 zaxaric
@@ -1153,10 +1123,8 @@ zaxaric
 вjəvivə
 вkərвə
 вqələ
-вrixşevə
 вьşşaşьva
 ьcca
--xişli
 16
 aвьj
 calhan
@@ -1228,7 +1196,6 @@ xurşud-вəg
 вarвurь
 вirrəqivə
 вistə
-вrixşivit
 вərijə
 -macini
 -əqli
@@ -1331,10 +1298,8 @@ xməto
 вisjəqivə
 вivədilə
 вixxəjə
-вizəlevə
 вjəvə
 вohomolov
-вrixşivin
 вrьhada
 вxarta
 вşimmə
@@ -1428,7 +1393,6 @@ tвilisi
 vera
 vijdili
 vьjrьna
-xiştilə
 xumjəli
 zaxar
 zəvə
@@ -1550,7 +1514,6 @@ zungirri
 şarax
 şəqlin
 əndrej
-əzəxvə
 вerəhmi
 вetenij
 вgənux
@@ -1693,7 +1656,6 @@ zurdinni
 вleləvəti
 вlişənə
 вnoşo
-вrixşə-
 вərdə
 вəsu
 вьdqara
@@ -1787,7 +1749,6 @@ rəqtə
 rьjxь
 rьxlun
 sanqa
-simun
 sipvəto
 sjarta
 spirri
@@ -1803,7 +1764,6 @@ uввu
 verigin
 vetu
 vur
-xijşi
 xoraj
 xurxьccelь
 xurxьrrь
@@ -2005,7 +1965,6 @@ xvьrrь
 xəccivə
 xəjjit
 zani
-zillun
 zjurqdələ
 zmirri
 zər
@@ -2030,7 +1989,6 @@ zəxmə
 əmuqəit
 əndrijus
 ərmenijə
-əzitun
 вajat
 вalвusь
 вalвьsanь
@@ -2209,9 +2167,7 @@ varьjdь
 vijdələ
 viləlun
 xallalta
-xijşinə
 xirri
-xiştə
 xlьjse
 xoşiвə
 xristiansen
@@ -2280,7 +2236,6 @@ zoni
 -oxь
 -qəsid
 -surə
--əzil
 21
 22
 29
@@ -2551,7 +2506,6 @@ xəmşəmmə
 -pəlgi
 -tilun
 -ş
--вrixşivə
 1930
 48
 ajqiga
@@ -2781,7 +2735,6 @@ xaluvatьj
 xarxacta
 xinnə
 xiv
-xiştivə
 xlьjsolь
 xoşəвə
 xuввəni
@@ -2830,7 +2783,6 @@ zozuji
 ərqin
 ətəx
 əxtoxun
-əzitvə
 вarat
 вeq
 вering
@@ -2847,8 +2799,6 @@ zozuji
 вotulь
 вqejrət
 вrasьppa
-вrixşivinvə
-вrixşivəxvə
 вrьxta
 вuhaz
 вulqa
@@ -2864,10 +2814,7 @@ zozuji
 -hə
 -ndəjə
 -tilə
--xişlə
--xəşə
 -zulxar
--вrixşinə
 1913
 1918
 26
@@ -3334,7 +3281,6 @@ zərduni
 -panpulь
 -tə
 -va
--xişlun
 -zdaja
 -вalla
 0
@@ -3804,7 +3750,6 @@ xəlijji
 xəno
 xərəçtə
 xəznə
-xəşə-
 xəşə-xəşə
 xəƶвəntə
 xьrşьna
@@ -3879,7 +3824,6 @@ zəmzəmtə
 ətinvət
 əvidvələ
 əvin
-əzət
 ʙitəjili
 ʙu-
 вadьqвal
@@ -3912,7 +3856,6 @@ zəmzəmtə
 вixnəqo
 вixşəvin
 вizzi
-вizəlili
 вişqəlenə
 вişqəlovə
 вişqəlunə
@@ -3966,8 +3909,6 @@ zəmzəmtə
 -suri
 -xərвəştə
 -şəpşupi
--əzə
--вrixşili
 -вtre
 1762
 1881
@@ -4607,7 +4548,6 @@ xijinə
 xilun
 xizjinə
 xizвunə
-xişli-
 xlusla
 xlьjsalun
 xlьjsu
@@ -4641,7 +4581,6 @@ zadujь
 zarra
 zaxmə
 zedij
-zillə
 zlamta
 zlijqe
 zlьjma
@@ -4853,9 +4792,7 @@ zьrçam
 -quxi
 -rişəxtə
 -rus
--si
 -vьrra
--xijşivə
 -şippo
 -ţuj
 -вaşь
@@ -5860,7 +5797,6 @@ zapas
 zapeqanqa
 zarвanta
 zidli
-zillij
 ziвli
 zjurə
 zl
@@ -6079,9 +6015,6 @@ zəвţəntə
 вixala
 вixrəze
 вizməro
-вizəlinə
-вizəlivit
-вizəlivəx
 вiçnəvə
 вiş
 вişqəluli
@@ -6195,20 +6128,15 @@ zəвţəntə
 -vьr
 -vьrrь
 -xan
--xijşili
--xijşinə
 -xurвişşi
 -xərzupi
 -şivə
 -şummun
 -şьmmun
 -əlpi
--əzəx
 -ʙu
 -вallь
 -вinni
--вrixşilə
--вrixşə
 -вəçu
 -вəçвuçi
 -вьjaвanь
@@ -7853,10 +7781,6 @@ xelmə
 xeţansolь
 xidji-xidji
 xijjivə
-xijşevə
-xijşitun
-xijşivit
-xijşivəx
 xilmətkar
 ximqovi
 ximun
@@ -7971,7 +7895,6 @@ zuвinnij
 zvinnij
 zxəştə
 zədəpə
-zələ
 zərijji
 zərzəmij
 zəвinni
@@ -8307,9 +8230,6 @@ zьrxь
 вixəjivit
 вizmərix
 вizrəzə
-вizəlilə
-вizəlivin
-вizəlivinvə
 вişqəleli
 вişvəqən
 вiţ
@@ -8338,8 +8258,6 @@ zьrxь
 вqərвəntə
 вrigədir
 вrimə
-вrixşevin
-вrixşitun
 вrixşlvə
 вrod
 вroneviqi
@@ -8550,7 +8468,6 @@ zьrxь
 -vьrre
 -xalsu
 -xaluvьj
--xijşə
 -xurвiştə
 -xurвişşə
 -xəmmi
@@ -8575,8 +8492,6 @@ zьrxь
 -ţaujь
 -ətij
 -ətjəni
--əzij
--əzit
 -вag
 -вarвurь
 -вasili
@@ -12312,10 +12227,6 @@ xihi
 xijeli
 xijjevin
 xijjivin
-xijşeli
-xijşinvinvə
-xijşivin
-xijşə-
 xiltu
 xilə
 ximijəji
@@ -13054,8 +12965,6 @@ zьrxь-zьrxь
 əxclj
 əxnən-
 əziivə
-əzijvəlun
-əzitunvə
 əzəni-ətjəni
 əşkərelə
 əşkərilə
@@ -13348,7 +13257,6 @@ zьrxь-zьrxь
 вixəjili
 вixəjilə
 вixəjitun
-вixəşə
 вizqareva
 вiçləqivə
 вiçmajьna
@@ -13458,10 +13366,8 @@ zьrxь-zьrxь
 вrisini
 вritij
 вrix-
-вrixşevinvə
 вrixşex
 вrixşitvə
-вrixşovə
 вrixşə-вitəjili
 вrizvəli
 вronenostsь
@@ -14346,9 +14252,6 @@ zьrxь-zьrxь
 -xini
 -xinqu
 -xis
--xişlij
--xişlən
--xiştə
 -xişşelə
 -xiвənə
 -xo
@@ -14479,8 +14382,6 @@ zьrxь-zьrxь
 -əkвər
 -ələhəji
 -ərpuli
--əzijvə
--əzənvə
 -əəh
 -ʙ
 -ʙrixşinə
@@ -14530,7 +14431,6 @@ zьrxь-zьrxь
 -вoru
 -вraun
 -вrihədir
--вrixşitun
 -вrixşlvəx
 -вrişə
 -вrəqəli
@@ -32588,20 +32488,13 @@ xijtivən
 xijuvin
 xijşe
 xijşelun
-xijşevitvə
 xijşine
-xijşitunvə
 xijşitvə
 xijşiva
-xijşivinvə
 xijşivinə
-xijşivitvə
-xijşivəxvə
 xijşix
-xijşovə
 xijşə-lə
 xijşə-tijili
-xijşəli
 xijə
 xil-
 xil-mət
@@ -32699,15 +32592,10 @@ xişli-npilli
 xişli-tilj
 xişli-xişli
 xişli-ţmьrrь
-xişlij-
 xişlij-xə
 xişlilə
-xişlux
-xişləx
 xişso
 xişsəntə
-xiştinvə
-xiştivənvə
 xişşə-xişşelə
 xişşələ
 xişşənutə
@@ -33643,7 +33531,6 @@ zijri-zumpьrrьna
 zilikki
 zilin
 zill
-zillən
 zimin
 zimlən
 zimləqiji
@@ -36297,18 +36184,12 @@ zьrçəm
 əza
 əzcij
 əzex
-əzij-
 əzij-ətij
 əziji
 əzijtunlə
-əzijvəli
 əzijвəni
-əzillə
 əzini
-əzinnə
-əzitlə
 əzjət
-əzənvə
 əçəle
 əşkərili
 əşqu-xuввu
@@ -37363,6 +37244,7 @@ zьrçəm
 вirxaţьva
 вirxşili
 вirxəqlvə
+вirxəşə
 вirzinə
 вirşama
 вirəqenə
@@ -37609,18 +37491,9 @@ zьrçəm
 вizxəşivit
 вizxəşə
 вizəjilə
-вizəlelə
-вizəlenə
-вizəletun
-вizəlevin
-вizəli
-вizəlitun
 вizəlivəxl
-вizəlivəxvə
 вizəllelə
 вizəllvəx
-вizəlovə
-вizəlvit
 вiç-
 вiç-nəvə
 вiçləqə
@@ -38111,24 +37984,15 @@ zьrçəm
 вrixsenə
 вrixsivit
 вrixtə
-вrixşelə
-вrixşenə
-вrixşevit
 вrixşeвit
-вrixşi-
 вrixşi-vət
 вrixşijvən
-вrixşilə-
 вrixşilə-вrixşilə
 вrixşin
-вrixşinvə
 вrixşiva
-вrixşivən
-вrixşivənvə
 вrixşivəxva
 вrixşix
 вrixşə-вitəjə
-вrixşəvə
 вrixşəвitəjə
 вrizlum
 вriztə-piştivə
